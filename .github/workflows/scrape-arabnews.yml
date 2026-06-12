@@ -37,6 +37,9 @@ jobs:
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
 
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Scrape
         run: npm run scrape
         env:
@@ -46,6 +49,7 @@ jobs:
           ARCHIVE_ITEMS: "true"
           SAVE_ARTICLE_HTML: "false"
           SAVE_VIDEO_FILES: "true"
+          FFMPEG_PATH: /usr/bin/ffmpeg
           MAX_VIDEO_BYTES: "95000000"
           SAVE_PAGE_ARTIFACTS: ${{ inputs.save_artifacts || 'false' }}
           PLAYWRIGHT_PROXY_SERVER: ${{ secrets.PLAYWRIGHT_PROXY_SERVER }}

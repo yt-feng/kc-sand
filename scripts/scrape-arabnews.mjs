@@ -289,7 +289,8 @@ async function downloadHlsVideo(videoUrl, filePath) {
     url: videoUrl,
     contentType: "application/vnd.apple.mpegurl",
     bytes,
-    method: "ffmpeg-hls"
+    method: "ffmpeg-hls",
+    ffmpeg
   };
 }
 
@@ -317,6 +318,25 @@ async function downloadVideoFile(context, videoUrls, filePath) {
     reason: errors.length > 0 ? "No candidate video URL could be downloaded." : "No candidate video URL found.",
     errors
   };
+}
+
+async function writeVideoDownloadDebug(result) {
+  const videoResults = result.results?.filter((item) => item.group === "videos") || [];
+  await mkdir(artifactDir, { recursive: true });
+  await writeFile(
+    path.join(artifactDir, "video-downloads.json"),
+    `${JSON.stringify(
+      videoResults.map((item) => ({
+        title: item.title,
+        url: item.url,
+        directory: item.directory,
+        videoUrls: item.videoUrls,
+        video: item.video
+      })),
+      null,
+      2
+    )}\n`
+  );
 }
 
 async function saveDebug(page, name, details) {
@@ -634,6 +654,8 @@ async function archiveLatestItemsToRepo(context, output) {
       ""
     ].join("\n")
   );
+
+  await writeVideoDownloadDebug(summary);
 
   return summary;
 }

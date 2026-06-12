@@ -5,13 +5,15 @@ Small GitHub Actions scraper for Arab News:
 - `https://www.arabnews.com/videos`: latest 3 video items
 - `https://www.arabnews.com/`: current homepage `Top Headlines`
 
-The scraper uses Playwright instead of `curl`/`fetch` because Arab News currently returns a Cloudflare challenge to simple HTTP clients. If GitHub-hosted runners are challenged too, set these repository secrets and rerun the workflow:
+The scraper uses Playwright instead of `curl`/`fetch` because Arab News can return a Cloudflare challenge to simple HTTP clients. The scheduled workflow runs on the `kc-sand-arabnews-vps` self-hosted runner with labels `kc-sand` and `arabnews-fixed-ip`; this reuses the same fixed-IP VPS approach used for WeChat draft uploads in `rpt_edit`, but with a separate runner registration and work directory.
+
+If you move the workflow back to GitHub-hosted runners and they are challenged, set these repository secrets and rerun the workflow:
 
 - `PLAYWRIGHT_PROXY_SERVER`, for example `http://host:port`
 - `PLAYWRIGHT_PROXY_USERNAME`, optional
 - `PLAYWRIGHT_PROXY_PASSWORD`, optional
 
-As of 2026-06-12, both local direct access and a GitHub-hosted runner returned a `403` Cloudflare challenge without a proxy. The workflow uploads the challenged HTML and screenshot as debug artifacts instead of committing empty data.
+As of 2026-06-12, a GitHub-hosted runner returned a `403` Cloudflare challenge without a proxy, while the fixed-IP VPS returned the real Arab News HTML. The workflow uploads challenged HTML and screenshots as debug artifacts instead of committing empty data.
 
 ## Local Debug
 
@@ -34,6 +36,8 @@ Outputs are written to:
 The workflow is `.github/workflows/scrape-arabnews.yml`.
 
 It runs every 30 minutes and can also be started manually from the Actions tab. Successful runs commit updated `data/latest.json` and `data/latest.md` back to the repository.
+
+The runner is expected to have FFmpeg and Chromium system libraries installed by the VPS owner/root user. The workflow itself installs Node dependencies and the Playwright Chromium browser, but it does not call `sudo apt-get` because the self-hosted runner user is intentionally not passwordless sudo.
 
 Successful runs also commit page snapshots under `archive/latest/`. Each item folder contains:
 

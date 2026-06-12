@@ -2,6 +2,11 @@ name: Scrape Arab News
 
 on:
   workflow_dispatch:
+    inputs:
+      save_artifacts:
+        description: "Upload page HTML/screenshots even when scraping succeeds"
+        required: false
+        default: "false"
   schedule:
     - cron: "*/30 * * * *"
 
@@ -38,6 +43,7 @@ jobs:
           TIME_ZONE: Asia/Riyadh
           VIDEO_LIMIT: "3"
           EXTRA_WAIT_MS: "8000"
+          SAVE_PAGE_ARTIFACTS: ${{ inputs.save_artifacts || 'false' }}
           PLAYWRIGHT_PROXY_SERVER: ${{ secrets.PLAYWRIGHT_PROXY_SERVER }}
           PLAYWRIGHT_PROXY_USERNAME: ${{ secrets.PLAYWRIGHT_PROXY_USERNAME }}
           PLAYWRIGHT_PROXY_PASSWORD: ${{ secrets.PLAYWRIGHT_PROXY_PASSWORD }}

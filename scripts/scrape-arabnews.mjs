@@ -24,6 +24,8 @@ const timeZone = process.env.TIME_ZONE || "Asia/Riyadh";
 const videoLimit = Number(process.env.VIDEO_LIMIT || 3);
 const extraWaitMs = Number(process.env.EXTRA_WAIT_MS || 8000);
 const allowEmpty = process.env.ALLOW_EMPTY === "1" || process.env.ALLOW_EMPTY === "true";
+const savePageArtifacts =
+  process.env.SAVE_PAGE_ARTIFACTS === "1" || process.env.SAVE_PAGE_ARTIFACTS === "true";
 
 function todayIsoInTimeZone(date = new Date()) {
   return new Intl.DateTimeFormat("en-CA", {
@@ -101,7 +103,7 @@ async function gotoAndExtract(context, { url, mode, limit }) {
       itemCount: extracted.items.length
     };
 
-    if (challengeDetected || extracted.items.length === 0 || responseStatus >= 400) {
+    if (savePageArtifacts || challengeDetected || extracted.items.length === 0 || responseStatus >= 400) {
       await saveDebug(page, `arabnews-${mode}`, details);
     }
 

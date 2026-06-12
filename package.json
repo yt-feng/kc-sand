@@ -1,0 +1,16 @@
+{
+  "name": "kc-sand",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-arabnews.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

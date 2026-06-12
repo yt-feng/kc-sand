@@ -1,0 +1,61 @@
+name: Scrape Arab News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape
+        run: npm run scrape
+        env:
+          TIME_ZONE: Asia/Riyadh
+          VIDEO_LIMIT: "3"
+          EXTRA_WAIT_MS: "8000"
+          PLAYWRIGHT_PROXY_SERVER: ${{ secrets.PLAYWRIGHT_PROXY_SERVER }}
+          PLAYWRIGHT_PROXY_USERNAME: ${{ secrets.PLAYWRIGHT_PROXY_USERNAME }}
+          PLAYWRIGHT_PROXY_PASSWORD: ${{ secrets.PLAYWRIGHT_PROXY_PASSWORD }}
+
+      - name: Upload debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: arabnews-debug
+          path: artifacts/
+          if-no-files-found: ignore
+
+      - name: Commit scraped data
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/latest.md
+          if git diff --cached --quiet; then
+            echo "No scraped data changes."
+          else
+            git commit -m "Update Arab News scrape"
+            git push
+          fi

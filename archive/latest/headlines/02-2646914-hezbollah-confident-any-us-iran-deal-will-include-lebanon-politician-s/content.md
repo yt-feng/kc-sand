@@ -16,6 +16,7 @@ BEIRUT: Hezbollah is confident that ‌Iran will insist on Lebanon being include
 
 ## Video Or Embed URLs
 
+- https://7ad2838ea001858c401e7a041df74fc3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

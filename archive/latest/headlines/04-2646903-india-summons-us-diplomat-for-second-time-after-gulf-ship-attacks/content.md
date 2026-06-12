@@ -16,7 +16,6 @@ NEW DELHI: India summoned a senior US diplomat on Friday for a second time in tw
 
 ## Video Or Embed URLs
 
-- https://f530b9fcd53eadf18bf1403dd5a6c16a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

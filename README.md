@@ -25,6 +25,7 @@ Outputs are written to:
 
 - `data/latest.json`
 - `data/latest.md`
+- `archive/latest/`, with one folder per captured video/headline page
 - `artifacts/` when a page is challenged, empty, or otherwise suspicious
 
 ## GitHub Actions
@@ -32,6 +33,15 @@ Outputs are written to:
 The workflow is `.github/workflows/scrape-arabnews.yml`.
 
 It runs every 30 minutes and can also be started manually from the Actions tab. Successful runs commit updated `data/latest.json` and `data/latest.md` back to the repository.
+
+Successful runs also commit page snapshots under `archive/latest/`. Each item folder contains:
+
+- `metadata.json`
+- `content.md`
+- `page-text.txt`
+- downloaded `image.*` when a main image is available
+
+Raw video binaries are not committed by default. Video/embed URLs discovered on article pages are recorded in metadata and Markdown; use Git LFS before committing large media files.
 
 ## Notes
 

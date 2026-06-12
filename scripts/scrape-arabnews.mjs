@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { chromium } from "playwright";
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
@@ -20,12 +20,16 @@ const SOURCE_URLS = {
 
 const outputDir = path.resolve(repoRoot, process.env.OUTPUT_DIR || "data");
 const artifactDir = path.resolve(repoRoot, process.env.ARTIFACT_DIR || "artifacts");
+const archiveDir = path.resolve(repoRoot, process.env.ARCHIVE_DIR || "archive/latest");
 const timeZone = process.env.TIME_ZONE || "Asia/Riyadh";
 const videoLimit = Number(process.env.VIDEO_LIMIT || 3);
 const extraWaitMs = Number(process.env.EXTRA_WAIT_MS || 8000);
 const allowEmpty = process.env.ALLOW_EMPTY === "1" || process.env.ALLOW_EMPTY === "true";
 const savePageArtifacts =
   process.env.SAVE_PAGE_ARTIFACTS === "1" || process.env.SAVE_PAGE_ARTIFACTS === "true";
+const archiveItems = process.env.ARCHIVE_ITEMS !== "0" && process.env.ARCHIVE_ITEMS !== "false";
+const saveArticleHtml =
+  process.env.SAVE_ARTICLE_HTML === "1" || process.env.SAVE_ARTICLE_HTML === "true";
 
 function todayIsoInTimeZone(date = new Date()) {
   return new Intl.DateTimeFormat("en-CA", {
@@ -50,6 +54,55 @@ function proxyOptions() {
   return options;
 }
 
+function toRelativeRepoPath(filePath) {
+  return path.relative(repoRoot, filePath).replaceAll(path.sep, "/");
+}
+
+function slugify(value) {
+  return String(value || "item")
+    .normalize("NFKD")
+    .toLowerCase()
+    .replace(/['"]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 70);
+}
+
+function itemArchiveName(item, index) {
+  const nodeId = item.url?.match(/\/node\/(\d+)/)?.[1];
+  const prefix = String(index + 1).padStart(2, "0");
+  return [prefix, nodeId, slugify(item.title)].filter(Boolean).join("-");
+}
+
+function escapeMarkdown(value) {
+  return String(value || "").replace(/([\\`*_{}\[\]()#+\-.!|>])/g, "\\$1");
+}
+
+function markdownLink(label, url) {
+  return `[${escapeMarkdown(label)}](${url})`;
+}
+
+function imageExtension(contentType, url) {
+  const type = String(contentType || "").split(";")[0].trim().toLowerCase();
+  const byType = {
+    "image/jpeg": ".jpg",
+    "image/png": ".png",
+    "image/gif": ".gif",
+    "image/webp": ".webp",
+    "image/svg+xml": ".svg"
+  }[type];
+  if (byType) return byType;
+
+  try {
+    const ext = path.extname(new URL(url).pathname).toLowerCase();
+    if (/^\.(jpe?g|png|gif|webp|svg)$/.test(ext)) return ext;
+  } catch {
+    // Use a stable fallback below.
+  }
+
+  return ".jpg";
+}
+
 async function saveDebug(page, name, details) {
   await mkdir(artifactDir, { recursive: true });
   await writeFile(path.join(artifactDir, `${name}.json`), JSON.stringify(details, null, 2));
@@ -65,6 +118,274 @@ async function saveDebug(page, name, details) {
   } catch (error) {
     await writeFile(path.join(artifactDir, `${name}.png.error.txt`), String(error?.stack || error));
   }
+}
+
+function extractArticleSnapshot() {
+  function clean(value) {
+    return String(value || "")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function attr(selector, name) {
+    return document.querySelector(selector)?.getAttribute(name) || "";
+  }
+
+  function absoluteUrl(value) {
+    if (!value) return "";
+    try {
+      const url = new URL(value, document.location.href);
+      url.hash = "";
+      return url.toString();
+    } catch {
+      return "";
+    }
+  }
+
+  const title =
+    clean(document.querySelector("h1")?.innerText) ||
+    clean(attr("meta[property='og:title']", "content")) ||
+    clean(document.title);
+  const description =
+    clean(attr("meta[name='description']", "content")) ||
+    clean(attr("meta[property='og:description']", "content"));
+  const image =
+    absoluteUrl(attr("meta[property='og:image']", "content")) ||
+    absoluteUrl(document.querySelector("article img, main img")?.getAttribute("src"));
+  const published =
+    attr("meta[property='article:published_time']", "content") ||
+    attr("meta[name='pubdate']", "content") ||
+    attr("time[datetime]", "datetime");
+  const modified = attr("meta[property='article:modified_time']", "content");
+  const author =
+    clean(attr("meta[name='author']", "content")) ||
+    clean(document.querySelector("[rel='author'], .author, [class*='author']")?.textContent);
+
+  const contentRoot =
+    document.querySelector("article") ||
+    document.querySelector("main") ||
+    document.querySelector("[class*='article']") ||
+    document.body;
+
+  const paragraphs = [...contentRoot.querySelectorAll("p, li")]
+    .map((element) => clean(element.innerText))
+    .filter((text) => text.length >= 20)
+    .filter((text, index, values) => values.indexOf(text) === index);
+
+  const text = paragraphs.join("\n\n");
+  const videoUrls = [
+    ...document.querySelectorAll("video[src], video source[src], iframe[src], embed[src]")
+  ]
+    .map((element) => absoluteUrl(element.getAttribute("src")))
+    .filter(Boolean)
+    .filter((url, index, values) => values.indexOf(url) === index);
+
+  return {
+    title,
+    description,
+    image,
+    published,
+    modified,
+    author,
+    canonical: absoluteUrl(attr("link[rel='canonical']", "href")) || document.location.href,
+    text,
+    textLength: text.length,
+    videoUrls,
+    pageTitle: document.title,
+    bodyText: clean(document.body?.innerText || "")
+  };
+}
+
+async function downloadImage(context, imageUrl, directory) {
+  if (!imageUrl) return null;
+
+  const response = await context.request.get(imageUrl, {
+    timeout: Number(process.env.IMAGE_TIMEOUT_MS || 30000)
+  });
+  if (!response.ok()) {
+    throw new Error(`Image request failed with ${response.status()}`);
+  }
+
+  const contentType = response.headers()["content-type"] || "";
+  const extension = imageExtension(contentType, imageUrl);
+  const filePath = path.join(directory, `image${extension}`);
+  const body = await response.body();
+  await writeFile(filePath, body);
+
+  return {
+    path: toRelativeRepoPath(filePath),
+    url: imageUrl,
+    contentType,
+    bytes: body.length
+  };
+}
+
+function articleMarkdown({ item, snapshot, imageArchive }) {
+  const lines = [
+    `# ${snapshot.title || item.title}`,
+    "",
+    `Source: ${item.url}`,
+    `Captured source: ${snapshot.canonical || item.url}`
+  ];
+
+  if (snapshot.published) lines.push(`Published: ${snapshot.published}`);
+  if (snapshot.modified) lines.push(`Modified: ${snapshot.modified}`);
+  if (snapshot.author) lines.push(`Author: ${snapshot.author}`);
+  if (snapshot.description) {
+    lines.push("", "## Summary", "", snapshot.description);
+  }
+  if (imageArchive?.path) {
+    lines.push("", "## Image", "", `![main image](./${path.basename(imageArchive.path)})`);
+  } else if (snapshot.image || item.image) {
+    lines.push("", "## Image", "", snapshot.image || item.image);
+  }
+  if (snapshot.videoUrls?.length) {
+    lines.push("", "## Video Or Embed URLs", "");
+    for (const url of snapshot.videoUrls) lines.push(`- ${url}`);
+  }
+
+  lines.push("", "## Text", "", snapshot.text || "_No article body text captured._", "");
+  return lines.join("\n");
+}
+
+async function archiveOneItem(context, group, item, index) {
+  const directory = path.join(archiveDir, group, itemArchiveName(item, index));
+  await mkdir(directory, { recursive: true });
+
+  const page = await context.newPage();
+  const result = {
+    group,
+    index,
+    title: item.title,
+    url: item.url,
+    directory: toRelativeRepoPath(directory),
+    status: "pending"
+  };
+
+  try {
+    const response = await page.goto(item.url, {
+      waitUntil: "domcontentloaded",
+      timeout: Number(process.env.ARTICLE_TIMEOUT_MS || 90000)
+    });
+    await page.waitForLoadState("networkidle", { timeout: 15000 }).catch(() => {});
+    await page.waitForTimeout(Number(process.env.ARTICLE_WAIT_MS || 1500));
+
+    const snapshot = await page.evaluate(extractArticleSnapshot);
+    const bodyText = await page.locator("body").innerText({ timeout: 5000 }).catch(() => "");
+    const pageTitle = await page.title().catch(() => "");
+    const challengeDetected = isCloudflareChallengeText(bodyText, pageTitle) || response?.status() === 403;
+
+    let imageArchive = null;
+    const imageUrl = snapshot.image || item.image;
+    if (imageUrl && !challengeDetected) {
+      try {
+        imageArchive = await downloadImage(context, imageUrl, directory);
+      } catch (error) {
+        result.imageError = String(error?.message || error);
+      }
+    }
+
+    const metadata = {
+      ...item,
+      capturedAt: new Date().toISOString(),
+      responseStatus: response?.status() ?? null,
+      responseUrl: response?.url() || page.url(),
+      challengeDetected,
+      snapshot: {
+        title: snapshot.title,
+        description: snapshot.description,
+        image: snapshot.image,
+        published: snapshot.published,
+        modified: snapshot.modified,
+        author: snapshot.author,
+        canonical: snapshot.canonical,
+        textLength: snapshot.textLength,
+        videoUrls: snapshot.videoUrls,
+        pageTitle: snapshot.pageTitle
+      },
+      files: {
+        metadata: toRelativeRepoPath(path.join(directory, "metadata.json")),
+        content: toRelativeRepoPath(path.join(directory, "content.md")),
+        text: toRelativeRepoPath(path.join(directory, "page-text.txt")),
+        html: saveArticleHtml ? toRelativeRepoPath(path.join(directory, "page.html")) : null,
+        image: imageArchive?.path || null
+      }
+    };
+
+    await writeFile(path.join(directory, "metadata.json"), `${JSON.stringify(metadata, null, 2)}\n`);
+    await writeFile(path.join(directory, "content.md"), articleMarkdown({ item, snapshot, imageArchive }));
+    await writeFile(path.join(directory, "page-text.txt"), `${snapshot.bodyText || snapshot.text || ""}\n`);
+    if (saveArticleHtml) {
+      await writeFile(path.join(directory, "page.html"), await page.content());
+    }
+
+    result.status = challengeDetected ? "challenge" : "ok";
+    result.files = metadata.files;
+    result.videoUrls = snapshot.videoUrls || [];
+    result.image = imageArchive;
+  } catch (error) {
+    result.status = "error";
+    result.error = String(error?.stack || error);
+    await writeFile(path.join(directory, "error.json"), `${JSON.stringify(result, null, 2)}\n`);
+  } finally {
+    await page.close().catch(() => {});
+  }
+
+  item.archive = {
+    directory: result.directory,
+    status: result.status,
+    files: result.files || null
+  };
+
+  return result;
+}
+
+async function archiveLatestItemsToRepo(context, output) {
+  const groups = [
+    ["videos", output.videos],
+    ["headlines", output.headlines.items]
+  ];
+  const results = [];
+
+  await rm(archiveDir, { recursive: true, force: true });
+  await mkdir(archiveDir, { recursive: true });
+
+  for (const [group, items] of groups) {
+    for (const [index, item] of items.entries()) {
+      results.push(await archiveOneItem(context, group, item, index));
+    }
+  }
+
+  const summary = {
+    capturedAt: new Date().toISOString(),
+    directory: toRelativeRepoPath(archiveDir),
+    itemCount: results.length,
+    okCount: results.filter((item) => item.status === "ok").length,
+    challengeCount: results.filter((item) => item.status === "challenge").length,
+    errorCount: results.filter((item) => item.status === "error").length,
+    results
+  };
+
+  await writeFile(path.join(archiveDir, "index.json"), `${JSON.stringify(summary, null, 2)}\n`);
+  await writeFile(
+    path.join(archiveDir, "index.md"),
+    [
+      "# Arab News Archive",
+      "",
+      `Captured at: ${summary.capturedAt}`,
+      `Items: ${summary.itemCount}`,
+      `OK: ${summary.okCount}`,
+      `Challenges: ${summary.challengeCount}`,
+      `Errors: ${summary.errorCount}`,
+      "",
+      ...results.map(
+        (item) => `- ${markdownLink(item.title, item.url)} - ${item.status} - \`${item.directory}/content.md\``
+      ),
+      ""
+    ].join("\n")
+  );
+
+  return summary;
 }
 
 async function gotoAndExtract(context, { url, mode, limit }) {
@@ -180,6 +501,7 @@ function markdownList(items) {
       const parts = [`${index + 1}. [${item.title}](${item.url})`];
       if (item.section) parts.push(`section: ${item.section}`);
       if (item.datePublished) parts.push(`published: ${item.datePublished}`);
+      if (item.archive?.files?.content) parts.push(`archive: ${item.archive.files.content}`);
       return parts.join(" - ");
     })
     .join("\n");
@@ -223,8 +545,6 @@ async function main() {
     })
   ]);
 
-  await browser.close();
-
   const headlineSelection = selectTodayHeadlines(homeResult.items, targetDate);
   const output = {
     fetchedAt,
@@ -253,6 +573,18 @@ async function main() {
       }
     }
   };
+
+  if (archiveItems && output.videos.length >= videoLimit && output.headlines.items.length > 0) {
+    output.archive = await archiveLatestItemsToRepo(context, output);
+  } else {
+    output.archive = {
+      enabled: archiveItems,
+      skipped: true,
+      reason: archiveItems ? "Primary scrape did not capture all required listing items." : "ARCHIVE_ITEMS disabled."
+    };
+  }
+
+  await browser.close();
 
   await writeFile(path.join(outputDir, "latest.json"), `${JSON.stringify(output, null, 2)}\n`);
   await writeFile(
@@ -286,6 +618,12 @@ async function main() {
   if (output.headlines.items.length === 0) {
     failures.push("No homepage Top Headlines were captured.");
   }
+  if (archiveItems && output.archive?.errorCount > 0) {
+    failures.push(`Archive had ${output.archive.errorCount} item errors.`);
+  }
+  if (archiveItems && output.archive?.challengeCount > 0) {
+    failures.push(`Archive had ${output.archive.challengeCount} challenged item pages.`);
+  }
 
   if (failures.length > 0 && !allowEmpty) {
     console.error(failures.join("\n"));
@@ -297,6 +635,9 @@ async function main() {
   console.log(`Wrote ${path.relative(repoRoot, path.join(outputDir, "latest.json"))}`);
   console.log(`Videos: ${output.videos.length}`);
   console.log(`Headlines: ${output.headlines.items.length}`);
+  if (output.archive && !output.archive.skipped) {
+    console.log(`Archived: ${output.archive.okCount}/${output.archive.itemCount}`);
+  }
 }
 
 main().catch((error) => {

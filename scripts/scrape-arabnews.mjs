@@ -23,6 +23,7 @@ const SOURCE_URLS = {
 const outputDir = path.resolve(repoRoot, process.env.OUTPUT_DIR || "data");
 const artifactDir = path.resolve(repoRoot, process.env.ARTIFACT_DIR || "artifacts");
 const archiveDir = path.resolve(repoRoot, process.env.ARCHIVE_DIR || "archive/latest");
+const renderedClipsRoot = path.resolve(repoRoot, process.env.RENDERED_CLIPS_ROOT || "rendered-clips");
 const timeZone = process.env.TIME_ZONE || "Asia/Riyadh";
 const videoLimit = Number(process.env.VIDEO_LIMIT || 3);
 const extraWaitMs = Number(process.env.EXTRA_WAIT_MS || 8000);
@@ -76,6 +77,11 @@ function itemArchiveName(item, index) {
   const nodeId = item.url?.match(/\/node\/(\d+)/)?.[1];
   const prefix = String(index + 1).padStart(2, "0");
   return [prefix, nodeId, slugify(item.title)].filter(Boolean).join("-");
+}
+
+function renderedClipName(item, index) {
+  const prefix = String(index + 1).padStart(2, "0");
+  return `${prefix}_${slugify(item.title)}.mp4`;
 }
 
 function escapeMarkdown(value) {
@@ -208,7 +214,8 @@ async function findFfmpegExecutable() {
         const directory = path.join(root, entry.name);
         const files = await readdir(directory, { recursive: true });
         for (const file of files) {
-          if (path.basename(file) === "ffmpeg" || path.basename(file) === "ffmpeg.exe") {
+          const basename = path.basename(file);
+          if (basename === "ffmpeg" || basename === "ffmpeg.exe" || basename.startsWith("ffmpeg-")) {
             return path.join(directory, file);
           }
         }
@@ -229,7 +236,7 @@ async function maybeRemoveOversizeFile(filePath) {
   throw new Error(`Downloaded video is ${info.size} bytes, above MAX_VIDEO_BYTES=${maxVideoBytes}`);
 }
 
-async function downloadDirectVideo(context, videoUrl, directory) {
+async function downloadDirectVideo(context, videoUrl, filePath) {
   const response = await context.request.get(videoUrl, {
     timeout: Number(process.env.VIDEO_TIMEOUT_MS || 120000)
   });
@@ -241,15 +248,15 @@ async function downloadDirectVideo(context, videoUrl, directory) {
   const extension = videoExtension(contentType, videoUrl);
   if (extension === ".m3u8") return null;
 
-  const filePath = path.join(directory, `video${extension}`);
+  const finalPath = extension === ".mp4" ? filePath : filePath.replace(/\.mp4$/i, extension);
   const body = await response.body();
   if (body.length > maxVideoBytes) {
     throw new Error(`Video is ${body.length} bytes, above MAX_VIDEO_BYTES=${maxVideoBytes}`);
   }
 
-  await writeFile(filePath, body);
+  await writeFile(finalPath, body);
   return {
-    path: toRelativeRepoPath(filePath),
+    path: toRelativeRepoPath(finalPath),
     url: videoUrl,
     contentType,
     bytes: body.length,
@@ -257,8 +264,7 @@ async function downloadDirectVideo(context, videoUrl, directory) {
   };
 }
 
-async function downloadHlsVideo(videoUrl, directory) {
-  const filePath = path.join(directory, "video.mp4");
+async function downloadHlsVideo(videoUrl, filePath) {
   const ffmpeg = await findFfmpegExecutable();
   const timeoutSeconds = Math.ceil(Number(process.env.VIDEO_TIMEOUT_MS || 180000) / 1000);
   await runCommand(ffmpeg, [
@@ -287,15 +293,16 @@ async function downloadHlsVideo(videoUrl, directory) {
   };
 }
 
-async function downloadVideoFile(context, videoUrls, directory) {
+async function downloadVideoFile(context, videoUrls, filePath) {
+  await mkdir(path.dirname(filePath), { recursive: true });
   const errors = [];
   for (const videoUrl of dedupeUrls(videoUrls)) {
     try {
       if (/\.m3u8(\?|$)/i.test(videoUrl)) {
-        return await downloadHlsVideo(videoUrl, directory);
+        return await downloadHlsVideo(videoUrl, filePath);
       }
 
-      const direct = await downloadDirectVideo(context, videoUrl, directory);
+      const direct = await downloadDirectVideo(context, videoUrl, filePath);
       if (direct) return direct;
     } catch (error) {
       errors.push({
@@ -453,7 +460,7 @@ function articleMarkdown({ item, snapshot, imageArchive, videoArchive }) {
     for (const url of snapshot.videoUrls) lines.push(`- ${url}`);
   }
   if (videoArchive?.path) {
-    lines.push("", "## Downloaded Video", "", `- [${path.basename(videoArchive.path)}](./${path.basename(videoArchive.path)})`);
+    lines.push("", "## Downloaded Video", "", `- [${path.basename(videoArchive.path)}](../../../${videoArchive.path})`);
   } else if (videoArchive?.skipped) {
     lines.push("", "## Downloaded Video", "", `- Skipped: ${videoArchive.reason}`);
   }
@@ -462,7 +469,7 @@ function articleMarkdown({ item, snapshot, imageArchive, videoArchive }) {
   return lines.join("\n");
 }
 
-async function archiveOneItem(context, group, item, index) {
+async function archiveOneItem(context, group, item, index, targetDate) {
   const directory = path.join(archiveDir, group, itemArchiveName(item, index));
   await mkdir(directory, { recursive: true });
 
@@ -518,7 +525,8 @@ async function archiveOneItem(context, group, item, index) {
 
     let videoArchive = null;
     if (group === "videos" && saveVideoFiles && !challengeDetected) {
-      videoArchive = await downloadVideoFile(context, candidateVideoUrls, directory);
+      const clipPath = path.join(renderedClipsRoot, targetDate, renderedClipName(item, index));
+      videoArchive = await downloadVideoFile(context, candidateVideoUrls, clipPath);
     }
 
     const metadata = {
@@ -587,17 +595,19 @@ async function archiveLatestItemsToRepo(context, output) {
   const results = [];
 
   await rm(archiveDir, { recursive: true, force: true });
+  await rm(path.join(renderedClipsRoot, output.targetDate.iso), { recursive: true, force: true });
   await mkdir(archiveDir, { recursive: true });
 
   for (const [group, items] of groups) {
     for (const [index, item] of items.entries()) {
-      results.push(await archiveOneItem(context, group, item, index));
+      results.push(await archiveOneItem(context, group, item, index, output.targetDate.iso));
     }
   }
 
   const summary = {
     capturedAt: new Date().toISOString(),
     directory: toRelativeRepoPath(archiveDir),
+    renderedClipsDirectory: toRelativeRepoPath(path.join(renderedClipsRoot, output.targetDate.iso)),
     itemCount: results.length,
     okCount: results.filter((item) => item.status === "ok").length,
     challengeCount: results.filter((item) => item.status === "challenge").length,
@@ -863,6 +873,12 @@ async function main() {
   }
   if (archiveItems && output.archive?.challengeCount > 0) {
     failures.push(`Archive had ${output.archive.challengeCount} challenged item pages.`);
+  }
+  if (saveVideoFiles && output.archive?.results) {
+    const missingVideos = output.archive.results.filter((item) => item.group === "videos" && !item.video?.path);
+    if (missingVideos.length > 0) {
+      failures.push(`Missing downloaded video files for ${missingVideos.length} video item(s).`);
+    }
   }
 
   if (failures.length > 0 && !allowEmpty) {

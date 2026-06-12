@@ -26,6 +26,7 @@ Outputs are written to:
 - `data/latest.json`
 - `data/latest.md`
 - `archive/latest/`, with one folder per captured video/headline page
+- `rendered-clips/YYYY-MM-DD/`, with downloaded video `.mp4` files in the same style as `bbg-show`
 - `artifacts/` when a page is challenged, empty, or otherwise suspicious
 
 ## GitHub Actions
@@ -40,7 +41,7 @@ Successful runs also commit page snapshots under `archive/latest/`. Each item fo
 - `content.md`
 - `page-text.txt`
 - downloaded `image.*` when a main image is available
-- downloaded `video.*` for video-page items when a direct media or HLS URL is available and the file is below `MAX_VIDEO_BYTES`
+- links to downloaded `.mp4` files under `rendered-clips/YYYY-MM-DD/`
 
 Video files are capped by `MAX_VIDEO_BYTES`, defaulting to 95 MB, to stay below GitHub's 100 MB per-file limit. Use Git LFS or release assets before increasing that cap.
 

@@ -27,18 +27,12 @@
     "pageTitle": "Saudi crown prince, Pakistan PM discuss US-Iran mediation, regional stability | Arab News"
   },
   "videoDownload": {
-    "skipped": true,
-    "reason": "No candidate video URL could be downloaded.",
-    "errors": [
-      {
-        "url": "https://cdn.jwplayer.com/manifests/Ow7kiO7T.m3u8",
-        "error": "spawn ffmpeg ENOENT"
-      },
-      {
-        "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6e1f_2ca3c9cf7e662d1a437f67c2d060d605e423dffb/sites/wPTWN2YS/media/Ow7kiO7T/versions/5TcbEMUF/manifest.ism/manifest-audio_0_VpQRK8nh_uC45I53l=112062-video_0_VpQRK8nh_o2Ghq3aE=607333.m3u8",
-        "error": "spawn ffmpeg ENOENT"
-      }
-    ]
+    "path": "rendered-clips/2026-06-12/02_saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab.mp4",
+    "url": "https://cdn.jwplayer.com/manifests/Ow7kiO7T.m3u8",
+    "contentType": "application/vnd.apple.mpegurl",
+    "bytes": 9180041,
+    "method": "ffmpeg-hls",
+    "ffmpeg": "/usr/bin/ffmpeg"
   },
   "files": {
     "metadata": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/metadata.json",
@@ -46,6 +40,6 @@
     "text": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/page-text.txt",
     "html": null,
     "image": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/image.png",
-    "video": null
+    "video": "rendered-clips/2026-06-12/02_saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab.mp4"
   }
 }

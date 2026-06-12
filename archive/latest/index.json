@@ -19,7 +19,7 @@
         "text": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/page-text.txt",
         "html": null,
         "image": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/image.jpg",
-        "video": null
+        "video": "rendered-clips/2026-06-12/01_lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta.mp4"
       },
       "videoUrls": [
         "https://cdn.jwplayer.com/manifests/L7kP4B8o.m3u8",
@@ -33,22 +33,12 @@
         "bytes": 48551
       },
       "video": {
-        "skipped": true,
-        "reason": "No candidate video URL could be downloaded.",
-        "errors": [
-          {
-            "url": "https://cdn.jwplayer.com/manifests/L7kP4B8o.m3u8",
-            "error": "spawn ffmpeg ENOENT"
-          },
-          {
-            "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=511177.m3u8",
-            "error": "spawn ffmpeg ENOENT"
-          },
-          {
-            "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=661860.m3u8",
-            "error": "spawn ffmpeg ENOENT"
-          }
-        ]
+        "path": "rendered-clips/2026-06-12/01_lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta.mp4",
+        "url": "https://cdn.jwplayer.com/manifests/L7kP4B8o.m3u8",
+        "contentType": "application/vnd.apple.mpegurl",
+        "bytes": 10393928,
+        "method": "ffmpeg-hls",
+        "ffmpeg": "/usr/bin/ffmpeg"
       }
     },
     {
@@ -64,7 +54,7 @@
         "text": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/page-text.txt",
         "html": null,
         "image": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/image.png",
-        "video": null
+        "video": "rendered-clips/2026-06-12/02_saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab.mp4"
       },
       "videoUrls": [
         "https://cdn.jwplayer.com/manifests/Ow7kiO7T.m3u8",
@@ -77,18 +67,12 @@
         "bytes": 388407
       },
       "video": {
-        "skipped": true,
-        "reason": "No candidate video URL could be downloaded.",
-        "errors": [
-          {
-            "url": "https://cdn.jwplayer.com/manifests/Ow7kiO7T.m3u8",
-            "error": "spawn ffmpeg ENOENT"
-          },
-          {
-            "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6e1f_2ca3c9cf7e662d1a437f67c2d060d605e423dffb/sites/wPTWN2YS/media/Ow7kiO7T/versions/5TcbEMUF/manifest.ism/manifest-audio_0_VpQRK8nh_uC45I53l=112062-video_0_VpQRK8nh_o2Ghq3aE=607333.m3u8",
-            "error": "spawn ffmpeg ENOENT"
-          }
-        ]
+        "path": "rendered-clips/2026-06-12/02_saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab.mp4",
+        "url": "https://cdn.jwplayer.com/manifests/Ow7kiO7T.m3u8",
+        "contentType": "application/vnd.apple.mpegurl",
+        "bytes": 9180041,
+        "method": "ffmpeg-hls",
+        "ffmpeg": "/usr/bin/ffmpeg"
       }
     },
     {
@@ -104,7 +88,7 @@
         "text": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/page-text.txt",
         "html": null,
         "image": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/image.jpg",
-        "video": null
+        "video": "rendered-clips/2026-06-12/03_pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o.mp4"
       },
       "videoUrls": [
         "https://cdn.jwplayer.com/manifests/Ctqc7TwU.m3u8",
@@ -117,18 +101,12 @@
         "bytes": 38887
       },
       "video": {
-        "skipped": true,
-        "reason": "No candidate video URL could be downloaded.",
-        "errors": [
-          {
-            "url": "https://cdn.jwplayer.com/manifests/Ctqc7TwU.m3u8",
-            "error": "spawn ffmpeg ENOENT"
-          },
-          {
-            "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6c2f_69196e0c3b1a17d738d13cd0f5d03157c08a723b/sites/wPTWN2YS/media/Ctqc7TwU/versions/COxWH5EP/manifest.ism/manifest-audio_0_GVkBrZqM_DyRH7BUD=112131-video_0_GVkBrZqM_WSWL58P2=472706.m3u8",
-            "error": "spawn ffmpeg ENOENT"
-          }
-        ]
+        "path": "rendered-clips/2026-06-12/03_pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o.mp4",
+        "url": "https://cdn.jwplayer.com/manifests/Ctqc7TwU.m3u8",
+        "contentType": "application/vnd.apple.mpegurl",
+        "bytes": 6756554,
+        "method": "ffmpeg-hls",
+        "ffmpeg": "/usr/bin/ffmpeg"
       }
     },
     {
@@ -227,5 +205,6 @@
       },
       "video": null
     }
-  ]
+  ],
+  "renderedClipsDirectory": "rendered-clips/2026-06-12"
 }

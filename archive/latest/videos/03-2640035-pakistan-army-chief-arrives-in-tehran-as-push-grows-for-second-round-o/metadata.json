@@ -27,18 +27,12 @@
     "pageTitle": "Pakistan army chief arrives in Tehran as push grows for second round of US-Iran talks | Arab News"
   },
   "videoDownload": {
-    "skipped": true,
-    "reason": "No candidate video URL could be downloaded.",
-    "errors": [
-      {
-        "url": "https://cdn.jwplayer.com/manifests/Ctqc7TwU.m3u8",
-        "error": "spawn ffmpeg ENOENT"
-      },
-      {
-        "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6c2f_69196e0c3b1a17d738d13cd0f5d03157c08a723b/sites/wPTWN2YS/media/Ctqc7TwU/versions/COxWH5EP/manifest.ism/manifest-audio_0_GVkBrZqM_DyRH7BUD=112131-video_0_GVkBrZqM_WSWL58P2=472706.m3u8",
-        "error": "spawn ffmpeg ENOENT"
-      }
-    ]
+    "path": "rendered-clips/2026-06-12/03_pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o.mp4",
+    "url": "https://cdn.jwplayer.com/manifests/Ctqc7TwU.m3u8",
+    "contentType": "application/vnd.apple.mpegurl",
+    "bytes": 6756554,
+    "method": "ffmpeg-hls",
+    "ffmpeg": "/usr/bin/ffmpeg"
   },
   "files": {
     "metadata": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/metadata.json",
@@ -46,6 +40,6 @@
     "text": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/page-text.txt",
     "html": null,
     "image": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/image.jpg",
-    "video": null
+    "video": "rendered-clips/2026-06-12/03_pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o.mp4"
   }
 }

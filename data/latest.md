@@ -17,3 +17,11 @@ No parseable item-level dates were found, so the output is the current Top Headl
 2. [Iran war poses Middle East’s biggest economic shock in five decades](https://www.arabnews.com/node/2646842/business-economy) - archive: archive/latest/headlines/02-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/content.md
 3. [Israeli strikes on Lebanon’s Tyre wound 10 hospital staff: CEO](https://www.arabnews.com/node/2646863/middle-east) - archive: archive/latest/headlines/03-2646863-israeli-strikes-on-lebanon-s-tyre-wound-10-hospital-staff-ceo/content.md
 4. [UN reports record levels of settler violence in the West Bank](https://www.arabnews.com/node/2646837/middle-east) - archive: archive/latest/headlines/04-2646837-un-reports-record-levels-of-settler-violence-in-the-west-bank/content.md
+
+## Downloaded Rendered Clips
+
+Target date: 2026-06-12
+
+1. [Lebanon army tells citizens not to return south until Israel truce starts](../rendered-clips/2026-06-12/01_lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta.mp4)
+2. [Saudi crown prince, Pakistan PM discuss US-Iran mediation, regional stability](../rendered-clips/2026-06-12/02_saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab.mp4)
+3. [Pakistan army chief arrives in Tehran as push grows for second round of US-Iran talks](../rendered-clips/2026-06-12/03_pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o.mp4)

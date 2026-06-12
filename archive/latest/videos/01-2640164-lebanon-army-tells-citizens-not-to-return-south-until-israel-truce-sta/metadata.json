@@ -28,22 +28,12 @@
     "pageTitle": "Lebanon army tells citizens not to return south until Israel truce starts | Arab News"
   },
   "videoDownload": {
-    "skipped": true,
-    "reason": "No candidate video URL could be downloaded.",
-    "errors": [
-      {
-        "url": "https://cdn.jwplayer.com/manifests/L7kP4B8o.m3u8",
-        "error": "spawn ffmpeg ENOENT"
-      },
-      {
-        "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=511177.m3u8",
-        "error": "spawn ffmpeg ENOENT"
-      },
-      {
-        "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=661860.m3u8",
-        "error": "spawn ffmpeg ENOENT"
-      }
-    ]
+    "path": "rendered-clips/2026-06-12/01_lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta.mp4",
+    "url": "https://cdn.jwplayer.com/manifests/L7kP4B8o.m3u8",
+    "contentType": "application/vnd.apple.mpegurl",
+    "bytes": 10393928,
+    "method": "ffmpeg-hls",
+    "ffmpeg": "/usr/bin/ffmpeg"
   },
   "files": {
     "metadata": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/metadata.json",
@@ -51,6 +41,6 @@
     "text": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/page-text.txt",
     "html": null,
     "image": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/image.jpg",
-    "video": null
+    "video": "rendered-clips/2026-06-12/01_lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta.mp4"
   }
 }

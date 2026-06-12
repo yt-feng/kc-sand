@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-12T17:24:10.366Z
+Fetched at: 2026-06-12T19:31:56.666Z
 Target date: 2026-06-12 (Asia/Riyadh)
 
 ## Latest Videos
@@ -15,5 +15,5 @@ No parseable item-level dates were found, so the output is the current Top Headl
 
 1. [US military helping move 7 million barrels of oil per day out of Arabian Gulf, Wright says](https://www.arabnews.com/node/2646947/middle-east) - archive: archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/content.md
 2. [Hezbollah confident any US-Iran deal will include Lebanon, politician says](https://www.arabnews.com/node/2646914/middle-east) - archive: archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/content.md
-3. [India summons US diplomat for second time after Gulf ship attacks](https://www.arabnews.com/node/2646903/world) - archive: archive/latest/headlines/03-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/content.md
-4. [Israeli, Palestinian civil society meet in France as two-state solution dims](https://www.arabnews.com/node/2646867/middle-east) - archive: archive/latest/headlines/04-2646867-israeli-palestinian-civil-society-meet-in-france-as-two-state-solution/content.md
+3. [Unable to return, displaced southern Lebanese turn to satellite images to check on homes](https://www.arabnews.com/node/2646950/middle-east) - archive: archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/content.md
+4. [India summons US diplomat for second time after Gulf ship attacks](https://www.arabnews.com/node/2646903/world) - archive: archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/content.md

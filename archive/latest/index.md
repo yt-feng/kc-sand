@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-06-12T17:27:19.669Z
+Captured at: 2026-06-12T19:35:09.708Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -11,5 +11,5 @@ Errors: 0
 - [Southern Lebanon ‘Hezbollah kill zone,’ Israel says](https://www.arabnews.com/node/2640086/middle-east) - ok - `archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md` - video: `rendered-clips/2026-06-12/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4`
 - [US military helping move 7 million barrels of oil per day out of Arabian Gulf, Wright says](https://www.arabnews.com/node/2646947/middle-east) - ok - `archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/content.md`
 - [Hezbollah confident any US\-Iran deal will include Lebanon, politician says](https://www.arabnews.com/node/2646914/middle-east) - ok - `archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/content.md`
-- [India summons US diplomat for second time after Gulf ship attacks](https://www.arabnews.com/node/2646903/world) - ok - `archive/latest/headlines/03-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/content.md`
-- [Israeli, Palestinian civil society meet in France as two\-state solution dims](https://www.arabnews.com/node/2646867/middle-east) - ok - `archive/latest/headlines/04-2646867-israeli-palestinian-civil-society-meet-in-france-as-two-state-solution/content.md`
+- [Unable to return, displaced southern Lebanese turn to satellite images to check on homes](https://www.arabnews.com/node/2646950/middle-east) - ok - `archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/content.md`
+- [India summons US diplomat for second time after Gulf ship attacks](https://www.arabnews.com/node/2646903/world) - ok - `archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/content.md`

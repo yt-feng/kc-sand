@@ -19,6 +19,7 @@ As of 2026-06-12, both local direct access and a GitHub-hosted runner returned a
 npm install
 npx playwright install chromium
 npm run scrape
+npm run download:clips
 ```
 
 Outputs are written to:
@@ -44,6 +45,8 @@ Successful runs also commit page snapshots under `archive/latest/`. Each item fo
 - links to downloaded `.mp4` files under `rendered-clips/YYYY-MM-DD/`
 
 Video files are capped by `MAX_VIDEO_BYTES`, defaulting to 95 MB, to stay below GitHub's 100 MB per-file limit. Use Git LFS or release assets before increasing that cap.
+
+If Arab News challenges the listing pages during a scheduled run, the workflow retries the live scrape and then falls back to the last committed JWPlayer URLs in `data/latest.json` / `archive/latest/index.json` to download `rendered-clips/` files instead of committing an empty scrape.
 
 ## Notes
 

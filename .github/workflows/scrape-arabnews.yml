@@ -40,8 +40,37 @@ jobs:
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
+      - name: Preserve previous scrape cache
+        run: |
+          mkdir -p artifacts/cache
+          cp -f data/latest.json artifacts/cache/latest.json 2>/dev/null || true
+          cp -f data/latest.md artifacts/cache/latest.md 2>/dev/null || true
+          if [ -d archive/latest ]; then
+            mkdir -p artifacts/cache/archive-latest
+            cp -R archive/latest/. artifacts/cache/archive-latest/
+          fi
+
       - name: Scrape
-        run: npm run scrape
+        id: scrape
+        continue-on-error: true
+        run: |
+          set +e
+          status=0
+          for attempt in 1 2 3; do
+            echo "Scrape attempt ${attempt}/3"
+            npm run scrape
+            status=$?
+            if [ "$status" -eq 0 ]; then
+              echo "status=0" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Scrape attempt ${attempt} failed with exit code ${status}."
+            if [ "$attempt" -lt 3 ]; then
+              sleep $((attempt * 45))
+            fi
+          done
+          echo "status=${status}" >> "$GITHUB_OUTPUT"
+          exit "$status"
         env:
           TIME_ZONE: Asia/Riyadh
           VIDEO_LIMIT: "3"
@@ -56,6 +85,16 @@ jobs:
           PLAYWRIGHT_PROXY_USERNAME: ${{ secrets.PLAYWRIGHT_PROXY_USERNAME }}
           PLAYWRIGHT_PROXY_PASSWORD: ${{ secrets.PLAYWRIGHT_PROXY_PASSWORD }}
 
+      - name: Download clips from cached listing
+        id: cached_clips
+        if: steps.scrape.outputs.status != '0'
+        run: npm run download:clips
+        env:
+          TIME_ZONE: Asia/Riyadh
+          VIDEO_LIMIT: "3"
+          FFMPEG_PATH: /usr/bin/ffmpeg
+          MAX_VIDEO_BYTES: "95000000"
+
       - name: Upload debug artifacts
         if: always()
         uses: actions/upload-artifact@v4
@@ -65,7 +104,7 @@ jobs:
           if-no-files-found: ignore
 
       - name: Commit scraped data
-        if: success()
+        if: steps.scrape.outputs.status == '0' || steps.cached_clips.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

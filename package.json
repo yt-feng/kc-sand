@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "download:clips": "node scripts/download-cached-clips.mjs",
     "scrape": "node scripts/scrape-arabnews.mjs",
     "test": "node --test"
   },

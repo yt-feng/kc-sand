@@ -1,0 +1,105 @@
+{
+  "fetchedAt": "2026-06-12T06:28:24.397Z",
+  "targetDate": {
+    "iso": "2026-06-12",
+    "timeZone": "Asia/Riyadh"
+  },
+  "sources": {
+    "videos": "https://www.arabnews.com/videos",
+    "home": "https://www.arabnews.com/"
+  },
+  "videos": [
+    {
+      "title": "Art & Culture",
+      "url": "https://www.arabnews.com/lifestyle/art-culture",
+      "image": null,
+      "section": "",
+      "datePublished": null,
+      "dateText": "",
+      "source": "dom",
+      "order": 32
+    },
+    {
+      "title": "10-day Israel-Lebanon truce begins as Lebanese army warns of ‘violations’",
+      "url": "https://www.arabnews.com/node/2640219/middle-east",
+      "image": null,
+      "section": "",
+      "datePublished": null,
+      "dateText": "",
+      "source": "dom",
+      "order": 115
+    },
+    {
+      "title": "Arab artists on display at the Diriyah Contemporary Art Biennale",
+      "url": "https://www.arabnews.com/node/2640218/lifestyle",
+      "image": null,
+      "section": "",
+      "datePublished": null,
+      "dateText": "",
+      "source": "dom",
+      "order": 116
+    }
+  ],
+  "headlines": {
+    "mode": "current-homepage-top-headlines",
+    "items": [
+      {
+        "title": "Iran war poses Middle East’s biggest economic shock in five decades",
+        "url": "https://www.arabnews.com/node/2646842/business-economy",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/11/4720882-1865709236.jpg?itok=gN9Mbcgs",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0
+      },
+      {
+        "title": "Israeli strikes on Lebanon’s Tyre wound 10 hospital staff: CEO",
+        "url": "https://www.arabnews.com/node/2646863/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/12/4720944-1890248497.jpg?itok=SVah6N3l",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2
+      },
+      {
+        "title": "UN reports record levels of settler violence in the West Bank",
+        "url": "https://www.arabnews.com/node/2646837/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/11/4720876-1393217692.jpg?itok=XEf3s-vp",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 4
+      },
+      {
+        "title": "Oman launches initiative at UN that aims to combat hate speech, genocide and its incitement",
+        "url": "https://www.arabnews.com/node/2646846/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/12/4720889-1926215579.jpg?itok=NYPyYAof",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 6
+      }
+    ],
+    "excludedDatedItems": 0,
+    "note": "No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.",
+    "sourceUrl": "https://www.arabnews.com/"
+  },
+  "diagnostics": {
+    "videos": {
+      "responseStatus": 200,
+      "responseUrl": "https://www.arabnews.com/videos",
+      "challengeDetected": false,
+      "itemCount": 3
+    },
+    "home": {
+      "responseStatus": 200,
+      "responseUrl": "https://www.arabnews.com/",
+      "challengeDetected": false,
+      "itemCount": 4
+    }
+  }
+}

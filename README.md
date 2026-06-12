@@ -40,8 +40,9 @@ Successful runs also commit page snapshots under `archive/latest/`. Each item fo
 - `content.md`
 - `page-text.txt`
 - downloaded `image.*` when a main image is available
+- downloaded `video.*` for video-page items when a direct media or HLS URL is available and the file is below `MAX_VIDEO_BYTES`
 
-Raw video binaries are not committed by default. Video/embed URLs discovered on article pages are recorded in metadata and Markdown; use Git LFS before committing large media files.
+Video files are capped by `MAX_VIDEO_BYTES`, defaulting to 95 MB, to stay below GitHub's 100 MB per-file limit. Use Git LFS or release assets before increasing that cap.
 
 ## Notes
 

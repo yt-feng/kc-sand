@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 
 import { chromium } from "playwright";
-import { mkdir, rm, writeFile } from "node:fs/promises";
+import { mkdir, readdir, rm, stat, unlink, writeFile } from "node:fs/promises";
+import { spawn } from "node:child_process";
+import os from "node:os";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
@@ -30,6 +32,8 @@ const savePageArtifacts =
 const archiveItems = process.env.ARCHIVE_ITEMS !== "0" && process.env.ARCHIVE_ITEMS !== "false";
 const saveArticleHtml =
   process.env.SAVE_ARTICLE_HTML === "1" || process.env.SAVE_ARTICLE_HTML === "true";
+const saveVideoFiles = process.env.SAVE_VIDEO_FILES !== "0" && process.env.SAVE_VIDEO_FILES !== "false";
+const maxVideoBytes = Number(process.env.MAX_VIDEO_BYTES || 95_000_000);
 
 function todayIsoInTimeZone(date = new Date()) {
   return new Intl.DateTimeFormat("en-CA", {
@@ -101,6 +105,211 @@ function imageExtension(contentType, url) {
   }
 
   return ".jpg";
+}
+
+function isPotentialVideoUrl(url, contentType = "") {
+  const lowerUrl = String(url || "").toLowerCase();
+  const lowerType = String(contentType || "").toLowerCase();
+  if (lowerUrl.startsWith("blob:")) return false;
+  if (lowerUrl.includes("imasdk.googleapis.com")) return false;
+  if (lowerUrl.includes("doubleclick.net")) return false;
+  if (lowerUrl.includes("googlesyndication.com")) return false;
+  if (lowerUrl.includes("recaptcha")) return false;
+  if (lowerUrl.includes("addtoany.com")) return false;
+  if (/\.(mp4|m4v|mov|webm|m3u8)(\?|$)/i.test(lowerUrl)) return true;
+  return (
+    lowerType.startsWith("video/") ||
+    lowerType.includes("mpegurl") ||
+    lowerType.includes("application/vnd.apple.mpegurl")
+  );
+}
+
+function videoExtension(contentType, url) {
+  const type = String(contentType || "").split(";")[0].trim().toLowerCase();
+  const byType = {
+    "video/mp4": ".mp4",
+    "video/quicktime": ".mov",
+    "video/webm": ".webm",
+    "application/vnd.apple.mpegurl": ".m3u8",
+    "application/x-mpegurl": ".m3u8"
+  }[type];
+  if (byType) return byType;
+
+  try {
+    const ext = path.extname(new URL(url).pathname).toLowerCase();
+    if (/^\.(mp4|m4v|mov|webm|m3u8)$/.test(ext)) return ext;
+  } catch {
+    // Use a stable fallback below.
+  }
+
+  return ".mp4";
+}
+
+function dedupeUrls(urls) {
+  return [...new Set(urls.filter(Boolean))];
+}
+
+function runCommand(command, args, options = {}) {
+  return new Promise((resolve, reject) => {
+    const child = spawn(command, args, {
+      stdio: ["ignore", "pipe", "pipe"],
+      ...options
+    });
+    let stdout = "";
+    let stderr = "";
+    child.stdout?.on("data", (chunk) => {
+      stdout += chunk;
+    });
+    child.stderr?.on("data", (chunk) => {
+      stderr += chunk;
+    });
+    child.on("error", reject);
+    child.on("close", (code) => {
+      if (code === 0) {
+        resolve({ stdout, stderr });
+      } else {
+        const error = new Error(`${command} exited with ${code}: ${stderr || stdout}`);
+        error.code = code;
+        error.stdout = stdout;
+        error.stderr = stderr;
+        reject(error);
+      }
+    });
+  });
+}
+
+async function findFfmpegExecutable() {
+  const candidates = [
+    process.env.FFMPEG_PATH,
+    path.join(repoRoot, "node_modules", "playwright-core", ".local-browsers", "ffmpeg"),
+    path.join(repoRoot, "node_modules", "playwright", ".local-browsers", "ffmpeg")
+  ].filter(Boolean);
+
+  for (const candidate of candidates) {
+    try {
+      const info = await stat(candidate);
+      if (info.isFile()) return candidate;
+    } catch {
+      // Try the next candidate.
+    }
+  }
+
+  const cacheRoots = [
+    process.env.PLAYWRIGHT_BROWSERS_PATH,
+    path.join(os.homedir(), ".cache", "ms-playwright"),
+    path.join(os.homedir(), "Library", "Caches", "ms-playwright")
+  ].filter(Boolean);
+
+  for (const root of cacheRoots) {
+    try {
+      const entries = await readdir(root, { withFileTypes: true });
+      for (const entry of entries) {
+        if (!entry.isDirectory() || !entry.name.startsWith("ffmpeg-")) continue;
+        const directory = path.join(root, entry.name);
+        const files = await readdir(directory, { recursive: true });
+        for (const file of files) {
+          if (path.basename(file) === "ffmpeg" || path.basename(file) === "ffmpeg.exe") {
+            return path.join(directory, file);
+          }
+        }
+      }
+    } catch {
+      // Try the next cache root.
+    }
+  }
+
+  return "ffmpeg";
+}
+
+async function maybeRemoveOversizeFile(filePath) {
+  const info = await stat(filePath);
+  if (info.size <= maxVideoBytes) return info.size;
+
+  await unlink(filePath).catch(() => {});
+  throw new Error(`Downloaded video is ${info.size} bytes, above MAX_VIDEO_BYTES=${maxVideoBytes}`);
+}
+
+async function downloadDirectVideo(context, videoUrl, directory) {
+  const response = await context.request.get(videoUrl, {
+    timeout: Number(process.env.VIDEO_TIMEOUT_MS || 120000)
+  });
+  if (!response.ok()) {
+    throw new Error(`Video request failed with ${response.status()}`);
+  }
+
+  const contentType = response.headers()["content-type"] || "";
+  const extension = videoExtension(contentType, videoUrl);
+  if (extension === ".m3u8") return null;
+
+  const filePath = path.join(directory, `video${extension}`);
+  const body = await response.body();
+  if (body.length > maxVideoBytes) {
+    throw new Error(`Video is ${body.length} bytes, above MAX_VIDEO_BYTES=${maxVideoBytes}`);
+  }
+
+  await writeFile(filePath, body);
+  return {
+    path: toRelativeRepoPath(filePath),
+    url: videoUrl,
+    contentType,
+    bytes: body.length,
+    method: "direct"
+  };
+}
+
+async function downloadHlsVideo(videoUrl, directory) {
+  const filePath = path.join(directory, "video.mp4");
+  const ffmpeg = await findFfmpegExecutable();
+  const timeoutSeconds = Math.ceil(Number(process.env.VIDEO_TIMEOUT_MS || 180000) / 1000);
+  await runCommand(ffmpeg, [
+    "-y",
+    "-nostdin",
+    "-loglevel",
+    "warning",
+    "-rw_timeout",
+    String(timeoutSeconds * 1_000_000),
+    "-i",
+    videoUrl,
+    "-c",
+    "copy",
+    "-bsf:a",
+    "aac_adtstoasc",
+    filePath
+  ]);
+
+  const bytes = await maybeRemoveOversizeFile(filePath);
+  return {
+    path: toRelativeRepoPath(filePath),
+    url: videoUrl,
+    contentType: "application/vnd.apple.mpegurl",
+    bytes,
+    method: "ffmpeg-hls"
+  };
+}
+
+async function downloadVideoFile(context, videoUrls, directory) {
+  const errors = [];
+  for (const videoUrl of dedupeUrls(videoUrls)) {
+    try {
+      if (/\.m3u8(\?|$)/i.test(videoUrl)) {
+        return await downloadHlsVideo(videoUrl, directory);
+      }
+
+      const direct = await downloadDirectVideo(context, videoUrl, directory);
+      if (direct) return direct;
+    } catch (error) {
+      errors.push({
+        url: videoUrl,
+        error: String(error?.message || error)
+      });
+    }
+  }
+
+  return {
+    skipped: true,
+    reason: errors.length > 0 ? "No candidate video URL could be downloaded." : "No candidate video URL found.",
+    errors
+  };
 }
 
 async function saveDebug(page, name, details) {
@@ -220,7 +429,7 @@ async function downloadImage(context, imageUrl, directory) {
   };
 }
 
-function articleMarkdown({ item, snapshot, imageArchive }) {
+function articleMarkdown({ item, snapshot, imageArchive, videoArchive }) {
   const lines = [
     `# ${snapshot.title || item.title}`,
     "",
@@ -243,6 +452,11 @@ function articleMarkdown({ item, snapshot, imageArchive }) {
     lines.push("", "## Video Or Embed URLs", "");
     for (const url of snapshot.videoUrls) lines.push(`- ${url}`);
   }
+  if (videoArchive?.path) {
+    lines.push("", "## Downloaded Video", "", `- [${path.basename(videoArchive.path)}](./${path.basename(videoArchive.path)})`);
+  } else if (videoArchive?.skipped) {
+    lines.push("", "## Downloaded Video", "", `- Skipped: ${videoArchive.reason}`);
+  }
 
   lines.push("", "## Text", "", snapshot.text || "_No article body text captured._", "");
   return lines.join("\n");
@@ -263,6 +477,19 @@ async function archiveOneItem(context, group, item, index) {
   };
 
   try {
+    const mediaUrls = [];
+    page.on("response", async (response) => {
+      try {
+        const headers = response.headers();
+        const url = response.url();
+        if (isPotentialVideoUrl(url, headers["content-type"] || "")) {
+          mediaUrls.push(url);
+        }
+      } catch {
+        // Ignore response inspection failures.
+      }
+    });
+
     const response = await page.goto(item.url, {
       waitUntil: "domcontentloaded",
       timeout: Number(process.env.ARTICLE_TIMEOUT_MS || 90000)
@@ -274,6 +501,10 @@ async function archiveOneItem(context, group, item, index) {
     const bodyText = await page.locator("body").innerText({ timeout: 5000 }).catch(() => "");
     const pageTitle = await page.title().catch(() => "");
     const challengeDetected = isCloudflareChallengeText(bodyText, pageTitle) || response?.status() === 403;
+    const candidateVideoUrls = dedupeUrls([
+      ...mediaUrls,
+      ...(snapshot.videoUrls || [])
+    ]).filter((url) => isPotentialVideoUrl(url));
 
     let imageArchive = null;
     const imageUrl = snapshot.image || item.image;
@@ -283,6 +514,11 @@ async function archiveOneItem(context, group, item, index) {
       } catch (error) {
         result.imageError = String(error?.message || error);
       }
+    }
+
+    let videoArchive = null;
+    if (group === "videos" && saveVideoFiles && !challengeDetected) {
+      videoArchive = await downloadVideoFile(context, candidateVideoUrls, directory);
     }
 
     const metadata = {
@@ -300,20 +536,22 @@ async function archiveOneItem(context, group, item, index) {
         author: snapshot.author,
         canonical: snapshot.canonical,
         textLength: snapshot.textLength,
-        videoUrls: snapshot.videoUrls,
+        videoUrls: candidateVideoUrls,
         pageTitle: snapshot.pageTitle
       },
+      videoDownload: videoArchive,
       files: {
         metadata: toRelativeRepoPath(path.join(directory, "metadata.json")),
         content: toRelativeRepoPath(path.join(directory, "content.md")),
         text: toRelativeRepoPath(path.join(directory, "page-text.txt")),
         html: saveArticleHtml ? toRelativeRepoPath(path.join(directory, "page.html")) : null,
-        image: imageArchive?.path || null
+        image: imageArchive?.path || null,
+        video: videoArchive?.path || null
       }
     };
 
     await writeFile(path.join(directory, "metadata.json"), `${JSON.stringify(metadata, null, 2)}\n`);
-    await writeFile(path.join(directory, "content.md"), articleMarkdown({ item, snapshot, imageArchive }));
+    await writeFile(path.join(directory, "content.md"), articleMarkdown({ item, snapshot, imageArchive, videoArchive }));
     await writeFile(path.join(directory, "page-text.txt"), `${snapshot.bodyText || snapshot.text || ""}\n`);
     if (saveArticleHtml) {
       await writeFile(path.join(directory, "page.html"), await page.content());
@@ -321,8 +559,9 @@ async function archiveOneItem(context, group, item, index) {
 
     result.status = challengeDetected ? "challenge" : "ok";
     result.files = metadata.files;
-    result.videoUrls = snapshot.videoUrls || [];
+    result.videoUrls = candidateVideoUrls;
     result.image = imageArchive;
+    result.video = videoArchive;
   } catch (error) {
     result.status = "error";
     result.error = String(error?.stack || error);
@@ -379,7 +618,8 @@ async function archiveLatestItemsToRepo(context, output) {
       `Errors: ${summary.errorCount}`,
       "",
       ...results.map(
-        (item) => `- ${markdownLink(item.title, item.url)} - ${item.status} - \`${item.directory}/content.md\``
+        (item) =>
+          `- ${markdownLink(item.title, item.url)} - ${item.status} - \`${item.directory}/content.md\`${item.video?.path ? ` - video: \`${item.video.path}\`` : ""}`
       ),
       ""
     ].join("\n")

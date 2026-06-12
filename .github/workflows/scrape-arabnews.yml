@@ -45,6 +45,8 @@ jobs:
           EXTRA_WAIT_MS: "8000"
           ARCHIVE_ITEMS: "true"
           SAVE_ARTICLE_HTML: "false"
+          SAVE_VIDEO_FILES: "true"
+          MAX_VIDEO_BYTES: "95000000"
           SAVE_PAGE_ARTIFACTS: ${{ inputs.save_artifacts || 'false' }}
           PLAYWRIGHT_PROXY_SERVER: ${{ secrets.PLAYWRIGHT_PROXY_SERVER }}
           PLAYWRIGHT_PROXY_USERNAME: ${{ secrets.PLAYWRIGHT_PROXY_USERNAME }}

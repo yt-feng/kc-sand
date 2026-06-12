@@ -5,7 +5,9 @@ Small GitHub Actions scraper for Arab News:
 - `https://www.arabnews.com/videos`: latest 3 video items
 - `https://www.arabnews.com/`: current homepage `Top Headlines`
 
-The scraper uses Playwright instead of `curl`/`fetch` because Arab News can return a Cloudflare challenge to simple HTTP clients. The scheduled workflow runs on the `kc-sand-arabnews-vps` self-hosted runner with labels `kc-sand` and `arabnews-fixed-ip`; this reuses the same fixed-IP VPS approach used for WeChat draft uploads in `rpt_edit`, but with a separate runner registration and work directory.
+See [ARCHITECTURE.md](./ARCHITECTURE.md) for the runner, Cloudflare fallback, video download, and VPS cleanup design.
+
+The scheduled workflow runs on the `kc-sand-arabnews-vps` self-hosted runner with labels `kc-sand` and `arabnews-fixed-ip`; this reuses the same fixed-IP VPS approach used for WeChat draft uploads in `rpt_edit`, but with a separate runner registration and work directory.
 
 If you move the workflow back to GitHub-hosted runners and they are challenged, set these repository secrets and rerun the workflow:
 
@@ -13,7 +15,7 @@ If you move the workflow back to GitHub-hosted runners and they are challenged, 
 - `PLAYWRIGHT_PROXY_USERNAME`, optional
 - `PLAYWRIGHT_PROXY_PASSWORD`, optional
 
-As of 2026-06-12, a GitHub-hosted runner returned a `403` Cloudflare challenge without a proxy, while the fixed-IP VPS returned the real Arab News HTML. The workflow uploads challenged HTML and screenshots as debug artifacts instead of committing empty data.
+As of 2026-06-12, a GitHub-hosted runner returned a `403` Cloudflare challenge without a proxy. The fixed-IP VPS can fetch real Arab News HTML with `curl`, while headless Playwright can still be challenged. The scraper therefore falls back to live `curl` HTML parsing when Playwright is blocked. The workflow uploads challenged HTML and screenshots as debug artifacts instead of committing empty data.
 
 ## Local Debug
 
@@ -49,7 +51,7 @@ Successful runs also commit page snapshots under `archive/latest/`. Each item fo
 
 Video files are capped by `MAX_VIDEO_BYTES`, defaulting to 95 MB, to stay below GitHub's 100 MB per-file limit. Use Git LFS or release assets before increasing that cap.
 
-The workflow does not reuse previously committed video URLs as a success path. If Arab News challenges GitHub-hosted runners, configure an Action-side proxy with `PLAYWRIGHT_PROXY_SERVER` and rerun the workflow; otherwise the run fails and uploads debug artifacts instead of committing stale data.
+The workflow does not reuse previously committed video URLs as a success path. If both Playwright and live `curl` fail to capture the required data, the run fails and uploads debug artifacts instead of committing stale data.
 
 ## Notes
 

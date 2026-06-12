@@ -155,6 +155,34 @@ function dedupeUrls(urls) {
   return [...new Set(urls.filter(Boolean))];
 }
 
+function jwplayerMediaIdFromUrl(url) {
+  const value = String(url || "");
+  const match =
+    value.match(/\/manifests\/([A-Za-z0-9]+)\.m3u8/i) ||
+    value.match(/\/media\/([A-Za-z0-9]+)(?:\/|$)/i) ||
+    value.match(/\/videos\/([A-Za-z0-9]+)-[^/]+\.mp4/i);
+  return match?.[1] || null;
+}
+
+async function expandJwplayerMediaUrls(context, videoUrl) {
+  const mediaId = jwplayerMediaIdFromUrl(videoUrl);
+  if (!mediaId) return [];
+
+  const response = await context.request.get(`https://content.jwplatform.com/v2/media/${mediaId}`, {
+    timeout: Number(process.env.VIDEO_TIMEOUT_MS || 120000)
+  });
+  if (!response.ok()) {
+    throw new Error(`JWPlayer media request failed with ${response.status()}`);
+  }
+
+  const media = await response.json();
+  const sources = media?.playlist?.flatMap((item) => item.sources || []) || [];
+  return sources
+    .filter((source) => source?.file)
+    .sort((a, b) => Number(b.filesize || b.bitrate || b.height || 0) - Number(a.filesize || a.bitrate || a.height || 0))
+    .map((source) => source.file);
+}
+
 function runCommand(command, args, options = {}) {
   return new Promise((resolve, reject) => {
     const child = spawn(command, args, {
@@ -297,7 +325,21 @@ async function downloadHlsVideo(videoUrl, filePath) {
 async function downloadVideoFile(context, videoUrls, filePath) {
   await mkdir(path.dirname(filePath), { recursive: true });
   const errors = [];
+  const candidates = [];
+
   for (const videoUrl of dedupeUrls(videoUrls)) {
+    try {
+      candidates.push(...(await expandJwplayerMediaUrls(context, videoUrl)));
+    } catch (error) {
+      errors.push({
+        url: videoUrl,
+        error: String(error?.message || error)
+      });
+    }
+    candidates.push(videoUrl);
+  }
+
+  for (const videoUrl of dedupeUrls(candidates)) {
     try {
       if (/\.m3u8(\?|$)/i.test(videoUrl)) {
         return await downloadHlsVideo(videoUrl, filePath);

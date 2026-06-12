@@ -1,6 +1,7 @@
 {
-  "capturedAt": "2026-06-12T08:23:58.599Z",
+  "capturedAt": "2026-06-12T12:04:15.732Z",
   "directory": "archive/latest",
+  "renderedClipsDirectory": "rendered-clips/2026-06-12",
   "itemCount": 7,
   "okCount": 7,
   "challengeCount": 0,
@@ -9,104 +10,101 @@
     {
       "group": "videos",
       "index": 0,
-      "title": "Lebanon army tells citizens not to return south until Israel truce starts",
-      "url": "https://www.arabnews.com/node/2640164/middle-east",
-      "directory": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta",
+      "title": "Lebanon army reports Israeli ‘acts of aggression’ in ‘violation of ceasefire’",
+      "url": "https://www.arabnews.com/node/2640197/middle-east",
+      "directory": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef",
       "status": "ok",
       "files": {
-        "metadata": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/metadata.json",
-        "content": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/content.md",
-        "text": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/page-text.txt",
+        "metadata": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/metadata.json",
+        "content": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/content.md",
+        "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
         "html": null,
-        "image": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/image.jpg",
-        "video": "rendered-clips/2026-06-12/01_lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta.mp4"
+        "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
+        "video": "rendered-clips/2026-06-12/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
       },
       "videoUrls": [
-        "https://cdn.jwplayer.com/manifests/L7kP4B8o.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=511177.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=661860.m3u8"
+        "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
+        "https://videos-cloudfront-usp.jwpsrv.com/6a2c9f4f_101613076ecfc5e0c12035aad4464ce6fb3cd725/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+        "https://videos-cloudfront-usp.jwpsrv.com/6a2c9f4f_101613076ecfc5e0c12035aad4464ce6fb3cd725/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
       ],
       "image": {
-        "path": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/image.jpg",
-        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/16/4703434-250114224.jpg?itok=BTrHxW-R",
+        "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
+        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/17/4703522-1194838547.jpg?itok=s5ymFNV0",
         "contentType": "image/jpeg",
-        "bytes": 48551
+        "bytes": 27493
       },
       "video": {
-        "path": "rendered-clips/2026-06-12/01_lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta.mp4",
-        "url": "https://cdn.jwplayer.com/manifests/L7kP4B8o.m3u8",
-        "contentType": "application/vnd.apple.mpegurl",
-        "bytes": 10393928,
-        "method": "ffmpeg-hls",
-        "ffmpeg": "/usr/bin/ffmpeg"
+        "path": "rendered-clips/2026-06-12/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
+        "url": "https://content.jwplatform.com/videos/ngVuDIbE-C8cpcmty.mp4",
+        "contentType": "video/mp4",
+        "bytes": 14628051,
+        "method": "direct"
       }
     },
     {
       "group": "videos",
       "index": 1,
-      "title": "Saudi crown prince, Pakistan PM discuss US-Iran mediation, regional stability",
-      "url": "https://www.arabnews.com/node/2640000/saudi-arabia",
-      "directory": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab",
+      "title": "Israel and Lebanon agree to 10-day ceasefire in push for permanent peace deal",
+      "url": "https://www.arabnews.com/node/2640092/middle-east",
+      "directory": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea",
       "status": "ok",
       "files": {
-        "metadata": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/metadata.json",
-        "content": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/content.md",
-        "text": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/page-text.txt",
+        "metadata": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/metadata.json",
+        "content": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/content.md",
+        "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
         "html": null,
-        "image": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/image.png",
-        "video": "rendered-clips/2026-06-12/02_saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab.mp4"
+        "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
+        "video": "rendered-clips/2026-06-12/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
       },
       "videoUrls": [
-        "https://cdn.jwplayer.com/manifests/Ow7kiO7T.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a2c6e1f_2ca3c9cf7e662d1a437f67c2d060d605e423dffb/sites/wPTWN2YS/media/Ow7kiO7T/versions/5TcbEMUF/manifest.ism/manifest-audio_0_VpQRK8nh_uC45I53l=112062-video_0_VpQRK8nh_o2Ghq3aE=607333.m3u8"
+        "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
+        "https://videos-cloudfront-usp.jwpsrv.com/6a2c9ea7_a7c7b79345a3a78a7a3a3da6ab5344397e37635c/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
       ],
       "image": {
-        "path": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/image.png",
-        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/15/4703160-1688235746.png?itok=X30YRGW9",
-        "contentType": "image/png",
-        "bytes": 388407
+        "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
+        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/16/4703407-605667276.jpg?itok=CL-hBXdJ",
+        "contentType": "image/jpeg",
+        "bytes": 43576
       },
       "video": {
-        "path": "rendered-clips/2026-06-12/02_saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab.mp4",
-        "url": "https://cdn.jwplayer.com/manifests/Ow7kiO7T.m3u8",
-        "contentType": "application/vnd.apple.mpegurl",
-        "bytes": 9180041,
-        "method": "ffmpeg-hls",
-        "ffmpeg": "/usr/bin/ffmpeg"
+        "path": "rendered-clips/2026-06-12/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
+        "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
+        "contentType": "video/mp4",
+        "bytes": 8233121,
+        "method": "direct"
       }
     },
     {
       "group": "videos",
       "index": 2,
-      "title": "Pakistan army chief arrives in Tehran as push grows for second round of US-Iran talks",
-      "url": "https://www.arabnews.com/node/2640035/middle-east",
-      "directory": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o",
+      "title": "Southern Lebanon ‘Hezbollah kill zone,’ Israel says",
+      "url": "https://www.arabnews.com/node/2640086/middle-east",
+      "directory": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says",
       "status": "ok",
       "files": {
-        "metadata": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/metadata.json",
-        "content": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/content.md",
-        "text": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/page-text.txt",
+        "metadata": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/metadata.json",
+        "content": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md",
+        "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
         "html": null,
-        "image": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/image.jpg",
-        "video": "rendered-clips/2026-06-12/03_pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o.mp4"
+        "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
+        "video": "rendered-clips/2026-06-12/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
       },
       "videoUrls": [
-        "https://cdn.jwplayer.com/manifests/Ctqc7TwU.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a2c6c2f_69196e0c3b1a17d738d13cd0f5d03157c08a723b/sites/wPTWN2YS/media/Ctqc7TwU/versions/COxWH5EP/manifest.ism/manifest-audio_0_GVkBrZqM_DyRH7BUD=112131-video_0_GVkBrZqM_WSWL58P2=472706.m3u8"
+        "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
+        "https://videos-cloudfront-usp.jwpsrv.com/6a2ca0ea_2ac6ca4d2f1b49f44677d1f3214d4adf6b7847ea/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
       ],
       "image": {
-        "path": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/image.jpg",
-        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/15/4703107-1537595281.jpeg?itok=K4kXp1kK",
+        "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
+        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/16/4703301-2012512905.jpg?itok=fknboKTg",
         "contentType": "image/jpeg",
-        "bytes": 38887
+        "bytes": 33206
       },
       "video": {
-        "path": "rendered-clips/2026-06-12/03_pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o.mp4",
-        "url": "https://cdn.jwplayer.com/manifests/Ctqc7TwU.m3u8",
-        "contentType": "application/vnd.apple.mpegurl",
-        "bytes": 6756554,
-        "method": "ffmpeg-hls",
-        "ffmpeg": "/usr/bin/ffmpeg"
+        "path": "rendered-clips/2026-06-12/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
+        "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
+        "contentType": "video/mp4",
+        "bytes": 7265426,
+        "method": "direct"
       }
     },
     {
@@ -124,7 +122,9 @@
         "image": "archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/image.jpg",
         "video": null
       },
-      "videoUrls": [],
+      "videoUrls": [
+        "https://s8t.teads.tv/creative-a7ef4780-1f2a-11f1-ad32-f1e722b9d65d/video.high.mp4"
+      ],
       "image": {
         "path": "archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/image.jpg",
         "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4720975-1644179895.jpg?itok=C81ki7_M",
@@ -205,6 +205,5 @@
       },
       "video": null
     }
-  ],
-  "renderedClipsDirectory": "rendered-clips/2026-06-12"
+  ]
 }

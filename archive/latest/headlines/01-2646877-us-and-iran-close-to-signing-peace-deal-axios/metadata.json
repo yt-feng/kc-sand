@@ -7,10 +7,11 @@
   "dateText": "",
   "source": "top-headlines-sibling",
   "order": 0,
-  "capturedAt": "2026-06-12T08:23:44.486Z",
+  "capturedAt": "2026-06-12T12:03:14.992Z",
   "responseStatus": 200,
   "responseUrl": "https://www.arabnews.com/node/2646877/middle-east",
   "challengeDetected": false,
+  "articleHtmlFallbackUsed": false,
   "snapshot": {
     "title": "US and Iran close to signing peace deal: Axios",
     "description": "DUBAI: A report from Axios said that US and Iran are close to signing a memorandum of understanding, which particularly calls for the immediate reopening of the Strait of Hormuz without tolls. The MoU also says that Iran will receive sanctions relief based on compliance, Axios said, quoting a diplomat from one of the mediating countries and a US official. The MOU would extend",
@@ -20,7 +21,9 @@
     "author": "Arab News",
     "canonical": "https://www.arabnews.com/node/2646877/middle-east",
     "textLength": 2644,
-    "videoUrls": [],
+    "videoUrls": [
+      "https://s8t.teads.tv/creative-a7ef4780-1f2a-11f1-ad32-f1e722b9d65d/video.high.mp4"
+    ],
     "pageTitle": "US and Iran close to signing peace deal: Axios | Arab News"
   },
   "videoDownload": null,

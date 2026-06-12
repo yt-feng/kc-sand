@@ -1,14 +1,14 @@
 # Arab News Archive
 
-Captured at: 2026-06-12T08:23:58.599Z
+Captured at: 2026-06-12T12:04:15.732Z
 Items: 7
 OK: 7
 Challenges: 0
 Errors: 0
 
-- [Lebanon army tells citizens not to return south until Israel truce starts](https://www.arabnews.com/node/2640164/middle-east) - ok - `archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/content.md`
-- [Saudi crown prince, Pakistan PM discuss US\-Iran mediation, regional stability](https://www.arabnews.com/node/2640000/saudi-arabia) - ok - `archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/content.md`
-- [Pakistan army chief arrives in Tehran as push grows for second round of US\-Iran talks](https://www.arabnews.com/node/2640035/middle-east) - ok - `archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/content.md`
+- [Lebanon army reports Israeli ‘acts of aggression’ in ‘violation of ceasefire’](https://www.arabnews.com/node/2640197/middle-east) - ok - `archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/content.md` - video: `rendered-clips/2026-06-12/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4`
+- [Israel and Lebanon agree to 10\-day ceasefire in push for permanent peace deal](https://www.arabnews.com/node/2640092/middle-east) - ok - `archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/content.md` - video: `rendered-clips/2026-06-12/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4`
+- [Southern Lebanon ‘Hezbollah kill zone,’ Israel says](https://www.arabnews.com/node/2640086/middle-east) - ok - `archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md` - video: `rendered-clips/2026-06-12/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4`
 - [US and Iran close to signing peace deal: Axios](https://www.arabnews.com/node/2646877/middle-east) - ok - `archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/content.md`
 - [Iran war poses Middle East’s biggest economic shock in five decades](https://www.arabnews.com/node/2646842/business-economy) - ok - `archive/latest/headlines/02-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/content.md`
 - [Israeli strikes on Lebanon’s Tyre wound 10 hospital staff: CEO](https://www.arabnews.com/node/2646863/middle-east) - ok - `archive/latest/headlines/03-2646863-israeli-strikes-on-lebanon-s-tyre-wound-10-hospital-staff-ceo/content.md`

@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-06-12T06:28:24.397Z
+Fetched at: 2026-06-12T06:33:02.995Z
 Target date: 2026-06-12 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [Art & Culture](https://www.arabnews.com/lifestyle/art-culture)
-2. [10-day Israel-Lebanon truce begins as Lebanese army warns of ‘violations’](https://www.arabnews.com/node/2640219/middle-east)
-3. [Arab artists on display at the Diriyah Contemporary Art Biennale](https://www.arabnews.com/node/2640218/lifestyle)
+1. [US defense chief urges allies to boost defense spending amid ‘alarm’ over China’s buildup](https://www.arabnews.com/node/2645417/world)
+2. [US sanctions Iranian buyers of military technology](https://www.arabnews.com/node/2645416/world)
+3. [Judge says Kennedy Center board broke law putting Trump’s name on building, blocks closure](https://www.arabnews.com/node/2645415/world)
 
 ## Homepage Top Headlines
 

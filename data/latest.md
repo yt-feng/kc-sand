@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-12T12:01:05.132Z
+Fetched at: 2026-06-12T14:13:19.591Z
 Target date: 2026-06-12 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-12 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [US and Iran close to signing peace deal: Axios](https://www.arabnews.com/node/2646877/middle-east) - archive: archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/content.md
-2. [Iran war poses Middle East’s biggest economic shock in five decades](https://www.arabnews.com/node/2646842/business-economy) - archive: archive/latest/headlines/02-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/content.md
-3. [Israeli strikes on Lebanon’s Tyre wound 10 hospital staff: CEO](https://www.arabnews.com/node/2646863/middle-east) - archive: archive/latest/headlines/03-2646863-israeli-strikes-on-lebanon-s-tyre-wound-10-hospital-staff-ceo/content.md
-4. [UN reports record levels of settler violence in the West Bank](https://www.arabnews.com/node/2646837/middle-east) - archive: archive/latest/headlines/04-2646837-un-reports-record-levels-of-settler-violence-in-the-west-bank/content.md
+1. [Hezbollah confident any US-Iran deal will include Lebanon, politician says](https://www.arabnews.com/node/2646914/middle-east) - archive: archive/latest/headlines/01-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/content.md
+2. [India summons US diplomat for second time after Gulf ship attacks](https://www.arabnews.com/node/2646903/world) - archive: archive/latest/headlines/02-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/content.md
+3. [Israeli, Palestinian civil society meet in France as two-state solution dims](https://www.arabnews.com/node/2646867/middle-east) - archive: archive/latest/headlines/03-2646867-israeli-palestinian-civil-society-meet-in-france-as-two-state-solution/content.md
+4. [Iran war poses Middle East’s biggest economic shock in five decades](https://www.arabnews.com/node/2646842/business-economy) - archive: archive/latest/headlines/04-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/content.md

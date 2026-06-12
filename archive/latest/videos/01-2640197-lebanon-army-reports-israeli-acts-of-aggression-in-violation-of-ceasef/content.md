@@ -16,14 +16,11 @@ BEIRUT: Lebanon’s army reported “acts of aggression” by Israel on Friday, 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/f24b00bc-fb40-4f18-8976-f9a5a86c086a
+- blob:https://www.arabnews.com/c4930dbc-343a-42c4-95f7-e29c6cd646fc
 - https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
-- https://sync.teads.tv/iframe?pid=231897&gdprIab=%7B%22type%22%3A%22AddEventListenerDoesNotApply%22%2C%22reason%22%3A0%2C%22status%22%3A0%2C%22consent%22%3A%22%22%2C%22apiVersion%22%3A2%2C%22cmpId%22%3A300%7D&fromFormat=true&env=js-web&auctid=b9e8d9ea-5da4-4503-bc71-71108c0a0baa&vid=ddcd5eb8-2518-4d99-923b-eafba13ffb33&us_privacy=1---&1781265708962=
-- https://sync.teads.tv/iframe?pid=253554&fromFormat=true&env=js-web&auctid=84fab8ca-5a29-457b-9617-faad3ffcd277&viewerId=d16525b4-68c7-4940-991f-acfb30b71add
-- https://ep2.adtrafficquality.google/sodar/sodar2/254/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2640197%2Fmiddle-east
 

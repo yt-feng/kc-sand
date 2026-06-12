@@ -18,9 +18,8 @@ RIYADH: The Iran war has delivered the broadest economic shock to the Middle Eas
 
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
 - https://www.google.com/recaptcha/api2/aframe
-- https://sync.teads.tv/iframe?pid=231897&gdprIab=%7B%22type%22%3A%22AddEventListenerDoesNotApply%22%2C%22reason%22%3A0%2C%22status%22%3A0%2C%22consent%22%3A%22%22%2C%22apiVersion%22%3A2%2C%22cmpId%22%3A300%7D&fromFormat=true&env=js-web&auctid=9d61b38b-c819-4148-af4e-232f93b2679c&vid=d16525b4-68c7-4940-991f-acfb30b71add&us_privacy=1---&1781265803335=
+- https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2646842%2Fbusiness-economy
 
 ## Text

@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-06-12T12:04:15.732Z
+Captured at: 2026-06-12T14:16:23.006Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -9,7 +9,7 @@ Errors: 0
 - [Lebanon army reports Israeli ‘acts of aggression’ in ‘violation of ceasefire’](https://www.arabnews.com/node/2640197/middle-east) - ok - `archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/content.md` - video: `rendered-clips/2026-06-12/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4`
 - [Israel and Lebanon agree to 10\-day ceasefire in push for permanent peace deal](https://www.arabnews.com/node/2640092/middle-east) - ok - `archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/content.md` - video: `rendered-clips/2026-06-12/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4`
 - [Southern Lebanon ‘Hezbollah kill zone,’ Israel says](https://www.arabnews.com/node/2640086/middle-east) - ok - `archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md` - video: `rendered-clips/2026-06-12/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4`
-- [US and Iran close to signing peace deal: Axios](https://www.arabnews.com/node/2646877/middle-east) - ok - `archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/content.md`
-- [Iran war poses Middle East’s biggest economic shock in five decades](https://www.arabnews.com/node/2646842/business-economy) - ok - `archive/latest/headlines/02-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/content.md`
-- [Israeli strikes on Lebanon’s Tyre wound 10 hospital staff: CEO](https://www.arabnews.com/node/2646863/middle-east) - ok - `archive/latest/headlines/03-2646863-israeli-strikes-on-lebanon-s-tyre-wound-10-hospital-staff-ceo/content.md`
-- [UN reports record levels of settler violence in the West Bank](https://www.arabnews.com/node/2646837/middle-east) - ok - `archive/latest/headlines/04-2646837-un-reports-record-levels-of-settler-violence-in-the-west-bank/content.md`
+- [Hezbollah confident any US\-Iran deal will include Lebanon, politician says](https://www.arabnews.com/node/2646914/middle-east) - ok - `archive/latest/headlines/01-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/content.md`
+- [India summons US diplomat for second time after Gulf ship attacks](https://www.arabnews.com/node/2646903/world) - ok - `archive/latest/headlines/02-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/content.md`
+- [Israeli, Palestinian civil society meet in France as two\-state solution dims](https://www.arabnews.com/node/2646867/middle-east) - ok - `archive/latest/headlines/03-2646867-israeli-palestinian-civil-society-meet-in-france-as-two-state-solution/content.md`
+- [Iran war poses Middle East’s biggest economic shock in five decades](https://www.arabnews.com/node/2646842/business-economy) - ok - `archive/latest/headlines/04-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/content.md`

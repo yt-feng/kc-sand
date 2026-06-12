@@ -185,14 +185,20 @@ async function expandJwplayerMediaUrls(context, videoUrl) {
 
 function runCommand(command, args, options = {}) {
   return new Promise((resolve, reject) => {
+    const maxBuffer = Number(options.maxBuffer || 0);
+    const { maxBuffer: _maxBuffer, ...spawnOptions } = options;
     const child = spawn(command, args, {
       stdio: ["ignore", "pipe", "pipe"],
-      ...options
+      ...spawnOptions
     });
     let stdout = "";
     let stderr = "";
     child.stdout?.on("data", (chunk) => {
       stdout += chunk;
+      if (maxBuffer > 0 && stdout.length > maxBuffer) {
+        child.kill("SIGTERM");
+        reject(new Error(`${command} stdout exceeded maxBuffer=${maxBuffer}`));
+      }
     });
     child.stderr?.on("data", (chunk) => {
       stderr += chunk;
@@ -210,6 +216,107 @@ function runCommand(command, args, options = {}) {
       }
     });
   });
+}
+
+async function curlFetch(url, timeoutMs = Number(process.env.CURL_TIMEOUT_MS || 90000)) {
+  const timeoutSeconds = Math.max(1, Math.ceil(timeoutMs / 1000));
+  const { stdout } = await runCommand(
+    "curl",
+    [
+      "-fsSL",
+      "--compressed",
+      "--max-time",
+      String(timeoutSeconds),
+      "-A",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+      url
+    ],
+    {
+      maxBuffer: Number(process.env.CURL_MAX_BUFFER || 25_000_000)
+    }
+  );
+  return stdout;
+}
+
+async function extractFromHtml(context, { url, html, mode, limit }) {
+  const page = await context.newPage();
+
+  try {
+    await page.route("**/*", (route) => route.abort()).catch(() => {});
+    await page.setContent(html, {
+      waitUntil: "domcontentloaded",
+      timeout: Number(process.env.HTML_PARSE_TIMEOUT_MS || 30000)
+    });
+
+    const extracted = await page.evaluate(extractArabNewsDocument, {
+      mode,
+      limit,
+      baseUrl: url
+    });
+    const bodyText = await page.locator("body").innerText({ timeout: 5000 }).catch(() => "");
+    const title = await page.title().catch(() => "");
+
+    return {
+      ...extracted,
+      pageUrl: url,
+      responseStatus: 200,
+      responseUrl: url,
+      challengeDetected: extracted.challengeDetected || isCloudflareChallengeText(bodyText, title),
+      html
+    };
+  } finally {
+    await page.close().catch(() => {});
+  }
+}
+
+async function extractWithCurlFallback(context, { url, mode, limit, reason }) {
+  if (process.env.CURL_FALLBACK === "0" || process.env.CURL_FALLBACK === "false") return null;
+
+  try {
+    const html = await curlFetch(url);
+    const extracted = await extractFromHtml(context, { url, html, mode, limit });
+    const diagnostics = {
+      ...extracted.diagnostics,
+      extraction: "curl-html",
+      fallbackReason: reason
+    };
+    const details = {
+      url,
+      responseUrl: extracted.responseUrl,
+      responseStatus: extracted.responseStatus,
+      mode,
+      challengeDetected: extracted.challengeDetected,
+      diagnostics,
+      itemCount: extracted.items.length
+    };
+
+    if (savePageArtifacts || extracted.challengeDetected || extracted.items.length === 0) {
+      await mkdir(artifactDir, { recursive: true });
+      await writeFile(path.join(artifactDir, `arabnews-${mode}-curl.json`), `${JSON.stringify(details, null, 2)}\n`);
+      await writeFile(path.join(artifactDir, `arabnews-${mode}-curl.html`), html);
+    }
+
+    return {
+      ...extracted,
+      diagnostics
+    };
+  } catch (error) {
+    await mkdir(artifactDir, { recursive: true });
+    await writeFile(
+      path.join(artifactDir, `arabnews-${mode}-curl-error.json`),
+      `${JSON.stringify(
+        {
+          url,
+          mode,
+          reason,
+          error: String(error?.stack || error)
+        },
+        null,
+        2
+      )}\n`
+    );
+    return null;
+  }
 }
 
 async function findFfmpegExecutable() {
@@ -398,7 +505,9 @@ async function saveDebug(page, name, details) {
   }
 }
 
-function extractArticleSnapshot() {
+function extractArticleSnapshot(options = {}) {
+  const baseUrl = options.baseUrl || document.location.href;
+
   function clean(value) {
     return String(value || "")
       .replace(/\s+/g, " ")
@@ -412,7 +521,7 @@ function extractArticleSnapshot() {
   function absoluteUrl(value) {
     if (!value) return "";
     try {
-      const url = new URL(value, document.location.href);
+      const url = new URL(value, baseUrl);
       url.hash = "";
       return url.toString();
     } catch {
@@ -465,13 +574,60 @@ function extractArticleSnapshot() {
     published,
     modified,
     author,
-    canonical: absoluteUrl(attr("link[rel='canonical']", "href")) || document.location.href,
+    canonical: absoluteUrl(attr("link[rel='canonical']", "href")) || baseUrl,
     text,
     textLength: text.length,
     videoUrls,
     pageTitle: document.title,
     bodyText: clean(document.body?.innerText || "")
   };
+}
+
+async function extractArticleSnapshotFromHtml(context, itemUrl, html) {
+  const extracted = await extractFromHtml(context, {
+    url: itemUrl,
+    html,
+    mode: "article",
+    limit: 0
+  });
+
+  const page = await context.newPage();
+  try {
+    await page.route("**/*", (route) => route.abort()).catch(() => {});
+    await page.setContent(html, {
+      waitUntil: "domcontentloaded",
+      timeout: Number(process.env.HTML_PARSE_TIMEOUT_MS || 30000)
+    });
+    await page.evaluate((url) => {
+      window.history.replaceState(null, "", url);
+    }, itemUrl).catch(() => {});
+    const snapshot = await page.evaluate(extractArticleSnapshot, {
+      baseUrl: itemUrl
+    });
+
+    const htmlVideoUrls = dedupeUrls([
+      ...[...html.matchAll(/https?:\\?\/\\?\/[^"' <>)]+?(?:\.mp4|\.m3u8)(?:\?[^"' <>)]+)?/gi)].map((match) =>
+        match[0].replaceAll("\\/", "/")
+      ),
+      ...[...html.matchAll(/cdn\.jwplayer\.com\\?\/players\\?\/([A-Za-z0-9]+)-[A-Za-z0-9]+\.js/gi)].map(
+        (match) => `https://cdn.jwplayer.com/manifests/${match[1]}.m3u8`
+      ),
+      ...[...html.matchAll(/cdn\.jwplayer\.com\\?\/v2\\?\/media\\?\/([A-Za-z0-9]+)/gi)].map(
+        (match) => `https://cdn.jwplayer.com/manifests/${match[1]}.m3u8`
+      ),
+      ...[...html.matchAll(/content\.jwplatform\.com\\?\/videos\\?\/([A-Za-z0-9]+)-[^"' <>)]+?\.mp4/gi)].map(
+        (match) => `https://cdn.jwplayer.com/manifests/${match[1]}.m3u8`
+      )
+    ]).filter((url) => isPotentialVideoUrl(url));
+
+    return {
+      ...snapshot,
+      bodyText: snapshot.bodyText || extracted.items.map((candidate) => candidate.title).join("\n"),
+      videoUrls: dedupeUrls([...(snapshot.videoUrls || []), ...htmlVideoUrls])
+    };
+  } finally {
+    await page.close().catch(() => {});
+  }
 }
 
 async function downloadImage(context, imageUrl, directory) {
@@ -566,14 +722,36 @@ async function archiveOneItem(context, group, item, index, targetDate) {
     await page.waitForLoadState("networkidle", { timeout: 15000 }).catch(() => {});
     await page.waitForTimeout(Number(process.env.ARTICLE_WAIT_MS || 1500));
 
-    const snapshot = await page.evaluate(extractArticleSnapshot);
+    let snapshot = await page.evaluate(extractArticleSnapshot, {
+      baseUrl: item.url
+    });
     const bodyText = await page.locator("body").innerText({ timeout: 5000 }).catch(() => "");
     const pageTitle = await page.title().catch(() => "");
-    const challengeDetected = isCloudflareChallengeText(bodyText, pageTitle) || response?.status() === 403;
-    const candidateVideoUrls = dedupeUrls([
+    let challengeDetected = isCloudflareChallengeText(bodyText, pageTitle) || response?.status() === 403;
+    let candidateVideoUrls = dedupeUrls([
       ...mediaUrls,
       ...(snapshot.videoUrls || [])
     ]).filter((url) => isPotentialVideoUrl(url));
+
+    let articleHtmlFallbackUsed = false;
+    if (challengeDetected || (group === "videos" && candidateVideoUrls.length === 0)) {
+      try {
+        const html = await curlFetch(item.url, Number(process.env.ARTICLE_TIMEOUT_MS || 90000));
+        const fallbackSnapshot = await extractArticleSnapshotFromHtml(context, item.url, html);
+        const fallbackChallengeDetected = isCloudflareChallengeText(
+          fallbackSnapshot.bodyText || fallbackSnapshot.text,
+          fallbackSnapshot.pageTitle
+        );
+        if (!fallbackChallengeDetected && (fallbackSnapshot.title || fallbackSnapshot.text || fallbackSnapshot.videoUrls?.length)) {
+          snapshot = fallbackSnapshot;
+          challengeDetected = false;
+          articleHtmlFallbackUsed = true;
+          candidateVideoUrls = dedupeUrls([...(snapshot.videoUrls || [])]).filter((url) => isPotentialVideoUrl(url));
+        }
+      } catch (error) {
+        result.articleHtmlFallbackError = String(error?.message || error);
+      }
+    }
 
     let imageArchive = null;
     const imageUrl = snapshot.image || item.image;
@@ -597,6 +775,7 @@ async function archiveOneItem(context, group, item, index, targetDate) {
       responseStatus: response?.status() ?? null,
       responseUrl: response?.url() || page.url(),
       challengeDetected,
+      articleHtmlFallbackUsed,
       snapshot: {
         title: snapshot.title,
         description: snapshot.description,
@@ -743,6 +922,18 @@ async function gotoAndExtract(context, { url, mode, limit }) {
     }
 
     await page.close();
+    if (challengeDetected || extracted.items.length === 0 || responseStatus >= 400) {
+      const fallback = await extractWithCurlFallback(context, {
+        url,
+        mode,
+        limit,
+        reason: challengeDetected ? "playwright-challenge" : `playwright-status-or-empty:${responseStatus}`
+      });
+      if (fallback && !fallback.challengeDetected && fallback.items.length > 0) {
+        return fallback;
+      }
+    }
+
     return {
       ...extracted,
       responseStatus,
@@ -759,6 +950,16 @@ async function gotoAndExtract(context, { url, mode, limit }) {
       navigationError
     });
     await page.close().catch(() => {});
+    const fallback = await extractWithCurlFallback(context, {
+      url,
+      mode,
+      limit,
+      reason: "playwright-navigation-error"
+    });
+    if (fallback && !fallback.challengeDetected && fallback.items.length > 0) {
+      return fallback;
+    }
+
     return {
       pageUrl: responseUrl,
       pageTitle: "",

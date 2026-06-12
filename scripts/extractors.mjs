@@ -112,7 +112,7 @@ export function dateMatchesTargetDay(value, targetISO, timeZone = "Asia/Riyadh")
 export function extractArabNewsDocument(options = {}) {
   const mode = options.mode || "content";
   const limit = Number(options.limit || 0);
-  const baseUrl = document.location?.href || "https://www.arabnews.com/";
+  const baseUrl = options.baseUrl || document.location?.href || "https://www.arabnews.com/";
 
   function clean(value) {
     return String(value ?? "")

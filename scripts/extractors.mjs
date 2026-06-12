@@ -70,31 +70,7 @@ export function isLikelyArabNewsArticleUrl(url) {
   ];
   if (blockedStarts.some((prefix) => path.startsWith(prefix))) return false;
 
-  if (/^\/node\/\d+/i.test(path)) return true;
-
-  const segments = path.split("/").filter(Boolean);
-  if (segments.length < 2) return false;
-
-  const first = segments[0].toLowerCase();
-  const articleSections = new Set([
-    "art-culture",
-    "business-economy",
-    "features",
-    "food-health",
-    "islam-in-perspective",
-    "lifestyle",
-    "media",
-    "middle-east",
-    "offbeat",
-    "opinion",
-    "pakistan",
-    "saudi-arabia",
-    "sports",
-    "travel",
-    "world"
-  ]);
-
-  return articleSections.has(first);
+  return /^\/node\/\d+/i.test(path);
 }
 
 export function dedupeItemsByUrl(items) {
@@ -193,29 +169,7 @@ export function extractArabNewsDocument(options = {}) {
     ];
     if (blockedStarts.some((prefix) => path.startsWith(prefix))) return false;
 
-    if (/^\/node\/\d+/i.test(path)) return true;
-
-    const segments = path.split("/").filter(Boolean);
-    if (segments.length < 2) return false;
-
-    const first = segments[0].toLowerCase();
-    return [
-      "art-culture",
-      "business-economy",
-      "features",
-      "food-health",
-      "islam-in-perspective",
-      "lifestyle",
-      "media",
-      "middle-east",
-      "offbeat",
-      "opinion",
-      "pakistan",
-      "saudi-arabia",
-      "sports",
-      "travel",
-      "world"
-    ].includes(first);
+    return /^\/node\/\d+/i.test(path);
   }
 
   function isChallenge() {

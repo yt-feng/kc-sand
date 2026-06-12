@@ -17,7 +17,7 @@ test("normalizes Arab News URLs and strips tracking noise", () => {
 
 test("accepts article-like Arab News URLs and rejects listing or utility URLs", () => {
   assert.equal(isLikelyArabNewsArticleUrl("https://www.arabnews.com/node/123/media"), true);
-  assert.equal(isLikelyArabNewsArticleUrl("https://www.arabnews.com/middle-east/example-story"), true);
+  assert.equal(isLikelyArabNewsArticleUrl("https://www.arabnews.com/middle-east/example-story"), false);
   assert.equal(isLikelyArabNewsArticleUrl("https://www.arabnews.com/videos"), false);
   assert.equal(isLikelyArabNewsArticleUrl("https://www.arabnews.com/search/site/foo"), false);
 });

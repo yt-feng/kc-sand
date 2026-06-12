@@ -11,6 +11,8 @@ The scraper uses Playwright instead of `curl`/`fetch` because Arab News currentl
 - `PLAYWRIGHT_PROXY_USERNAME`, optional
 - `PLAYWRIGHT_PROXY_PASSWORD`, optional
 
+As of 2026-06-12, both local direct access and a GitHub-hosted runner returned a `403` Cloudflare challenge without a proxy. The workflow uploads the challenged HTML and screenshot as debug artifacts instead of committing empty data.
+
 ## Local Debug
 
 ```bash

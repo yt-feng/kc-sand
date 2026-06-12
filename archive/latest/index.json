@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-06-12T08:14:26.169Z",
+  "capturedAt": "2026-06-12T08:23:58.599Z",
   "directory": "archive/latest",
   "itemCount": 7,
   "okCount": 7,
@@ -9,92 +9,126 @@
     {
       "group": "videos",
       "index": 0,
-      "title": "Lebanon army reports Israeli ‘acts of aggression’ in ‘violation of ceasefire’",
-      "url": "https://www.arabnews.com/node/2640197/middle-east",
-      "directory": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef",
+      "title": "Lebanon army tells citizens not to return south until Israel truce starts",
+      "url": "https://www.arabnews.com/node/2640164/middle-east",
+      "directory": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta",
       "status": "ok",
       "files": {
-        "metadata": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/metadata.json",
-        "content": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/content.md",
-        "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
+        "metadata": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/metadata.json",
+        "content": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/content.md",
+        "text": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/page-text.txt",
         "html": null,
-        "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg"
+        "image": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/image.jpg",
+        "video": null
       },
       "videoUrls": [
-        "blob:https://www.arabnews.com/5fc84f62-11c7-4d12-9ee8-cfdb2ac966ed",
-        "https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html",
-        "https://static.addtoany.com/menu/sm.25.html",
-        "about:blank",
-        "https://www.google.com/recaptcha/api2/aframe",
-        "https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2640197%2Fmiddle-east"
+        "https://cdn.jwplayer.com/manifests/L7kP4B8o.m3u8",
+        "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=511177.m3u8",
+        "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=661860.m3u8"
       ],
       "image": {
-        "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/17/4703522-1194838547.jpg?itok=s5ymFNV0",
+        "path": "archive/latest/videos/01-2640164-lebanon-army-tells-citizens-not-to-return-south-until-israel-truce-sta/image.jpg",
+        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/16/4703434-250114224.jpg?itok=BTrHxW-R",
         "contentType": "image/jpeg",
-        "bytes": 29077
+        "bytes": 48551
+      },
+      "video": {
+        "skipped": true,
+        "reason": "No candidate video URL could be downloaded.",
+        "errors": [
+          {
+            "url": "https://cdn.jwplayer.com/manifests/L7kP4B8o.m3u8",
+            "error": "spawn ffmpeg ENOENT"
+          },
+          {
+            "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=511177.m3u8",
+            "error": "spawn ffmpeg ENOENT"
+          },
+          {
+            "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6ce7_863f82c41027dbf42da4f27d84a3d0b2100980f5/sites/wPTWN2YS/media/L7kP4B8o/versions/jrTshd04/manifest.ism/manifest-audio_0_msgtoY27_kNWACo34=112068-video_0_msgtoY27_IKXQjbcy=661860.m3u8",
+            "error": "spawn ffmpeg ENOENT"
+          }
+        ]
       }
     },
     {
       "group": "videos",
       "index": 1,
-      "title": "Israel and Lebanon agree to 10-day ceasefire in push for permanent peace deal",
-      "url": "https://www.arabnews.com/node/2640092/middle-east",
-      "directory": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea",
+      "title": "Saudi crown prince, Pakistan PM discuss US-Iran mediation, regional stability",
+      "url": "https://www.arabnews.com/node/2640000/saudi-arabia",
+      "directory": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab",
       "status": "ok",
       "files": {
-        "metadata": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/metadata.json",
-        "content": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/content.md",
-        "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
+        "metadata": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/metadata.json",
+        "content": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/content.md",
+        "text": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/page-text.txt",
         "html": null,
-        "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg"
+        "image": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/image.png",
+        "video": null
       },
       "videoUrls": [
-        "blob:https://www.arabnews.com/96f20f0d-d871-41eb-91d9-68a5a78bd747",
-        "https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html",
-        "https://truthsocial.com/@realDonaldTrump/116415122630904602/embed",
-        "https://platform.twitter.com/embed/Tweet.html?creatorScreenName=Arab_News&creatorUserId=69172612&dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=2044852243204042838&lang=en&origin=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2640092%2Fmiddle-east&sessionId=1912f87450062c00ebe586cc84e32df1e81c712f&siteScreenName=Arab_News&siteUserId=69172612&theme=light&widgetsVersion=6a3ad42b224df%3A1778106238597&width=600px",
-        "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.arabnews.com",
-        "https://static.addtoany.com/menu/sm.25.html",
-        "about:blank",
-        "https://www.google.com/recaptcha/api2/aframe",
-        "https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2640092%2Fmiddle-east"
+        "https://cdn.jwplayer.com/manifests/Ow7kiO7T.m3u8",
+        "https://videos-cloudfront-usp.jwpsrv.com/6a2c6e1f_2ca3c9cf7e662d1a437f67c2d060d605e423dffb/sites/wPTWN2YS/media/Ow7kiO7T/versions/5TcbEMUF/manifest.ism/manifest-audio_0_VpQRK8nh_uC45I53l=112062-video_0_VpQRK8nh_o2Ghq3aE=607333.m3u8"
       ],
       "image": {
-        "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/16/4703407-605667276.jpg?itok=CL-hBXdJ",
-        "contentType": "image/jpeg",
-        "bytes": 43576
+        "path": "archive/latest/videos/02-2640000-saudi-crown-prince-pakistan-pm-discuss-us-iran-mediation-regional-stab/image.png",
+        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/15/4703160-1688235746.png?itok=X30YRGW9",
+        "contentType": "image/png",
+        "bytes": 388407
+      },
+      "video": {
+        "skipped": true,
+        "reason": "No candidate video URL could be downloaded.",
+        "errors": [
+          {
+            "url": "https://cdn.jwplayer.com/manifests/Ow7kiO7T.m3u8",
+            "error": "spawn ffmpeg ENOENT"
+          },
+          {
+            "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6e1f_2ca3c9cf7e662d1a437f67c2d060d605e423dffb/sites/wPTWN2YS/media/Ow7kiO7T/versions/5TcbEMUF/manifest.ism/manifest-audio_0_VpQRK8nh_uC45I53l=112062-video_0_VpQRK8nh_o2Ghq3aE=607333.m3u8",
+            "error": "spawn ffmpeg ENOENT"
+          }
+        ]
       }
     },
     {
       "group": "videos",
       "index": 2,
-      "title": "Southern Lebanon ‘Hezbollah kill zone,’ Israel says",
-      "url": "https://www.arabnews.com/node/2640086/middle-east",
-      "directory": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says",
+      "title": "Pakistan army chief arrives in Tehran as push grows for second round of US-Iran talks",
+      "url": "https://www.arabnews.com/node/2640035/middle-east",
+      "directory": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o",
       "status": "ok",
       "files": {
-        "metadata": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/metadata.json",
-        "content": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md",
-        "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
+        "metadata": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/metadata.json",
+        "content": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/content.md",
+        "text": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/page-text.txt",
         "html": null,
-        "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg"
+        "image": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/image.jpg",
+        "video": null
       },
       "videoUrls": [
-        "blob:https://www.arabnews.com/65b31ad4-286c-4c63-877a-530e356765ce",
-        "https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html",
-        "https://static.addtoany.com/menu/sm.25.html",
-        "about:blank",
-        "https://www.google.com/recaptcha/api2/aframe",
-        "https://sync.teads.tv/wigo-no-slot",
-        "https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2640086%2Fmiddle-east"
+        "https://cdn.jwplayer.com/manifests/Ctqc7TwU.m3u8",
+        "https://videos-cloudfront-usp.jwpsrv.com/6a2c6c2f_69196e0c3b1a17d738d13cd0f5d03157c08a723b/sites/wPTWN2YS/media/Ctqc7TwU/versions/COxWH5EP/manifest.ism/manifest-audio_0_GVkBrZqM_DyRH7BUD=112131-video_0_GVkBrZqM_WSWL58P2=472706.m3u8"
       ],
       "image": {
-        "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/16/4703301-2012512905.jpg?itok=fknboKTg",
+        "path": "archive/latest/videos/03-2640035-pakistan-army-chief-arrives-in-tehran-as-push-grows-for-second-round-o/image.jpg",
+        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/15/4703107-1537595281.jpeg?itok=K4kXp1kK",
         "contentType": "image/jpeg",
-        "bytes": 35132
+        "bytes": 38887
+      },
+      "video": {
+        "skipped": true,
+        "reason": "No candidate video URL could be downloaded.",
+        "errors": [
+          {
+            "url": "https://cdn.jwplayer.com/manifests/Ctqc7TwU.m3u8",
+            "error": "spawn ffmpeg ENOENT"
+          },
+          {
+            "url": "https://videos-cloudfront-usp.jwpsrv.com/6a2c6c2f_69196e0c3b1a17d738d13cd0f5d03157c08a723b/sites/wPTWN2YS/media/Ctqc7TwU/versions/COxWH5EP/manifest.ism/manifest-audio_0_GVkBrZqM_DyRH7BUD=112131-video_0_GVkBrZqM_WSWL58P2=472706.m3u8",
+            "error": "spawn ffmpeg ENOENT"
+          }
+        ]
       }
     },
     {
@@ -109,21 +143,17 @@
         "content": "archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/content.md",
         "text": "archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/page-text.txt",
         "html": null,
-        "image": "archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/image.jpg"
+        "image": "archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/image.jpg",
+        "video": null
       },
-      "videoUrls": [
-        "https://static.addtoany.com/menu/sm.25.html",
-        "about:blank",
-        "https://www.google.com/recaptcha/api2/aframe",
-        "https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html",
-        "https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2646877%2Fmiddle-east"
-      ],
+      "videoUrls": [],
       "image": {
         "path": "archive/latest/headlines/01-2646877-us-and-iran-close-to-signing-peace-deal-axios/image.jpg",
         "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4720975-1644179895.jpg?itok=C81ki7_M",
         "contentType": "image/jpeg",
         "bytes": 28012
-      }
+      },
+      "video": null
     },
     {
       "group": "headlines",
@@ -137,22 +167,17 @@
         "content": "archive/latest/headlines/02-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/content.md",
         "text": "archive/latest/headlines/02-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/page-text.txt",
         "html": null,
-        "image": "archive/latest/headlines/02-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/image.jpg"
+        "image": "archive/latest/headlines/02-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/image.jpg",
+        "video": null
       },
-      "videoUrls": [
-        "https://9c2497a1e5f84befc768ca7f0f77d33c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
-        "https://static.addtoany.com/menu/sm.25.html",
-        "about:blank",
-        "https://www.google.com/recaptcha/api2/aframe",
-        "https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html",
-        "https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2646842%2Fbusiness-economy"
-      ],
+      "videoUrls": [],
       "image": {
         "path": "archive/latest/headlines/02-2646842-iran-war-poses-middle-east-s-biggest-economic-shock-in-five-decades/image.jpg",
         "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/11/4720882-1865709236.jpg?itok=Ia-BgL2E",
         "contentType": "image/jpeg",
         "bytes": 59600
-      }
+      },
+      "video": null
     },
     {
       "group": "headlines",
@@ -166,22 +191,17 @@
         "content": "archive/latest/headlines/03-2646863-israeli-strikes-on-lebanon-s-tyre-wound-10-hospital-staff-ceo/content.md",
         "text": "archive/latest/headlines/03-2646863-israeli-strikes-on-lebanon-s-tyre-wound-10-hospital-staff-ceo/page-text.txt",
         "html": null,
-        "image": "archive/latest/headlines/03-2646863-israeli-strikes-on-lebanon-s-tyre-wound-10-hospital-staff-ceo/image.jpg"
+        "image": "archive/latest/headlines/03-2646863-israeli-strikes-on-lebanon-s-tyre-wound-10-hospital-staff-ceo/image.jpg",
+        "video": null
       },
-      "videoUrls": [
-        "https://static.addtoany.com/menu/sm.25.html",
-        "about:blank",
-        "https://www.google.com/recaptcha/api2/aframe",
-        "https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html",
-        "https://sync.teads.tv/wigo-no-slot",
-        "https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2646863%2Fmiddle-east"
-      ],
+      "videoUrls": [],
       "image": {
         "path": "archive/latest/headlines/03-2646863-israeli-strikes-on-lebanon-s-tyre-wound-10-hospital-staff-ceo/image.jpg",
         "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4720944-1890248497.jpg?itok=sK8cQXlm",
         "contentType": "image/jpeg",
         "bytes": 46269
-      }
+      },
+      "video": null
     },
     {
       "group": "headlines",
@@ -195,22 +215,17 @@
         "content": "archive/latest/headlines/04-2646837-un-reports-record-levels-of-settler-violence-in-the-west-bank/content.md",
         "text": "archive/latest/headlines/04-2646837-un-reports-record-levels-of-settler-violence-in-the-west-bank/page-text.txt",
         "html": null,
-        "image": "archive/latest/headlines/04-2646837-un-reports-record-levels-of-settler-violence-in-the-west-bank/image.jpg"
+        "image": "archive/latest/headlines/04-2646837-un-reports-record-levels-of-settler-violence-in-the-west-bank/image.jpg",
+        "video": null
       },
-      "videoUrls": [
-        "https://static.addtoany.com/menu/sm.25.html",
-        "about:blank",
-        "https://www.google.com/recaptcha/api2/aframe",
-        "https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html",
-        "https://sync.teads.tv/wigo-no-slot",
-        "https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2646837%2Fmiddle-east"
-      ],
+      "videoUrls": [],
       "image": {
         "path": "archive/latest/headlines/04-2646837-un-reports-record-levels-of-settler-violence-in-the-west-bank/image.jpg",
         "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/11/4720876-1393217692.jpg?itok=nKKLxJJ0",
         "contentType": "image/jpeg",
         "bytes": 40959
-      }
+      },
+      "video": null
     }
   ]
 }

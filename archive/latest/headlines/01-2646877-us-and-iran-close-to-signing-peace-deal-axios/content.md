@@ -19,7 +19,6 @@ DUBAI: A report from Axios said that US and Iran are close to signing a memorand
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
-- https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2646877%2Fmiddle-east
 
 ## Text

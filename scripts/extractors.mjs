@@ -324,6 +324,37 @@ export function extractArabNewsDocument(options = {}) {
     return candidates.length > 0 ? candidates : collectAllContentCandidates();
   }
 
+  function isAfterElement(element, start) {
+    if (!start) return true;
+    return Boolean(start.compareDocumentPosition(element) & Node.DOCUMENT_POSITION_FOLLOWING);
+  }
+
+  function isBeforeElement(element, end) {
+    if (!end) return true;
+    return Boolean(element.compareDocumentPosition(end) & Node.DOCUMENT_POSITION_FOLLOWING);
+  }
+
+  function collectVideoPageCandidates() {
+    const headings = [...document.querySelectorAll("h1, h2, h3, h4, h5")];
+    const start = headings.find((heading) => /^video$/i.test(clean(heading.textContent)));
+    const end = headings.find(
+      (heading) => /^(most popular|email alerts)$/i.test(clean(heading.textContent)) && isAfterElement(heading, start)
+    );
+
+    const anchors =
+      start || end
+        ? [...document.querySelectorAll("a[href]")].filter(
+            (anchor) => isAfterElement(anchor, start) && isBeforeElement(anchor, end)
+          )
+        : [...document.querySelectorAll("a[href]")];
+
+    const candidates = anchors
+      .map((anchor, index) => anchorCandidate(anchor, "video-page", index))
+      .filter(Boolean);
+
+    return candidates.length > 0 ? candidates : collectAllContentCandidates();
+  }
+
   function collectJsonLdCandidates() {
     const candidates = [];
     let order = 0;
@@ -396,19 +427,10 @@ export function extractArabNewsDocument(options = {}) {
   let items;
   if (mode === "home-top-headlines") {
     items = collectTopHeadlineCandidates();
+  } else if (mode === "videos") {
+    items = collectVideoPageCandidates();
   } else {
     items = collectAllContentCandidates();
-  }
-
-  if (mode === "videos") {
-    const videoish = items.filter((item) => {
-      const url = new URL(item.url);
-      const haystack = `${url.pathname} ${item.section} ${item.title}`.toLowerCase();
-      return haystack.includes("video") || haystack.includes("/media") || haystack.includes("/videos");
-    });
-    if (videoish.length >= Math.min(limit || 3, 3)) {
-      items = videoish;
-    }
   }
 
   items = dedupe([...items, ...collectJsonLdCandidates()]);

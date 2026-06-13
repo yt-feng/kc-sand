@@ -1,17 +1,39 @@
 {
-  "fetchedAt": "2026-06-13T05:25:56.092Z",
+  "fetchedAt": "2026-06-13T05:47:08.243Z",
   "window": {
     "hours": 24,
-    "start": "2026-06-12T05:25:56.092Z",
-    "end": "2026-06-13T05:25:56.092Z",
+    "start": "2026-06-12T05:47:08.243Z",
+    "end": "2026-06-13T05:47:08.243Z",
     "futureLeewayMinutes": 15
   },
-  "itemCount": 96,
+  "itemCount": 95,
   "items": [
+    {
+      "title": "Trump says US military strike killed leader of Venezuela’s Tren de Aragua gang",
+      "url": "https://www.arabnews.com/node/2647005/world",
+      "section": "world",
+      "publishedAt": "2026-06-13T05:35:35.000Z",
+      "publishedRaw": "2026-06-13T08:35:35+03:00",
+      "modifiedAt": "2026-06-13T05:36:06.000Z",
+      "modifiedRaw": "2026-06-13T08:36:06+03:00",
+      "description": "WASHINGTON DC: President Donald Trump on Friday said US forces carried out a strike that killed ​Hector Rusthenford Guerrero Flores, also known as Niño Guerrero, the leader of Venezuelan prison gang Tren de Aragua. “At my direction, the United States Southern Command delivered a swift and lethal kinetic strike to successfully execute Nino Guerrero the infamous leader of Tren",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721324-1767735184.jpg?itok=CHcgXCO7",
+      "author": "Reuters",
+      "nodeId": 2647005,
+      "candidateUrl": "https://www.arabnews.com/node/2647005/world",
+      "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 10
+        }
+      ]
+    },
     {
       "title": "After epic comeback, Knicks head to San Antonio on brink of NBA title",
       "url": "https://www.arabnews.com/node/2647001/sport",
-      "section": "After epic comeback, Knicks head to San Antonio on brink of NBA title",
+      "section": "sport",
       "publishedAt": "2026-06-13T03:48:52.000Z",
       "publishedRaw": "2026-06-13T06:48:52+03:00",
       "modifiedAt": "2026-06-13T03:49:43.000Z",
@@ -22,6 +44,12 @@
       "nodeId": 2647001,
       "candidateUrl": "https://www.arabnews.com/node/2647001/sport",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 0
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -49,12 +77,6 @@
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
-          "datePublished": null,
-          "order": 0
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 0
         },
@@ -87,7 +109,7 @@
     {
       "title": "Judge rejects bid to halt removal of Trump’s name from Kennedy Center",
       "url": "https://www.arabnews.com/node/2647000/world",
-      "section": "Woman seriously injured in shark attack at Sydney beach",
+      "section": "world",
       "publishedAt": "2026-06-13T03:44:39.000Z",
       "publishedRaw": "2026-06-13T06:44:39+03:00",
       "modifiedAt": "2026-06-13T03:44:39.000Z",
@@ -98,6 +120,12 @@
       "nodeId": 2647000,
       "candidateUrl": "https://www.arabnews.com/node/2647000/world",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 1
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -132,7 +160,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 1
+          "order": 22
         },
         {
           "source": "dom",
@@ -157,7 +185,7 @@
     {
       "title": "Woman seriously injured in shark attack at Sydney beach",
       "url": "https://www.arabnews.com/node/2646999/world",
-      "section": "Woman seriously injured in shark attack at Sydney beach",
+      "section": "world",
       "publishedAt": "2026-06-13T03:43:16.000Z",
       "publishedRaw": "2026-06-13T06:43:16+03:00",
       "modifiedAt": "2026-06-13T03:44:58.000Z",
@@ -168,6 +196,12 @@
       "nodeId": 2646999,
       "candidateUrl": "https://www.arabnews.com/node/2646999/world",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 2
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -202,7 +236,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 2
+          "order": 23
         },
         {
           "source": "dom",
@@ -227,7 +261,7 @@
     {
       "title": "US opens its home World Cup with a dynamic 4-1 victory over Paraguay, sparked by Balogun’s 2 goals",
       "url": "https://www.arabnews.com/node/2646998/sport",
-      "section": "Assad general wanted for human rights violations arrested",
+      "section": "sport",
       "publishedAt": "2026-06-13T03:35:53.000Z",
       "publishedRaw": "2026-06-13T06:35:53+03:00",
       "modifiedAt": "2026-06-13T03:37:04.000Z",
@@ -238,6 +272,12 @@
       "nodeId": 2646998,
       "candidateUrl": "https://www.arabnews.com/node/2646998/sport",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 3
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -272,7 +312,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 3
+          "order": 0
         },
         {
           "source": "dom",
@@ -303,7 +343,7 @@
     {
       "title": "Assad general wanted for human rights violations arrested",
       "url": "https://www.arabnews.com/node/2646997/middle-east",
-      "section": "Related Middle East Syria uncovers mass grave of 2014 opposition fighters in Sednaya Middle East Syria probes ministry cyberattack as sensitive documents appear online",
+      "section": "middle east",
       "publishedAt": "2026-06-13T03:12:13.000Z",
       "publishedRaw": "2026-06-13T06:12:13+03:00",
       "modifiedAt": "2026-06-13T03:14:01.000Z",
@@ -314,6 +354,12 @@
       "nodeId": 2646997,
       "candidateUrl": "https://www.arabnews.com/node/2646997/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 4
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -348,7 +394,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 4
+          "order": 1
         },
         {
           "source": "dom",
@@ -379,7 +425,7 @@
     {
       "title": "Syria uncovers mass grave of 2014 opposition fighters in Sednaya",
       "url": "https://www.arabnews.com/node/2646996/middle-east",
-      "section": "Related Middle East Syrian president has no intention of intervening in Lebanon: sources",
+      "section": "middle east",
       "publishedAt": "2026-06-13T02:42:46.000Z",
       "publishedRaw": "2026-06-13T05:42:46+03:00",
       "modifiedAt": "2026-06-13T02:43:26.000Z",
@@ -390,6 +436,12 @@
       "nodeId": 2646996,
       "candidateUrl": "https://www.arabnews.com/node/2646996/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 5
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -424,7 +476,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 5
+          "order": 2
         },
         {
           "source": "dom",
@@ -455,7 +507,7 @@
     {
       "title": "Anthropic cuts access to powerful AI models over government ‘national security’ order",
       "url": "https://www.arabnews.com/node/2646995/business-economy",
-      "section": "Related World Anthropic’s Mythos model accessed by unauthorized users, Bloomberg News reports World What to know about the clash between the Pentagon and Anthropic over military’s AI use",
+      "section": "business economy",
       "publishedAt": "2026-06-13T01:30:39.000Z",
       "publishedRaw": "2026-06-13T04:30:39+03:00",
       "modifiedAt": "2026-06-13T02:12:44.000Z",
@@ -466,6 +518,12 @@
       "nodeId": 2646995,
       "candidateUrl": "https://www.arabnews.com/node/2646995/business-economy",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 6
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -500,7 +558,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 6
+          "order": 3
         },
         {
           "source": "dom",
@@ -537,7 +595,7 @@
     {
       "title": "US says downed multiple Iran drones as both insist deal closer",
       "url": "https://www.arabnews.com/node/2646994/middle-east",
-      "section": "Related Update Middle East Iran deal very close, signing possible in coming days, US official says video Pakistan Trump says Iran deal in ‘final shape,’ credits Pakistan and Gulf states for facilitation",
+      "section": "middle east",
       "publishedAt": "2026-06-12T23:52:46.000Z",
       "publishedRaw": "2026-06-13T02:52:46+03:00",
       "modifiedAt": "2026-06-13T05:26:22.000Z",
@@ -548,6 +606,12 @@
       "nodeId": 2646994,
       "candidateUrl": "https://www.arabnews.com/node/2646994/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 7
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -582,7 +646,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 7
+          "order": 4
         },
         {
           "source": "dom",
@@ -625,7 +689,7 @@
     {
       "title": "Iran-born engineer wins bail ahead of US tech export trial",
       "url": "https://www.arabnews.com/node/2646993/world",
-      "section": "Related World Migrants deported from US, including an Iranian woman, arrive in Central African Republic Middle East UAE denies media reports alleging transfer of funds to Iran",
+      "section": "world",
       "publishedAt": "2026-06-12T23:36:53.000Z",
       "publishedRaw": "2026-06-13T02:36:53+03:00",
       "modifiedAt": "2026-06-12T23:36:53.000Z",
@@ -636,6 +700,12 @@
       "nodeId": 2646993,
       "candidateUrl": "https://www.arabnews.com/node/2646993/world",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 8
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -676,7 +746,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 8
+          "order": 5
         },
         {
           "source": "dom",
@@ -719,7 +789,7 @@
     {
       "title": "Early date harvest arrives in Al-Ahsa central markets",
       "url": "https://www.arabnews.com/node/2646992/saudi-arabia",
-      "section": "Hezbollah says it confronted Israeli troops advancing in south Lebanon",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T23:34:18.000Z",
       "publishedRaw": "2026-06-13T02:34:18+03:00",
       "modifiedAt": "2026-06-12T23:34:18.000Z",
@@ -730,6 +800,12 @@
       "nodeId": 2646992,
       "candidateUrl": "https://www.arabnews.com/node/2646992/saudi-arabia",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 32
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -753,7 +829,7 @@
     {
       "title": "Hezbollah says it confronted Israeli troops advancing in south Lebanon",
       "url": "https://www.arabnews.com/node/2646987/middle-east",
-      "section": "Related Middle East Hezbollah confident any US-Iran deal will include Lebanon, politician says Special graphic Middle East Analysis: What happens next in Lebanon as Hezbollah rejects ceasefire with Israel?",
+      "section": "middle east",
       "publishedAt": "2026-06-12T23:02:02.000Z",
       "publishedRaw": "2026-06-13T02:02:02+03:00",
       "modifiedAt": "2026-06-13T05:17:48.000Z",
@@ -764,6 +840,12 @@
       "nodeId": 2646987,
       "candidateUrl": "https://www.arabnews.com/node/2646987/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 9
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -804,7 +886,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 9
+          "order": 6
         },
         {
           "source": "dom",
@@ -847,7 +929,7 @@
     {
       "title": "Denmark and Pakistan push for end to impunity for violence against UN peacekeepers",
       "url": "https://www.arabnews.com/node/2646986/world",
-      "section": "Related Middle East UN peacekeeping chief outlines options for post-UNIFIL monitoring force in southern Lebanon Special Middle East What UNIFIL’s looming departure means for Lebanon’s volatile southern border",
+      "section": "world",
       "publishedAt": "2026-06-12T23:01:16.000Z",
       "publishedRaw": "2026-06-13T02:01:16+03:00",
       "modifiedAt": "2026-06-12T23:01:16.000Z",
@@ -858,6 +940,12 @@
       "nodeId": 2646986,
       "candidateUrl": "https://www.arabnews.com/node/2646986/world",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 14
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -874,7 +962,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 10
+          "order": 11
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 7
         },
         {
           "source": "dom",
@@ -899,7 +993,7 @@
     {
       "title": "Migrants deported from US, including an Iranian woman, arrive in Central African Republic",
       "url": "https://www.arabnews.com/node/2646985/world",
-      "section": "Related video World UN refugee agency chief suggests that US deportation practices violate the law World Right group urges Africa nations to reject US deportee deals",
+      "section": "world",
       "publishedAt": "2026-06-12T22:37:49.000Z",
       "publishedRaw": "2026-06-13T01:37:49+03:00",
       "modifiedAt": "2026-06-12T22:45:27.000Z",
@@ -920,7 +1014,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 11
+          "order": 12
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 8
         },
         {
           "source": "dom",
@@ -945,7 +1045,7 @@
     {
       "title": "UAE denies media reports alleging transfer of funds to Iran",
       "url": "https://www.arabnews.com/node/2646984/middle-east",
-      "section": "UAE denies media reports alleging transfer of funds to Iran",
+      "section": "middle east",
       "publishedAt": "2026-06-12T22:03:53.000Z",
       "publishedRaw": "2026-06-13T01:03:53+03:00",
       "modifiedAt": "2026-06-12T22:04:07.000Z",
@@ -956,6 +1056,12 @@
       "nodeId": 2646984,
       "candidateUrl": "https://www.arabnews.com/node/2646984/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 12
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -973,7 +1079,7 @@
     {
       "title": "India FM calls Rubio over Gulf ship attacks",
       "url": "https://www.arabnews.com/node/2646983/world",
-      "section": "Related Update Middle East Iran deal very close, signing possible in coming days, US official says Middle East UAE denies media reports alleging transfer of funds to Iran",
+      "section": "world",
       "publishedAt": "2026-06-12T21:49:26.000Z",
       "publishedRaw": "2026-06-13T00:49:26+03:00",
       "modifiedAt": "2026-06-12T22:19:18.000Z",
@@ -984,6 +1090,12 @@
       "nodeId": 2646983,
       "candidateUrl": "https://www.arabnews.com/node/2646983/world",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 29
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1006,7 +1118,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 12
+          "order": 13
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 9
         },
         {
           "source": "dom",
@@ -1031,7 +1149,7 @@
     {
       "title": "Canada’s Larin rescues draw with late goal against Bosnia in Group B opener",
       "url": "https://www.arabnews.com/node/2646982/football",
-      "section": "Related Sport Mexico beat South Africa to kick off World Cup Sport Infantino quips that even Italy might qualify if World Cup expanded",
+      "section": "football",
       "publishedAt": "2026-06-12T21:46:13.000Z",
       "publishedRaw": "2026-06-13T00:46:13+03:00",
       "modifiedAt": "2026-06-12T21:53:08.000Z",
@@ -1042,6 +1160,12 @@
       "nodeId": 2646982,
       "candidateUrl": "https://www.arabnews.com/node/2646982/football",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 46
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1083,7 +1207,7 @@
     {
       "title": "US clears Paramount’s $111 bn Warner Bros. takeover: reports",
       "url": "https://www.arabnews.com/node/2646981/world",
-      "section": "Related Offbeat Hollywood stars sign open letter against Paramount-Warner deal Media Netflix walks away from Warner Bros deal, clearing the path for Paramount",
+      "section": "world",
       "publishedAt": "2026-06-12T21:41:35.000Z",
       "publishedRaw": "2026-06-13T00:41:35+03:00",
       "modifiedAt": "2026-06-12T21:41:35.000Z",
@@ -1098,14 +1222,14 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 13
+          "order": 14
         }
       ]
     },
     {
       "title": "SpaceX stock soars in debut and makes Elon Musk the first trillionaire",
       "url": "https://www.arabnews.com/node/2646980/world",
-      "section": "Related Business & Economy Kingdom Holding says SpaceX stake could be worth nearly $6bn after IPO Update World SpaceX’s enormous Starship splashes down after test flight",
+      "section": "world",
       "publishedAt": "2026-06-12T21:03:03.000Z",
       "publishedRaw": "2026-06-13T00:03:03+03:00",
       "modifiedAt": "2026-06-12T21:03:03.000Z",
@@ -1120,14 +1244,14 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 14
+          "order": 15
         }
       ]
     },
     {
       "title": "Syrian president has no intention of intervening in Lebanon: sources",
       "url": "https://www.arabnews.com/node/2646979/middle-east",
-      "section": "Related Middle East 1.3 million UN-registered refugees return to Syria in 2025 Middle East Syria probes ministry cyberattack as sensitive documents appear online",
+      "section": "middle east",
       "publishedAt": "2026-06-12T20:51:16.000Z",
       "publishedRaw": "2026-06-12T23:51:16+03:00",
       "modifiedAt": "2026-06-12T20:51:16.000Z",
@@ -1138,6 +1262,12 @@
       "nodeId": 2646979,
       "candidateUrl": "https://www.arabnews.com/node/2646979/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 13
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1173,7 +1303,7 @@
     {
       "title": "Scientists decipher ancient origins of the Euphrates River",
       "url": "https://www.arabnews.com/node/2646978/offbeat",
-      "section": "Related Middle East Syria closes final spillway gate at Euphrates Dam, 2 weeks after floods Middle East Euphrates flood deprives east Syria farmers of crops",
+      "section": "offbeat",
       "publishedAt": "2026-06-12T20:43:51.000Z",
       "publishedRaw": "2026-06-12T23:43:51+03:00",
       "modifiedAt": "2026-06-12T20:43:51.000Z",
@@ -1201,7 +1331,7 @@
     {
       "title": "What do Iraq’s latest militia disarmament pledges really mean for state authority?",
       "url": "https://www.arabnews.com/node/2646977/middle-east",
-      "section": "Hassan Al-Mustafa Iraq’s long road to reclaiming the factions’ weapons",
+      "section": "middle east",
       "publishedAt": "2026-06-12T20:43:51.000Z",
       "publishedRaw": "2026-06-12T23:43:51+03:00",
       "modifiedAt": "2026-06-13T03:55:16.000Z",
@@ -1212,6 +1342,12 @@
       "nodeId": 2646977,
       "candidateUrl": "https://www.arabnews.com/node/2646977/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 10
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1252,7 +1388,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 22
+          "order": 24
         },
         {
           "source": "dom",
@@ -1295,7 +1431,7 @@
     {
       "title": "Britain says full import ban on Russian diesel, jet fuel will happen by 2027",
       "url": "https://www.arabnews.com/node/2646976/world",
-      "section": "Related Update World Ukraine ally Britain eases new sanctions on Russian oil as fuel prices surge over Iran war World US House passes bill to aid Ukraine and impose new sanctions on Russia",
+      "section": "world",
       "publishedAt": "2026-06-12T20:31:30.000Z",
       "publishedRaw": "2026-06-12T23:31:30+03:00",
       "modifiedAt": "2026-06-12T20:36:09.000Z",
@@ -1316,14 +1452,14 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 15
+          "order": 16
         }
       ]
     },
     {
       "title": "Shakira, Andrea Bocelli and Salma Hayek light up opening ceremony in Mexico City",
       "url": "https://www.arabnews.com/node/2646975/sport",
-      "section": "Related Lifestyle Shakira and Burna Boy warm up spectators in World Cup opening ceremony photos Lifestyle Elyanna and Nora Fatehi bring Arab representation to World Cup opening ceremony in Canada",
+      "section": "sport",
       "publishedAt": "2026-06-12T20:20:05.000Z",
       "publishedRaw": "2026-06-12T23:20:05+03:00",
       "modifiedAt": "2026-06-12T20:21:36.000Z",
@@ -1351,7 +1487,7 @@
     {
       "title": "Sweden strike force faces tough Tunisia test in opener",
       "url": "https://www.arabnews.com/node/2646974/sport",
-      "section": "Related Sport Sweden’s injured Holm misses World Cup, Johansson called up Sport McTominay ‘ready to go’ for Scotland World Cup opener",
+      "section": "sport",
       "publishedAt": "2026-06-12T20:15:01.000Z",
       "publishedRaw": "2026-06-12T23:15:01+03:00",
       "modifiedAt": "2026-06-12T20:19:21.000Z",
@@ -1379,7 +1515,7 @@
     {
       "title": "McTominay ‘ready to go’ for Scotland World Cup opener",
       "url": "https://www.arabnews.com/node/2646972/sport",
-      "section": "Related Sport Infantino quips that even Italy might qualify if World Cup expanded Sport Fans hope ‘Orange Street’ guides Dutch to World Cup victory",
+      "section": "sport",
       "publishedAt": "2026-06-12T19:51:34.000Z",
       "publishedRaw": "2026-06-12T22:51:34+03:00",
       "modifiedAt": "2026-06-12T19:54:23.000Z",
@@ -1401,7 +1537,7 @@
     {
       "title": "Malaysia summit urges religious diplomacy, youth engagement amid rising global tensions",
       "url": "https://www.arabnews.com/node/2646970/saudi-arabia",
-      "section": "Related Saudi Arabia MWL chief meets Malaysian scholars in Kuala Lumpur Saudi Arabia MWL chief calls for ‘bridge-building’ religious dialogue",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T19:48:55.000Z",
       "publishedRaw": "2026-06-12T22:48:55+03:00",
       "modifiedAt": "2026-06-12T19:48:55.000Z",
@@ -1412,6 +1548,12 @@
       "nodeId": 2646970,
       "candidateUrl": "https://www.arabnews.com/node/2646970/saudi-arabia",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 33
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1429,7 +1571,7 @@
     {
       "title": "When the environment becomes infrastructure",
       "url": "https://www.arabnews.com/node/2646969",
-      "section": "Mohammed Qurban June 12, 2026 22:26",
+      "section": "node",
       "publishedAt": "2026-06-12T19:31:18.000Z",
       "publishedRaw": "2026-06-12T22:31:18+03:00",
       "modifiedAt": "2026-06-12T19:32:15.000Z",
@@ -1440,6 +1582,12 @@
       "nodeId": 2646969,
       "candidateUrl": "https://www.arabnews.com/node/2646969",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 23
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1463,7 +1611,7 @@
     {
       "title": "Heat accelerates shift to smarter farming in MENA region",
       "url": "https://www.arabnews.com/node/2646967/saudi-arabia",
-      "section": "Related Saudi Arabia Seed banks emerge as backbone of Saudi restoration efforts Special graphic Business & Economy How Saudi Arabia is engineering its food future",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T19:24:16.000Z",
       "publishedRaw": "2026-06-12T22:24:16+03:00",
       "modifiedAt": "2026-06-12T19:24:16.000Z",
@@ -1474,6 +1622,12 @@
       "nodeId": 2646967,
       "candidateUrl": "https://www.arabnews.com/node/2646967/saudi-arabia",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 11
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1491,7 +1645,7 @@
     {
       "title": "EU says to resume membership talks with Ukraine on Monday",
       "url": "https://www.arabnews.com/node/2646965/world",
-      "section": "Related World Ukraine to request $20 bln to keep momentum against Russia, source says World Ukraine hits fuel supplies to Crimea, sparking a fuel crisis on the Russian-held peninsula",
+      "section": "world",
       "publishedAt": "2026-06-12T19:09:01.000Z",
       "publishedRaw": "2026-06-12T22:09:01+03:00",
       "modifiedAt": "2026-06-12T19:12:06.000Z",
@@ -1504,6 +1658,12 @@
       "sources": [
         {
           "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 17
+        },
+        {
+          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
           "datePublished": null,
           "order": 17
@@ -1512,7 +1672,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 16
+          "order": 17
         },
         {
           "source": "dom",
@@ -1531,7 +1691,7 @@
     {
       "title": "Elyanna and Nora Fatehi bring Arab representation to World Cup opening ceremony in Canada",
       "url": "https://www.arabnews.com/node/2646964/lifestyle",
-      "section": "Related Lifestyle Shakira and Burna Boy warm up spectators in World Cup opening ceremony Saudi Arabia From Saudi factory floor to World Cup stage … FPC fabric crowns Mexico’s Azteca Stadium",
+      "section": "lifestyle",
       "publishedAt": "2026-06-12T19:04:39.000Z",
       "publishedRaw": "2026-06-12T22:04:39+03:00",
       "modifiedAt": "2026-06-12T22:56:18.000Z",
@@ -1542,6 +1702,12 @@
       "nodeId": 2646964,
       "candidateUrl": "https://www.arabnews.com/node/2646964/lifestyle",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 16
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1577,7 +1743,7 @@
     {
       "title": "Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)",
       "url": "https://www.arabnews.com/node/2646963/cartoon-amjad-rasmi-courtesy-asharq-al-awsat",
-      "section": "Where We Are Going Today: Melted Butter Bakery in Riyadh",
+      "section": "cartoon amjad rasmi courtesy asharq al awsat",
       "publishedAt": "2026-06-12T19:02:43.000Z",
       "publishedRaw": "2026-06-12T22:02:43+03:00",
       "modifiedAt": "2026-06-12T19:02:43.000Z",
@@ -1588,6 +1754,12 @@
       "nodeId": 2646963,
       "candidateUrl": "https://www.arabnews.com/node/2646963/cartoon-amjad-rasmi-courtesy-asharq-al-awsat",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 38
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1611,7 +1783,7 @@
     {
       "title": "Where We Are Going Today: Melted Butter Bakery in Riyadh",
       "url": "https://www.arabnews.com/node/2646960/food-health",
-      "section": "Related Lifestyle Where We Are Going Today: Club Sandwich & Bowl in Jeddah Food & Health Where We Are Going Today: ‘Golden Dragon’ – Chinese cuisine in Riyadh",
+      "section": "food health",
       "publishedAt": "2026-06-12T18:58:18.000Z",
       "publishedRaw": "2026-06-12T21:58:18+03:00",
       "modifiedAt": "2026-06-12T18:58:18.000Z",
@@ -1639,7 +1811,7 @@
     {
       "title": "Infantino quips that even Italy might qualify if World Cup expanded",
       "url": "https://www.arabnews.com/node/2646959/sport",
-      "section": "Related Sport Fans hope ‘Orange Street’ guides Dutch to World Cup victory Sport Iranian-American fans face uneasy World Cup as war rages",
+      "section": "sport",
       "publishedAt": "2026-06-12T18:50:17.000Z",
       "publishedRaw": "2026-06-12T21:50:17+03:00",
       "modifiedAt": "2026-06-12T18:52:59.000Z",
@@ -1673,7 +1845,7 @@
     {
       "title": "AI era demands protection of ‘non-negotiable human skills,’ FII warns",
       "url": "https://www.arabnews.com/node/2646958/media",
-      "section": "Related Business & Economy FII PRIORITY Europe unveils agenda, keynote speakers for Rome summit Business & Economy FII Priority Europe Summit to convene in Rome as continent reimagines capital and sovereignty",
+      "section": "media",
       "publishedAt": "2026-06-12T18:40:50.000Z",
       "publishedRaw": "2026-06-12T21:40:50+03:00",
       "modifiedAt": "2026-06-12T18:40:50.000Z",
@@ -1719,7 +1891,7 @@
     {
       "title": "Pope warns migrant traffickers to repent or face hell",
       "url": "https://www.arabnews.com/node/2646957/world",
-      "section": "Related World ‘Life in hiding’: migrants reel after Belfast violence World Pope urges migrants to integrate during Canary Islands visit",
+      "section": "world",
       "publishedAt": "2026-06-12T18:35:30.000Z",
       "publishedRaw": "2026-06-12T21:35:30+03:00",
       "modifiedAt": "2026-06-12T18:35:30.000Z",
@@ -1734,7 +1906,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 17
+          "order": 18
         },
         {
           "source": "dom",
@@ -1765,7 +1937,7 @@
     {
       "title": "Ghana’s Partey out of Panama game after visa refused says FIFA",
       "url": "https://www.arabnews.com/node/2646956/sport",
-      "section": "Related Sport Cristiano Ronaldo, 41, says he is physically ‘fine’ ahead of World Cup Sport Former refugees look to ignite Australia’s World Cup",
+      "section": "sport",
       "publishedAt": "2026-06-12T18:31:24.000Z",
       "publishedRaw": "2026-06-12T21:31:24+03:00",
       "modifiedAt": "2026-06-12T19:22:37.000Z",
@@ -1811,7 +1983,7 @@
     {
       "title": "Ebola spreading into new areas in northeast DR Congo, WHO says",
       "url": "https://www.arabnews.com/node/2646955/world",
-      "section": "Related World Kenyans arrested protesting US Ebola center",
+      "section": "world",
       "publishedAt": "2026-06-12T18:28:16.000Z",
       "publishedRaw": "2026-06-12T21:28:16+03:00",
       "modifiedAt": "2026-06-12T18:28:16.000Z",
@@ -1826,7 +1998,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 18
+          "order": 19
         },
         {
           "source": "dom",
@@ -1857,7 +2029,7 @@
     {
       "title": "Saudi and UK women leaders meet in London to discuss cultural ties",
       "url": "https://www.arabnews.com/node/2646954/saudi-arabia",
-      "section": "Related Special video Saudi Arabia Saudi-UK collaboration aims to drive Kingdom’s creative economy Business & Economy Saudi-UK ties deepen as 400+ leaders boost investment partnerships in London",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T18:23:47.000Z",
       "publishedRaw": "2026-06-12T21:23:47+03:00",
       "modifiedAt": "2026-06-12T18:23:47.000Z",
@@ -1868,6 +2040,12 @@
       "nodeId": 2646954,
       "candidateUrl": "https://www.arabnews.com/node/2646954/saudi-arabia",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 34
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -1909,7 +2087,7 @@
     {
       "title": "Saudi aid agency distributes food baskets in Mali",
       "url": "https://www.arabnews.com/node/2646962/saudi-arabia",
-      "section": "Related Update Saudi Arabia UN praises Saudi aid operations in Gaza during KSrelief field visit Saudi Arabia Saudi aid agency KSrelief reaches thousands in four nations",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T18:05:05.000Z",
       "publishedRaw": "2026-06-12T21:05:05+03:00",
       "modifiedAt": "2026-06-12T19:01:44.000Z",
@@ -1943,7 +2121,7 @@
     {
       "title": "From Saudi factory floor to World Cup stage … FPC fabric crowns Mexico’s Azteca Stadium",
       "url": "https://www.arabnews.com/node/2646953/saudi-arabia",
-      "section": "Related Sport Azteca to reopen with Mexico facing Ronaldo’s Portugal in March friendly Lifestyle Shakira and Burna Boy warm up spectators in World Cup opening ceremony",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T17:52:13.000Z",
       "publishedRaw": "2026-06-12T20:52:13+03:00",
       "modifiedAt": "2026-06-12T17:52:13.000Z",
@@ -1977,7 +2155,7 @@
     {
       "title": "Fans hope ‘Orange Street’ guides Dutch to World Cup victory",
       "url": "https://www.arabnews.com/node/2646952/sport",
-      "section": "Related Sport Cristiano Ronaldo, 41, says he is physically ‘fine’ ahead of World Cup Sport Former refugees look to ignite Australia’s World Cup",
+      "section": "sport",
       "publishedAt": "2026-06-12T17:48:51.000Z",
       "publishedRaw": "2026-06-12T20:48:51+03:00",
       "modifiedAt": "2026-06-12T17:50:41.000Z",
@@ -2011,7 +2189,7 @@
     {
       "title": "Education to boost national values",
       "url": "https://www.arabnews.com/node/2646951/saudi-arabia",
-      "section": "Related Saudi Arabia Makkah forum bridges education, tourism sector Special Saudi Arabia Saudi academics emphasize role of higher education in combating extremism",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T17:42:06.000Z",
       "publishedRaw": "2026-06-12T20:42:06+03:00",
       "modifiedAt": "2026-06-12T17:42:06.000Z",
@@ -2045,7 +2223,7 @@
     {
       "title": "Unable to return, displaced southern Lebanese turn to satellite images to check on homes",
       "url": "https://www.arabnews.com/node/2646950/middle-east",
-      "section": "Related Middle East Suspected oil spill seen on satellite images near Iran’s Kharg Island export hub World US satellite imagery firm announces blackout on Middle East war pics",
+      "section": "middle east",
       "publishedAt": "2026-06-12T17:38:19.000Z",
       "publishedRaw": "2026-06-12T20:38:19+03:00",
       "modifiedAt": "2026-06-12T17:43:17.000Z",
@@ -2056,6 +2234,12 @@
       "nodeId": 2646950,
       "candidateUrl": "https://www.arabnews.com/node/2646950/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 15
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -2085,7 +2269,7 @@
     {
       "title": "Clashes erupt in Congo’s capital as opposition rejects changes to presidential term limits",
       "url": "https://www.arabnews.com/node/2646949/world",
-      "section": "Related Middle East Drone strikes on key Sudan city kill 23: rights group World Civilians caught in war of drones in eastern DR Congo",
+      "section": "world",
       "publishedAt": "2026-06-12T17:36:47.000Z",
       "publishedRaw": "2026-06-12T20:36:47+03:00",
       "modifiedAt": "2026-06-12T17:39:49.000Z",
@@ -2096,12 +2280,6 @@
       "nodeId": 2646949,
       "candidateUrl": "https://www.arabnews.com/node/2646949/world",
       "sources": [
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
-          "datePublished": null,
-          "order": 19
-        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/main-category/media",
@@ -2119,7 +2297,7 @@
     {
       "title": "Cristiano Ronaldo, 41, says he is physically ‘fine’ ahead of World Cup",
       "url": "https://www.arabnews.com/node/2646948/sport",
-      "section": "Related Sport Iranian-American fans face uneasy World Cup as war rages Sport Former refugees look to ignite Australia’s World Cup",
+      "section": "sport",
       "publishedAt": "2026-06-12T17:16:33.000Z",
       "publishedRaw": "2026-06-12T20:16:33+03:00",
       "modifiedAt": "2026-06-12T17:18:38.000Z",
@@ -2147,7 +2325,7 @@
     {
       "title": "US military helping move 7 million barrels of oil per day out of Arabian Gulf, Wright says",
       "url": "https://www.arabnews.com/node/2646947/middle-east",
-      "section": "Related Business & Economy Oil rises more than $1 as escalation in US-Iran strikes unnerve traders video Middle East Trump claims US military secretly helped 100m barrels of oil through Hormuz",
+      "section": "middle east",
       "publishedAt": "2026-06-12T16:44:50.000Z",
       "publishedRaw": "2026-06-12T19:44:50+03:00",
       "modifiedAt": "2026-06-12T16:44:50.000Z",
@@ -2158,6 +2336,12 @@
       "nodeId": 2646947,
       "candidateUrl": "https://www.arabnews.com/node/2646947/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 30
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -2175,7 +2359,7 @@
     {
       "title": "Iranian-American fans face uneasy World Cup as war rages",
       "url": "https://www.arabnews.com/node/2646946/sport",
-      "section": "Related Sport Former refugees look to ignite Australia’s World Cup World Iran-linked group claims hack of FBI drones, threatens World Cup: monitor",
+      "section": "sport",
       "publishedAt": "2026-06-12T16:10:49.000Z",
       "publishedRaw": "2026-06-12T19:10:49+03:00",
       "modifiedAt": "2026-06-12T16:13:24.000Z",
@@ -2197,7 +2381,7 @@
     {
       "title": "Former refugees look to ignite Australia’s World Cup",
       "url": "https://www.arabnews.com/node/2646943/sport",
-      "section": "Related World Iran-linked group claims hack of FBI drones, threatens World Cup: monitor Sport Head of Palestinian football not granted US visa to attend World Cup",
+      "section": "sport",
       "publishedAt": "2026-06-12T15:58:46.000Z",
       "publishedRaw": "2026-06-12T18:58:46+03:00",
       "modifiedAt": "2026-06-12T16:29:08.000Z",
@@ -2219,7 +2403,7 @@
     {
       "title": "Coca-Cola Fan Zone brings cultures together at World Cup opening night in Riyadh",
       "url": "https://www.arabnews.com/node/2646942/sport",
-      "section": "Related Sport Head of Palestinian football not granted US visa to attend World Cup Sport Saudi Pro League star Quinones gets World Cup goal tally started",
+      "section": "sport",
       "publishedAt": "2026-06-12T15:56:06.000Z",
       "publishedRaw": "2026-06-12T18:56:06+03:00",
       "modifiedAt": "2026-06-12T16:29:46.000Z",
@@ -2230,6 +2414,12 @@
       "nodeId": 2646942,
       "candidateUrl": "https://www.arabnews.com/node/2646942/sport",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 39
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -2259,7 +2449,7 @@
     {
       "title": "Madinah real estate auction reached about SR989m in 2025",
       "url": "https://www.arabnews.com/node/2646941/saudi-arabia",
-      "section": "Related Business & Economy Madinah real estate project 11% complete in only five months: CEO Business & Economy Al Mashaar REIT focuses on Makkah and Madinah real estate",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T15:53:36.000Z",
       "publishedRaw": "2026-06-12T18:53:36+03:00",
       "modifiedAt": "2026-06-12T15:53:36.000Z",
@@ -2281,7 +2471,7 @@
     {
       "title": "Turkiye seizes more than one ton of narcotics at Greek border",
       "url": "https://www.arabnews.com/node/2646940/middle-east",
-      "section": "Related Middle East Turkish police seize 825 kg of heroin: interior minister Middle East Syrian and Turkish authorities arrest dangerous drug kingpin",
+      "section": "middle east",
       "publishedAt": "2026-06-12T15:44:24.000Z",
       "publishedRaw": "2026-06-12T18:44:24+03:00",
       "modifiedAt": "2026-06-12T15:54:12.000Z",
@@ -2303,7 +2493,7 @@
     {
       "title": "World Bank forecasts Jordan’s economic growth to reach 3% by 2028",
       "url": "https://www.arabnews.com/node/2646939/middle-east",
-      "section": "Related Business & Economy Egypt gets additional $300m in World Bank package World G7 agreed IMF and World Bank should increase aid to vulnerable countries, says French finance minister",
+      "section": "middle east",
       "publishedAt": "2026-06-12T15:40:42.000Z",
       "publishedRaw": "2026-06-12T18:40:42+03:00",
       "modifiedAt": "2026-06-12T15:40:42.000Z",
@@ -2325,7 +2515,7 @@
     {
       "title": "‘Life in hiding’: migrants reel after Belfast violence",
       "url": "https://www.arabnews.com/node/2646938/world",
-      "section": "Related World Police blast water cannons at Belfast protesters as unrest flares again after stabbing World Belfast knife attack victim’s family calls for calm after anti-immigration riots",
+      "section": "world",
       "publishedAt": "2026-06-12T15:13:21.000Z",
       "publishedRaw": "2026-06-12T18:13:21+03:00",
       "modifiedAt": "2026-06-12T15:46:15.000Z",
@@ -2347,7 +2537,7 @@
     {
       "title": "Muslim teacher in UK hailed a ‘hero’ after saving students from knife attack",
       "url": "https://www.arabnews.com/node/2646936/world",
-      "section": "Related World UK schoolgirl arrested after school stabbing reports Update World Protesters torch vehicles after 'sickening' Belfast stabbing",
+      "section": "world",
       "publishedAt": "2026-06-12T15:04:22.000Z",
       "publishedRaw": "2026-06-12T18:04:22+03:00",
       "modifiedAt": "2026-06-12T15:05:10.000Z",
@@ -2358,6 +2548,12 @@
       "nodeId": 2646936,
       "candidateUrl": "https://www.arabnews.com/node/2646936/world",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 18
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -2375,7 +2571,7 @@
     {
       "title": "Spain opens new probe into ex-PM Zapatero over jewelry found in office",
       "url": "https://www.arabnews.com/node/2646935/world",
-      "section": "Related Update World Spanish police search headquarters of PM Sánchez’s ruling Socialist party World Spanish police evict hundreds of migrants from squat deemed a safety hazard",
+      "section": "world",
       "publishedAt": "2026-06-12T15:03:58.000Z",
       "publishedRaw": "2026-06-12T18:03:58+03:00",
       "modifiedAt": "2026-06-12T15:08:23.000Z",
@@ -2397,7 +2593,7 @@
     {
       "title": "Saudi ad agency Habbar wins big at inaugural Effie Awards Saudi Arabia",
       "url": "https://www.arabnews.com/node/2646934/saudi-arabia",
-      "section": "Related Media SRMG, Naif Alrajhi Investment to power regional media and advertising ecosystem Media SRMG unveils new advertising arm ‘SMS’ to boost data-driven campaigns",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T14:59:56.000Z",
       "publishedRaw": "2026-06-12T17:59:56+03:00",
       "modifiedAt": "2026-06-12T14:59:56.000Z",
@@ -2419,7 +2615,7 @@
     {
       "title": "McLaren set to appeal after Gasly reinstated to Monaco GP podium",
       "url": "https://www.arabnews.com/node/2646933/sport",
-      "section": "Related Sport France’s Gasly extends Alpine contract until 2028 video Motorsport Ocon and Gasly look to kickstart Alpine’s F1 season at the Saudi Arabian Grand Prix",
+      "section": "sport",
       "publishedAt": "2026-06-12T14:54:25.000Z",
       "publishedRaw": "2026-06-12T17:54:25+03:00",
       "modifiedAt": "2026-06-12T14:56:54.000Z",
@@ -2441,7 +2637,7 @@
     {
       "title": "Turkiye’s Erdogan, Israel’s Netanyahu trade genocide barbs",
       "url": "https://www.arabnews.com/node/2646932/middle-east",
-      "section": "Related Update Middle East Erdogan says Israel’s attacks on Syria, Lebanon threaten Turkiye too Middle East Netanyahu to run for re-election, his party says, after Trump raises doubts",
+      "section": "middle east",
       "publishedAt": "2026-06-12T14:45:22.000Z",
       "publishedRaw": "2026-06-12T17:45:22+03:00",
       "modifiedAt": "2026-06-12T14:48:36.000Z",
@@ -2452,6 +2648,12 @@
       "nodeId": 2646932,
       "candidateUrl": "https://www.arabnews.com/node/2646932/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 19
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -2469,7 +2671,7 @@
     {
       "title": "Morocco sentences 18 people over Gen Z protests",
       "url": "https://www.arabnews.com/node/2646931/middle-east",
-      "section": "Related Middle East Morocco’s GenZ 212 says suspending protests temporarily World Panel wants prosecution of ousted Nepal PM over violence in ‘Gen Z’ protests",
+      "section": "middle east",
       "publishedAt": "2026-06-12T14:12:30.000Z",
       "publishedRaw": "2026-06-12T17:12:30+03:00",
       "modifiedAt": "2026-06-12T14:14:59.000Z",
@@ -2491,7 +2693,7 @@
     {
       "title": "Iran deal very close, signing possible in coming days, US official says",
       "url": "https://www.arabnews.com/node/2646930/middle-east",
-      "section": "Related Middle East Hezbollah confident any US-Iran deal will include Lebanon, politician says Middle East US and Iran close to signing peace deal: Axios",
+      "section": "middle east",
       "publishedAt": "2026-06-12T14:07:46.000Z",
       "publishedRaw": "2026-06-12T17:07:46+03:00",
       "modifiedAt": "2026-06-12T19:58:14.000Z",
@@ -2502,6 +2704,12 @@
       "nodeId": 2646930,
       "candidateUrl": "https://www.arabnews.com/node/2646930/middle-east",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 31
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -2525,7 +2733,7 @@
     {
       "title": "Nestle India rejects allegations of infestation in its noodles",
       "url": "https://www.arabnews.com/node/2646929/world",
-      "section": "Related World Popular noodles back on shelves in India after lead scare World India court orders new tests on Nestle’s Maggi noodles",
+      "section": "world",
       "publishedAt": "2026-06-12T14:02:44.000Z",
       "publishedRaw": "2026-06-12T17:02:44+03:00",
       "modifiedAt": "2026-06-12T14:06:10.000Z",
@@ -2547,7 +2755,7 @@
     {
       "title": "Ireland’s home game against Israel in Nations League to be played at neutral site",
       "url": "https://www.arabnews.com/node/2646927/sport",
-      "section": "Related Sport Football fans urge red card for coach who led Israeli club Sport Irish governing body overwhelmingly backs call for UEFA to ban Israel",
+      "section": "sport",
       "publishedAt": "2026-06-12T13:53:21.000Z",
       "publishedRaw": "2026-06-12T16:53:21+03:00",
       "modifiedAt": "2026-06-12T13:55:50.000Z",
@@ -2569,7 +2777,7 @@
     {
       "title": "REVIEW: ‘The Marked Woman’ — twisty Spanish thriller that leans too hard on genre cliches",
       "url": "https://www.arabnews.com/node/2646925/lifestyle",
-      "section": "Somaliland says it has a right to choose its relationships as it opens new Taiwan office",
+      "section": "lifestyle",
       "publishedAt": "2026-06-12T13:27:57.000Z",
       "publishedRaw": "2026-06-12T16:27:57+03:00",
       "modifiedAt": "2026-06-12T13:27:57.000Z",
@@ -2580,6 +2788,12 @@
       "nodeId": 2646925,
       "candidateUrl": "https://www.arabnews.com/node/2646925/lifestyle",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 44
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/?page=1",
@@ -2597,7 +2811,7 @@
     {
       "title": "Ministry of Interior to host Global Security and Technology Summit in Riyadh",
       "url": "https://www.arabnews.com/node/2646924/saudi-arabia",
-      "section": "Related Sponsored Corporate and Sponsored Content World Police Summit to gather 17,000 security experts from 130 countries in Dubai Business & Economy Global leaders gather in Riyadh to forge collective action on cybersecurity",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T13:25:06.000Z",
       "publishedRaw": "2026-06-12T16:25:06+03:00",
       "modifiedAt": "2026-06-12T13:25:06.000Z",
@@ -2619,7 +2833,7 @@
     {
       "title": "Somaliland says it has a right to choose its relationships as it opens new Taiwan office",
       "url": "https://www.arabnews.com/node/2646923/world",
-      "section": "Related Middle East Israel appoints first ambassador to Somaliland World Taiwan says China maritime operation ‘provocative’",
+      "section": "world",
       "publishedAt": "2026-06-12T13:14:28.000Z",
       "publishedRaw": "2026-06-12T16:14:28+03:00",
       "modifiedAt": "2026-06-12T13:16:11.000Z",
@@ -2632,12 +2846,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 33
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 14
@@ -2647,7 +2855,7 @@
     {
       "title": "Philippines-China tensions rise after Beijing sanctions Manila’s defense chief",
       "url": "https://www.arabnews.com/node/2646873/world",
-      "section": "Related World China sanctions Philippine defense chief for ‘irresponsible remarks’ World China lambasts Philippine defense chief over remarks about Chinese ‘threat’",
+      "section": "world",
       "publishedAt": "2026-06-12T12:58:09.000Z",
       "publishedRaw": "2026-06-12T15:58:09+03:00",
       "modifiedAt": "2026-06-12T13:00:50.000Z",
@@ -2660,12 +2868,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 0
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 15
@@ -2675,7 +2877,7 @@
     {
       "title": "Kazakhstan’s ruling party announces merger with pro-Tokayev upstart",
       "url": "https://www.arabnews.com/node/2646922/world",
-      "section": "Related World Kazakhstan offers to take Iran’s uranium stockpile, IAEA chief tells FT Special Saudi Arabia Kazakhstan foreign ministry official praises Saudi water management technologies",
+      "section": "world",
       "publishedAt": "2026-06-12T12:49:56.000Z",
       "publishedRaw": "2026-06-12T15:49:56+03:00",
       "modifiedAt": "2026-06-12T12:51:47.000Z",
@@ -2688,12 +2890,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 1
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 16
@@ -2703,7 +2899,7 @@
     {
       "title": "At a Libyan university once ravaged by war, students dream again",
       "url": "https://www.arabnews.com/node/2646921/middle-east",
-      "section": "Disaster drills helped prevent more deaths when powerful quake hit the southern Philippines",
+      "section": "middle east",
       "publishedAt": "2026-06-12T12:30:23.000Z",
       "publishedRaw": "2026-06-12T15:30:23+03:00",
       "modifiedAt": "2026-06-12T12:31:42.000Z",
@@ -2716,12 +2912,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
           "order": 11
@@ -2731,7 +2921,7 @@
     {
       "title": "Ukraine to request $20 bln to keep momentum against Russia, source says",
       "url": "https://www.arabnews.com/node/2646920/world",
-      "section": "Related World Ukraine hits fuel supplies to Crimea, sparking a fuel crisis on the Russian-held peninsula World Russian strikes kills 4 near Ukraine’s Kharkiv: governor",
+      "section": "world",
       "publishedAt": "2026-06-12T12:28:20.000Z",
       "publishedRaw": "2026-06-12T15:28:20+03:00",
       "modifiedAt": "2026-06-12T12:31:09.000Z",
@@ -2744,12 +2934,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 17
@@ -2759,7 +2943,7 @@
     {
       "title": "Disaster drills helped prevent more deaths when powerful quake hit the southern Philippines",
       "url": "https://www.arabnews.com/node/2646919/world",
-      "section": "Disaster drills helped prevent more deaths when powerful quake hit the southern Philippines",
+      "section": "world",
       "publishedAt": "2026-06-12T12:23:17.000Z",
       "publishedRaw": "2026-06-12T15:23:17+03:00",
       "modifiedAt": "2026-06-12T12:24:20.000Z",
@@ -2772,12 +2956,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 4
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 18
@@ -2787,7 +2965,7 @@
     {
       "title": "Indonesian students protest economic strain",
       "url": "https://www.arabnews.com/node/2646918/world",
-      "section": "Related Saudi Arabia Indonesian ambassador visits Jazan Chamber Special World Climate change drives Indonesia’s rarest orangutan to brink of extinction",
+      "section": "world",
       "publishedAt": "2026-06-12T12:23:04.000Z",
       "publishedRaw": "2026-06-12T15:23:04+03:00",
       "modifiedAt": "2026-06-12T12:25:01.000Z",
@@ -2800,12 +2978,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 5
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 19
@@ -2815,7 +2987,7 @@
     {
       "title": "UK PM Starmer says he has not lost authority, will fight to stay in job",
       "url": "https://www.arabnews.com/node/2646916/world",
-      "section": "Related Update World PM Starmer under fire as UK defense secretary and armed forces minister resign World Starmer will be ‘part of’ any leadership race: deputy PM",
+      "section": "world",
       "publishedAt": "2026-06-12T12:17:51.000Z",
       "publishedRaw": "2026-06-12T15:17:51+03:00",
       "modifiedAt": "2026-06-12T12:18:35.000Z",
@@ -2828,12 +3000,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 7
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 20
@@ -2843,7 +3009,7 @@
     {
       "title": "F1 sensation Antonelli has teammate Russell against the wall heading into Barcelona",
       "url": "https://www.arabnews.com/node/2646915/sport",
-      "section": "Hezbollah confident any US-Iran deal will include Lebanon, politician says",
+      "section": "sport",
       "publishedAt": "2026-06-12T12:15:57.000Z",
       "publishedRaw": "2026-06-12T15:15:57+03:00",
       "modifiedAt": "2026-06-12T12:17:28.000Z",
@@ -2856,12 +3022,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
           "order": 13
@@ -2871,7 +3031,7 @@
     {
       "title": "Hezbollah confident any US-Iran deal will include Lebanon, politician says",
       "url": "https://www.arabnews.com/node/2646914/middle-east",
-      "section": "Related Update video Middle East Iran state media says Tehran would not cede control of Hormuz under draft US deal Middle East US and Iran close to signing peace deal: Axios",
+      "section": "middle east",
       "publishedAt": "2026-06-12T12:07:24.000Z",
       "publishedRaw": "2026-06-12T15:07:24+03:00",
       "modifiedAt": "2026-06-12T12:08:50.000Z",
@@ -2884,12 +3044,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 9
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
           "order": 12
@@ -2899,7 +3053,7 @@
     {
       "title": "Kenya mourns schoolgirls killed in suspected dorm arson attack",
       "url": "https://www.arabnews.com/node/2646912/world",
-      "section": "Related Update World Fire in Kenya girls’ school dorm kills 16 Update World As Kenya police probe blaze that killed 21 schoolboys, another fire breaks out at school for girls",
+      "section": "world",
       "publishedAt": "2026-06-12T12:02:30.000Z",
       "publishedRaw": "2026-06-12T15:02:30+03:00",
       "modifiedAt": "2026-06-12T12:03:32.000Z",
@@ -2921,7 +3075,7 @@
     {
       "title": "Saudi Arabia, Indonesia in talks to deepen tourism cooperation",
       "url": "https://www.arabnews.com/node/2646911/world",
-      "section": "Pope urges migrants to integrate during Canary Islands visit",
+      "section": "world",
       "publishedAt": "2026-06-12T11:40:07.000Z",
       "publishedRaw": "2026-06-12T14:40:07+03:00",
       "modifiedAt": "2026-06-12T11:40:07.000Z",
@@ -2936,7 +3090,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 39
+          "order": 40
         },
         {
           "source": "dom",
@@ -2949,7 +3103,7 @@
     {
       "title": "NATO can no longer treat the Arctic as a peripheral concern",
       "url": "https://www.arabnews.com/node/2646909",
-      "section": "Luke Coffey June 12, 2026 14:09",
+      "section": "node",
       "publishedAt": "2026-06-12T11:09:29.000Z",
       "publishedRaw": "2026-06-12T14:09:29+03:00",
       "modifiedAt": "2026-06-12T11:10:29.000Z",
@@ -2964,7 +3118,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 23
+          "order": 24
         },
         {
           "source": "dom",
@@ -2989,7 +3143,7 @@
     {
       "title": "Turkish-Saudi transport corridor gains momentum",
       "url": "https://www.arabnews.com/node/2646913",
-      "section": "Dr. Sinem Cengiz June 12, 2026 15:06",
+      "section": "node",
       "publishedAt": "2026-06-12T11:05:28.000Z",
       "publishedRaw": "2026-06-12T14:05:28+03:00",
       "modifiedAt": "2026-06-12T12:07:13.000Z",
@@ -3004,7 +3158,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 24
+          "order": 25
         },
         {
           "source": "dom",
@@ -3029,7 +3183,7 @@
     {
       "title": "Europe must allow its tech entrepreneurs to flourish",
       "url": "https://www.arabnews.com/node/2646906",
-      "section": "Khaled Abou Zahr June 12, 2026 13:49",
+      "section": "node",
       "publishedAt": "2026-06-12T10:55:30.000Z",
       "publishedRaw": "2026-06-12T13:55:30+03:00",
       "modifiedAt": "2026-06-12T10:57:52.000Z",
@@ -3044,7 +3198,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 25
+          "order": 26
         },
         {
           "source": "dom",
@@ -3067,31 +3221,9 @@
       ]
     },
     {
-      "title": "India summons US diplomat for second time after Gulf ship attacks",
-      "url": "https://www.arabnews.com/node/2646903/world",
-      "section": "Related Special World India secures new trade gateway through Oman pact as Hormuz crisis deepens Special World Indian seafarers fear for safety after US strike kills 3 off Oman coast",
-      "publishedAt": "2026-06-12T10:41:39.000Z",
-      "publishedRaw": "2026-06-12T13:41:39+03:00",
-      "modifiedAt": "2026-06-12T10:42:50.000Z",
-      "modifiedRaw": "2026-06-12T13:42:50+03:00",
-      "description": "NEW DELHI: India summoned a senior US diplomat on Friday for a second time in two days, after American strikes on three largely Indian-crewed merchant vessels off Oman killed three Indians. The foreign ministry said it had summoned US Deputy Chief of Mission Jason Meeks to lodge “a strong protest … regarding the continuing attacks by US naval forces on commercial vessels",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4721053-550637256.jpg?itok=Ugp9BR6f",
-      "author": "AFP",
-      "nodeId": 2646903,
-      "candidateUrl": "https://www.arabnews.com/node/2646903/world",
-      "sources": [
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 15
-        }
-      ]
-    },
-    {
       "title": "Brazil must maintain long-term economic focus",
       "url": "https://www.arabnews.com/node/2646902",
-      "section": "Laura Carvalho and Guilherme Klein June 12, 2026 13:29",
+      "section": "node",
       "publishedAt": "2026-06-12T10:37:29.000Z",
       "publishedRaw": "2026-06-12T13:37:29+03:00",
       "modifiedAt": "2026-06-12T10:44:38.000Z",
@@ -3106,7 +3238,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 26
+          "order": 27
         },
         {
           "source": "dom",
@@ -3131,7 +3263,7 @@
     {
       "title": "Saudi football enthusiasts flock to football merchandise shops",
       "url": "https://www.arabnews.com/node/2646901/saudi-arabia",
-      "section": "Related Sport US primed to plant flag in ‘home’ World Cup opener vs. Paraguay Sport Saudi Pro League star Quinones gets World Cup goal tally started",
+      "section": "saudi arabia",
       "publishedAt": "2026-06-12T10:30:22.000Z",
       "publishedRaw": "2026-06-12T13:30:22+03:00",
       "modifiedAt": "2026-06-12T10:30:22.000Z",
@@ -3144,12 +3276,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 16
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
           "order": 21
@@ -3159,7 +3285,7 @@
     {
       "title": "Sukuk market liquidity shows signs of recovery amid ongoing conflict: Fitch Ratings",
       "url": "https://www.arabnews.com/node/2646900/business-economy",
-      "section": "Related Business & Economy Middle East economic resilience tested as conflict risks mount: Fitch Business & Economy Saudi Arabia opens June ‘Sah’ sukuk issuance with 4.6% returns",
+      "section": "business economy",
       "publishedAt": "2026-06-12T10:27:34.000Z",
       "publishedRaw": "2026-06-12T13:27:34+03:00",
       "modifiedAt": "2026-06-12T10:27:34.000Z",
@@ -3174,7 +3300,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 34
+          "order": 35
         },
         {
           "source": "dom",
@@ -3199,7 +3325,7 @@
     {
       "title": "Head of Palestinian football not granted US visa to attend World Cup",
       "url": "https://www.arabnews.com/node/2646899/sport",
-      "section": "Related Sport Haiti alter World Cup uniforms following FIFA pushback Sport US primed to plant flag in ‘home’ World Cup opener vs. Paraguay",
+      "section": "sport",
       "publishedAt": "2026-06-12T10:27:26.000Z",
       "publishedRaw": "2026-06-12T13:27:26+03:00",
       "modifiedAt": "2026-06-12T12:08:36.000Z",
@@ -3212,12 +3338,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 45
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
           "order": 14
@@ -3227,7 +3347,7 @@
     {
       "title": "Iran media says draft US deal sees release of $24 billion frozen assets",
       "url": "https://www.arabnews.com/node/2646816/middle-east",
-      "section": "Related Middle East Iran says water supply restored to thousands cut off after US strikes Business & Economy Oil rises more than $1 as escalation in US-Iran strikes unnerve traders",
+      "section": "middle east",
       "publishedAt": "2026-06-12T09:34:49.000Z",
       "publishedRaw": "2026-06-12T12:34:49+03:00",
       "modifiedAt": "2026-06-12T10:46:49.000Z",
@@ -3242,7 +3362,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 12
+          "order": 41
         },
         {
           "source": "dom",
@@ -3261,7 +3381,7 @@
     {
       "title": "FIFA World Cup 2026 kicks off in Mexico",
       "url": "https://www.arabnews.com/node/2646895/fifa-world-cup-2026-kicks-mexico",
-      "section": "WHO warns of ‘blind spots’ in Ebola outbreak",
+      "section": "fifa world cup 2026 kicks mexico",
       "publishedAt": "2026-06-12T09:17:01.000Z",
       "publishedRaw": "2026-06-12T12:17:01+03:00",
       "modifiedAt": "2026-06-12T09:19:54.000Z",
@@ -3289,7 +3409,7 @@
     {
       "title": "Saudi Arabia’s POS spending remains above $3.5bn mark on construction gains",
       "url": "https://www.arabnews.com/node/2646892/business-economy",
-      "section": "Related graphic Business & Economy Saudi POS spending edges past $3.8bn during Adha holiday Business & Economy Saudi GDP rises 3% in Q1 as non-oil sector drives expansion",
+      "section": "business economy",
       "publishedAt": "2026-06-12T08:49:18.000Z",
       "publishedRaw": "2026-06-12T11:49:18+03:00",
       "modifiedAt": "2026-06-12T08:49:18.000Z",
@@ -3304,7 +3424,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 35
+          "order": 36
         },
         {
           "source": "dom",
@@ -3329,7 +3449,7 @@
     {
       "title": "FIA president Ben Sulayem hails 24 Hour of Le Mans as one of motorsport’s ‘great landmarks’",
       "url": "https://www.arabnews.com/node/2646887/sport",
-      "section": "Related Sport FIA President Ben Sulayem: ‘Without volunteers, we simply could not go racing’ Sport FIA President Ben Sulayem highlights new safety boost with Hankook joining as Global Partner",
+      "section": "sport",
       "publishedAt": "2026-06-12T08:07:58.000Z",
       "publishedRaw": "2026-06-12T11:07:58+03:00",
       "modifiedAt": "2026-06-12T08:07:58.000Z",
@@ -3342,12 +3462,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 46
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
           "order": 15
@@ -3357,7 +3471,7 @@
     {
       "title": "US primed to plant flag in ‘home’ World Cup opener vs. Paraguay",
       "url": "https://www.arabnews.com/node/2646884/sport",
-      "section": "Bosnia will play with hearts in World Cup opener, says coach Barbarez",
+      "section": "sport",
       "publishedAt": "2026-06-12T07:46:29.000Z",
       "publishedRaw": "2026-06-12T10:46:29+03:00",
       "modifiedAt": "2026-06-12T07:47:26.000Z",
@@ -3379,7 +3493,7 @@
     {
       "title": "Bosnia will play with hearts in World Cup opener, says coach Barbarez",
       "url": "https://www.arabnews.com/node/2646883/sport",
-      "section": "Bosnia will play with hearts in World Cup opener, says coach Barbarez",
+      "section": "sport",
       "publishedAt": "2026-06-12T07:43:25.000Z",
       "publishedRaw": "2026-06-12T10:43:25+03:00",
       "modifiedAt": "2026-06-12T07:44:46.000Z",
@@ -3401,7 +3515,7 @@
     {
       "title": "Saudi Arabia, Kazakhstan sign MoU to boost cooperation in mining and mineral resources sector",
       "url": "https://www.arabnews.com/node/2646882/business-economy",
-      "section": "Related Business & Economy Saudi Arabia qualifies 24 firms for new mining exploration licenses Business & Economy Saudi Arabia eyes pivotal role in global mining sector, says minister",
+      "section": "business economy",
       "publishedAt": "2026-06-12T07:33:53.000Z",
       "publishedRaw": "2026-06-12T10:33:53+03:00",
       "modifiedAt": "2026-06-12T07:33:53.000Z",
@@ -3416,7 +3530,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 36
+          "order": 37
         },
         {
           "source": "dom",
@@ -3441,7 +3555,7 @@
     {
       "title": "Saudi artists showcased in Venice exhibition",
       "url": "https://www.arabnews.com/node/2646881/lifestyle",
-      "section": "Nigerian fields fallow as jihadists, bandits push farmers off land",
+      "section": "lifestyle",
       "publishedAt": "2026-06-12T07:30:30.000Z",
       "publishedRaw": "2026-06-12T10:30:30+03:00",
       "modifiedAt": "2026-06-12T07:30:30.000Z",
@@ -3456,7 +3570,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 43
+          "order": 45
         },
         {
           "source": "dom",
@@ -3475,7 +3589,7 @@
     {
       "title": "US and Iran close to signing peace deal: Axios",
       "url": "https://www.arabnews.com/node/2646877/middle-east",
-      "section": "Nigerian fields fallow as jihadists, bandits push farmers off land",
+      "section": "middle east",
       "publishedAt": "2026-06-12T06:29:42.000Z",
       "publishedRaw": "2026-06-12T09:29:42+03:00",
       "modifiedAt": "2026-06-12T07:25:03.000Z",
@@ -3488,12 +3602,6 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 13
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
           "order": 14
@@ -3503,7 +3611,7 @@
     {
       "title": "With fighting spirit, South Korea’s beauty triumphs over Czech set-piece beasts",
       "url": "https://www.arabnews.com/node/2646876/sport",
-      "section": "Related Football Who has qualified for the 2026 World Cup? video Sport Japan first to seal World Cup spot as South Korea, Australia get closer",
+      "section": "sport",
       "publishedAt": "2026-06-12T06:29:26.000Z",
       "publishedRaw": "2026-06-12T09:29:26+03:00",
       "modifiedAt": "2026-06-12T09:29:16.000Z",
@@ -3518,7 +3626,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 40
+          "order": 42
         },
         {
           "source": "dom",
@@ -3543,7 +3651,7 @@
     {
       "title": "Six Senses Southern Dunes: A stay shaped by stillness",
       "url": "https://www.arabnews.com/node/2646875/lifestyle",
-      "section": "Three civilians dead in latest Russia, Ukraine strikes",
+      "section": "lifestyle",
       "publishedAt": "2026-06-12T06:28:16.000Z",
       "publishedRaw": "2026-06-12T09:28:16+03:00",
       "modifiedAt": "2026-06-12T06:28:16.000Z",
@@ -3556,43 +3664,9 @@
       "sources": [
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 44
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
           "order": 13
-        }
-      ]
-    },
-    {
-      "title": "Taking Kharg Island would pose risks for US troops",
-      "url": "https://www.arabnews.com/node/2646871/middle-east",
-      "section": "Taking Kharg Island would pose risks for US troops",
-      "publishedAt": "2026-06-12T05:31:32.000Z",
-      "publishedRaw": "2026-06-12T08:31:32+03:00",
-      "modifiedAt": "2026-06-12T05:51:57.000Z",
-      "modifiedRaw": "2026-06-12T08:51:57+03:00",
-      "description": "WASHINGTON: President Donald Trump has intensified his rhetoric regarding a potential seizure of Iran’s Kharg Island, vowing to take the major oil terminal in the “not too distant future” to “assume total control of their Oil and Gas Markets.” While the president has used social media to escalate threats against the island, he has also acknowledged the complications of a",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4720962-596385002.jpg?itok=ks3bIAFq",
-      "author": "Arab News",
-      "nodeId": 2646871,
-      "candidateUrl": "https://www.arabnews.com/node/2646871/middle-east",
-      "sources": [
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 29
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 15
         }
       ]
     }
@@ -3649,7 +3723,7 @@
       },
       {
         "sourceUrl": "https://www.arabnews.com/world?page=1",
-        "itemCount": 28,
+        "itemCount": 30,
         "challengeDetected": false
       },
       {
@@ -3752,19 +3826,13 @@
     ],
     "sourceErrors": [],
     "skipped": {
-      "source-date-older-than-window": 18,
-      "article-older-than-window": 105
+      "source-date-older-than-window": 19,
+      "article-older-than-window": 106
     },
-    "articleErrors": [
-      {
-        "url": "https://www.arabnews.com/node/2646898/world",
-        "title": "‘Blind spots’ could hide full spread of Congo’s Ebola outbreak, WHO suggests",
-        "error": "curl exited with 22: curl: (22) The requested URL returned error: 403\n"
-      }
-    ],
-    "candidateCountBeforeLimit": 895,
+    "articleErrors": [],
+    "candidateCountBeforeLimit": 897,
     "candidateCountAfterLimit": 220,
-    "verifiedCount": 96,
-    "uniqueCandidateCount": 520
+    "verifiedCount": 95,
+    "uniqueCandidateCount": 516
   }
 }

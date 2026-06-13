@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-06-13T16:06:11.269Z
+Captured at: 2026-06-13T17:47:34.632Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -10,6 +10,6 @@ Errors: 0
 - [Israel and Lebanon agree to 10\-day ceasefire in push for permanent peace deal](https://www.arabnews.com/node/2640092/middle-east) - ok - `archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/content.md` - video: `rendered-clips/2026-06-13/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4`
 - [Southern Lebanon ‘Hezbollah kill zone,’ Israel says](https://www.arabnews.com/node/2640086/middle-east) - ok - `archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md` - video: `rendered-clips/2026-06-13/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4`
 - [Funeral for Iran’s late Supreme Leader Khamenei to begin July 4, burial set for July 9](https://www.arabnews.com/node/2647020/middle-east) - ok - `archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/content.md`
-- [Lebanon reports strikes on south as Israel issues broad evacuation warnings](https://www.arabnews.com/node/2647007/middle-east) - ok - `archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/content.md`
+- [Lebanon reports 1 dead in strikes on south as Israel issues broad evacuation warnings](https://www.arabnews.com/node/2647007/middle-east) - ok - `archive/latest/headlines/02-2647007-lebanon-reports-1-dead-in-strikes-on-south-as-israel-issues-broad-evac/content.md`
 - [Tanker struck by unknown projectile 6 nautical miles east of Oman, UKMTO says](https://www.arabnews.com/node/2647040/middle-east) - ok - `archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/content.md`
 - [Modi to raise Hormuz issue at G7 after US strike kills 3 Indian seafarers](https://www.arabnews.com/node/2647017/world) - ok - `archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/content.md`

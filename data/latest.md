@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-13T06:23:26.275Z
+Fetched at: 2026-06-13T09:43:47.270Z
 Target date: 2026-06-13 (Asia/Riyadh)
 
 ## Latest Videos
@@ -15,5 +15,5 @@ No parseable item-level dates were found, so the output is the current Top Headl
 
 1. [UAE denies media reports alleging transfer of funds to Iran](https://www.arabnews.com/node/2646984/middle-east) - archive: archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/content.md
 2. [Syrian President Ahmed Al-Sharaa. (REUTERS)](https://www.arabnews.com/node/2646979/middle-east) - archive: archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/content.md
-3. [Hezbollah says it confronted Israeli troops advancing in south Lebanon](https://www.arabnews.com/node/2646987/middle-east) - archive: archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/content.md
+3. [Unable to return, displaced southern Lebanese turn to satellite images to check on homes](https://www.arabnews.com/node/2646950/middle-east) - archive: archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/content.md
 4. [General view of a UN Security Council meeting at United Nations headquarters in New York on January 15, 2026. (AFP)](https://www.arabnews.com/node/2646986/world) - archive: archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/content.md

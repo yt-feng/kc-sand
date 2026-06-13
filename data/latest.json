@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-13T11:57:29.030Z",
+  "fetchedAt": "2026-06-13T14:20:25.032Z",
   "targetDate": {
     "iso": "2026-06-13",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,83 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 84,
+    "itemCount": 81,
     "window": {
       "hours": 24,
-      "start": "2026-06-12T11:57:29.030Z",
-      "end": "2026-06-13T11:57:29.030Z",
+      "start": "2026-06-12T14:20:25.032Z",
+      "end": "2026-06-13T14:20:25.032Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
+        "url": "https://www.arabnews.com/node/2647020/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721362-160013218.jpg?itok=L0W7_8Sg",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/metadata.json",
+            "content": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/content.md",
+            "text": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
+        "url": "https://www.arabnews.com/node/2647007/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721378-1954943119.jpg?itok=ZMiKkbCN",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2,
+        "archive": {
+          "directory": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/metadata.json",
+            "content": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/content.md",
+            "text": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Modi to raise Hormuz issue at G7 after US strike kills 3 Indian seafarers",
+        "url": "https://www.arabnews.com/node/2647017/world",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721355-1597905080.jpeg?itok=8QHcH94M",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 4,
+        "archive": {
+          "directory": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/metadata.json",
+            "content": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/content.md",
+            "text": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "US says downed multiple Iran drones as both insist deal closer",
         "url": "https://www.arabnews.com/node/2646994/middle-east",
@@ -97,82 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 7,
         "archive": {
-          "directory": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer",
+          "directory": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/metadata.json",
-            "content": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/content.md",
-            "text": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/metadata.json",
+            "content": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/content.md",
+            "text": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "UAE denies media reports alleging transfer of funds to Iran",
-        "url": "https://www.arabnews.com/node/2646984/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721259-646794373.jpeg?itok=ABTo7Upz",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 2,
-        "archive": {
-          "directory": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/metadata.json",
-            "content": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/content.md",
-            "text": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Syrian President Ahmed Al-Sharaa. (REUTERS)",
-        "url": "https://www.arabnews.com/node/2646979/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/12/4721247-977115177.jpg?itok=sZ89sR0x",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/metadata.json",
-            "content": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/content.md",
-            "text": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Unable to return, displaced southern Lebanese turn to satellite images to check on homes",
-        "url": "https://www.arabnews.com/node/2646950/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/12/4721165-1220693881.jpeg?itok=nIZGDr7V",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 6,
-        "archive": {
-          "directory": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/metadata.json",
-            "content": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/content.md",
-            "text": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/image.jpg",
+            "image": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-13T12:03:37.298Z",
+    "capturedAt": "2026-06-13T14:26:24.301Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-13",
     "itemCount": 7,
@@ -222,8 +222,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2df0cf_259b80167b846d861d039288c6e8aa66ed725d37/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2df0cf_259b80167b846d861d039288c6e8aa66ed725d37/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2e13f7_6dfde9e069c913ff9c43d57f727f1d47452680e1/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -256,7 +255,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2df027_f23c7988fdf199b719597fb12c7a3809b0da3d87/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2e134f_a4ad3a69ddb42639aef4cfb6780c6c65418a7495/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -289,7 +288,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2df26a_2dd1d658593d9b9943705ef78f12abd512e0c4a9/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2e120e_f1155faef2414067debe1b5e07a6c675e1f68f7d/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -308,96 +307,96 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "US says downed multiple Iran drones as both insist deal closer",
-        "url": "https://www.arabnews.com/node/2646994/middle-east",
-        "directory": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer",
+        "title": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
+        "url": "https://www.arabnews.com/node/2647020/middle-east",
+        "directory": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/metadata.json",
-          "content": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/content.md",
-          "text": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/metadata.json",
+          "content": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/content.md",
+          "text": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/image.jpg",
+          "image": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721296-964078918.jpg?itok=XqWfEbs5",
+          "path": "archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721362-160013218.jpg?itok=INS9Q8vi",
           "contentType": "image/jpeg",
-          "bytes": 39408
+          "bytes": 40611
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "UAE denies media reports alleging transfer of funds to Iran",
-        "url": "https://www.arabnews.com/node/2646984/middle-east",
-        "directory": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran",
+        "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
+        "url": "https://www.arabnews.com/node/2647007/middle-east",
+        "directory": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/metadata.json",
-          "content": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/content.md",
-          "text": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/metadata.json",
+          "content": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/content.md",
+          "text": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/image.jpg",
+          "image": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721259-646794373.jpeg?itok=jKDlX4zO",
+          "path": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721378-1954943119.jpg?itok=O3vRjmnx",
           "contentType": "image/jpeg",
-          "bytes": 29219
+          "bytes": 26536
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 2,
-        "title": "Syrian President Ahmed Al-Sharaa. (REUTERS)",
-        "url": "https://www.arabnews.com/node/2646979/middle-east",
-        "directory": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters",
+        "title": "Modi to raise Hormuz issue at G7 after US strike kills 3 Indian seafarers",
+        "url": "https://www.arabnews.com/node/2647017/world",
+        "directory": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/metadata.json",
-          "content": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/content.md",
-          "text": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/metadata.json",
+          "content": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/content.md",
+          "text": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/image.jpg",
+          "image": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4721247-977115177.jpg?itok=IexCb-H8",
+          "path": "archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721355-1597905080.jpeg?itok=SgUK5pXA",
           "contentType": "image/jpeg",
-          "bytes": 32189
+          "bytes": 31471
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 3,
-        "title": "Unable to return, displaced southern Lebanese turn to satellite images to check on homes",
-        "url": "https://www.arabnews.com/node/2646950/middle-east",
-        "directory": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-",
+        "title": "US says downed multiple Iran drones as both insist deal closer",
+        "url": "https://www.arabnews.com/node/2646994/middle-east",
+        "directory": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/metadata.json",
-          "content": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/content.md",
-          "text": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/metadata.json",
+          "content": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/content.md",
+          "text": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/image.jpg",
+          "image": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4721165-1220693881.jpeg?itok=vmokMuBN",
+          "path": "archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721296-964078918.jpg?itok=XqWfEbs5",
           "contentType": "image/jpeg",
-          "bytes": 46284
+          "bytes": 39408
         },
         "video": null
       }

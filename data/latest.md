@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-13T11:57:29.030Z
+Fetched at: 2026-06-13T14:20:25.032Z
 Target date: 2026-06-13 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-13 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [US says downed multiple Iran drones as both insist deal closer](https://www.arabnews.com/node/2646994/middle-east) - archive: archive/latest/headlines/01-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/content.md
-2. [UAE denies media reports alleging transfer of funds to Iran](https://www.arabnews.com/node/2646984/middle-east) - archive: archive/latest/headlines/02-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/content.md
-3. [Syrian President Ahmed Al-Sharaa. (REUTERS)](https://www.arabnews.com/node/2646979/middle-east) - archive: archive/latest/headlines/03-2646979-syrian-president-ahmed-al-sharaa-reuters/content.md
-4. [Unable to return, displaced southern Lebanese turn to satellite images to check on homes](https://www.arabnews.com/node/2646950/middle-east) - archive: archive/latest/headlines/04-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/content.md
+1. [Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9](https://www.arabnews.com/node/2647020/middle-east) - archive: archive/latest/headlines/01-2647020-iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-bur/content.md
+2. [Lebanon reports strikes on south as Israel issues broad evacuation warnings](https://www.arabnews.com/node/2647007/middle-east) - archive: archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-war/content.md
+3. [Modi to raise Hormuz issue at G7 after US strike kills 3 Indian seafarers](https://www.arabnews.com/node/2647017/world) - archive: archive/latest/headlines/03-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/content.md
+4. [US says downed multiple Iran drones as both insist deal closer](https://www.arabnews.com/node/2646994/middle-east) - archive: archive/latest/headlines/04-2646994-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer/content.md

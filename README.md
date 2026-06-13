@@ -4,6 +4,7 @@ Small GitHub Actions scraper for Arab News:
 
 - `https://www.arabnews.com/videos`: latest 3 video items
 - `https://www.arabnews.com/`: current homepage `Top Headlines`
+- a verified recent 24 hour article list assembled from Arab News listing pages, feeds, and article metadata
 
 See [ARCHITECTURE.md](./ARCHITECTURE.md) for the runner, Cloudflare fallback, video download, and VPS cleanup design.
 
@@ -29,6 +30,8 @@ Outputs are written to:
 
 - `data/latest.json`
 - `data/latest.md`
+- `data/recent-24h.json`
+- `data/recent-24h.md`
 - `archive/latest/`, with one folder per captured video/headline page
 - `rendered-clips/YYYY-MM-DD/`, with downloaded video `.mp4` files in the same style as `bbg-show`
 - `artifacts/` when a page is challenged, empty, or otherwise suspicious
@@ -38,6 +41,8 @@ Outputs are written to:
 The workflow is `.github/workflows/scrape-arabnews.yml`.
 
 It runs every 30 minutes and can also be started manually from the Actions tab. Successful runs commit updated `data/latest.json` and `data/latest.md` back to the repository.
+
+Successful runs also commit `data/recent-24h.json` and `data/recent-24h.md`. That list is built in the Action run, not from local files: the scraper gathers candidate links from Arab News listing pages, RSS/Google News XML where useful, and category RSS feeds, then opens each candidate article and keeps only items whose article page exposes a publication time inside the last 24 hours. The JSON includes diagnostics for source counts, skipped candidates, and article errors.
 
 The runner is expected to have FFmpeg and Chromium system libraries installed by the VPS owner/root user. The workflow itself installs Node dependencies and the Playwright Chromium browser, but it does not call `sudo apt-get` because the self-hosted runner user is intentionally not passwordless sudo.
 
@@ -56,3 +61,5 @@ The workflow does not reuse previously committed video URLs as a success path. I
 ## Notes
 
 Homepage cards do not always expose item-level publication timestamps. When no parseable timestamps are present, the scraper records the current homepage `Top Headlines` block at fetch time and notes that behavior in `data/latest.json`.
+
+Arab News' all-site RSS and Google News XML can lag behind the live site. The recent 24 hour output therefore treats feeds as candidate sources only and verifies publication timestamps from article pages before including an item.

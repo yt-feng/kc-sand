@@ -8,8 +8,12 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
   dateMatchesTargetDay,
+  dedupeItemsByUrl,
   extractArabNewsDocument,
-  isCloudflareChallengeText
+  isCloudflareChallengeText,
+  isLikelyArabNewsArticleUrl,
+  normalizeUrl,
+  normalizeWhitespace
 } from "./extractors.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -19,6 +23,31 @@ const SOURCE_URLS = {
   videos: "https://www.arabnews.com/videos",
   home: "https://www.arabnews.com/"
 };
+
+const DEFAULT_RECENT24H_LISTING_URLS = [
+  SOURCE_URLS.home,
+  SOURCE_URLS.videos,
+  "https://www.arabnews.com/saudiarabia",
+  "https://www.arabnews.com/middleeast",
+  "https://www.arabnews.com/world",
+  "https://www.arabnews.com/economy",
+  "https://www.arabnews.com/sport",
+  "https://www.arabnews.com/lifestyle",
+  "https://www.arabnews.com/main-category/media",
+  "https://www.arabnews.com/opinion"
+];
+
+const DEFAULT_RECENT24H_FEED_URLS = [
+  "https://www.arabnews.com/rss.xml",
+  "https://www.arabnews.com/googlenews.xml",
+  "https://www.arabnews.com/cat/1/rss.xml",
+  "https://www.arabnews.com/cat/2/rss.xml",
+  "https://www.arabnews.com/cat/3/rss.xml",
+  "https://www.arabnews.com/cat/4/rss.xml",
+  "https://www.arabnews.com/cat/5/rss.xml",
+  "https://www.arabnews.com/cat/8/rss.xml",
+  "https://www.arabnews.com/cat/2096/rss.xml"
+];
 
 const outputDir = path.resolve(repoRoot, process.env.OUTPUT_DIR || "data");
 const artifactDir = path.resolve(repoRoot, process.env.ARTIFACT_DIR || "artifacts");
@@ -35,6 +64,19 @@ const saveArticleHtml =
   process.env.SAVE_ARTICLE_HTML === "1" || process.env.SAVE_ARTICLE_HTML === "true";
 const saveVideoFiles = process.env.SAVE_VIDEO_FILES !== "0" && process.env.SAVE_VIDEO_FILES !== "false";
 const maxVideoBytes = Number(process.env.MAX_VIDEO_BYTES || 95_000_000);
+const recent24hEnabled = process.env.RECENT24H_ENABLED !== "0" && process.env.RECENT24H_ENABLED !== "false";
+const recent24hRequireItems =
+  process.env.RECENT24H_REQUIRE_ITEMS === "1" || process.env.RECENT24H_REQUIRE_ITEMS === "true";
+const recent24hHours = Number(process.env.RECENT24H_HOURS || 24);
+const recent24hCandidateLimit = Number(process.env.RECENT24H_CANDIDATE_LIMIT || 220);
+const recent24hListingPages = Number(process.env.RECENT24H_LISTING_PAGES || 2);
+const recent24hRequestDelayMs = Number(process.env.RECENT24H_REQUEST_DELAY_MS || 250);
+const recent24hFutureLeewayMs = Number(process.env.RECENT24H_FUTURE_LEEWAY_MINUTES || 15) * 60_000;
+const recent24hListingSourceUrls = expandListingSourceUrls(
+  envList("RECENT24H_LISTING_URLS", DEFAULT_RECENT24H_LISTING_URLS),
+  recent24hListingPages
+);
+const recent24hFeedSourceUrls = envList("RECENT24H_FEED_URLS", DEFAULT_RECENT24H_FEED_URLS);
 
 function todayIsoInTimeZone(date = new Date()) {
   return new Intl.DateTimeFormat("en-CA", {
@@ -43,6 +85,74 @@ function todayIsoInTimeZone(date = new Date()) {
     month: "2-digit",
     day: "2-digit"
   }).format(date);
+}
+
+function envList(name, fallback) {
+  const raw = process.env[name];
+  if (!raw) return [...fallback];
+  return raw
+    .split(/[\n,]/)
+    .map((value) => value.trim())
+    .filter(Boolean);
+}
+
+function expandListingSourceUrls(urls, pageCount) {
+  const result = [];
+  const maxPages = Math.max(1, pageCount);
+
+  for (const sourceUrl of urls) {
+    result.push(sourceUrl);
+    for (let pageIndex = 1; pageIndex < maxPages; pageIndex += 1) {
+      try {
+        const url = new URL(sourceUrl);
+        url.searchParams.set("page", String(pageIndex));
+        result.push(url.toString());
+      } catch {
+        // Keep the configured base URL and skip malformed pagination variants.
+      }
+    }
+  }
+
+  return [...new Set(result)];
+}
+
+function parseDateValue(value) {
+  const raw = normalizeWhitespace(value);
+  if (!raw) return null;
+
+  const variants = [
+    raw,
+    raw.replace(/([+-]\d{2})$/, "$1:00"),
+    raw.replace(/([+-]\d{2})$/, "$100")
+  ];
+
+  for (const variant of variants) {
+    const date = new Date(variant);
+    if (!Number.isNaN(date.valueOf())) return date;
+  }
+
+  return null;
+}
+
+function sectionFromArticleUrl(url) {
+  try {
+    const parsed = new URL(url);
+    const parts = parsed.pathname.split("/").filter(Boolean);
+    if (parts[0] === "node" && parts[2]) return parts[2].replaceAll("-", " ");
+    return parts[0]?.replaceAll("-", " ") || "";
+  } catch {
+    return "";
+  }
+}
+
+function nodeIdFromUrl(url) {
+  const match = String(url || "").match(/\/node\/(\d+)/);
+  return match ? Number(match[1]) : 0;
+}
+
+function sleep(ms) {
+  if (!ms) return Promise.resolve();
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function proxyOptions() {
@@ -317,6 +427,445 @@ async function extractWithCurlFallback(context, { url, mode, limit, reason }) {
     );
     return null;
   }
+}
+
+async function parseXmlCandidates(context, { url, xml }) {
+  const page = await context.newPage();
+
+  try {
+    await page.route("**/*", (route) => route.abort()).catch(() => {});
+    await page.setContent("<!doctype html><title>XML parser</title>", {
+      waitUntil: "domcontentloaded",
+      timeout: Number(process.env.HTML_PARSE_TIMEOUT_MS || 30000)
+    });
+
+    return await page.evaluate(
+      ({ sourceUrl, xmlText }) => {
+        function clean(value) {
+          return String(value ?? "")
+            .replace(/\s+/g, " ")
+            .trim();
+        }
+
+        function nodeText(root, names) {
+          for (const name of names) {
+            const element = root.getElementsByTagName(name)[0];
+            const text = clean(element?.textContent || "");
+            if (text) return text;
+          }
+          return "";
+        }
+
+        function toUrl(value) {
+          if (!value) return "";
+          try {
+            const parsed = new URL(value, sourceUrl);
+            parsed.hash = "";
+            return parsed.toString();
+          } catch {
+            return "";
+          }
+        }
+
+        const doc = new DOMParser().parseFromString(xmlText, "application/xml");
+        const parserError = clean(doc.getElementsByTagName("parsererror")[0]?.textContent || "");
+        const items = [];
+
+        for (const item of doc.getElementsByTagName("item")) {
+          items.push({
+            title: nodeText(item, ["title"]),
+            url: toUrl(nodeText(item, ["link", "guid"])),
+            datePublished: nodeText(item, ["pubDate", "dc:date"]),
+            description: nodeText(item, ["description"]),
+            source: "rss-feed"
+          });
+        }
+
+        for (const item of doc.getElementsByTagName("url")) {
+          items.push({
+            title: nodeText(item, ["news:title", "image:title", "video:title"]),
+            url: toUrl(nodeText(item, ["loc"])),
+            datePublished: nodeText(item, ["news:publication_date", "lastmod"]),
+            description: "",
+            source: "xml-urlset"
+          });
+        }
+
+        return {
+          parserError,
+          itemCount: items.length,
+          items
+        };
+      },
+      { sourceUrl: url, xmlText: xml }
+    );
+  } finally {
+    await page.close().catch(() => {});
+  }
+}
+
+async function collectRecentFeedCandidates(context, sourceUrl) {
+  const xml = await curlFetch(sourceUrl, Number(process.env.RECENT24H_SOURCE_TIMEOUT_MS || 45000));
+  const parsed = await parseXmlCandidates(context, { url: sourceUrl, xml });
+  const items = parsed.items
+    .map((item, index) => ({
+      ...item,
+      url: normalizeUrl(item.url),
+      title: normalizeWhitespace(item.title),
+      section: sectionFromArticleUrl(item.url),
+      sourceUrl,
+      order: index
+    }))
+    .filter((item) => item.title && isLikelyArabNewsArticleUrl(item.url));
+
+  return {
+    sourceUrl,
+    type: "feed",
+    parserError: parsed.parserError,
+    itemCount: items.length,
+    items
+  };
+}
+
+async function collectRecentListingCandidates(context, sourceUrl) {
+  const html = await curlFetch(sourceUrl, Number(process.env.RECENT24H_SOURCE_TIMEOUT_MS || 45000));
+  const extracted = await extractFromHtml(context, {
+    url: sourceUrl,
+    html,
+    mode: "content",
+    limit: 0
+  });
+  const items = extracted.items
+    .map((item, index) => ({
+      ...item,
+      url: normalizeUrl(item.url),
+      title: normalizeWhitespace(item.title),
+      section: item.section || sectionFromArticleUrl(item.url),
+      sourceUrl,
+      source: item.source || "listing",
+      order: index
+    }))
+    .filter((item) => item.title && isLikelyArabNewsArticleUrl(item.url));
+
+  return {
+    sourceUrl,
+    type: "listing",
+    responseStatus: extracted.responseStatus,
+    challengeDetected: extracted.challengeDetected,
+    itemCount: items.length,
+    items
+  };
+}
+
+function mergeRecentCandidates(candidates) {
+  const byUrl = new Map();
+
+  for (const candidate of candidates) {
+    const url = normalizeUrl(candidate.url);
+    const title = normalizeWhitespace(candidate.title);
+    if (!url || !title || !isLikelyArabNewsArticleUrl(url)) continue;
+
+    const source = {
+      source: candidate.source || "unknown",
+      sourceUrl: candidate.sourceUrl || "",
+      datePublished: candidate.datePublished || null,
+      order: candidate.order ?? null
+    };
+    const existing = byUrl.get(url);
+
+    if (existing) {
+      if (!existing.title && title) existing.title = title;
+      if (!existing.datePublished && candidate.datePublished) existing.datePublished = candidate.datePublished;
+      if (!existing.section && candidate.section) existing.section = candidate.section;
+      existing.sources.push(source);
+      continue;
+    }
+
+    byUrl.set(url, {
+      title,
+      url,
+      section: candidate.section || sectionFromArticleUrl(url),
+      datePublished: candidate.datePublished || null,
+      description: candidate.description || "",
+      nodeId: nodeIdFromUrl(url),
+      sources: [source]
+    });
+  }
+
+  return [...byUrl.values()].sort((a, b) => {
+    const nodeDiff = b.nodeId - a.nodeId;
+    if (nodeDiff !== 0) return nodeDiff;
+    return a.title.localeCompare(b.title);
+  });
+}
+
+async function extractArticleMetadataFromHtml(context, itemUrl, html) {
+  const page = await context.newPage();
+
+  try {
+    await page.route("**/*", (route) => route.abort()).catch(() => {});
+    await page.setContent(html, {
+      waitUntil: "domcontentloaded",
+      timeout: Number(process.env.HTML_PARSE_TIMEOUT_MS || 30000)
+    });
+    await page
+      .evaluate((url) => {
+        window.history.replaceState(null, "", url);
+      }, itemUrl)
+      .catch(() => {});
+
+    return await page.evaluate(
+      ({ baseUrl }) => {
+        function clean(value) {
+          return String(value || "")
+            .replace(/\s+/g, " ")
+            .trim();
+        }
+
+        function attr(selector, name) {
+          return document.querySelector(selector)?.getAttribute(name) || "";
+        }
+
+        function absoluteUrl(value) {
+          if (!value) return "";
+          try {
+            const url = new URL(value, baseUrl);
+            url.hash = "";
+            return url.toString();
+          } catch {
+            return "";
+          }
+        }
+
+        const published =
+          attr("meta[property='article:published_time']", "content") ||
+          attr("meta[name='pubdate']", "content") ||
+          attr("meta[itemprop='datePublished']", "content") ||
+          attr("time[datetime]", "datetime");
+
+        const modified =
+          attr("meta[property='article:modified_time']", "content") ||
+          attr("meta[itemprop='dateModified']", "content");
+
+        const title =
+          clean(attr("meta[property='og:title']", "content")) ||
+          clean(document.querySelector("h1")?.innerText) ||
+          clean(document.title);
+
+        return {
+          title,
+          description:
+            clean(attr("meta[name='description']", "content")) ||
+            clean(attr("meta[property='og:description']", "content")),
+          image:
+            absoluteUrl(attr("meta[property='og:image']", "content")) ||
+            absoluteUrl(document.querySelector("article img, main img")?.getAttribute("src")),
+          published,
+          modified,
+          author:
+            clean(attr("meta[name='author']", "content")) ||
+            clean(document.querySelector("[rel='author'], .author, [class*='author']")?.textContent),
+          section:
+            clean(attr("meta[property='article:section']", "content")) ||
+            clean(document.querySelector("[rel='tag'], [class*='section'], [class*='category']")?.textContent),
+          canonical: absoluteUrl(attr("link[rel='canonical']", "href")) || baseUrl,
+          pageTitle: document.title,
+          bodyText: clean(document.body?.innerText || "")
+        };
+      },
+      { baseUrl: itemUrl }
+    );
+  } finally {
+    await page.close().catch(() => {});
+  }
+}
+
+async function verifyRecentCandidate(context, candidate, windowStart, windowEnd) {
+  const sourceDate = parseDateValue(candidate.datePublished);
+  if (sourceDate && sourceDate < windowStart) {
+    return {
+      status: "skipped",
+      reason: "source-date-older-than-window",
+      candidate
+    };
+  }
+  if (sourceDate && sourceDate > windowEnd) {
+    return {
+      status: "skipped",
+      reason: "source-date-after-window",
+      candidate
+    };
+  }
+
+  const html = await curlFetch(candidate.url, Number(process.env.RECENT24H_ARTICLE_TIMEOUT_MS || 60000));
+  const metadata = await extractArticleMetadataFromHtml(context, candidate.url, html);
+  const challengeDetected = isCloudflareChallengeText(metadata.bodyText, metadata.pageTitle);
+  if (challengeDetected) {
+    return {
+      status: "skipped",
+      reason: "article-challenge",
+      candidate
+    };
+  }
+
+  const publishedDate = parseDateValue(metadata.published) || sourceDate;
+  if (!publishedDate) {
+    return {
+      status: "skipped",
+      reason: "no-published-date",
+      candidate,
+      metadata
+    };
+  }
+  if (publishedDate < windowStart) {
+    return {
+      status: "skipped",
+      reason: "article-older-than-window",
+      candidate,
+      metadata
+    };
+  }
+  if (publishedDate > windowEnd) {
+    return {
+      status: "skipped",
+      reason: "article-after-window",
+      candidate,
+      metadata
+    };
+  }
+
+  const canonical = normalizeUrl(metadata.canonical);
+  const url = isLikelyArabNewsArticleUrl(canonical) ? canonical : candidate.url;
+
+  return {
+    status: "ok",
+    item: {
+      title: normalizeWhitespace(metadata.title || candidate.title),
+      url,
+      section: normalizeWhitespace(metadata.section) || candidate.section || sectionFromArticleUrl(url),
+      publishedAt: publishedDate.toISOString(),
+      publishedRaw: metadata.published || candidate.datePublished || null,
+      modifiedAt: parseDateValue(metadata.modified)?.toISOString() || null,
+      modifiedRaw: metadata.modified || null,
+      description: normalizeWhitespace(metadata.description || candidate.description || ""),
+      image: metadata.image || null,
+      author: normalizeWhitespace(metadata.author || ""),
+      nodeId: nodeIdFromUrl(url),
+      candidateUrl: candidate.url,
+      sources: candidate.sources
+    }
+  };
+}
+
+function summarizeSkip(counts, reason) {
+  counts[reason] = (counts[reason] || 0) + 1;
+}
+
+async function collectRecent24h(context, fetchedAt) {
+  const fetchedDate = new Date(fetchedAt);
+  const windowStart = new Date(fetchedDate.valueOf() - recent24hHours * 60 * 60 * 1000);
+  const windowEnd = new Date(fetchedDate.valueOf() + recent24hFutureLeewayMs);
+  const diagnostics = {
+    enabled: recent24hEnabled,
+    hours: recent24hHours,
+    candidateLimit: recent24hCandidateLimit,
+    listingSources: [],
+    feedSources: [],
+    sourceErrors: [],
+    skipped: {},
+    articleErrors: [],
+    candidateCountBeforeLimit: 0,
+    candidateCountAfterLimit: 0,
+    verifiedCount: 0
+  };
+  const rawCandidates = [];
+
+  for (const sourceUrl of recent24hFeedSourceUrls) {
+    try {
+      const result = await collectRecentFeedCandidates(context, sourceUrl);
+      diagnostics.feedSources.push({
+        sourceUrl,
+        itemCount: result.itemCount,
+        parserError: result.parserError || null
+      });
+      rawCandidates.push(...result.items);
+    } catch (error) {
+      diagnostics.sourceErrors.push({
+        sourceUrl,
+        type: "feed",
+        error: String(error?.message || error)
+      });
+    }
+  }
+
+  for (const sourceUrl of recent24hListingSourceUrls) {
+    try {
+      const result = await collectRecentListingCandidates(context, sourceUrl);
+      diagnostics.listingSources.push({
+        sourceUrl,
+        itemCount: result.itemCount,
+        challengeDetected: result.challengeDetected
+      });
+      if (!result.challengeDetected) rawCandidates.push(...result.items);
+    } catch (error) {
+      diagnostics.sourceErrors.push({
+        sourceUrl,
+        type: "listing",
+        error: String(error?.message || error)
+      });
+    }
+  }
+
+  diagnostics.candidateCountBeforeLimit = rawCandidates.length;
+  const mergedCandidates = mergeRecentCandidates(rawCandidates);
+  const candidates = mergedCandidates.slice(0, Math.max(1, recent24hCandidateLimit));
+  diagnostics.uniqueCandidateCount = mergedCandidates.length;
+  diagnostics.candidateCountAfterLimit = candidates.length;
+
+  const verifiedItems = [];
+  for (const candidate of candidates) {
+    await sleep(recent24hRequestDelayMs);
+    try {
+      const result = await verifyRecentCandidate(context, candidate, windowStart, windowEnd);
+      if (result.status === "ok") {
+        verifiedItems.push(result.item);
+        diagnostics.verifiedCount += 1;
+      } else {
+        summarizeSkip(diagnostics.skipped, result.reason);
+      }
+    } catch (error) {
+      diagnostics.articleErrors.push({
+        url: candidate.url,
+        title: candidate.title,
+        error: String(error?.message || error)
+      });
+    }
+  }
+
+  const items = dedupeItemsByUrl(verifiedItems)
+    .map((item) => ({
+      ...item,
+      section: item.section || sectionFromArticleUrl(item.url),
+      nodeId: nodeIdFromUrl(item.url)
+    }))
+    .sort((a, b) => {
+      const timeDiff = new Date(b.publishedAt).valueOf() - new Date(a.publishedAt).valueOf();
+      if (timeDiff !== 0) return timeDiff;
+      return b.nodeId - a.nodeId;
+    });
+
+  return {
+    fetchedAt,
+    window: {
+      hours: recent24hHours,
+      start: windowStart.toISOString(),
+      end: fetchedDate.toISOString(),
+      futureLeewayMinutes: Math.round(recent24hFutureLeewayMs / 60_000)
+    },
+    itemCount: items.length,
+    items,
+    diagnostics
+  };
 }
 
 async function findFfmpegExecutable() {
@@ -1022,6 +1571,53 @@ function markdownList(items) {
     .join("\n");
 }
 
+function recent24hMarkdown(recent) {
+  const lines = [
+    "# Arab News Recent 24 Hours",
+    "",
+    `Fetched at: ${recent.fetchedAt}`,
+    `Window: ${recent.window.start} to ${recent.window.end} (${recent.window.hours}h)`,
+    `Items: ${recent.itemCount}`,
+    "",
+    "## Items",
+    ""
+  ];
+
+  if (recent.items.length === 0) {
+    lines.push("_No recent items captured._");
+  } else {
+    for (const [index, item] of recent.items.entries()) {
+      const parts = [`${index + 1}. [${item.title}](${item.url})`, `published: ${item.publishedAt}`];
+      if (item.section) parts.push(`section: ${item.section}`);
+      if (item.author) parts.push(`author: ${item.author}`);
+      lines.push(parts.join(" - "));
+    }
+  }
+
+  lines.push(
+    "",
+    "## Diagnostics",
+    "",
+    `Unique candidates: ${recent.diagnostics.uniqueCandidateCount ?? 0}`,
+    `Candidates verified: ${recent.diagnostics.verifiedCount}`,
+    `Candidates after limit: ${recent.diagnostics.candidateCountAfterLimit}`,
+    `Source errors: ${recent.diagnostics.sourceErrors.length}`,
+    `Article errors: ${recent.diagnostics.articleErrors.length}`,
+    ""
+  );
+
+  const skippedEntries = Object.entries(recent.diagnostics.skipped || {});
+  if (skippedEntries.length > 0) {
+    lines.push("Skipped:", "");
+    for (const [reason, count] of skippedEntries) {
+      lines.push(`- ${reason}: ${count}`);
+    }
+    lines.push("");
+  }
+
+  return lines.join("\n");
+}
+
 async function main() {
   const fetchedAt = new Date().toISOString();
   const targetDate = todayIsoInTimeZone();
@@ -1061,6 +1657,29 @@ async function main() {
   ]);
 
   const headlineSelection = selectTodayHeadlines(homeResult.items, targetDate);
+  let recent24h = {
+    fetchedAt,
+    window: {
+      hours: recent24hHours,
+      start: new Date(new Date(fetchedAt).valueOf() - recent24hHours * 60 * 60 * 1000).toISOString(),
+      end: fetchedAt,
+      futureLeewayMinutes: Math.round(recent24hFutureLeewayMs / 60_000)
+    },
+    itemCount: 0,
+    items: [],
+    diagnostics: {
+      enabled: false,
+      skipped: {},
+      sourceErrors: [],
+      articleErrors: [],
+      verifiedCount: 0,
+      candidateCountAfterLimit: 0
+    }
+  };
+  if (recent24hEnabled) {
+    recent24h = await collectRecent24h(context, fetchedAt);
+  }
+
   const output = {
     fetchedAt,
     targetDate: {
@@ -1069,6 +1688,11 @@ async function main() {
     },
     sources: SOURCE_URLS,
     videos: videosResult.items.slice(0, videoLimit),
+    recent24hSummary: {
+      sourceFile: "data/recent-24h.json",
+      itemCount: recent24h.itemCount,
+      window: recent24h.window
+    },
     headlines: {
       ...headlineSelection,
       sourceUrl: SOURCE_URLS.home
@@ -1102,6 +1726,8 @@ async function main() {
   await browser.close();
 
   await writeFile(path.join(outputDir, "latest.json"), `${JSON.stringify(output, null, 2)}\n`);
+  await writeFile(path.join(outputDir, "recent-24h.json"), `${JSON.stringify(recent24h, null, 2)}\n`);
+  await writeFile(path.join(outputDir, "recent-24h.md"), recent24hMarkdown(recent24h));
   await writeFile(
     path.join(outputDir, "latest.md"),
     [
@@ -1133,6 +1759,9 @@ async function main() {
   if (output.headlines.items.length === 0) {
     failures.push("No homepage Top Headlines were captured.");
   }
+  if (recent24hEnabled && recent24hRequireItems && recent24h.itemCount === 0) {
+    failures.push("No Arab News items were captured in the recent 24 hour list.");
+  }
   if (archiveItems && output.archive?.errorCount > 0) {
     failures.push(`Archive had ${output.archive.errorCount} item errors.`);
   }
@@ -1154,8 +1783,10 @@ async function main() {
   }
 
   console.log(`Wrote ${path.relative(repoRoot, path.join(outputDir, "latest.json"))}`);
+  console.log(`Wrote ${path.relative(repoRoot, path.join(outputDir, "recent-24h.json"))}`);
   console.log(`Videos: ${output.videos.length}`);
   console.log(`Headlines: ${output.headlines.items.length}`);
+  console.log(`Recent 24h: ${recent24h.itemCount}`);
   if (output.archive && !output.archive.skipped) {
     console.log(`Archived: ${output.archive.okCount}/${output.archive.itemCount}`);
   }

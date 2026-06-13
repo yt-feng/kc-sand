@@ -63,6 +63,11 @@ jobs:
           SAVE_VIDEO_FILES: "true"
           FFMPEG_PATH: /usr/bin/ffmpeg
           MAX_VIDEO_BYTES: "95000000"
+          RECENT24H_ENABLED: "true"
+          RECENT24H_REQUIRE_ITEMS: "false"
+          RECENT24H_CANDIDATE_LIMIT: "220"
+          RECENT24H_LISTING_PAGES: "2"
+          RECENT24H_REQUEST_DELAY_MS: "250"
           SAVE_PAGE_ARTIFACTS: ${{ inputs.save_artifacts || 'false' }}
           PLAYWRIGHT_PROXY_SERVER: ${{ secrets.PLAYWRIGHT_PROXY_SERVER }}
           PLAYWRIGHT_PROXY_USERNAME: ${{ secrets.PLAYWRIGHT_PROXY_USERNAME }}
@@ -80,7 +85,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest.json data/latest.md archive/latest rendered-clips
+          git add data/latest.json data/latest.md data/recent-24h.json data/recent-24h.md archive/latest rendered-clips
           if git diff --cached --quiet; then
             echo "No scraped data changes."
           else

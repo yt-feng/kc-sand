@@ -4,6 +4,7 @@ This repo is a GitHub Actions scraper for Arab News. It captures:
 
 - the latest 3 items from `https://www.arabnews.com/videos`
 - the current homepage `Top Headlines` block from `https://www.arabnews.com/`
+- a verified list of articles published in the last 24 hours
 - article snapshots, lead images, and downloaded video `.mp4` files
 
 ## Runtime
@@ -26,9 +27,10 @@ This runner is registered separately from the `rpt_edit` WeChat runner, but it u
 5. The script first tries Playwright navigation for the videos page and homepage.
 6. If Playwright receives a Cloudflare challenge, a 4xx response, or an empty page, the script uses `curl --compressed` on the same Action runner to fetch live HTML.
 7. The live HTML is parsed with the same DOM extractor. This is a live fallback, not a cache fallback.
-8. The script archives article pages, images, and video metadata under `archive/latest/`.
-9. For video items, the script resolves JWPlayer media URLs and downloads `.mp4` files under `rendered-clips/YYYY-MM-DD/`.
-10. The workflow commits `data/latest.json`, `data/latest.md`, `archive/latest/`, and `rendered-clips/` back to the repo.
+8. The script builds a recent 24 hour candidate set from Arab News listing pages, feed XML, and category RSS feeds, then verifies each candidate against article-page publication metadata.
+9. The script archives article pages, images, and video metadata under `archive/latest/`.
+10. For video items, the script resolves JWPlayer media URLs and downloads `.mp4` files under `rendered-clips/YYYY-MM-DD/`.
+11. The workflow commits `data/latest.json`, `data/latest.md`, `data/recent-24h.json`, `data/recent-24h.md`, `archive/latest/`, and `rendered-clips/` back to the repo.
 
 ## Cloudflare Handling
 
@@ -58,6 +60,30 @@ Video pages often expose JWPlayer URLs. The downloader:
 
 Downloaded video files are capped by `MAX_VIDEO_BYTES`, currently `95,000,000`, so each committed file stays below GitHub's 100 MB file limit.
 
+## Recent 24 Hour List
+
+The recent list is written to:
+
+```text
+data/recent-24h.json
+data/recent-24h.md
+```
+
+It is intended to answer "what did Arab News publish in the last 24 hours?" more completely than the homepage Top Headlines block.
+
+The collection strategy is:
+
+1. Fetch configured listing pages such as homepage, videos, Saudi Arabia, Middle East, World, Economy, Sport, Lifestyle, Media, and Opinion.
+2. Fetch feed sources such as all-site RSS, Google News XML, and useful category RSS feeds.
+3. Extract `/node/<id>/...` article URLs from those sources and dedupe them.
+4. Sort candidates by node id descending so the newest-looking URLs are checked first.
+5. Fetch each candidate article page with live `curl` on the Action runner.
+6. Keep only items whose article page exposes `article:published_time`, `pubdate`, or `time[datetime]` inside the previous 24 hours.
+
+The JSON includes diagnostics: source counts, candidate counts, skipped reasons, and article errors. The workflow currently treats an empty recent 24 hour list as diagnostic data, not a hard failure, because Arab News feeds can lag and listing pages can change. Set `RECENT24H_REQUIRE_ITEMS=true` if the Action should fail when the recent list is empty.
+
+As of 2026-06-13, the all-site RSS and Google News XML were observed to lag behind the live website, so they are used as candidate sources only. The article page publication timestamp is the inclusion authority.
+
 ## Output Layout
 
 Current output files:
@@ -65,6 +91,8 @@ Current output files:
 ```text
 data/latest.json
 data/latest.md
+data/recent-24h.json
+data/recent-24h.md
 archive/latest/index.json
 archive/latest/index.md
 archive/latest/videos/<item>/

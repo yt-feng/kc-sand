@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-13T01:39:23.320Z",
+  "fetchedAt": "2026-06-13T05:25:56.092Z",
   "targetDate": {
     "iso": "2026-06-13",
     "timeZone": "Asia/Riyadh"
@@ -76,93 +76,103 @@
       }
     }
   ],
+  "recent24hSummary": {
+    "sourceFile": "data/recent-24h.json",
+    "itemCount": 96,
+    "window": {
+      "hours": 24,
+      "start": "2026-06-12T05:25:56.092Z",
+      "end": "2026-06-13T05:25:56.092Z",
+      "futureLeewayMinutes": 15
+    }
+  },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
       {
-        "title": "US military helping move 7 million barrels of oil per day out of Arabian Gulf, Wright says",
-        "url": "https://www.arabnews.com/node/2646947/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/12/4721153-2036648367.png?itok=cYVqNxaf",
+        "title": "UAE denies media reports alleging transfer of funds to Iran",
+        "url": "https://www.arabnews.com/node/2646984/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721259-646794373.jpeg?itok=ABTo7Upz",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 0,
         "archive": {
-          "directory": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi",
+          "directory": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/metadata.json",
-            "content": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/content.md",
-            "text": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/page-text.txt",
+            "metadata": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/metadata.json",
+            "content": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/content.md",
+            "text": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/image.png",
+            "image": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "Hezbollah confident any US-Iran deal will include Lebanon, politician says",
-        "url": "https://www.arabnews.com/node/2646914/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/12/4721073-485164918.jpg?itok=qKj2fSOF",
+        "title": "Syrian President Ahmed Al-Sharaa. (REUTERS)",
+        "url": "https://www.arabnews.com/node/2646979/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/12/4721247-977115177.jpg?itok=sZ89sR0x",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s",
+          "directory": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/metadata.json",
-            "content": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/content.md",
-            "text": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/metadata.json",
+            "content": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/content.md",
+            "text": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/image.jpg",
+            "image": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "Unable to return, displaced southern Lebanese turn to satellite images to check on homes",
-        "url": "https://www.arabnews.com/node/2646950/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/12/4721165-1220693881.jpeg?itok=nIZGDr7V",
+        "title": "Hezbollah says it confronted Israeli troops advancing in south Lebanon",
+        "url": "https://www.arabnews.com/node/2646987/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721272-2126206721.jpg?itok=sGXtBkQY",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-",
+          "directory": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/metadata.json",
-            "content": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/content.md",
-            "text": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/metadata.json",
+            "content": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/content.md",
+            "text": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/image.jpg",
+            "image": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "India summons US diplomat for second time after Gulf ship attacks",
-        "url": "https://www.arabnews.com/node/2646903/world",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/12/4721053-550637256.jpg?itok=QDVGLWPJ",
+        "title": "General view of a UN Security Council meeting at United Nations headquarters in New York on January 15, 2026. (AFP)",
+        "url": "https://www.arabnews.com/node/2646986/world",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721264-1094865048.jpg?itok=jI49WJgg",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks",
+          "directory": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/metadata.json",
-            "content": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/content.md",
-            "text": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/metadata.json",
+            "content": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/content.md",
+            "text": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/image.jpg",
+            "image": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/image.jpg",
             "video": null
           }
         }
@@ -187,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-13T01:42:32.517Z",
+    "capturedAt": "2026-06-13T05:32:15.979Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-13",
     "itemCount": 7,
@@ -212,8 +222,8 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2d60ab_7eeab1b7bc44af77151624dde86a2abdc407c8a9/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2d60ab_7eeab1b7bc44af77151624dde86a2abdc407c8a9/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2d9567_f7ef28f70f82673e27028d6f353eeef17aac43f9/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2d9567_f7ef28f70f82673e27028d6f353eeef17aac43f9/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -246,7 +256,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2d6003_93f20b00d5bfb04522b6187acd3715433d8a75fc/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2d94bf_bdd6454ff9a94b8266066d4fc19e3ba5f63743cc/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -279,7 +289,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2d5ec2_f51fe510679576d029b4069abd130081d86e5f6c/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2d9702_4957d94b5596f9a523c3c4debeb36fe882fdcb25/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -298,96 +308,96 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "US military helping move 7 million barrels of oil per day out of Arabian Gulf, Wright says",
-        "url": "https://www.arabnews.com/node/2646947/middle-east",
-        "directory": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi",
+        "title": "UAE denies media reports alleging transfer of funds to Iran",
+        "url": "https://www.arabnews.com/node/2646984/middle-east",
+        "directory": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/metadata.json",
-          "content": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/content.md",
-          "text": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/metadata.json",
+          "content": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/content.md",
+          "text": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/image.png",
+          "image": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/01-2646947-us-military-helping-move-7-million-barrels-of-oil-per-day-out-of-arabi/image.png",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4721153-2036648367.png?itok=ZE9h-eWB",
-          "contentType": "image/png",
-          "bytes": 212031
+          "path": "archive/latest/headlines/01-2646984-uae-denies-media-reports-alleging-transfer-of-funds-to-iran/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721259-646794373.jpeg?itok=jKDlX4zO",
+          "contentType": "image/jpeg",
+          "bytes": 29219
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "Hezbollah confident any US-Iran deal will include Lebanon, politician says",
-        "url": "https://www.arabnews.com/node/2646914/middle-east",
-        "directory": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s",
+        "title": "Syrian President Ahmed Al-Sharaa. (REUTERS)",
+        "url": "https://www.arabnews.com/node/2646979/middle-east",
+        "directory": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/metadata.json",
-          "content": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/content.md",
-          "text": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/metadata.json",
+          "content": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/content.md",
+          "text": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/image.jpg",
+          "image": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/02-2646914-hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-s/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4721073-485164918.jpg?itok=wxaQKuZK",
+          "path": "archive/latest/headlines/02-2646979-syrian-president-ahmed-al-sharaa-reuters/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4721247-977115177.jpg?itok=IexCb-H8",
           "contentType": "image/jpeg",
-          "bytes": 48656
+          "bytes": 32189
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 2,
-        "title": "Unable to return, displaced southern Lebanese turn to satellite images to check on homes",
-        "url": "https://www.arabnews.com/node/2646950/middle-east",
-        "directory": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-",
+        "title": "Hezbollah says it confronted Israeli troops advancing in south Lebanon",
+        "url": "https://www.arabnews.com/node/2646987/middle-east",
+        "directory": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/metadata.json",
-          "content": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/content.md",
-          "text": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/metadata.json",
+          "content": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/content.md",
+          "text": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/image.jpg",
+          "image": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/03-2646950-unable-to-return-displaced-southern-lebanese-turn-to-satellite-images-/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4721165-1220693881.jpeg?itok=vmokMuBN",
+          "path": "archive/latest/headlines/03-2646987-hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721272-2126206721.jpg?itok=hKpoup2O",
           "contentType": "image/jpeg",
-          "bytes": 46284
+          "bytes": 25586
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 3,
-        "title": "India summons US diplomat for second time after Gulf ship attacks",
-        "url": "https://www.arabnews.com/node/2646903/world",
-        "directory": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks",
+        "title": "General view of a UN Security Council meeting at United Nations headquarters in New York on January 15, 2026. (AFP)",
+        "url": "https://www.arabnews.com/node/2646986/world",
+        "directory": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/metadata.json",
-          "content": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/content.md",
-          "text": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/metadata.json",
+          "content": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/content.md",
+          "text": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/image.jpg",
+          "image": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/04-2646903-india-summons-us-diplomat-for-second-time-after-gulf-ship-attacks/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4721053-550637256.jpg?itok=Ugp9BR6f",
+          "path": "archive/latest/headlines/04-2646986-general-view-of-a-un-security-council-meeting-at-united-nations-headqu/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721264-1094865048.jpg?itok=xuEDYTB5",
           "contentType": "image/jpeg",
-          "bytes": 39021
+          "bytes": 61417
         },
         "video": null
       }

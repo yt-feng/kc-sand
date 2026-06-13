@@ -16,6 +16,7 @@ DUBAI: The ‌funeral for Iran’s late Supreme Leader Ayatollah Ali Khamenei wi
 
 ## Video Or Embed URLs
 
+- https://bdef9f3d8a2834f420bfd382aa558087.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html

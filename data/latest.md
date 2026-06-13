@@ -1,7 +1,7 @@
 # Arab News Latest
 
-Fetched at: 2026-06-13T19:45:27.754Z
-Target date: 2026-06-13 (Asia/Riyadh)
+Fetched at: 2026-06-13T21:22:00.095Z
+Target date: 2026-06-14 (Asia/Riyadh)
 
 ## Latest Videos
 
@@ -14,6 +14,6 @@ Target date: 2026-06-13 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Funeral for Iran’s late Supreme Leader Khamenei to begin July 4, burial set for July 9](https://www.arabnews.com/node/2647020/middle-east) - archive: archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/content.md
-2. [Lebanon reports 1 dead in strikes on south as Israel issues broad evacuation warnings](https://www.arabnews.com/node/2647007/middle-east) - archive: archive/latest/headlines/02-2647007-lebanon-reports-1-dead-in-strikes-on-south-as-israel-issues-broad-evac/content.md
+2. [Lebanon reports strikes on south, east as Israel issues broad evacuation warnings](https://www.arabnews.com/node/2647007/middle-east) - archive: archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/content.md
 3. [Tanker struck by unknown projectile 6 nautical miles east of Oman, UKMTO says](https://www.arabnews.com/node/2647040/middle-east) - archive: archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/content.md
 4. [Modi to raise Hormuz issue at G7 after US strike kills 3 Indian seafarers](https://www.arabnews.com/node/2647017/world) - archive: archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/content.md

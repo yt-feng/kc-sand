@@ -1,7 +1,7 @@
 # Arab News Recent 24 Hours
 
-Fetched at: 2026-06-13T05:47:08.243Z
-Window: 2026-06-12T05:47:08.243Z to 2026-06-13T05:47:08.243Z (24h)
+Fetched at: 2026-06-13T05:56:47.456Z
+Window: 2026-06-12T05:56:47.456Z to 2026-06-13T05:56:47.456Z (24h)
 Items: 95
 
 ## Items
@@ -33,11 +33,11 @@ Items: 95
 25. [Sweden strike force faces tough Tunisia test in opener](https://www.arabnews.com/node/2646974/sport) - published: 2026-06-12T20:15:01.000Z - section: sport - author: Reuters
 26. [McTominay ‘ready to go’ for Scotland World Cup opener](https://www.arabnews.com/node/2646972/sport) - published: 2026-06-12T19:51:34.000Z - section: sport - author: AFP
 27. [Malaysia summit urges religious diplomacy, youth engagement amid rising global tensions](https://www.arabnews.com/node/2646970/saudi-arabia) - published: 2026-06-12T19:48:55.000Z - section: saudi arabia - author: MOHAMMED AL-KINANI
-28. [When the environment becomes infrastructure](https://www.arabnews.com/node/2646969) - published: 2026-06-12T19:31:18.000Z - section: node
+28. [When the environment becomes infrastructure](https://www.arabnews.com/node/2646969) - published: 2026-06-12T19:31:18.000Z
 29. [Heat accelerates shift to smarter farming in MENA region](https://www.arabnews.com/node/2646967/saudi-arabia) - published: 2026-06-12T19:24:16.000Z - section: saudi arabia - author: Jumana Khamis
 30. [EU says to resume membership talks with Ukraine on Monday](https://www.arabnews.com/node/2646965/world) - published: 2026-06-12T19:09:01.000Z - section: world - author: AFP
 31. [Elyanna and Nora Fatehi bring Arab representation to World Cup opening ceremony in Canada](https://www.arabnews.com/node/2646964/lifestyle) - published: 2026-06-12T19:04:39.000Z - section: lifestyle - author: Arab News
-32. [Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)](https://www.arabnews.com/node/2646963/cartoon-amjad-rasmi-courtesy-asharq-al-awsat) - published: 2026-06-12T19:02:43.000Z - section: cartoon amjad rasmi courtesy asharq al awsat
+32. [Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)](https://www.arabnews.com/node/2646963/cartoon-amjad-rasmi-courtesy-asharq-al-awsat) - published: 2026-06-12T19:02:43.000Z
 33. [Where We Are Going Today: Melted Butter Bakery in Riyadh](https://www.arabnews.com/node/2646960/food-health) - published: 2026-06-12T18:58:18.000Z - section: food health - author: Rahaf Jambi
 34. [Infantino quips that even Italy might qualify if World Cup expanded](https://www.arabnews.com/node/2646959/sport) - published: 2026-06-12T18:50:17.000Z - section: sport - author: AFP
 35. [AI era demands protection of ‘non-negotiable human skills,’ FII warns](https://www.arabnews.com/node/2646958/media) - published: 2026-06-12T18:40:50.000Z - section: media - author: Arab News
@@ -83,15 +83,15 @@ Items: 95
 75. [Hezbollah confident any US-Iran deal will include Lebanon, politician says](https://www.arabnews.com/node/2646914/middle-east) - published: 2026-06-12T12:07:24.000Z - section: middle east - author: Reuters
 76. [Kenya mourns schoolgirls killed in suspected dorm arson attack](https://www.arabnews.com/node/2646912/world) - published: 2026-06-12T12:02:30.000Z - section: world - author: AFP
 77. [Saudi Arabia, Indonesia in talks to deepen tourism cooperation](https://www.arabnews.com/node/2646911/world) - published: 2026-06-12T11:40:07.000Z - section: world - author: Sheany Yasuko Lai
-78. [NATO can no longer treat the Arctic as a peripheral concern](https://www.arabnews.com/node/2646909) - published: 2026-06-12T11:09:29.000Z - section: node
-79. [Turkish-Saudi transport corridor gains momentum](https://www.arabnews.com/node/2646913) - published: 2026-06-12T11:05:28.000Z - section: node
-80. [Europe must allow its tech entrepreneurs to flourish](https://www.arabnews.com/node/2646906) - published: 2026-06-12T10:55:30.000Z - section: node
-81. [Brazil must maintain long-term economic focus](https://www.arabnews.com/node/2646902) - published: 2026-06-12T10:37:29.000Z - section: node
+78. [NATO can no longer treat the Arctic as a peripheral concern](https://www.arabnews.com/node/2646909) - published: 2026-06-12T11:09:29.000Z
+79. [Turkish-Saudi transport corridor gains momentum](https://www.arabnews.com/node/2646913) - published: 2026-06-12T11:05:28.000Z
+80. [Europe must allow its tech entrepreneurs to flourish](https://www.arabnews.com/node/2646906) - published: 2026-06-12T10:55:30.000Z
+81. [Brazil must maintain long-term economic focus](https://www.arabnews.com/node/2646902) - published: 2026-06-12T10:37:29.000Z
 82. [Saudi football enthusiasts flock to football merchandise shops](https://www.arabnews.com/node/2646901/saudi-arabia) - published: 2026-06-12T10:30:22.000Z - section: saudi arabia - author: SALEH FAREED
 83. [Sukuk market liquidity shows signs of recovery amid ongoing conflict: Fitch Ratings](https://www.arabnews.com/node/2646900/business-economy) - published: 2026-06-12T10:27:34.000Z - section: business economy - author: Nirmal Narayanan
 84. [Head of Palestinian football not granted US visa to attend World Cup](https://www.arabnews.com/node/2646899/sport) - published: 2026-06-12T10:27:26.000Z - section: sport - author: AP
 85. [Iran media says draft US deal sees release of $24 billion frozen assets](https://www.arabnews.com/node/2646816/middle-east) - published: 2026-06-12T09:34:49.000Z - section: middle east - author: AFP
-86. [FIFA World Cup 2026 kicks off in Mexico](https://www.arabnews.com/node/2646895/fifa-world-cup-2026-kicks-mexico) - published: 2026-06-12T09:17:01.000Z - section: fifa world cup 2026 kicks mexico - author: Arab News
+86. [FIFA World Cup 2026 kicks off in Mexico](https://www.arabnews.com/node/2646895/fifa-world-cup-2026-kicks-mexico) - published: 2026-06-12T09:17:01.000Z - author: Arab News
 87. [Saudi Arabia’s POS spending remains above $3.5bn mark on construction gains](https://www.arabnews.com/node/2646892/business-economy) - published: 2026-06-12T08:49:18.000Z - section: business economy - author: Arab News
 88. [FIA president Ben Sulayem hails 24 Hour of Le Mans as one of motorsport’s ‘great landmarks’](https://www.arabnews.com/node/2646887/sport) - published: 2026-06-12T08:07:58.000Z - section: sport - author: Arab News
 89. [US primed to plant flag in ‘home’ World Cup opener vs. Paraguay](https://www.arabnews.com/node/2646884/sport) - published: 2026-06-12T07:46:29.000Z - section: sport - author: Reuters

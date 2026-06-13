@@ -145,6 +145,20 @@ function sectionFromArticleUrl(url) {
   }
 }
 
+function cleanArticleSection(section, url, fallback = "") {
+  const value = normalizeWhitespace(section);
+  if (
+    value &&
+    value.length <= 40 &&
+    !/^(related|update|video|special|graphic)\b/i.test(value) &&
+    !/\b(june|jan|feb|mar|apr|may|jul|aug|sep|oct|nov|dec)\b/i.test(value)
+  ) {
+    return value;
+  }
+
+  return fallback || sectionFromArticleUrl(url);
+}
+
 function nodeIdFromUrl(url) {
   const match = String(url || "").match(/\/node\/(\d+)/);
   return match ? Number(match[1]) : 0;
@@ -665,9 +679,7 @@ async function extractArticleMetadataFromHtml(context, itemUrl, html) {
           author:
             clean(attr("meta[name='author']", "content")) ||
             clean(document.querySelector("[rel='author'], .author, [class*='author']")?.textContent),
-          section:
-            clean(attr("meta[property='article:section']", "content")) ||
-            clean(document.querySelector("[rel='tag'], [class*='section'], [class*='category']")?.textContent),
+          section: clean(attr("meta[property='article:section']", "content")),
           canonical: absoluteUrl(attr("link[rel='canonical']", "href")) || baseUrl,
           pageTitle: document.title,
           bodyText: clean(document.body?.innerText || "")
@@ -742,7 +754,7 @@ async function verifyRecentCandidate(context, candidate, windowStart, windowEnd)
     item: {
       title: normalizeWhitespace(metadata.title || candidate.title),
       url,
-      section: normalizeWhitespace(metadata.section) || candidate.section || sectionFromArticleUrl(url),
+      section: cleanArticleSection(metadata.section, url, candidate.section),
       publishedAt: publishedDate.toISOString(),
       publishedRaw: metadata.published || candidate.datePublished || null,
       modifiedAt: parseDateValue(metadata.modified)?.toISOString() || null,

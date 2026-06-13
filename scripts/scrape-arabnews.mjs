@@ -134,29 +134,58 @@ function parseDateValue(value) {
   return null;
 }
 
+const KNOWN_ARAB_NEWS_SECTIONS = new Set([
+  "business-economy",
+  "corporate-news",
+  "cricket",
+  "energy",
+  "entertainment",
+  "finance",
+  "food-health",
+  "football",
+  "golf",
+  "lifestyle",
+  "media",
+  "middle-east",
+  "motoring",
+  "offbeat",
+  "opinion",
+  "saudi-arabia",
+  "sport",
+  "sports",
+  "startups",
+  "tourism-transport",
+  "world"
+]);
+
+function sectionSlug(value) {
+  return normalizeWhitespace(value)
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function normalizeSection(value) {
+  const slug = sectionSlug(value);
+  if (!slug) return "";
+  if (!KNOWN_ARAB_NEWS_SECTIONS.has(slug)) return "";
+  return (slug === "sports" ? "sport" : slug).replaceAll("-", " ");
+}
+
 function sectionFromArticleUrl(url) {
   try {
     const parsed = new URL(url);
     const parts = parsed.pathname.split("/").filter(Boolean);
-    if (parts[0] === "node" && parts[2]) return parts[2].replaceAll("-", " ");
-    return parts[0]?.replaceAll("-", " ") || "";
+    if (parts[0] === "node" && parts[2]) return normalizeSection(parts[2]);
+    return normalizeSection(parts[0]);
   } catch {
     return "";
   }
 }
 
 function cleanArticleSection(section, url, fallback = "") {
-  const value = normalizeWhitespace(section);
-  if (
-    value &&
-    value.length <= 40 &&
-    !/^(related|update|video|special|graphic)\b/i.test(value) &&
-    !/\b(june|jan|feb|mar|apr|may|jul|aug|sep|oct|nov|dec)\b/i.test(value)
-  ) {
-    return value;
-  }
-
-  return fallback || sectionFromArticleUrl(url);
+  return normalizeSection(section) || normalizeSection(fallback) || sectionFromArticleUrl(url);
 }
 
 function nodeIdFromUrl(url) {

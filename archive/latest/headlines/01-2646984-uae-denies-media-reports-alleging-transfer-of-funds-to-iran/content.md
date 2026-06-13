@@ -16,7 +16,7 @@ ABU DHABI: The UAE has categorically denied reports published by certain interna
 
 ## Video Or Embed URLs
 
-- https://9eb9858c01eb1028467284bd8186326d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a7e8f3363db863fb1e0aa84a0386dd09.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank

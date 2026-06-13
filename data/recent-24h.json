@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-06-13T05:56:47.456Z",
+  "fetchedAt": "2026-06-13T06:23:26.275Z",
   "window": {
     "hours": 24,
-    "start": "2026-06-12T05:56:47.456Z",
-    "end": "2026-06-13T05:56:47.456Z",
+    "start": "2026-06-12T06:23:26.275Z",
+    "end": "2026-06-13T06:23:26.275Z",
     "futureLeewayMinutes": 15
   },
-  "itemCount": 95,
+  "itemCount": 94,
   "items": [
     {
       "title": "Trump says US military strike killed leader of Venezuela’s Tren de Aragua gang",
@@ -22,6 +22,12 @@
       "nodeId": 2647005,
       "candidateUrl": "https://www.arabnews.com/node/2647005/world",
       "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 35
+        },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
@@ -1164,7 +1170,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 46
+          "order": 47
         },
         {
           "source": "dom",
@@ -1758,7 +1764,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 38
+          "order": 39
         },
         {
           "source": "dom",
@@ -1839,52 +1845,6 @@
           "sourceUrl": "https://www.arabnews.com/opinion?page=1",
           "datePublished": null,
           "order": 3
-        }
-      ]
-    },
-    {
-      "title": "AI era demands protection of ‘non-negotiable human skills,’ FII warns",
-      "url": "https://www.arabnews.com/node/2646958/media",
-      "section": "media",
-      "publishedAt": "2026-06-12T18:40:50.000Z",
-      "publishedRaw": "2026-06-12T21:40:50+03:00",
-      "modifiedAt": "2026-06-12T18:40:50.000Z",
-      "modifiedRaw": "2026-06-12T21:40:50+03:00",
-      "description": "LONDON: Education systems must preserve “non-negotiable human skills” as artificial intelligence becomes deeply embedded in daily life and learning, a new report by the Future Investment Initiative has said ahead of its key summit in Rome next week. The report, published on Friday, identifies judgment, creativity, ethical reasoning, empathy and reflection as essential to human",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/12/4721196-1041265083.png?itok=YlyudmTW",
-      "author": "Arab News",
-      "nodeId": 2646958,
-      "candidateUrl": "https://www.arabnews.com/node/2646958/media",
-      "sources": [
-        {
-          "source": "rss-feed",
-          "sourceUrl": "https://www.arabnews.com/cat/2096/rss.xml",
-          "datePublished": "Fri, 12 Jun 2026 09:06:50 +03",
-          "order": 0
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/main-category/media",
-          "datePublished": null,
-          "order": 10
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/main-category/media?page=1",
-          "datePublished": null,
-          "order": 0
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/opinion",
-          "datePublished": null,
-          "order": 4
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/opinion?page=1",
-          "datePublished": null,
-          "order": 4
         }
       ]
     },
@@ -2418,7 +2378,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 39
+          "order": 40
         },
         {
           "source": "dom",
@@ -2792,7 +2752,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 44
+          "order": 45
         },
         {
           "source": "dom",
@@ -3090,7 +3050,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 40
+          "order": 41
         },
         {
           "source": "dom",
@@ -3300,7 +3260,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 35
+          "order": 36
         },
         {
           "source": "dom",
@@ -3362,7 +3322,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 41
+          "order": 42
         },
         {
           "source": "dom",
@@ -3396,7 +3356,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 48
+          "order": 49
         },
         {
           "source": "dom",
@@ -3424,7 +3384,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 36
+          "order": 37
         },
         {
           "source": "dom",
@@ -3530,7 +3490,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 37
+          "order": 38
         },
         {
           "source": "dom",
@@ -3570,7 +3530,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 45
+          "order": 46
         },
         {
           "source": "dom",
@@ -3626,7 +3586,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 42
+          "order": 43
         },
         {
           "source": "dom",
@@ -3678,7 +3638,7 @@
     "listingSources": [
       {
         "sourceUrl": "https://www.arabnews.com/",
-        "itemCount": 52,
+        "itemCount": 53,
         "challengeDetected": false
       },
       {
@@ -3826,13 +3786,13 @@
     ],
     "sourceErrors": [],
     "skipped": {
-      "source-date-older-than-window": 19,
+      "source-date-older-than-window": 20,
       "article-older-than-window": 106
     },
     "articleErrors": [],
-    "candidateCountBeforeLimit": 897,
+    "candidateCountBeforeLimit": 898,
     "candidateCountAfterLimit": 220,
-    "verifiedCount": 95,
+    "verifiedCount": 94,
     "uniqueCandidateCount": 516
   }
 }

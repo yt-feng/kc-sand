@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2647007/middle-east
 Captured source: https://www.arabnews.com/node/2647007/middle-east
 Published: 2026-06-13T10:35:02+03:00
-Modified: 2026-06-13T23:21:06+03:00
+Modified: 2026-06-14T04:08:26+03:00
 Author: AFP
 
 ## Summary
@@ -16,11 +16,11 @@ BEIRUT: Lebanon reported Israeli strikes in the country’s south on Saturday, a
 
 ## Video Or Embed URLs
 
+- https://www.youtube.com/embed/2zNoa9HtG7E?si=TuSdgVIYDjOJtOns
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
 - https://www.google.com/recaptcha/api2/aframe
-- https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647007%2Fmiddle-east
 
 ## Text
@@ -31,9 +31,9 @@ NNA said Israeli airstrikes had hit several areas, particularly around the south
 
 The Lebanese army later said one of its soldiers had been severely wounded after being hit by an Israeli drone
 
-BEIRUT: Lebanon reported Israeli strikes in the country’s south on Saturday, as the Israeli army issued evacuation warnings for the city of Nabatieh and more than 20 other locations ahead of raids. The latest strikes came as the US and Iran indicated they were close to reaching a deal on ending the Middle East war that could also include Lebanon, drawn into the conflict when Hezbollah attacked Israel in support of its patron Tehran. The state-run National News Agency (NNA) said Israeli airstrikes had hit several areas, particularly around the southern city of Nabatieh. An AFP photojournalist in the Nabatieh area heard blasts around Kfar Remman, which has been repeatedly targeted, and saw a plume of smoke rising from Kfar Tebnit, which was not included in the evacuation warnings. The Lebanese army later said one of its soldiers had been severely wounded after being hit by an Israeli drone on the road between Kfar Remman and Nabatieh. That had followed an initial attempt to target him as he was moving near a hospital close to the city. NNA also said an Israeli strike killed a local official in Rihan, the southern region of Jezzine. An AFP correspondent in Nabatieh said the city was almost deserted, reporting artillery shelling there and in nearby areas overnight and on Saturday.
+BEIRUT: Lebanon reported Israeli strikes in the country’s south on Saturday, as the Israeli army issued evacuation warnings for the city of Nabatieh and more than 20 other locations ahead of raids. The latest strikes came as the US and Iran indicated they were close to reaching a deal on ending the Middle East war that could also include Lebanon, drawn into the conflict when Hezbollah attacked Israel in support of its patron Tehran. The state-run National News Agency (NNA) said Israeli airstrikes had hit several areas, particularly around the southern city of Nabatieh. An AFP photojournalist in the Nabatieh area heard blasts around Kfar Remman, which has been repeatedly targeted, and saw a plume of smoke rising from Kfar Tebnit, which was not included in the evacuation warnings. The Lebanese army later said one of its soldiers had been severely wounded after being hit by an Israeli drone on the road between Kfar Remman and Nabatieh. That had followed an initial attempt to target him as he was moving near a hospital close to the city.
 
-- Evacuation warnings -
+NNA also said an Israeli strike killed a local official in Rihan, the southern region of Jezzine. An AFP correspondent in Nabatieh said the city was almost deserted, reporting artillery shelling there and in nearby areas overnight and on Saturday.
 
 The Israeli military had issued two warnings to residents of 24 locations — both in and around Nabatieh, and nearer to the coast — to “evacuate your homes immediately and move to the north of the Zahrani River,” around 45 kilometers (28 miles) from the southern border with Israel. Last month Israel declared all areas south of the river “combat zones,” and has since been heavily striking the area. Hezbollah, which has kept up attacks on invading Israeli troops, said its fighters launched drone attacks on Israeli military vehicles in the south. It said it had thwarted an overnight “infiltration” attempt by Israeli forces in the Kfar Tebrnit area near Nabaiteh after ambushing them and engaging in a “firefight with medium weapons.” The group also reported clashes with Israeli soldiers in the vicinity of Majdal Zoun, closer to the border with Israel. Israel’s military also said it “intercepted a suspicious aerial target that crossed from Lebanon into Israeli territory.” It later announced that “over the past 24 hours, more than 70 Hezbollah terrorist infrastructure sites were struck.” Fresh strikes hit two areas in Lebanon’s eastern Baalbek area later Saturday, NNA reported.
 

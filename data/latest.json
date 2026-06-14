@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-14T00:15:11.902Z",
+  "fetchedAt": "2026-06-14T05:17:26.450Z",
   "targetDate": {
     "iso": "2026-06-14",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 70,
+    "itemCount": 76,
     "window": {
       "hours": 24,
-      "start": "2026-06-13T00:15:11.902Z",
-      "end": "2026-06-14T00:15:11.902Z",
+      "start": "2026-06-13T05:17:26.450Z",
+      "end": "2026-06-14T05:17:26.450Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -90,23 +90,45 @@
     "mode": "current-homepage-top-headlines",
     "items": [
       {
-        "title": "Funeral for Iran’s late Supreme Leader Khamenei to begin July 4, burial set for July 9",
-        "url": "https://www.arabnews.com/node/2647020/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721417-1369194429.jpg?itok=68TvH2lu",
+        "title": "Dozens protest peace deal outside Iran foreign ministry: media",
+        "url": "https://www.arabnews.com/node/2647082/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/14/4721515-1018296175.jpg?itok=jILuYPf5",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 0,
         "archive": {
-          "directory": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial",
+          "directory": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/metadata.json",
-            "content": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/content.md",
-            "text": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/page-text.txt",
+            "metadata": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/metadata.json",
+            "content": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/content.md",
+            "text": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/image.jpg",
+            "image": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Saudi and Pakistani foreign ministers discuss regional situation, US-Iran deal",
+        "url": "https://www.arabnews.com/node/2647056/saudi-arabia",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721466-1034047144.jpeg?itok=8NC53-gQ",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2,
+        "archive": {
+          "directory": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/metadata.json",
+            "content": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/content.md",
+            "text": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/image.jpg",
             "video": null
           }
         }
@@ -119,60 +141,38 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
-        "archive": {
-          "directory": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/metadata.json",
-            "content": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/content.md",
-            "text": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Tanker struck by unknown projectile 6 nautical miles east of Oman, UKMTO says",
-        "url": "https://www.arabnews.com/node/2647040/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721413-1870754042.png?itok=TzRDdss4",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt",
+          "directory": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/metadata.json",
-            "content": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/content.md",
-            "text": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/metadata.json",
+            "content": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/content.md",
+            "text": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/image.png",
+            "image": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "Modi to raise Hormuz issue at G7 after US strike kills 3 Indian seafarers",
-        "url": "https://www.arabnews.com/node/2647017/world",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721355-1597905080.jpeg?itok=8QHcH94M",
+        "title": "Brazil and Morocco share the spoils in blockbuster World Cup clash",
+        "url": "https://www.arabnews.com/node/2647083/football",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/14/4721518-93474945.jpg?itok=DEomBspH",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar",
+          "directory": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/metadata.json",
-            "content": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/content.md",
-            "text": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/metadata.json",
+            "content": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/content.md",
+            "text": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/image.jpg",
+            "image": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-14T00:21:32.903Z",
+    "capturedAt": "2026-06-14T05:23:36.373Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-14",
     "itemCount": 7,
@@ -222,8 +222,8 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2e9d13_72c633700a02396fa0ce72a39159e6e55c3d37ff/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2e9d13_72c633700a02396fa0ce72a39159e6e55c3d37ff/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2ee363_d42bb2d76c3f597574a2e3dd27d262fbd8372566/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2ee363_d42bb2d76c3f597574a2e3dd27d262fbd8372566/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -256,7 +256,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2e9c6b_6f225a2429cff4643a1d3952f1d294d6bab5290f/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2ee63f_742b00afc3955b8e8bc07b3fed1fc687a766490e/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -289,7 +289,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2e9eae_c68520ce919463c6b49293778ba554701f3e457e/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2ee4fe_ea82c7105115bf0ba9760a07d0df71e165f5d3ab/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -308,45 +308,69 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Funeral for Iran’s late Supreme Leader Khamenei to begin July 4, burial set for July 9",
-        "url": "https://www.arabnews.com/node/2647020/middle-east",
-        "directory": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial",
+        "title": "Dozens protest peace deal outside Iran foreign ministry: media",
+        "url": "https://www.arabnews.com/node/2647082/middle-east",
+        "directory": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/metadata.json",
-          "content": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/content.md",
-          "text": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/metadata.json",
+          "content": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/content.md",
+          "text": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/image.jpg",
+          "image": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/01-2647020-funeral-for-iran-s-late-supreme-leader-khamenei-to-begin-july-4-burial/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721417-1369194429.jpg?itok=OXmGb44h",
+          "path": "archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/14/4721515-1018296175.jpg?itok=GL1SeN-N",
           "contentType": "image/jpeg",
-          "bytes": 30580
+          "bytes": 46390
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "Lebanon reports strikes on south, east as Israel issues broad evacuation warnings",
-        "url": "https://www.arabnews.com/node/2647007/middle-east",
-        "directory": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio",
+        "title": "Saudi and Pakistani foreign ministers discuss regional situation, US-Iran deal",
+        "url": "https://www.arabnews.com/node/2647056/saudi-arabia",
+        "directory": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/metadata.json",
-          "content": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/content.md",
-          "text": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/metadata.json",
+          "content": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/content.md",
+          "text": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/image.jpg",
+          "image": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/02-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/image.jpg",
+          "path": "archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721466-1034047144.jpeg?itok=rWBKf4RT",
+          "contentType": "image/jpeg",
+          "bytes": 31693
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 2,
+        "title": "Lebanon reports strikes on south, east as Israel issues broad evacuation warnings",
+        "url": "https://www.arabnews.com/node/2647007/middle-east",
+        "directory": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/metadata.json",
+          "content": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/content.md",
+          "text": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/image.jpg",
+          "video": null
+        },
+        "videoUrls": [],
+        "image": {
+          "path": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721378-1954943119.jpg?itok=O3vRjmnx",
           "contentType": "image/jpeg",
           "bytes": 26536
@@ -355,49 +379,25 @@
       },
       {
         "group": "headlines",
-        "index": 2,
-        "title": "Tanker struck by unknown projectile 6 nautical miles east of Oman, UKMTO says",
-        "url": "https://www.arabnews.com/node/2647040/middle-east",
-        "directory": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/metadata.json",
-          "content": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/content.md",
-          "text": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/image.png",
-          "video": null
-        },
-        "videoUrls": [],
-        "image": {
-          "path": "archive/latest/headlines/03-2647040-tanker-struck-by-unknown-projectile-6-nautical-miles-east-of-oman-ukmt/image.png",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721413-1870754042.png?itok=meZ4FVoq",
-          "contentType": "image/png",
-          "bytes": 217688
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
         "index": 3,
-        "title": "Modi to raise Hormuz issue at G7 after US strike kills 3 Indian seafarers",
-        "url": "https://www.arabnews.com/node/2647017/world",
-        "directory": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar",
+        "title": "Brazil and Morocco share the spoils in blockbuster World Cup clash",
+        "url": "https://www.arabnews.com/node/2647083/football",
+        "directory": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/metadata.json",
-          "content": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/content.md",
-          "text": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/metadata.json",
+          "content": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/content.md",
+          "text": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/image.jpg",
+          "image": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/04-2647017-modi-to-raise-hormuz-issue-at-g7-after-us-strike-kills-3-indian-seafar/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721355-1597905080.jpeg?itok=SgUK5pXA",
+          "path": "archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/14/4721518-93474945.jpg?itok=jx7tbIZM",
           "contentType": "image/jpeg",
-          "bytes": 31471
+          "bytes": 66211
         },
         "video": null
       }

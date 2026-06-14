@@ -16,11 +16,11 @@ BEIRUT: Israel struck Beirut’s southern suburbs on Sunday, killing three peopl
 
 ## Video Or Embed URLs
 
-- https://64ee5168d4be1ee2af04a28ed7f0daba.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/1a8186a0-e735-44d0-a895-19d758a8d150
+- https://6a7088f8f4049070a2652e4184a0e356.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/ee45f3cf-0d3d-47a4-8172-d36947f6a525
 - https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
-- https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
 - https://ep2.adtrafficquality.google/sodar/sodar2/254/runner.html
 - https://www.google.com/recaptcha/api2/aframe

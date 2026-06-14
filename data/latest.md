@@ -1,7 +1,7 @@
 # Arab News Latest
 
-Fetched at: 2026-06-14T19:52:21.962Z
-Target date: 2026-06-14 (Asia/Riyadh)
+Fetched at: 2026-06-14T21:21:06.128Z
+Target date: 2026-06-15 (Asia/Riyadh)
 
 ## Latest Videos
 
@@ -16,4 +16,4 @@ No parseable item-level dates were found, so the output is the current Top Headl
 1. [Lebanese soldiers stand guard at the site of an Israeli airstrike that struck an apartment in Dahiyeh, Beirut's southern suburbs](https://www.arabnews.com/node/2647106/middle-east) - archive: archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/content.md
 2. [Iranian chief negotiator Mohammad Bagher Ghalibaf. (File/AFP)](https://www.arabnews.com/node/2647133/middle-east) - archive: archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/content.md
 3. [Lebanon complains to Security Council over alleged Israeli use of herbicide](https://www.arabnews.com/node/2647127/middle-east) - archive: archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/content.md
-4. [Trump to meet El-Sisi at G7 summit in France: Egyptian presidency](https://www.arabnews.com/node/2647134/middle-east) - archive: archive/latest/headlines/04-2647134-trump-to-meet-el-sisi-at-g7-summit-in-france-egyptian-presidency/content.md
+4. [Frankly Speaking: Where does the Saudi-India relationship go next?](https://www.arabnews.com/node/2647175/saudi-arabia) - archive: archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/content.md

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-14T21:21:06.128Z",
+  "fetchedAt": "2026-06-14T22:44:54.001Z",
   "targetDate": {
     "iso": "2026-06-15",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,39 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 82,
+    "itemCount": 81,
     "window": {
       "hours": 24,
-      "start": "2026-06-13T21:21:06.128Z",
-      "end": "2026-06-14T21:21:06.128Z",
+      "start": "2026-06-13T22:44:54.001Z",
+      "end": "2026-06-14T22:44:54.001Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Trump says Iran deal in ‘a few hours,’ blames Israel for delay: Axios",
+        "url": "https://www.arabnews.com/node/2647144/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/14/4721668-1484075252.jpg?itok=guy0BJCW",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/metadata.json",
+            "content": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/content.md",
+            "text": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "Lebanese soldiers stand guard at the site of an Israeli airstrike that struck an apartment in Dahiyeh, Beirut's southern suburbs",
         "url": "https://www.arabnews.com/node/2647106/middle-east",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that",
+          "directory": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/metadata.json",
-            "content": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/content.md",
-            "text": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/metadata.json",
+            "content": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/content.md",
+            "text": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/image.jpg",
+            "image": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/image.jpg",
             "video": null
           }
         }
@@ -119,16 +141,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp",
+          "directory": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/metadata.json",
-            "content": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/content.md",
-            "text": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/metadata.json",
+            "content": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/content.md",
+            "text": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/image.jpg",
+            "image": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/image.jpg",
             "video": null
           }
         }
@@ -141,38 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/metadata.json",
-            "content": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/content.md",
-            "text": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Frankly Speaking: Where does the Saudi-India relationship go next?",
-        "url": "https://www.arabnews.com/node/2647175/saudi-arabia",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/14/4721763-953176581.jpg?itok=dyRE2OSI",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next",
+          "directory": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/metadata.json",
-            "content": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/content.md",
-            "text": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/metadata.json",
+            "content": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/content.md",
+            "text": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/image.jpg",
+            "image": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-14T21:27:20.235Z",
+    "capturedAt": "2026-06-14T22:51:13.580Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-15",
     "itemCount": 7,
@@ -222,8 +222,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fc7e7_87f8c7ca72b2540f48fa045e76cb78d6de9f4b19/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fc7e7_87f8c7ca72b2540f48fa045e76cb78d6de9f4b19/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2fd97b_b350c79453856648639516cce0381b2a483e936a/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -256,7 +255,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fc73f_190dd9898d0538e41672b06125cba7996611cb3e/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2fd8d3_04d3b580b9bc880fa4f2c261eb84f449bc23aa9c/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -289,7 +288,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fc5fe_766fe9bacfb366620cce9bc613e784a3ca58718b/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2fdb16_11eb572fd9b25a6ccdad254d5f9aac189ba718b9/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -308,24 +307,51 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Lebanese soldiers stand guard at the site of an Israeli airstrike that struck an apartment in Dahiyeh, Beirut's southern suburbs",
-        "url": "https://www.arabnews.com/node/2647106/middle-east",
-        "directory": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that",
+        "title": "Trump says Iran deal in ‘a few hours,’ blames Israel for delay: Axios",
+        "url": "https://www.arabnews.com/node/2647144/middle-east",
+        "directory": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/metadata.json",
-          "content": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/content.md",
-          "text": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/metadata.json",
+          "content": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/content.md",
+          "text": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/image.jpg",
+          "image": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://cdn.jwplayer.com/manifests/XlPPdDSM.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2fdabb_539ad857f02a7366ff714af4b25f5128ec68683d/sites/wPTWN2YS/media/XlPPdDSM/versions/v9JcJ0Gx/manifest.ism/manifest-audio_0_L21G7n55_7qI9UGwz=112022-video_0_L21G7n55_Ei25NLAP=856183.m3u8"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/14/4721668-1484075252.jpg?itok=uSKOGBBT",
+          "contentType": "image/jpeg",
+          "bytes": 44194
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "Lebanese soldiers stand guard at the site of an Israeli airstrike that struck an apartment in Dahiyeh, Beirut's southern suburbs",
+        "url": "https://www.arabnews.com/node/2647106/middle-east",
+        "directory": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/metadata.json",
+          "content": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/content.md",
+          "text": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/image.jpg",
           "video": null
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/wv49qHLM.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fc840_b5128d40f56094c37b03e840b21c01908ccc904a/sites/wPTWN2YS/media/wv49qHLM/versions/dB4x5ni7/manifest.ism/manifest-audio_0_cDMtnXBZ_JKO4ZOfr=112045-video_0_cDMtnXBZ_6UvqIbyE=633607.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2fd9d4_9aacb155fbcf5e57aa12dd9f224e287957cd520d/sites/wPTWN2YS/media/wv49qHLM/versions/dB4x5ni7/manifest.ism/manifest-audio_0_cDMtnXBZ_JKO4ZOfr=112045-video_0_cDMtnXBZ_6UvqIbyE=633607.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/image.jpg",
+          "path": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/14/4721640-1346849163.jpg?itok=-0Bt8xpx",
           "contentType": "image/jpeg",
           "bytes": 38088
@@ -334,22 +360,22 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "Iranian chief negotiator Mohammad Bagher Ghalibaf. (File/AFP)",
         "url": "https://www.arabnews.com/node/2647133/middle-east",
-        "directory": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp",
+        "directory": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/metadata.json",
-          "content": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/content.md",
-          "text": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/metadata.json",
+          "content": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/content.md",
+          "text": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/image.jpg",
+          "image": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/image.jpg",
+          "path": "archive/latest/headlines/03-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/14/4721645-203011758.jpg?itok=TTX7110z",
           "contentType": "image/jpeg",
           "bytes": 30826
@@ -358,52 +384,25 @@
       },
       {
         "group": "headlines",
-        "index": 2,
+        "index": 3,
         "title": "Lebanon complains to Security Council over alleged Israeli use of herbicide",
         "url": "https://www.arabnews.com/node/2647127/middle-east",
-        "directory": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb",
+        "directory": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/metadata.json",
-          "content": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/content.md",
-          "text": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/metadata.json",
+          "content": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/content.md",
+          "text": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/image.jpg",
+          "image": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/image.jpg",
+          "path": "archive/latest/headlines/04-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/14/4721627-95230473.jpg?itok=qImGfUIj",
           "contentType": "image/jpeg",
           "bytes": 51252
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
-        "index": 3,
-        "title": "Frankly Speaking: Where does the Saudi-India relationship go next?",
-        "url": "https://www.arabnews.com/node/2647175/saudi-arabia",
-        "directory": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/metadata.json",
-          "content": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/content.md",
-          "text": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://cdn.jwplayer.com/manifests/Oh2iWLlZ.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fc649_c43c66b186e9398d1bac37c1effb6dcb0e79d357/sites/wPTWN2YS/media/Oh2iWLlZ/versions/IBLtJpqT/manifest.ism/manifest-audio_0_tLkIOK5k_0bSYuBp4=112015-video_0_tLkIOK5k_namo06Ec=498489.m3u8"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/04-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/14/4721763-953176581.jpg?itok=pc8PaQ9l",
-          "contentType": "image/jpeg",
-          "bytes": 46444
         },
         "video": null
       }

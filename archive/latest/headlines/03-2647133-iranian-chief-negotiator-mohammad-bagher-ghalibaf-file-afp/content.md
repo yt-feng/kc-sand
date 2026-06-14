@@ -16,11 +16,10 @@ TEHRAN : Iran said on Sunday there was “no point” in peace talks with the Un
 
 ## Video Or Embed URLs
 
-- https://80ae60e7c0c8143d16b5950ae2f6b8e6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
-- https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
+- https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647133%2Fmiddle-east
 
 ## Text

@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-14T16:07:14.946Z
+Fetched at: 2026-06-14T17:59:19.001Z
 Target date: 2026-06-14 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-14 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Lebanon complains to Security Council over alleged Israeli use of herbicide](https://www.arabnews.com/node/2647127/middle-east) - archive: archive/latest/headlines/01-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/content.md
+1. [Lebanese soldiers stand guard at the site of an Israeli airstrike that struck an apartment in Dahiyeh, Beirut's southern suburbs](https://www.arabnews.com/node/2647106/middle-east) - archive: archive/latest/headlines/01-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/content.md
 2. [Iranian chief negotiator Mohammad Bagher Ghalibaf. (File/AFP)](https://www.arabnews.com/node/2647133/middle-east) - archive: archive/latest/headlines/02-2647133-iranian-chief-negotiator-mohammad-bagher-ghalibaf-file-afp/content.md
-3. [Iran says limited cyberattack disrupts services at four banks, state media says](https://www.arabnews.com/node/2647107/middle-east) - archive: archive/latest/headlines/03-2647107-iran-says-limited-cyberattack-disrupts-services-at-four-banks-state-me/content.md
+3. [Lebanon complains to Security Council over alleged Israeli use of herbicide](https://www.arabnews.com/node/2647127/middle-east) - archive: archive/latest/headlines/03-2647127-lebanon-complains-to-security-council-over-alleged-israeli-use-of-herb/content.md
 4. [Trump to meet El-Sisi at G7 summit in France: Egyptian presidency](https://www.arabnews.com/node/2647134/middle-east) - archive: archive/latest/headlines/04-2647134-trump-to-meet-el-sisi-at-g7-summit-in-france-egyptian-presidency/content.md

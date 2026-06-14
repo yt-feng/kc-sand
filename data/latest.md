@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-14T09:02:22.438Z
+Fetched at: 2026-06-14T11:34:18.768Z
 Target date: 2026-06-14 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-14 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Dozens protest peace deal outside Iran foreign ministry: media](https://www.arabnews.com/node/2647082/middle-east) - archive: archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/content.md
-2. [Saudi and Pakistani foreign ministers discuss regional situation, US-Iran deal](https://www.arabnews.com/node/2647056/saudi-arabia) - archive: archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/content.md
-3. [Israel army issues evacuation order for 29 south Lebanon villages](https://www.arabnews.com/node/2647106/middle-east) - archive: archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/content.md
+1. [Israeli military attacks Hezbollah in Beirut's southern suburbs, statement says](https://www.arabnews.com/node/2647106/middle-east) - archive: archive/latest/headlines/01-2647106-israeli-military-attacks-hezbollah-in-beiruts-southern-suburbs-stateme/content.md
+2. [Iran says limited cyberattack disrupts services at four banks, state media says](https://www.arabnews.com/node/2647107/middle-east) - archive: archive/latest/headlines/02-2647107-iran-says-limited-cyberattack-disrupts-services-at-four-banks-state-me/content.md
+3. [Saudi and Pakistani foreign ministers discuss regional situation, US-Iran deal](https://www.arabnews.com/node/2647056/saudi-arabia) - archive: archive/latest/headlines/03-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/content.md
 4. [Brazil and Morocco share the spoils in blockbuster World Cup clash](https://www.arabnews.com/node/2647083/football) - archive: archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/content.md

@@ -18,8 +18,8 @@ RIYADH: Saudi Foreign Minister Prince Faisal bin Farhan and his counterpart from
 
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647056%2Fsaudi-arabia
 

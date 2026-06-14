@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-14T05:17:26.450Z",
+  "fetchedAt": "2026-06-14T09:02:22.438Z",
   "targetDate": {
     "iso": "2026-06-14",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 76,
+    "itemCount": 82,
     "window": {
       "hours": 24,
-      "start": "2026-06-13T05:17:26.450Z",
-      "end": "2026-06-14T05:17:26.450Z",
+      "start": "2026-06-13T09:02:22.438Z",
+      "end": "2026-06-14T09:02:22.438Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -134,23 +134,23 @@
         }
       },
       {
-        "title": "Lebanon reports strikes on south, east as Israel issues broad evacuation warnings",
-        "url": "https://www.arabnews.com/node/2647007/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/13/4721378-1954943119.jpg?itok=ZMiKkbCN",
+        "title": "Israel army issues evacuation order for 29 south Lebanon villages",
+        "url": "https://www.arabnews.com/node/2647106/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/14/4721581-980277613.jpg?itok=zcZa__vB",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio",
+          "directory": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/metadata.json",
-            "content": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/content.md",
-            "text": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/metadata.json",
+            "content": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/content.md",
+            "text": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/image.jpg",
+            "image": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-14T05:23:36.373Z",
+    "capturedAt": "2026-06-14T09:08:25.008Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-14",
     "itemCount": 7,
@@ -222,8 +222,8 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2ee363_d42bb2d76c3f597574a2e3dd27d262fbd8372566/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2ee363_d42bb2d76c3f597574a2e3dd27d262fbd8372566/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2f181f_4a798b89158883076a14e658c033486ccf97f634/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2f181f_4a798b89158883076a14e658c033486ccf97f634/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -256,7 +256,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2ee63f_742b00afc3955b8e8bc07b3fed1fc687a766490e/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2f1afb_c7fd94a540599394b13ebb519a4b5c8537779477/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -289,7 +289,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2ee4fe_ea82c7105115bf0ba9760a07d0df71e165f5d3ab/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2f19ba_1f26af2baa1ea4ea10e4b3f11242ec6199163061/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -356,24 +356,24 @@
       {
         "group": "headlines",
         "index": 2,
-        "title": "Lebanon reports strikes on south, east as Israel issues broad evacuation warnings",
-        "url": "https://www.arabnews.com/node/2647007/middle-east",
-        "directory": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio",
+        "title": "Israel army issues evacuation order for 29 south Lebanon villages",
+        "url": "https://www.arabnews.com/node/2647106/middle-east",
+        "directory": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/metadata.json",
-          "content": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/content.md",
-          "text": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/metadata.json",
+          "content": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/content.md",
+          "text": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/image.jpg",
+          "image": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/13/4721378-1954943119.jpg?itok=O3vRjmnx",
+          "path": "archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/14/4721581-980277613.jpg?itok=6n4ioxvx",
           "contentType": "image/jpeg",
-          "bytes": 26536
+          "bytes": 30271
         },
         "video": null
       },

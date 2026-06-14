@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-14T05:17:26.450Z
+Fetched at: 2026-06-14T09:02:22.438Z
 Target date: 2026-06-14 (Asia/Riyadh)
 
 ## Latest Videos
@@ -15,5 +15,5 @@ No parseable item-level dates were found, so the output is the current Top Headl
 
 1. [Dozens protest peace deal outside Iran foreign ministry: media](https://www.arabnews.com/node/2647082/middle-east) - archive: archive/latest/headlines/01-2647082-dozens-protest-peace-deal-outside-iran-foreign-ministry-media/content.md
 2. [Saudi and Pakistani foreign ministers discuss regional situation, US-Iran deal](https://www.arabnews.com/node/2647056/saudi-arabia) - archive: archive/latest/headlines/02-2647056-saudi-and-pakistani-foreign-ministers-discuss-regional-situation-us-ir/content.md
-3. [Lebanon reports strikes on south, east as Israel issues broad evacuation warnings](https://www.arabnews.com/node/2647007/middle-east) - archive: archive/latest/headlines/03-2647007-lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuatio/content.md
+3. [Israel army issues evacuation order for 29 south Lebanon villages](https://www.arabnews.com/node/2647106/middle-east) - archive: archive/latest/headlines/03-2647106-israel-army-issues-evacuation-order-for-29-south-lebanon-villages/content.md
 4. [Brazil and Morocco share the spoils in blockbuster World Cup clash](https://www.arabnews.com/node/2647083/football) - archive: archive/latest/headlines/04-2647083-brazil-and-morocco-share-the-spoils-in-blockbuster-world-cup-clash/content.md

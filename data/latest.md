@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-15T05:40:20.416Z
+Fetched at: 2026-06-15T12:32:12.103Z
 Target date: 2026-06-15 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-15 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [UN chief welcomes US-Iran peace deal as ‘critical step’](https://www.arabnews.com/node/2647186/world) - archive: archive/latest/headlines/01-2647186-un-chief-welcomes-us-iran-peace-deal-as-critical-step/content.md
-2. [Iranian officials portray peace deal as strategic victory over US and Israel](https://www.arabnews.com/node/2647193/middle-east) - archive: archive/latest/headlines/02-2647193-iranian-officials-portray-peace-deal-as-strategic-victory-over-us-and-/content.md
-3. [Frankly Speaking: Where does the Saudi-India relationship go next?](https://www.arabnews.com/node/2647175/saudi-arabia) - archive: archive/latest/headlines/03-2647175-frankly-speaking-where-does-the-saudi-india-relationship-go-next/content.md
-4. [Syrian security forces capture ex-militia chief accused of war crimes, drug trafficking](https://www.arabnews.com/node/2647196/middle-east) - archive: archive/latest/headlines/04-2647196-syrian-security-forces-capture-ex-militia-chief-accused-of-war-crimes-/content.md
+1. [Gulf, Arab states welcome US-Iran deal to end war, reopen Hormuz](https://www.arabnews.com/node/2647225/middle-east) - archive: archive/latest/headlines/01-2647225-gulf-arab-states-welcome-us-iran-deal-to-end-war-reopen-hormuz/content.md
+2. [US-Iran peace deal gets global support, UN chief hails it as a ‘critical step’](https://www.arabnews.com/node/2647186/world) - archive: archive/latest/headlines/02-2647186-us-iran-peace-deal-gets-global-support-un-chief-hails-it-as-a-critical/content.md
+3. [Lebanon warns displaced against rushing home after US-Iran agreement](https://www.arabnews.com/node/2647227/middle-east) - archive: archive/latest/headlines/03-2647227-lebanon-warns-displaced-against-rushing-home-after-us-iran-agreement/content.md
+4. [One LNG tanker passes Hormuz after US-Iran agree to deal, shippers stay cautious](https://www.arabnews.com/node/2647219/middle-east) - archive: archive/latest/headlines/04-2647219-one-lng-tanker-passes-hormuz-after-us-iran-agree-to-deal-shippers-stay/content.md

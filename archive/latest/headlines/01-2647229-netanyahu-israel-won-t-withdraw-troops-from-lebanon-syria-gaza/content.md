@@ -16,11 +16,11 @@ JERUSALEM: Israeli Prime Minister Benjamin Netanyahu said on Monday that the cou
 
 ## Video Or Embed URLs
 
-- https://2a83239099b1fc14562e06a6306deb9e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/aef70d73-a426-4bf3-87ab-6a9daa123436
+- https://df196fc5dd233fbdb2cca9e572281307.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/f022049c-c2b4-43b6-bc14-40137510a743
 - https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
-- about:blank
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://sync.teads.tv/wigo-no-slot
 - https://ep2.adtrafficquality.google/sodar/sodar2/254/runner.html
 - https://www.google.com/recaptcha/api2/aframe

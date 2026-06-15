@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T21:15:21.001Z",
+  "fetchedAt": "2026-06-15T23:19:22.721Z",
   "targetDate": {
     "iso": "2026-06-16",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 100,
+    "itemCount": 99,
     "window": {
       "hours": 24,
-      "start": "2026-06-14T21:15:21.001Z",
-      "end": "2026-06-15T21:15:21.001Z",
+      "start": "2026-06-14T23:19:22.721Z",
+      "end": "2026-06-15T23:19:22.721Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-15T21:21:53.550Z",
+    "capturedAt": "2026-06-15T23:25:50.388Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-16",
     "itemCount": 7,
@@ -222,8 +222,8 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3115e3_07da18f2fe136badf63aa1fc3d6c97f6b0b2af1d/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3115e3_07da18f2fe136badf63aa1fc3d6c97f6b0b2af1d/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a313587_35956b142d7ea51a24b2da226b295b90f157df38/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a313587_35956b142d7ea51a24b2da226b295b90f157df38/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -256,7 +256,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a31153b_5b96dc2df3fc5b1b4df0b87ff1d7776d9e47fc92/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3134df_a0737c780689d32f7a5f812285c20ec1d326d7d7/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -289,7 +289,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a31177e_2eaf75d532d5fc60bf8504eb278b6b0314933f77/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a31339e_3e5d75c4bb3da37e4b3a5ba4224b9fb255056299/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -322,7 +322,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/8HVptJku.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a311622_a314c63daf84316014d8863f67289a4dd03f4533/sites/wPTWN2YS/media/8HVptJku/versions/PFnEtmlr/manifest.ism/manifest-audio_0_twpjxLPG_xkHgQ5lo=112059-video_0_twpjxLPG_GFaAA0hL=335381.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3135c6_5cfbff243150f669348edeb06216e16f78ed39c6/sites/wPTWN2YS/media/8HVptJku/versions/PFnEtmlr/manifest.ism/manifest-audio_0_twpjxLPG_xkHgQ5lo=112059-video_0_twpjxLPG_GFaAA0hL=335381.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2647229-netanyahu-israel-won-t-withdraw-troops-from-lebanon-syria-gaza/image.jpg",
@@ -349,7 +349,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/igSb6SUO.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a311780_a34c24a65dd91959041815118b2cb908008d5b62/sites/wPTWN2YS/media/igSb6SUO/versions/chsdSOIl/manifest.ism/manifest-audio_0_l5QKmcc2_cPR4P67N=112090-video_0_l5QKmcc2_TvLMOoaI=411052.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3133a0_878155f9ddcbafe5921483c78ce8cdb1f7d1e9fb/sites/wPTWN2YS/media/igSb6SUO/versions/chsdSOIl/manifest.ism/manifest-audio_0_l5QKmcc2_cPR4P67N=112090-video_0_l5QKmcc2_TvLMOoaI=411052.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2647180-iran-s-foreign-ministry-says-deep-mistrust-in-us-remains-despite-deal/image.jpg",

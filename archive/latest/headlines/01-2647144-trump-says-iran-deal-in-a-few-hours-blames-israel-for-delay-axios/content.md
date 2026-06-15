@@ -16,11 +16,11 @@ WASHINGTON: US President Donald Trump said Sunday that a peace deal with Iran wa
 
 ## Video Or Embed URLs
 
-- https://454808ca8b83e53c718bb5f2dd89bc78.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/bb725d0f-0561-4cfd-be99-e261b1e97f0f
-- https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
+- blob:https://www.arabnews.com/9d68d9e0-6803-4edf-870d-224e41f34a30
+- https://imasdk.googleapis.com/js/core/bridge3.770.1_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647144%2Fmiddle-east
 
 ## Text

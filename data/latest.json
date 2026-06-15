@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-14T22:44:54.001Z",
+  "fetchedAt": "2026-06-15T00:18:53.587Z",
   "targetDate": {
     "iso": "2026-06-15",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 81,
+    "itemCount": 85,
     "window": {
       "hours": 24,
-      "start": "2026-06-13T22:44:54.001Z",
-      "end": "2026-06-14T22:44:54.001Z",
+      "start": "2026-06-14T00:18:53.587Z",
+      "end": "2026-06-15T00:18:53.587Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-14T22:51:13.580Z",
+    "capturedAt": "2026-06-15T00:25:10.928Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-15",
     "itemCount": 7,
@@ -222,7 +222,8 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fd97b_b350c79453856648639516cce0381b2a483e936a/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2ff217_551b385d88dec8a47f0fde8b77220e2c83e96b31/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2ff217_551b385d88dec8a47f0fde8b77220e2c83e96b31/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -255,7 +256,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fd8d3_04d3b580b9bc880fa4f2c261eb84f449bc23aa9c/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2ff16f_cee2e77e770200ac64f8a9fce8bd934e0012a8f5/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -288,7 +289,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fdb16_11eb572fd9b25a6ccdad254d5f9aac189ba718b9/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2ff02e_a6a53773703eac31bdf3ccf47192df36797fe29b/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -321,7 +322,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/XlPPdDSM.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fdabb_539ad857f02a7366ff714af4b25f5128ec68683d/sites/wPTWN2YS/media/XlPPdDSM/versions/v9JcJ0Gx/manifest.ism/manifest-audio_0_L21G7n55_7qI9UGwz=112022-video_0_L21G7n55_Ei25NLAP=856183.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2fefd3_4afeec2e1f48bd84820c07b93f510f9173b60dc1/sites/wPTWN2YS/media/XlPPdDSM/versions/v9JcJ0Gx/manifest.ism/manifest-audio_0_L21G7n55_7qI9UGwz=112022-video_0_L21G7n55_Ei25NLAP=856183.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2647144-trump-says-iran-deal-in-a-few-hours-blames-israel-for-delay-axios/image.jpg",
@@ -348,7 +349,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/wv49qHLM.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a2fd9d4_9aacb155fbcf5e57aa12dd9f224e287957cd520d/sites/wPTWN2YS/media/wv49qHLM/versions/dB4x5ni7/manifest.ism/manifest-audio_0_cDMtnXBZ_JKO4ZOfr=112045-video_0_cDMtnXBZ_6UvqIbyE=633607.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a2ff270_f00bbfcb91de354c58d42f4a567e2ecc9f581123/sites/wPTWN2YS/media/wv49qHLM/versions/dB4x5ni7/manifest.ism/manifest-audio_0_cDMtnXBZ_JKO4ZOfr=112045-video_0_cDMtnXBZ_6UvqIbyE=633607.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2647106-lebanese-soldiers-stand-guard-at-the-site-of-an-israeli-airstrike-that/image.jpg",

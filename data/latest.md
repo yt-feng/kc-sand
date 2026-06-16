@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-15T23:19:22.721Z
+Fetched at: 2026-06-16T08:30:59.770Z
 Target date: 2026-06-16 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-16 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Netanyahu: Israel won’t withdraw troops from Lebanon, Syria, Gaza](https://www.arabnews.com/node/2647229/middle-east) - archive: archive/latest/headlines/01-2647229-netanyahu-israel-won-t-withdraw-troops-from-lebanon-syria-gaza/content.md
-2. [Iran’s foreign ministry says ‘deep mistrust’ in US remains despite deal](https://www.arabnews.com/node/2647180/middle-east) - archive: archive/latest/headlines/02-2647180-iran-s-foreign-ministry-says-deep-mistrust-in-us-remains-despite-deal/content.md
-3. [Trump says ships carrying oil are moving out of Strait of Hormuz](https://www.arabnews.com/node/2647219/middle-east) - archive: archive/latest/headlines/03-2647219-trump-says-ships-carrying-oil-are-moving-out-of-strait-of-hormuz/content.md
-4. [One dead in Israeli strike on car in south Lebanon](https://www.arabnews.com/node/2647275/middle-east) - archive: archive/latest/headlines/04-2647275-one-dead-in-israeli-strike-on-car-in-south-lebanon/content.md
+1. [Iranian official says end of war includes end of Israel’s occupation of Lebanon, state TV reports](https://www.arabnews.com/node/2647357/middle-east) - archive: archive/latest/headlines/01-2647357-iranian-official-says-end-of-war-includes-end-of-israel-s-occupation-o/content.md
+2. [US says Hormuz to be toll-free under Iran deal](https://www.arabnews.com/node/2647331/middle-east) - archive: archive/latest/headlines/02-2647331-us-says-hormuz-to-be-toll-free-under-iran-deal/content.md
+3. [Illegal Israeli settlement homes promoted at property show in London](https://www.arabnews.com/node/2647327/world) - archive: archive/latest/headlines/03-2647327-illegal-israeli-settlement-homes-promoted-at-property-show-in-london/content.md
+4. [Arab teams at 2026 World Cup: Saudi Arabia hold Uruguay, Egypt raise hopes in strong World Cup showing](https://www.arabnews.com/node/2647339/sport) - archive: archive/latest/headlines/04-2647339-arab-teams-at-2026-world-cup-saudi-arabia-hold-uruguay-egypt-raise-hop/content.md

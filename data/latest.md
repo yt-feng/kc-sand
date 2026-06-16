@@ -1,7 +1,7 @@
 # Arab News Latest
 
-Fetched at: 2026-06-16T18:44:20.773Z
-Target date: 2026-06-16 (Asia/Riyadh)
+Fetched at: 2026-06-16T21:44:05.667Z
+Target date: 2026-06-17 (Asia/Riyadh)
 
 ## Latest Videos
 
@@ -13,7 +13,7 @@ Target date: 2026-06-16 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Trump says Netanyahu should be more responsible with Lebanon](https://www.arabnews.com/node/2647357/middle-east) - archive: archive/latest/headlines/01-2647357-trump-says-netanyahu-should-be-more-responsible-with-lebanon/content.md
-2. [Arab leaders join G7 meetings on Trump’s tentative Iran deal, Ukraine war](https://www.arabnews.com/node/2647364/world) - archive: archive/latest/headlines/02-2647364-arab-leaders-join-g7-meetings-on-trump-s-tentative-iran-deal-ukraine-w/content.md
-3. [Israeli drone strikes kill at least 4 in southern Lebanon](https://www.arabnews.com/node/2647442/middle-east) - archive: archive/latest/headlines/03-2647442-israeli-drone-strikes-kill-at-least-4-in-southern-lebanon/content.md
+1. [Trump: Memo states clearly Iran will not have a nuclear weapon](https://www.arabnews.com/node/2647272/middle-east) - archive: archive/latest/headlines/01-2647272-trump-memo-states-clearly-iran-will-not-have-a-nuclear-weapon/content.md
+2. [Trump says Netanyahu should be more responsible with Lebanon](https://www.arabnews.com/node/2647357/middle-east) - archive: archive/latest/headlines/02-2647357-trump-says-netanyahu-should-be-more-responsible-with-lebanon/content.md
+3. [Israeli drone strikes kill at least 4 in Lebanon, Iran threatens to respond](https://www.arabnews.com/node/2647442/middle-east) - archive: archive/latest/headlines/03-2647442-israeli-drone-strikes-kill-at-least-4-in-lebanon-iran-threatens-to-res/content.md
 4. [US-Iran deal opens window for Yemen peace: UN envoy](https://www.arabnews.com/node/2647429/middle-east) - archive: archive/latest/headlines/04-2647429-us-iran-deal-opens-window-for-yemen-peace-un-envoy/content.md

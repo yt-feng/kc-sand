@@ -16,11 +16,11 @@ TEHRAN/EVIAN: US ​President Donald Trump on Tuesday told reporters at the G7 m
 
 ## Video Or Embed URLs
 
-- https://824d79d534721e777b6de59f5c4e79c2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/d4dc4a19-1cc1-439c-8be1-d3b0fe79cd8d
+- https://43e189a9136660b0dc7f1cac989148b0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/d7de28bf-af6a-4896-8ac4-7952be5486bf
 - https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
-- about:blank
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://ep2.adtrafficquality.google/sodar/sodar2/254/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647272%2Fmiddle-east

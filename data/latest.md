@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-16T14:22:54.642Z
+Fetched at: 2026-06-16T18:44:20.773Z
 Target date: 2026-06-16 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-06-16 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Trump says Netanyahu should be more responsible with Lebanon](https://www.arabnews.com/node/2647357/middle-east) - archive: archive/latest/headlines/01-2647357-trump-says-netanyahu-should-be-more-responsible-with-lebanon/content.md
-2. [IEA says ‘unconditionally’ re-opening Hormuz vital to end energy crisis](https://www.arabnews.com/node/2647389/middle-east) - archive: archive/latest/headlines/02-2647389-iea-says-unconditionally-re-opening-hormuz-vital-to-end-energy-crisis/content.md
-3. [Illegal Israeli settlement homes promoted at property show in London](https://www.arabnews.com/node/2647327/world) - archive: archive/latest/headlines/03-2647327-illegal-israeli-settlement-homes-promoted-at-property-show-in-london/content.md
-4. [Arab teams at 2026 World Cup: Saudi Arabia hold Uruguay, Egypt raise hopes in strong World Cup showing](https://www.arabnews.com/node/2647339/sport) - archive: archive/latest/headlines/04-2647339-arab-teams-at-2026-world-cup-saudi-arabia-hold-uruguay-egypt-raise-hop/content.md
+2. [Arab leaders join G7 meetings on Trump’s tentative Iran deal, Ukraine war](https://www.arabnews.com/node/2647364/world) - archive: archive/latest/headlines/02-2647364-arab-leaders-join-g7-meetings-on-trump-s-tentative-iran-deal-ukraine-w/content.md
+3. [Israeli drone strikes kill at least 4 in southern Lebanon](https://www.arabnews.com/node/2647442/middle-east) - archive: archive/latest/headlines/03-2647442-israeli-drone-strikes-kill-at-least-4-in-southern-lebanon/content.md
+4. [US-Iran deal opens window for Yemen peace: UN envoy](https://www.arabnews.com/node/2647429/middle-east) - archive: archive/latest/headlines/04-2647429-us-iran-deal-opens-window-for-yemen-peace-un-envoy/content.md

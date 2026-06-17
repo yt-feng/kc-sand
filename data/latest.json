@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-17T19:37:30.600Z",
+  "fetchedAt": "2026-06-17T22:07:10.650Z",
   "targetDate": {
-    "iso": "2026-06-17",
+    "iso": "2026-06-18",
     "timeZone": "Asia/Riyadh"
   },
   "sources": {
@@ -27,7 +27,7 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-17/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-06-18/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         }
       }
     },
@@ -49,7 +49,7 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-17/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-06-18/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         }
       }
     },
@@ -71,18 +71,18 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-17/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-06-18/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         }
       }
     }
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 98,
+    "itemCount": 99,
     "window": {
       "hours": 24,
-      "start": "2026-06-16T19:37:30.600Z",
-      "end": "2026-06-17T19:37:30.600Z",
+      "start": "2026-06-16T22:07:10.650Z",
+      "end": "2026-06-17T22:07:10.650Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,9 +197,9 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-17T19:43:48.137Z",
+    "capturedAt": "2026-06-17T22:13:22.547Z",
     "directory": "archive/latest",
-    "renderedClipsDirectory": "rendered-clips/2026-06-17",
+    "renderedClipsDirectory": "rendered-clips/2026-06-18",
     "itemCount": 7,
     "okCount": 7,
     "challengeCount": 0,
@@ -218,12 +218,12 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-17/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-06-18/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a33a3cb_d25c677310839eb831fcdbc9ac72a13b7b218d1d/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a33a3cb_d25c677310839eb831fcdbc9ac72a13b7b218d1d/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a33c6f3_6e27c7e41002dc5b3feb1fb412901575e7712741/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a33c6f3_6e27c7e41002dc5b3feb1fb412901575e7712741/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -232,7 +232,7 @@
           "bytes": 27493
         },
         "video": {
-          "path": "rendered-clips/2026-06-17/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
+          "path": "rendered-clips/2026-06-18/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
           "url": "https://content.jwplatform.com/videos/ngVuDIbE-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 14628051,
@@ -252,11 +252,10 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-17/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-06-18/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a33a323_276f145be2ca9aeba6af304fcf3830eba44a19ca/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -265,7 +264,7 @@
           "bytes": 43576
         },
         "video": {
-          "path": "rendered-clips/2026-06-17/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
+          "path": "rendered-clips/2026-06-18/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
           "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 8233121,
@@ -285,11 +284,11 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-17/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-06-18/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a33a1e2_8056ad0c3031e2b57776c0aeaba0abaadb9f2edb/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a33c50a_acea7fb3faa33da69474ac39d270195312025b7b/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -298,7 +297,7 @@
           "bytes": 33206
         },
         "video": {
-          "path": "rendered-clips/2026-06-17/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
+          "path": "rendered-clips/2026-06-18/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
           "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 7265426,
@@ -394,7 +393,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/SiV0BUgx.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a33a3f0_684e0df43a7a12771c84c47b9cf9d7896c7eedc2/sites/wPTWN2YS/media/SiV0BUgx/versions/sWy7ryMa/manifest.ism/manifest-audio_0_YgJrykdj_9xuGfvqE=112000-video_0_YgJrykdj_1msckXwr=558296.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a33c718_58f6b6594f29c61455b687d58743d5aad5d2d7a1/sites/wPTWN2YS/media/SiV0BUgx/versions/sWy7ryMa/manifest.ism/manifest-audio_0_YgJrykdj_9xuGfvqE=112000-video_0_YgJrykdj_1msckXwr=558296.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2647524-israeli-settlers-torch-two-west-bank-mosques/image.jpg",

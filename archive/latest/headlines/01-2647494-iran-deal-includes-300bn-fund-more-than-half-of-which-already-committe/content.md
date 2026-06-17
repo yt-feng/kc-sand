@@ -1,9 +1,9 @@
-# Iran deal includes $300 billion fund, more than half of which already committed, source says
+# Iran deal includes $300bn fund, more than half of which already committed, source says
 
 Source: https://www.arabnews.com/node/2647494/middle-east
 Captured source: https://www.arabnews.com/node/2647494/middle-east
 Published: 2026-06-17T07:53:04+03:00
-Modified: 2026-06-17T07:54:54+03:00
+Modified: 2026-06-17T16:02:52+03:00
 Author: Reuters
 
 ## Summary

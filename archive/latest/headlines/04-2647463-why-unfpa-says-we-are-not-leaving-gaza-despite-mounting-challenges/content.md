@@ -1,0 +1,169 @@
+# Why UNFPA says ‘we are not leaving Gaza’ despite mounting challenges
+
+Source: https://www.arabnews.com/node/2647463/middle-east
+Captured source: https://www.arabnews.com/node/2647463/middle-east
+Published: 2026-06-16T22:52:35+03:00
+Modified: 2026-06-16T22:52:35+03:00
+Author: Ephrem Kossaify
+
+## Summary
+
+NEW YORK CITY: Since taking up his post as the UN Population Fund’s representative for Palestine in 2024, Nestor Owomuhangi has visited Gaza several times. What he encountered there has left a lasting impression. One conversation in particular still haunts him. A woman he met in Gaza told him she had lost her husband, her children and dozens of other relatives during the war.
+
+## Image
+
+![main image](./image.jpg)
+
+## Video Or Embed URLs
+
+- about:blank
+- https://static.addtoany.com/menu/sm.25.html
+- https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
+- https://www.google.com/recaptcha/api2/aframe
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647463%2Fmiddle-east
+
+## Text
+
+https://arab.news/mshsc
+
+UNFPA representative says Israeli aid restrictions and shortages are forcing doctors to decide “who should suffer tonight”
+
+Nestor Owomuhangi warns women and girls face rising violence, trauma and barriers to healthcare across Palestine
+
+NEW YORK CITY: Since taking up his post as the UN Population Fund’s representative for Palestine in 2024, Nestor Owomuhangi has visited Gaza several times. What he encountered there has left a lasting impression.
+
+One conversation in particular still haunts him.
+
+A woman he met in Gaza told him she had lost her husband, her children and dozens of other relatives during the war. In total, she said, 50 members of her extended family had been killed.
+
+When he asked who was caring for her, she replied: “No, no, I’m taking care of an additional extended family of more than 10 of my family members.”
+
+Then came the question he says he has never forgotten.
+
+“She said: ‘You work for the UN system, right? Surely someone in the world, the UN can do something. Don’t tell me you can’t do something.
+
+“‘Promise me today that you are going to do something. I don’t care specifically about what. I’ve already lost everything. Stop this war, please. And don’t tell me there’s no one in the whole world who can stop this war.’”
+
+Speaking to Arab News on the sidelines of consultations with member states at UN headquarters in New York, Owomuhangi painted a bleak picture of humanitarian conditions in Gaza.
+
+The war began after the Oct. 7, 2023, Hamas-led attack on southern Israel, during which about 1,200 people were killed and around 250 taken hostage, according to Israeli authorities.
+
+Israel responded with a military campaign aimed at destroying Hamas and securing the release of hostages.
+
+Since then, the war has triggered one of the most severe humanitarian crises in recent history, with widespread destruction across Gaza, repeated displacement of civilians and growing concerns among aid agencies over access to food, medicine and healthcare.
+
+Owomuhangi first visited Gaza in August 2024, during what he describes as one of the darkest periods of the war.
+
+“That’s the period when the situation was really, really bad,” he said. “It was in the thick of how bad things can get.”
+
+A ceasefire agreed in January 2025 brought temporary relief. Aid deliveries increased, supplies flowed into the territory and humanitarian organizations briefly gained greater freedom of movement.
+
+But the respite was short-lived.
+
+When border crossings closed again in March, conditions deteriorated rapidly. During a visit in July, Owomuhangi found even members of his own staff struggling to find enough food.
+
+“I recall I picked up the emergency food from our international staff and distributed it,” he said. “Which was basically a drop in the ocean.”
+
+Despite a ceasefire that came into effect on Oct. 10, 2025, the humanitarian situation remains precarious. More than 970 Palestinians have reportedly been killed since then, while thousands more have been injured.
+
+Nearly 90 percent of Gaza’s population remains displaced, vast areas are inaccessible, and for many families the prospect of returning home or rebuilding their lives remains remote.
+
+For Owomuhangi, the challenge is not solely about the volume of aid entering Gaza. Instead, he argues that the system governing humanitarian access has become increasingly unpredictable.
+
+“Not everything that is required within Gaza gets into Gaza,” he said.
+
+According to aid agencies, trucks carrying supplies are often approved while specific items deemed essential fail to receive authorization.
+
+“You need antibiotics, but you have trucks carrying in food,” he said. “Two hundred trucks. How about the truck that had antibiotics? Didn’t enter. So on the surface some trucks are coming in, but not all the trucks carry what we need.”
+
+At the center of many disputes is Israel’s classification of certain goods as “dual use” items — products that could potentially serve both civilian and military purposes.
+
+Israeli authorities argue that restrictions are necessary to prevent Hamas from obtaining materials that could be used to construct tunnels, manufacture weapons or support military operations.
+
+Since the start of the war, Israel has repeatedly accused Hamas of diverting civilian supplies and operating within civilian infrastructure, including hospitals and schools.
+
+Humanitarian organizations, however, say the application of dual-use restrictions often lacks transparency and can prevent critical medical and humanitarian supplies from entering Gaza.
+
+“We don’t have a list,” Owomuhangi said. “Dual use is not defined by the system.”
+
+Among the items affected, he says, are ultrasound machines needed to monitor high risk pregnancies, laboratory reagents used in testing, and even educational materials included in youth volunteer kits distributed through UNFPA programs.
+
+“Were they dual use? We don’t know,” he said. “I wish I could make it easy. You will not find that answer.”
+
+The absence of clarity, he argues, makes planning nearly impossible.
+
+“If we did have a list, we could work around it,” he said. “We could negotiate and say, if you don’t want an ultrasound, let’s bring in biomedical engineers.”
+
+The consequences are particularly acute in healthcare.
+
+Around 180 babies are born in Gaza every day, according to UN figures. One-third of pregnancies are considered high risk. At the same time, more than 94 percent of hospitals have been damaged and fewer than half remain operational.
+
+In northern Gaza, there are currently no functioning hospitals at all.
+
+UNFPA focuses primarily on reproductive healthcare and the protection of women and girls.
+
+To support emergency operations, the agency uses a system of specialized medical kits containing delivery supplies, midwifery equipment, family planning materials and psychosocial support resources.
+
+Yet even these standardized packages often fail to receive full approval.
+
+“We never get a chance to bring all the kits in,” Owomuhangi said. “You can bring in seven, then another four are not approved.”
+
+The result is a healthcare system forced into constant improvisation.
+
+“Even when we don’t actually have shortages, we ration,” he said.
+
+During the first ceasefire period, his teams deliberately stretched available supplies in anticipation of future disruptions.
+
+“It meant making a decision: should this one suffer tonight, or should we go and see the person tomorrow because the cotton gauze is running out? That’s how the doctors and social workers are navigating. And that is very painful.”
+
+He believes many of the war’s most serious health consequences have yet to emerge.
+
+“The impact is going to be felt later,” he said. “We know, particularly in health, that if you don’t have consistent medicines, if you don’t have consistent treatment, the impact is felt much later.”
+
+Beyond the collapse of healthcare services lies a broader social crisis.
+
+An estimated 90 percent of Gaza’s population has been displaced. More than 371,000 homes and residential buildings have been damaged or destroyed. The economy has contracted dramatically, while development indicators have been pushed back decades.
+
+More than 57,000 households are now headed by women. For many, daily life has become a struggle for basic dignity.
+
+“A Gazan woman who loves her privacy, who cherishes her privacy, is expected to shower almost in the open, if at all there is water,” Owomuhangi said. “She doesn’t have shampoo, she doesn’t have soap.”
+
+The psychological toll is becoming increasingly visible. UNFPA operates women's protection centers and safe spaces across Gaza. In 2024, about 40 women using those services reported suicidal thoughts. In 2025, that figure rose to 100.
+
+According to Owomuhangi, many cases are linked to rising domestic violence, fueled by overcrowding, displacement, poverty and prolonged uncertainty.
+
+“I have a guest house in Deir Al-Balah,” he said. “And whenever I go I don’t sleep, because the neighbor is always shouting and fighting.”
+
+More than half of women and girls in Gaza are considered at high risk of gender-based violence. Child marriage has increased, while adolescent birth rates have doubled compared with pre-war levels.
+
+UNFPA supports two shelters for women escaping domestic violence. Both are now occupied.
+
+Asked whether the international humanitarian system in Gaza has effectively been dismantled since the war began, Owomuhangi acknowledged that assessment.
+
+The UN Relief and Works Agency, UNRWA, has suffered substantial losses among its workforce, while international organizations have repeatedly had to assess whether conditions remain safe enough to continue operating.
+
+Yet, he insists, aid workers remain committed.
+
+“We are not going to let the people down. We will stay. We don’t have items coming into the strip, we don’t have supplies. We are running out of inputs. Let’s just stay with the people. Our resolve is still the same. We are not leaving Gaza.”
+
+The UNFPA representative also warns against overlooking the occupied West Bank, where he says conditions are deteriorating rapidly.
+
+Israeli authorities say security operations in the West Bank are necessary to counter militant activity and protect Israeli civilians from attacks. However, humanitarian agencies have expressed growing concern about movement restrictions, displacement and settler violence.
+
+“Each day that passes — I had not seen a situation that deteriorates that fast,” Owomuhangi said.
+
+According to UN figures, settler attacks have increased sharply since the beginning of 2026, while tens of thousands of Palestinians have been displaced from refugee camps.
+
+Around 232,000 women and girls face limited access to reproductive healthcare because of movement restrictions and disruptions to services.
+
+“The biggest concern as UNFPA is the number of barriers that are making it difficult for women who are pregnant to access services,” he said.
+
+For Owomuhangi, the message to donors and governments is simple. UNFPA has appealed for $110 million for operations across Palestine this year but has so far received only a fraction of that amount.
+
+“We appeal to the donor: please don’t give up on us just because we have challenges,” he said. “We have always found a way to get into Gaza, however difficult, however heavy the challenges are.”
+
+As international attention shifts between crises, he fears the situation in Gaza risks becoming normalized — another prolonged emergency in a world increasingly saturated by conflict.
+
+His plea is that governments continue to pay attention not only to Gaza, but also to the West Bank, where he believes another humanitarian emergency is unfolding.
+
+“Do not give up on Palestine,” he said. “Do not give up on Gaza.”

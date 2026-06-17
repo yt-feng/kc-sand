@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2647524/middle-east
 Captured source: https://www.arabnews.com/node/2647524/middle-east
 Published: 2026-06-17T12:15:36+03:00
-Modified: 2026-06-17T16:22:06+03:00
+Modified: 2026-06-17T19:59:10+03:00
 Author: AFP
 
 ## Summary
@@ -16,11 +16,12 @@ JILJILIYA, Palestinian Territories: Israeli settlers set fire to mosques in two 
 
 ## Video Or Embed URLs
 
+- blob:https://www.arabnews.com/733aa58e-8b4a-495e-a912-cdebdb5feafb
+- https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
-- https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647524%2Fmiddle-east
 
 ## Text

@@ -16,7 +16,7 @@ JILJILIYA, Palestinian Territories: Israeli settlers set fire to mosques in two 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/733aa58e-8b4a-495e-a912-cdebdb5feafb
+- blob:https://www.arabnews.com/5e92d32b-6e21-4259-998d-c772f57079c1
 - https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank

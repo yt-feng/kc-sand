@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-18T04:55:50.457Z
+Fetched at: 2026-06-18T09:22:01.758Z
 Target date: 2026-06-18 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-18 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Lebanon’s Aoun says Israel talks independent of US-Iran deal](https://www.arabnews.com/node/2647552/middle-east) - archive: archive/latest/headlines/01-2647552-lebanon-s-aoun-says-israel-talks-independent-of-us-iran-deal/content.md
-2. [Several Israeli strikes hit south Lebanon](https://www.arabnews.com/node/2647500/middle-east) - archive: archive/latest/headlines/02-2647500-several-israeli-strikes-hit-south-lebanon/content.md
-3. [Trump says he talked to Syrian leader about taking on Hezbollah](https://www.arabnews.com/node/2647584/middle-east) - archive: archive/latest/headlines/03-2647584-trump-says-he-talked-to-syrian-leader-about-taking-on-hezbollah/content.md
-4. [Israeli settlers torch two West Bank mosques](https://www.arabnews.com/node/2647524/middle-east) - archive: archive/latest/headlines/04-2647524-israeli-settlers-torch-two-west-bank-mosques/content.md
+1. [Saudi FM says Iran’s attacks on the GCC resulted in a significant loss of trust in Tehran](https://www.arabnews.com/node/2647639/saudi-arabia) - archive: archive/latest/headlines/01-2647639-saudi-fm-says-iran-s-attacks-on-the-gcc-resulted-in-a-significant-loss/content.md
+2. [Israel ‘conducting stubborn negotiations’ with US over continuing its Lebanon troop deployment, officials say](https://www.arabnews.com/node/2647602/middle-east) - archive: archive/latest/headlines/02-2647602-israel-conducting-stubborn-negotiations-with-us-over-continuing-its-le/content.md
+3. [How Israel’s new ‘security belts’ could impact Middle East stability](https://www.arabnews.com/node/2647622/middle-east) - archive: archive/latest/headlines/03-2647622-how-israel-s-new-security-belts-could-impact-middle-east-stability/content.md
+4. [Kane double fires England World Cup bid as Ronaldo’s Portugal stumble](https://www.arabnews.com/node/2647651/sport) - archive: archive/latest/headlines/04-2647651-kane-double-fires-england-world-cup-bid-as-ronaldo-s-portugal-stumble/content.md

@@ -16,7 +16,7 @@ BEIRUT: Israeli forces on Wednesday carried out airstrikes on several areas in s
 
 ## Video Or Embed URLs
 
-- https://838e6a732895a56cc7dbae7a83ce2eef.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://1f9cdeba15a20b10e7d3fb9796f3ef68.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

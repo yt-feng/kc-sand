@@ -16,11 +16,11 @@ EVIAN-LES-BAINS, France: US President Donald Trump ‌said on Wednesday he had s
 
 ## Video Or Embed URLs
 
-- https://5c828a39c5166fd49bdfc4d0aa497210.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a5a6b9dba9add857e9dc7e7701b35f64.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647584%2Fmiddle-east
 

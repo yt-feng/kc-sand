@@ -16,6 +16,7 @@ TEHRAN: Iran’s supreme leader Ayatollah Mojtaba Khamenei said on Thursday that
 
 ## Video Or Embed URLs
 
+- https://e1b1cd0c1236aa8ff4277b10eadc9c59.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html

@@ -16,6 +16,7 @@ JERUSALEM: The Israeli military said on Thursday it will continue operating in s
 
 ## Video Or Embed URLs
 
+- https://648b03f07e2e703115f99718ffbab318.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

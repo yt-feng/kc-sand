@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-18T16:38:19.882Z
+Fetched at: 2026-06-18T19:33:49.557Z
 Target date: 2026-06-18 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-18 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran says missile program not part of talks with US](https://www.arabnews.com/node/2647661/middle-east) - archive: archive/latest/headlines/01-2647661-iran-says-missile-program-not-part-of-talks-with-us/content.md
-2. [Israel military says will keep operating in south Lebanon](https://www.arabnews.com/node/2647686/middle-east) - archive: archive/latest/headlines/02-2647686-israel-military-says-will-keep-operating-in-south-lebanon/content.md
-3. [Lebanon receives assurances from Syria on non-interference after Trump remarks, official says](https://www.arabnews.com/node/2647714/middle-east) - archive: archive/latest/headlines/03-2647714-lebanon-receives-assurances-from-syria-on-non-interference-after-trump/content.md
-4. [The UK, Norway and a group of countries on Thursday raised the alarm that RSF could imminently escalate assault on Al-Obeid.](https://www.arabnews.com/node/2647712/middle-east) - archive: archive/latest/headlines/04-2647712-the-uk-norway-and-a-group-of-countries-on-thursday-raised-the-alarm-th/content.md
+1. [Iran’s supreme leader Khamenei says approved US deal despite having ‘different view’](https://www.arabnews.com/node/2647739/middle-east) - archive: archive/latest/headlines/01-2647739-iran-s-supreme-leader-khamenei-says-approved-us-deal-despite-having-di/content.md
+2. [US allows more than a dozen ships through to Iranian ports, as CENTCOM lifts blockade of Hormuz](https://www.arabnews.com/node/2647725/world) - archive: archive/latest/headlines/02-2647725-us-allows-more-than-a-dozen-ships-through-to-iranian-ports-as-centcom-/content.md
+3. [Israel military says will keep operating in south Lebanon](https://www.arabnews.com/node/2647686/middle-east) - archive: archive/latest/headlines/03-2647686-israel-military-says-will-keep-operating-in-south-lebanon/content.md
+4. [Lebanon receives assurances from Syria on non-interference after Trump remarks, official says](https://www.arabnews.com/node/2647714/middle-east) - archive: archive/latest/headlines/04-2647714-lebanon-receives-assurances-from-syria-on-non-interference-after-trump/content.md

@@ -19,7 +19,7 @@ LONDON: In what it describes as a campaign of self-defense, Israel has seized ap
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
-- https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
+- https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647622%2Fmiddle-east
 
 ## Text

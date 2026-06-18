@@ -18,7 +18,8 @@ LOS ANGELES, United States: England launched their World Cup bid with a rollerco
 
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.771.2_en.html
+- https://s-static.innovid.com/media/encoded/06_26/1291331/19_source_240478_1489372.mp4
+- https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647651%2Fsport

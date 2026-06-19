@@ -16,7 +16,7 @@ JERUSALEM/DUBAI: Israeli airstrikes and bombardments killed at least 47 people a
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/0600bfa6-2681-4de5-a638-5fe95772a606
+- blob:https://www.arabnews.com/df347991-4f18-4e10-bd5f-25841b63c131
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank

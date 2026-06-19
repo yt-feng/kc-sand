@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-19T00:11:39.320Z
+Fetched at: 2026-06-19T05:35:29.457Z
 Target date: 2026-06-19 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-19 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran’s supreme leader Khamenei says approved US deal despite having ‘different view’](https://www.arabnews.com/node/2647739/middle-east) - archive: archive/latest/headlines/01-2647739-iran-s-supreme-leader-khamenei-says-approved-us-deal-despite-having-di/content.md
-2. [US allows more than a dozen ships through to Iranian ports, as CENTCOM lifts blockade of Hormuz](https://www.arabnews.com/node/2647725/world) - archive: archive/latest/headlines/02-2647725-us-allows-more-than-a-dozen-ships-through-to-iranian-ports-as-centcom-/content.md
-3. [Israel military says will keep operating in south Lebanon](https://www.arabnews.com/node/2647686/middle-east) - archive: archive/latest/headlines/03-2647686-israel-military-says-will-keep-operating-in-south-lebanon/content.md
-4. [Lebanon receives assurances from Syria on non-interference after Trump remarks, official says](https://www.arabnews.com/node/2647714/middle-east) - archive: archive/latest/headlines/04-2647714-lebanon-receives-assurances-from-syria-on-non-interference-after-trump/content.md
+1. [Saudi envoy tells UN Security Council two-state solution only path to lasting Mideast peace](https://www.arabnews.com/node/2647768/middle-east) - archive: archive/latest/headlines/01-2647768-saudi-envoy-tells-un-security-council-two-state-solution-only-path-to-/content.md
+2. [Syria reports new Israeli incursion into Quneitra village amid ongoing border tensions](https://www.arabnews.com/node/2647777/middle-east) - archive: archive/latest/headlines/02-2647777-syria-reports-new-israeli-incursion-into-quneitra-village-amid-ongoing/content.md
+3. [For first time in 30 years, states and not armed groups are top killers of children in war, UN says](https://www.arabnews.com/node/2647752/world) - archive: archive/latest/headlines/03-2647752-for-first-time-in-30-years-states-and-not-armed-groups-are-top-killers/content.md
+4. [Arab teams at 2026 World Cup: Qatar suffer tough 6-0 loss to Canada](https://www.arabnews.com/node/2647778/sport) - archive: archive/latest/headlines/04-2647778-arab-teams-at-2026-world-cup-qatar-suffer-tough-6-0-loss-to-canada/content.md

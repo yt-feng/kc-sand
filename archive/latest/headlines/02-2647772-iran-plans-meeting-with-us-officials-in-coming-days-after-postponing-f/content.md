@@ -16,7 +16,7 @@ TEHRAN: Iran’s chief negotiator Mohammad Bagher Qalibaf said on Friday that ta
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/04f5e25c-07b4-41bd-87a5-34940aeb6aee
+- blob:https://www.arabnews.com/03e5ee28-d676-43fe-9c20-208653979baf
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html

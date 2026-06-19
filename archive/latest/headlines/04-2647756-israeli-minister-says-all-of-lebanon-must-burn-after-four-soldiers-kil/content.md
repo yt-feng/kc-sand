@@ -16,7 +16,7 @@ JERUSALEM: Far-right Israeli National Security Minister Itamar Ben Gvir said Fri
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/b38e7a27-516b-4b81-91b6-1b80b1a2d9e4
+- blob:https://www.arabnews.com/79f0efaf-5d5a-49f5-996e-38eae95ccbbb
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank

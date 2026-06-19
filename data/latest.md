@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-19T10:48:44.865Z
+Fetched at: 2026-06-19T14:16:38.438Z
 Target date: 2026-06-19 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-06-19 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Israeli minister says ‘all of Lebanon must burn’ after four soldiers killed](https://www.arabnews.com/node/2647756/middle-east) - archive: archive/latest/headlines/01-2647756-israeli-minister-says-all-of-lebanon-must-burn-after-four-soldiers-kil/content.md
-2. [Israel army says hit 80 targets in Lebanon, killed ‘dozens’ of Hezbollah members](https://www.arabnews.com/node/2647813/middle-east) - archive: archive/latest/headlines/02-2647813-israel-army-says-hit-80-targets-in-lebanon-killed-dozens-of-hezbollah-/content.md
-3. [Saudi envoy tells UN Security Council two-state solution only path to lasting Mideast peace](https://www.arabnews.com/node/2647768/middle-east) - archive: archive/latest/headlines/03-2647768-saudi-envoy-tells-un-security-council-two-state-solution-only-path-to-/content.md
+2. [Iran’s chief negotiator says US talks bound by Tehran’s ‘red lines’](https://www.arabnews.com/node/2647772/world) - archive: archive/latest/headlines/02-2647772-iran-s-chief-negotiator-says-us-talks-bound-by-tehran-s-red-lines/content.md
+3. [US says needs $80 billion for Iran war, other bills: media](https://www.arabnews.com/node/2647811/middle-east) - archive: archive/latest/headlines/03-2647811-us-says-needs-80-billion-for-iran-war-other-bills-media/content.md
 4. [Arab teams at 2026 World Cup: Qatar suffer tough 6-0 loss to Canada](https://www.arabnews.com/node/2647778/sport) - archive: archive/latest/headlines/04-2647778-arab-teams-at-2026-world-cup-qatar-suffer-tough-6-0-loss-to-canada/content.md

@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2647756/middle-east
 Captured source: https://www.arabnews.com/node/2647756/middle-east
 Published: 2026-06-19T09:10:55+03:00
-Modified: 2026-06-19T12:40:18+03:00
+Modified: 2026-06-19T15:45:58+03:00
 Author: AFP
 
 ## Summary
@@ -16,12 +16,10 @@ JERUSALEM: Far-right Israeli National Security Minister Itamar Ben Gvir said Fri
 
 ## Video Or Embed URLs
 
-- https://030f422d4e8e7eebb2ad36d46acf242b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/7f3b4c28-bd78-42f1-b5b3-a8003616a268
+- blob:https://www.arabnews.com/78ce31f8-ce19-44cd-81c9-dba6d0adf39c
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
-- https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://ep2.adtrafficquality.google/sodar/sodar2/254/runner.html
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647756%2Fmiddle-east
 
@@ -29,11 +27,19 @@ JERUSALEM: Far-right Israeli National Security Minister Itamar Ben Gvir said Fri
 
 https://arab.news/2kymk
 
-Violence continues in besieged enclave despite new ceasefire push by mediators
+Iran’s top envoy Minister Abbas Araghchi: Israel’s only interest is a ‘permanent war’
+
+Israeli PM Benjamin Netanyahu: ‘Israel will not tolerate attacks on our soldiers or on our territory, and it will exact a very heavy price from Hezbollah for these attacks’
 
 JERUSALEM: Far-right Israeli National Security Minister Itamar Ben Gvir said Friday that “all of Lebanon must burn” after Israel’s military announced the deaths of four soldiers there.
 
 “With all due respect to the Americans, Israel must make it clear to the entire world that the blood of our sons and the security of our citizens are not up for bargaining. All of Lebanon must burn,” Ben Gvir said in a statement.
+
+“Israel will not tolerate attacks on our soldiers or on our territory, and it will exact a very heavy price from Hezbollah for these attacks,” Israeli Prime Minister Benjamin Netanyahu said in a statement Friday.
+
+Ben Gvir’s comments drew a sharp rebuke from Iran’s Foreign Minister Abbas Araghchi, who said Israel’s only interest is a ‘permanent war.’
+
+“This is not a rant by a random genocidal lunatic. It's a public post by the national security minister of the Israeli regime. The genocidal death cult headquartered in Tel Aviv is a threat to all of humanity. It threatens all humans. Its only interest is permanent war,” Araghchi posted on social media.
 
 Israel’s military said Friday it was striking Hezbollah targets in parts of southern Lebanon, despite a peace deal in the Middle East war that includes Lebanon.
 

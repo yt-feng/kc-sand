@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-20T17:05:27.695Z
+Fetched at: 2026-06-20T19:03:58.369Z
 Target date: 2026-06-20 (Asia/Riyadh)
 
 ## Latest Videos
@@ -15,5 +15,5 @@ No parseable item-level dates were found, so the output is the current Top Headl
 
 1. [Netanyahu orders halt to military operations in south Lebanon after Israeli strikes escalate despite ceasefire](https://www.arabnews.com/node/2647909/middle-east) - archive: archive/latest/headlines/01-2647909-netanyahu-orders-halt-to-military-operations-in-south-lebanon-after-is/content.md
 2. [Pakistan interior minister arrives in Iran](https://www.arabnews.com/node/2647913/middle-east) - archive: archive/latest/headlines/02-2647913-pakistan-interior-minister-arrives-in-iran/content.md
-3. [Gaza health officials say Israeli strikes kill five](https://www.arabnews.com/node/2647916/middle-east) - archive: archive/latest/headlines/03-2647916-gaza-health-officials-say-israeli-strikes-kill-five/content.md
+3. [Israeli fire kills nine people in Gaza, including a child, medics say](https://www.arabnews.com/node/2647916/middle-east) - archive: archive/latest/headlines/03-2647916-israeli-fire-kills-nine-people-in-gaza-including-a-child-medics-say/content.md
 4. [Saudi ambassador to Lebanon meets Lebanese PM in Beirut, oversees resumption of exports to Kingdom](https://www.arabnews.com/node/2647940/saudi-arabia) - archive: archive/latest/headlines/04-2647940-saudi-ambassador-to-lebanon-meets-lebanese-pm-in-beirut-oversees-resum/content.md

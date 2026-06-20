@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-06-20T17:11:42.947Z
+Captured at: 2026-06-20T19:10:04.825Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -11,5 +11,5 @@ Errors: 0
 - [Southern Lebanon ‘Hezbollah kill zone,’ Israel says](https://www.arabnews.com/node/2640086/middle-east) - ok - `archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md` - video: `rendered-clips/2026-06-20/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4`
 - [Netanyahu orders halt to military operations in south Lebanon after Israeli strikes escalate despite ceasefire](https://www.arabnews.com/node/2647909/middle-east) - ok - `archive/latest/headlines/01-2647909-netanyahu-orders-halt-to-military-operations-in-south-lebanon-after-is/content.md`
 - [Pakistan interior minister arrives in Iran](https://www.arabnews.com/node/2647913/middle-east) - ok - `archive/latest/headlines/02-2647913-pakistan-interior-minister-arrives-in-iran/content.md`
-- [Gaza health officials say Israeli strikes kill five](https://www.arabnews.com/node/2647916/middle-east) - ok - `archive/latest/headlines/03-2647916-gaza-health-officials-say-israeli-strikes-kill-five/content.md`
+- [Israeli fire kills nine people in Gaza, including a child, medics say](https://www.arabnews.com/node/2647916/middle-east) - ok - `archive/latest/headlines/03-2647916-israeli-fire-kills-nine-people-in-gaza-including-a-child-medics-say/content.md`
 - [Saudi ambassador to Lebanon meets Lebanese PM in Beirut, oversees resumption of exports to Kingdom](https://www.arabnews.com/node/2647940/saudi-arabia) - ok - `archive/latest/headlines/04-2647940-saudi-ambassador-to-lebanon-meets-lebanese-pm-in-beirut-oversees-resum/content.md`

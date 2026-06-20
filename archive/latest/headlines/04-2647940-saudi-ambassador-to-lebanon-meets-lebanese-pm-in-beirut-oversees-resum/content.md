@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2647940/saudi-arabia
 Captured source: https://www.arabnews.com/node/2647940/saudi-arabia
 Published: 2026-06-20T17:05:00+03:00
-Modified: 2026-06-20T19:21:01+03:00
+Modified: 2026-06-20T21:30:28+03:00
 Author: Arab News
 
 ## Summary
@@ -16,7 +16,7 @@ BEIRUT: Lebanese Prime Minister Nawaf Salam met with Fahd bin Abdulrahman Al-Dos
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/64feec77-6a28-4424-aab8-1d3362212a53
+- blob:https://www.arabnews.com/c43e01a3-3d25-475d-9fde-a46f80409fb5
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
@@ -42,3 +42,7 @@ Also on Saturday, Beirut port began shipping its first containers to Saudi Arabi
 Speaking on Saturday, Al-Dossari said that the Kingdom’s decision to resume Lebanese exports affirms its support for Lebanon’s stability and sovereignty over all its territory.
 
 Saudi Crown Prince Mohammed bin Salman had directed the resumption of Lebanese exports to the Kingdom “in accordance with the positive steps taken by the Lebanese government towards rebuilding state institutions.”
+
+Meanwhile, Saudi Ambassador to Romania Khalid Al-Shammari recently presented a copy of his credentials to Minister of Foreign Affairs of Romania Oana-Silvia Toiu at the ministry’s headquarters in Bucharest.
+
+They reviewed the distinguished bilateral relations between the two countries and ways to strengthen and develop them across various fields.

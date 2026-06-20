@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-06-20T11:05:38.222Z
+Captured at: 2026-06-20T13:03:34.307Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -10,6 +10,6 @@ Errors: 0
 - [Israel and Lebanon agree to 10\-day ceasefire in push for permanent peace deal](https://www.arabnews.com/node/2640092/middle-east) - ok - `archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/content.md` - video: `rendered-clips/2026-06-20/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4`
 - [Southern Lebanon ‘Hezbollah kill zone,’ Israel says](https://www.arabnews.com/node/2640086/middle-east) - ok - `archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md` - video: `rendered-clips/2026-06-20/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4`
 - [Israeli strikes on south Lebanon escalate despite ceasefire](https://www.arabnews.com/node/2647909/middle-east) - ok - `archive/latest/headlines/01-2647909-israeli-strikes-on-south-lebanon-escalate-despite-ceasefire/content.md`
-- [Lebanon’s Aoun tells Rubio ‘comprehensive ceasefire’ essential ahead of talks next week](https://www.arabnews.com/node/2647870/middle-east) - ok - `archive/latest/headlines/02-2647870-lebanon-s-aoun-tells-rubio-comprehensive-ceasefire-essential-ahead-of-/content.md`
+- [Gaza health officials say Israeli strikes kill five](https://www.arabnews.com/node/2647916/middle-east) - ok - `archive/latest/headlines/02-2647916-gaza-health-officials-say-israeli-strikes-kill-five/content.md`
 - [UN Sudan envoy urges paramilitaries to halt El\-Obeid assault](https://www.arabnews.com/node/2647897/middle-east) - ok - `archive/latest/headlines/03-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/content.md`
 - [Ismael Saibari celebrates his goal for Morocco against Scotland at the 2026 FIFA World Cup\. \(X: @EnMaroc\)](https://www.arabnews.com/node/2647888/sport) - ok - `archive/latest/headlines/04-2647888-ismael-saibari-celebrates-his-goal-for-morocco-against-scotland-at-the/content.md`

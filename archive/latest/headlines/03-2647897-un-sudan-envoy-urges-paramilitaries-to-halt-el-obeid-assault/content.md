@@ -16,7 +16,6 @@ UNITED NATIONS: The UN secretary-general’s special envoy for Sudan on Friday c
 
 ## Video Or Embed URLs
 
-- https://2d6d64d87fc9fcc701ba980d8a03b5ee.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

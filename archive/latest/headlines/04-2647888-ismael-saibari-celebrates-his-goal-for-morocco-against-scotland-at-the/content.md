@@ -16,11 +16,11 @@ RIYADH: Scotland spent almost 89 minutes searching for a response, but the damag
 
 ## Video Or Embed URLs
 
-- https://a7164aa14c4e4da8ad44944a0341738f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/105048b7-8214-4846-9020-ac6df902ce19
+- blob:https://www.arabnews.com/aa40a3cb-c29f-4cda-89b4-3cb324b2aae2
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647888%2Fsport
 
 ## Text

@@ -16,7 +16,7 @@ BEIRUT: Lebanon’s civil defense agency said ongoing Israeli strikes on the Nab
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/31afb784-61d8-4b22-a9a5-1a648695665a
+- blob:https://www.arabnews.com/811e3600-8bbe-444b-95c6-f03f2417958c
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank

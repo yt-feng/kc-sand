@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-06-20T13:03:34.307Z",
+  "capturedAt": "2026-06-20T15:13:49.684Z",
   "directory": "archive/latest",
   "renderedClipsDirectory": "rendered-clips/2026-06-20",
   "itemCount": 7,
@@ -24,8 +24,8 @@
       },
       "videoUrls": [
         "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a37395f_ae01533abf35ddf069cf90e6610e52844c495d9f/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a37395f_ae01533abf35ddf069cf90e6610e52844c495d9f/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+        "https://videos-cloudfront-usp.jwpsrv.com/6a375903_2938e62fbec24e6c8e2d21c0df7f8ca1d8a10738/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+        "https://videos-cloudfront-usp.jwpsrv.com/6a375903_2938e62fbec24e6c8e2d21c0df7f8ca1d8a10738/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
       ],
       "image": {
         "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -58,7 +58,7 @@
       },
       "videoUrls": [
         "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a3738b7_46354177bda6eb482be4d621691ac57b68b37387/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+        "https://videos-cloudfront-usp.jwpsrv.com/6a37585b_2bbdded1f7a145ef451cf65d25ac2f23e156a286/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
       ],
       "image": {
         "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -91,7 +91,7 @@
       },
       "videoUrls": [
         "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a373afa_ce154cb35a639217755ef621eabb94c2359e358c/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+        "https://videos-cloudfront-usp.jwpsrv.com/6a37571a_40f237e3a0ac7d8892e25950ce58098b56d7bed9/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
       ],
       "image": {
         "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -124,7 +124,7 @@
       },
       "videoUrls": [
         "https://cdn.jwplayer.com/manifests/sqjxSuD7.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a373b7a_88774488ffb692a0385c3ec6833656082d8eee0e/sites/wPTWN2YS/media/sqjxSuD7/versions/IF0CZ16U/manifest.ism/manifest-audio_0_mQ3DvgcQ_dUFZhjZI=112013-video_0_mQ3DvgcQ_3If9Tgta=327545.m3u8"
+        "https://videos-cloudfront-usp.jwpsrv.com/6a37579a_beaf8043b58641b2f7a3753fec847243d1492320/sites/wPTWN2YS/media/sqjxSuD7/versions/IF0CZ16U/manifest.ism/manifest-audio_0_mQ3DvgcQ_dUFZhjZI=112013-video_0_mQ3DvgcQ_3If9Tgta=327545.m3u8"
       ],
       "image": {
         "path": "archive/latest/headlines/01-2647909-israeli-strikes-on-south-lebanon-escalate-despite-ceasefire/image.jpg",
@@ -137,21 +137,45 @@
     {
       "group": "headlines",
       "index": 1,
-      "title": "Gaza health officials say Israeli strikes kill five",
-      "url": "https://www.arabnews.com/node/2647916/middle-east",
-      "directory": "archive/latest/headlines/02-2647916-gaza-health-officials-say-israeli-strikes-kill-five",
+      "title": "Pakistan’s interior minister to meet Iran’s Araqchi during Tehran visit, ISNA says",
+      "url": "https://www.arabnews.com/node/2647913/middle-east",
+      "directory": "archive/latest/headlines/02-2647913-pakistan-s-interior-minister-to-meet-iran-s-araqchi-during-tehran-visi",
       "status": "ok",
       "files": {
-        "metadata": "archive/latest/headlines/02-2647916-gaza-health-officials-say-israeli-strikes-kill-five/metadata.json",
-        "content": "archive/latest/headlines/02-2647916-gaza-health-officials-say-israeli-strikes-kill-five/content.md",
-        "text": "archive/latest/headlines/02-2647916-gaza-health-officials-say-israeli-strikes-kill-five/page-text.txt",
+        "metadata": "archive/latest/headlines/02-2647913-pakistan-s-interior-minister-to-meet-iran-s-araqchi-during-tehran-visi/metadata.json",
+        "content": "archive/latest/headlines/02-2647913-pakistan-s-interior-minister-to-meet-iran-s-araqchi-during-tehran-visi/content.md",
+        "text": "archive/latest/headlines/02-2647913-pakistan-s-interior-minister-to-meet-iran-s-araqchi-during-tehran-visi/page-text.txt",
         "html": null,
-        "image": "archive/latest/headlines/02-2647916-gaza-health-officials-say-israeli-strikes-kill-five/image.jpg",
+        "image": "archive/latest/headlines/02-2647913-pakistan-s-interior-minister-to-meet-iran-s-araqchi-during-tehran-visi/image.jpg",
         "video": null
       },
       "videoUrls": [],
       "image": {
-        "path": "archive/latest/headlines/02-2647916-gaza-health-officials-say-israeli-strikes-kill-five/image.jpg",
+        "path": "archive/latest/headlines/02-2647913-pakistan-s-interior-minister-to-meet-iran-s-araqchi-during-tehran-visi/image.jpg",
+        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/20/4723631-556328503.jpg?itok=EVU7wdC8",
+        "contentType": "image/jpeg",
+        "bytes": 51855
+      },
+      "video": null
+    },
+    {
+      "group": "headlines",
+      "index": 2,
+      "title": "Gaza health officials say Israeli strikes kill five",
+      "url": "https://www.arabnews.com/node/2647916/middle-east",
+      "directory": "archive/latest/headlines/03-2647916-gaza-health-officials-say-israeli-strikes-kill-five",
+      "status": "ok",
+      "files": {
+        "metadata": "archive/latest/headlines/03-2647916-gaza-health-officials-say-israeli-strikes-kill-five/metadata.json",
+        "content": "archive/latest/headlines/03-2647916-gaza-health-officials-say-israeli-strikes-kill-five/content.md",
+        "text": "archive/latest/headlines/03-2647916-gaza-health-officials-say-israeli-strikes-kill-five/page-text.txt",
+        "html": null,
+        "image": "archive/latest/headlines/03-2647916-gaza-health-officials-say-israeli-strikes-kill-five/image.jpg",
+        "video": null
+      },
+      "videoUrls": [],
+      "image": {
+        "path": "archive/latest/headlines/03-2647916-gaza-health-officials-say-israeli-strikes-kill-five/image.jpg",
         "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/20/4723672-153390437.jpg?itok=PoS_nqbl",
         "contentType": "image/jpeg",
         "bytes": 46612
@@ -160,52 +184,25 @@
     },
     {
       "group": "headlines",
-      "index": 2,
+      "index": 3,
       "title": "UN Sudan envoy urges paramilitaries to halt El-Obeid assault",
       "url": "https://www.arabnews.com/node/2647897/middle-east",
-      "directory": "archive/latest/headlines/03-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault",
+      "directory": "archive/latest/headlines/04-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault",
       "status": "ok",
       "files": {
-        "metadata": "archive/latest/headlines/03-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/metadata.json",
-        "content": "archive/latest/headlines/03-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/content.md",
-        "text": "archive/latest/headlines/03-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/page-text.txt",
+        "metadata": "archive/latest/headlines/04-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/metadata.json",
+        "content": "archive/latest/headlines/04-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/content.md",
+        "text": "archive/latest/headlines/04-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/page-text.txt",
         "html": null,
-        "image": "archive/latest/headlines/03-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/image.jpg",
+        "image": "archive/latest/headlines/04-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/image.jpg",
         "video": null
       },
       "videoUrls": [],
       "image": {
-        "path": "archive/latest/headlines/03-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/image.jpg",
+        "path": "archive/latest/headlines/04-2647897-un-sudan-envoy-urges-paramilitaries-to-halt-el-obeid-assault/image.jpg",
         "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/20/4723577-399301754.jpg?itok=AIh1szaF",
         "contentType": "image/jpeg",
         "bytes": 18381
-      },
-      "video": null
-    },
-    {
-      "group": "headlines",
-      "index": 3,
-      "title": "Ismael Saibari celebrates his goal for Morocco against Scotland at the 2026 FIFA World Cup. (X: @EnMaroc)",
-      "url": "https://www.arabnews.com/node/2647888/sport",
-      "directory": "archive/latest/headlines/04-2647888-ismael-saibari-celebrates-his-goal-for-morocco-against-scotland-at-the",
-      "status": "ok",
-      "files": {
-        "metadata": "archive/latest/headlines/04-2647888-ismael-saibari-celebrates-his-goal-for-morocco-against-scotland-at-the/metadata.json",
-        "content": "archive/latest/headlines/04-2647888-ismael-saibari-celebrates-his-goal-for-morocco-against-scotland-at-the/content.md",
-        "text": "archive/latest/headlines/04-2647888-ismael-saibari-celebrates-his-goal-for-morocco-against-scotland-at-the/page-text.txt",
-        "html": null,
-        "image": "archive/latest/headlines/04-2647888-ismael-saibari-celebrates-his-goal-for-morocco-against-scotland-at-the/image.jpg",
-        "video": null
-      },
-      "videoUrls": [
-        "https://cdn.jwplayer.com/manifests/0OO7C2Rs.m3u8",
-        "https://videos-cloudfront-usp.jwpsrv.com/6a373bba_216d502f94bde75a5a1c2fdab046240fe1cee9d9/sites/wPTWN2YS/media/0OO7C2Rs/versions/Ya1TFfU1/manifest.ism/manifest-audio_0_cYAAibBJ_08jVRClx=112013-video_0_cYAAibBJ_wJiDay0y=595234.m3u8"
-      ],
-      "image": {
-        "path": "archive/latest/headlines/04-2647888-ismael-saibari-celebrates-his-goal-for-morocco-against-scotland-at-the/image.jpg",
-        "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/20/4723567-1218908471.jpg?itok=6jHFD4Ta",
-        "contentType": "image/jpeg",
-        "bytes": 59933
       },
       "video": null
     }

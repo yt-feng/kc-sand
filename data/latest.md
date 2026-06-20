@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-19T23:38:40.599Z
+Fetched at: 2026-06-20T04:16:41.081Z
 Target date: 2026-06-20 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-20 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [47 killed in airstrikes as Israel and Hezbollah agree to ceasefire](https://www.arabnews.com/node/2647813/middle-east) - archive: archive/latest/headlines/01-2647813-47-killed-in-airstrikes-as-israel-and-hezbollah-agree-to-ceasefire/content.md
-2. [In call with Pakistan PM, Saudi crown prince welcomes US-Iran deal](https://www.arabnews.com/node/2647869/saudi-arabia) - archive: archive/latest/headlines/02-2647869-in-call-with-pakistan-pm-saudi-crown-prince-welcomes-us-iran-deal/content.md
-3. [Iran plans meeting with US officials in coming days after postponing Friday talks](https://www.arabnews.com/node/2647772/world) - archive: archive/latest/headlines/03-2647772-iran-plans-meeting-with-us-officials-in-coming-days-after-postponing-f/content.md
-4. [Israeli minister says ‘all of Lebanon must burn’ after four soldiers killed](https://www.arabnews.com/node/2647756/middle-east) - archive: archive/latest/headlines/04-2647756-israeli-minister-says-all-of-lebanon-must-burn-after-four-soldiers-kil/content.md
+1. [Lebanon’s Aoun tells Rubio ‘comprehensive ceasefire’ essential ahead of talks next week](https://www.arabnews.com/node/2647870/middle-east) - archive: archive/latest/headlines/01-2647870-lebanon-s-aoun-tells-rubio-comprehensive-ceasefire-essential-ahead-of-/content.md
+2. [47 killed in airstrikes as Israel and Hezbollah agree to ceasefire](https://www.arabnews.com/node/2647813/middle-east) - archive: archive/latest/headlines/02-2647813-47-killed-in-airstrikes-as-israel-and-hezbollah-agree-to-ceasefire/content.md
+3. [Israeli minister says ‘all of Lebanon must burn’ after four soldiers killed](https://www.arabnews.com/node/2647756/middle-east) - archive: archive/latest/headlines/03-2647756-israeli-minister-says-all-of-lebanon-must-burn-after-four-soldiers-kil/content.md
+4. [In call with Pakistan PM, Saudi crown prince welcomes US-Iran deal](https://www.arabnews.com/node/2647869/saudi-arabia) - archive: archive/latest/headlines/04-2647869-in-call-with-pakistan-pm-saudi-crown-prince-welcomes-us-iran-deal/content.md

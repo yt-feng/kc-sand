@@ -16,6 +16,7 @@ CAIRO: Israeli strikes and gunfire killed at least nine people, including a chil
 
 ## Video Or Embed URLs
 
+- https://eba1e3ba10b12e8cc6c2a5cb2699220a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html

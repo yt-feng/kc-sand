@@ -16,6 +16,7 @@ TEHRAN: Pakistan’s interior minister arrived in Iran on Saturday after planned
 
 ## Video Or Embed URLs
 
+- https://e15c2d6e4fc2855932f88879ddecb65c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html

@@ -16,10 +16,11 @@ UNITED NATIONS: The UN secretary-general’s special envoy for Sudan on Friday c
 
 ## Video Or Embed URLs
 
+- https://2d6d64d87fc9fcc701ba980d8a03b5ee.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647897%2Fmiddle-east
 

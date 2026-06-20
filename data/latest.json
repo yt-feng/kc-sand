@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T08:03:32.102Z",
+  "fetchedAt": "2026-06-20T10:59:25.397Z",
   "targetDate": {
     "iso": "2026-06-20",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 95,
+    "itemCount": 84,
     "window": {
       "hours": 24,
-      "start": "2026-06-19T08:03:32.102Z",
-      "end": "2026-06-20T08:03:32.102Z",
+      "start": "2026-06-19T10:59:25.397Z",
+      "end": "2026-06-20T10:59:25.397Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-20T08:09:44.795Z",
+    "capturedAt": "2026-06-20T11:05:38.222Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-20",
     "itemCount": 7,
@@ -222,8 +222,8 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a36f30f_f77d7dd41271e76a223b3ca4624a4114d63ec3ee/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a36f30f_f77d7dd41271e76a223b3ca4624a4114d63ec3ee/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a371d3f_ca443bd6d3235b8fbedbe3374406a366d6099077/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a371d3f_ca443bd6d3235b8fbedbe3374406a366d6099077/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -256,7 +256,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a36f5eb_26a458a94b607ef7d59365a334dbf73c0a1e43bb/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a371c97_d7fd64b2941ca7d8536fea9d95bc9c1ef5ecbdf5/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -289,7 +289,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a36f4aa_c6741a2033305043fb60dcc20728392605150120/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a371eda_b862e2941375373c9efd43fb96003854a39fb8a9/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -322,7 +322,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/sqjxSuD7.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a36f52a_96f03fb34d83349dfe54e087fe712a036eb7aa59/sites/wPTWN2YS/media/sqjxSuD7/versions/IF0CZ16U/manifest.ism/manifest-audio_0_mQ3DvgcQ_dUFZhjZI=112013-video_0_mQ3DvgcQ_3If9Tgta=327545.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a371f5a_8848e6fdb3f3306bd911a857719989f93feb92e3/sites/wPTWN2YS/media/sqjxSuD7/versions/IF0CZ16U/manifest.ism/manifest-audio_0_mQ3DvgcQ_dUFZhjZI=112013-video_0_mQ3DvgcQ_3If9Tgta=327545.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2647909-israeli-strikes-on-south-lebanon-escalate-despite-ceasefire/image.jpg",
@@ -397,7 +397,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/0OO7C2Rs.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a36f56a_a08e9c3c0433a3fedada84bb59e73f1ecbd88546/sites/wPTWN2YS/media/0OO7C2Rs/versions/Ya1TFfU1/manifest.ism/manifest-audio_0_cYAAibBJ_08jVRClx=112013-video_0_cYAAibBJ_wJiDay0y=595234.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a371f9a_6b3a09f795eadcd60451bbfb98a900f26dc507b5/sites/wPTWN2YS/media/0OO7C2Rs/versions/Ya1TFfU1/manifest.ism/manifest-audio_0_cYAAibBJ_08jVRClx=112013-video_0_cYAAibBJ_wJiDay0y=595234.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2647888-ismael-saibari-celebrates-his-goal-for-morocco-against-scotland-at-the/image.jpg",

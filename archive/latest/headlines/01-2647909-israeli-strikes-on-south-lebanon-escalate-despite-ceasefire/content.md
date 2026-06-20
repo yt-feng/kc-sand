@@ -3,12 +3,12 @@
 Source: https://www.arabnews.com/node/2647909/middle-east
 Captured source: https://www.arabnews.com/node/2647909/middle-east
 Published: 2026-06-20T08:23:17+03:00
-Modified: 2026-06-20T10:52:55+03:00
+Modified: 2026-06-20T12:37:46+03:00
 Author: Arab News
 
 ## Summary
 
-BEIRUT: Lebanese official media said fresh Israeli strikes on the country’s south on Saturday killed five people, despite a new ceasefire between Israel and the Iran-backed Hezbollah group announced a day earlier. The state-run National News Agency (NNA) reported Israeli airstrikes on more than a dozen south Lebanon locations after midnight and into Saturday morning, many in
+BEIRUT: Lebanon’s civil defense agency said ongoing Israeli strikes on the Nabatieh district in the country’s south on Saturday had killed 16 people, a day after the latest Israel-Hezbollah ceasefire announcement.
 
 ## Image
 
@@ -16,7 +16,7 @@ BEIRUT: Lebanese official media said fresh Israeli strikes on the country’s so
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/2a277950-9670-4080-9187-2065022adb8f
+- blob:https://www.arabnews.com/083c6ef0-13bd-40bd-a550-f0d3efa00d53
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
@@ -27,11 +27,13 @@ BEIRUT: Lebanese official media said fresh Israeli strikes on the country’s so
 
 https://arab.news/576tv
 
+Lebanon’s civil defense agency said ongoing Israeli strikes on the Nabatieh district in the country’s south on Saturday had killed 16 people
+
 Israeli aggression on the town of Barish resulted in a massacre in which four members of one family were killed, including a father, a mother, and two children.
 
 The state-run National News Agency (NNA) reported Israeli airstrikes on more than a dozen south Lebanon locations after midnight and into Saturday morning
 
-BEIRUT: Lebanese official media said fresh Israeli strikes on the country’s south on Saturday killed five people, despite a new ceasefire between Israel and the Iran-backed Hezbollah group announced a day earlier. The state-run National News Agency (NNA) reported Israeli airstrikes on more than a dozen south Lebanon locations after midnight and into Saturday morning, many in and around the Nabatieh area. It also reported Israeli artillery shelling on Nabatieh city and its outskirts, a region where fighting has been focused in recent days.
+BEIRUT: Lebanon’s civil defense agency said ongoing Israeli strikes on the Nabatieh district in the country’s south on Saturday had killed 16 people, a day after the latest Israel-Hezbollah ceasefire announcement. Civil defense personnel have transported “16 dead and 12 wounded” to hospital, a statement said, adding that the personnel were working “since the early morning hours” in the Nabatieh district in response to “ongoing attacks targeting the area.” The state-run National News Agency (NNA) reported Israeli airstrikes on more than a dozen south Lebanon locations after midnight and into Saturday morning, many in and around the Nabatieh area. It also reported Israeli artillery shelling on Nabatieh city and its outskirts, a region where fighting has been focused in recent days.
 
 The NNA said three people were killed in airstrikes on the town of Arab Salim, while one person was killed in Deir Zahrani, and another after “an enemy drone launched a strike on a motorbike” at the entrance of the town of Dweir. Strikes on the town of Barish resulted in a massacre in which four members of one family were killed, including a father, a mother, and two children and a Lebanese soldier was killed in a strike on the Kafr Rumman Road in southern Lebanon.
 

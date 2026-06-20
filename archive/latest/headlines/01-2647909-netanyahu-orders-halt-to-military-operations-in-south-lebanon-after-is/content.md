@@ -16,12 +16,10 @@ BEIRUT: Israeli sources reported on Saturday that Prime Minister Benjamin Netany
 
 ## Video Or Embed URLs
 
-- https://9a9d1fdbf8f7b6ca23befde5b97dc153.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/061e6619-1266-4ba1-addd-3b6a1221bc50
+- blob:https://www.arabnews.com/f9f25be8-8240-4548-8216-43510629c753
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
-- about:blank
 - https://static.addtoany.com/menu/sm.25.html
-- https://ep2.adtrafficquality.google/sodar/sodar2/254/runner.html
+- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647909%2Fmiddle-east
 

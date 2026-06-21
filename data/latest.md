@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-21T13:12:32.651Z
+Fetched at: 2026-06-21T15:28:17.514Z
 Target date: 2026-06-21 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-21 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran holds meeting with US, Qatar on Lebanon, frozen funds: state media](https://www.arabnews.com/node/2648009/middle-east) - archive: archive/latest/headlines/01-2648009-iran-holds-meeting-with-us-qatar-on-lebanon-frozen-funds-state-media/content.md
-2. [Israel says no restriction on troops ‘eliminating threats’ in Lebanon](https://www.arabnews.com/node/2648017/middle-east) - archive: archive/latest/headlines/02-2648017-israel-says-no-restriction-on-troops-eliminating-threats-in-lebanon/content.md
+1. [Saudi Arabia, Egypt, Pakistan and Turkiye back US-Iran talks at Cairo meeting](https://www.arabnews.com/node/2648038/saudi-arabia) - archive: archive/latest/headlines/01-2648038-saudi-arabia-egypt-pakistan-and-turkiye-back-us-iran-talks-at-cairo-me/content.md
+2. [Israel says no restriction on troops ‘eliminating threats’ in Lebanon, Iran says deal dependent on ceasefire](https://www.arabnews.com/node/2648017/middle-east) - archive: archive/latest/headlines/02-2648017-israel-says-no-restriction-on-troops-eliminating-threats-in-lebanon-ir/content.md
 3. [Israel says it ‘eliminated’ two Hamas and Islamic Jihad operatives tied to major funding network](https://www.arabnews.com/node/2648000/middle-east) - archive: archive/latest/headlines/03-2648000-israel-says-it-eliminated-two-hamas-and-islamic-jihad-operatives-tied-/content.md
-4. [Tunisia crash out of World Cup after devastating defeat to Japan](https://www.arabnews.com/node/2648003/sport) - archive: archive/latest/headlines/04-2648003-tunisia-crash-out-of-world-cup-after-devastating-defeat-to-japan/content.md
+4. [Poll finds Israelis believe Iran won Middle East war](https://www.arabnews.com/node/2648033/middle-east) - archive: archive/latest/headlines/04-2648033-poll-finds-israelis-believe-iran-won-middle-east-war/content.md

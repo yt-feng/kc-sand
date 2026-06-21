@@ -16,11 +16,11 @@ DUBAi: European champions Spain comprehensively beat Saudi Arabia 4-0 at Atlanta
 
 ## Video Or Embed URLs
 
+- https://db748f092159832a34eeb2cdf1cd4532.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
-- https://sync.teads.tv/iframe?pid=253554&gdprIab=%7B%22type%22%3A%22AddEventListenerDoesNotApply%22%2C%22reason%22%3A0%2C%22status%22%3A0%2C%22consent%22%3A%22%22%2C%22apiVersion%22%3A2%2C%22cmpId%22%3A300%7D&fromFormat=true&env=js-web&auctid=f7b96c3f-dad6-4fea-813c-a52ce21b48da&us_privacy=1---&1782068962753=
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648050%2Fsport
 
 ## Text

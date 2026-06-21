@@ -1,0 +1,42 @@
+# Iran says Hormuz closed as US-Iran deal falters over Lebanon
+
+Source: https://www.arabnews.com/node/2647899/middle-east
+Captured source: https://www.arabnews.com/node/2647899/middle-east
+Published: 2026-06-20T18:41:26+03:00
+Modified: 2026-06-21T08:33:42+03:00
+Author: AFP
+
+## Summary
+
+BEIRUT: Iran said Saturday it was closing the Strait of Hormuz again over Israeli attacks in Lebanon, jolting a fragile US-Iran agreement just as negotiators headed to Switzerland to try to salvage efforts to end the Middle East war. Follow-up talks had been planned in Switzerland on Friday, but were postponed at the last minute after Israel launched deadly strikes in Lebanon
+
+## Image
+
+![main image](./image.png)
+
+## Video Or Embed URLs
+
+- https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
+- https://sync.teads.tv/wigo-no-slot
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2647899%2Fmiddle-east
+
+## Text
+
+https://arab.news/4g9xn
+
+Pakistan said technical-level talks to begin on Sunday in Burgenstock with Qatari mediators also participating
+
+Foreign Ministry spokesperson Bagahei signaled little might happen until Iran feels US is living up to deal
+
+BEIRUT: Iran said Saturday it was closing the Strait of Hormuz again over Israeli attacks in Lebanon, jolting a fragile US-Iran agreement just as negotiators headed to Switzerland to try to salvage efforts to end the Middle East war. Follow-up talks had been planned in Switzerland on Friday, but were postponed at the last minute after Israel launched deadly strikes in Lebanon following the deaths of four of its soldiers in combat. Washington announced a renewed ceasefire there later Friday -- a condition of its agreement with Iran -- but Israeli troops clashed again with Hezbollah fighters on Saturday, with each side accusing the other of breaking the truce. Citing a US "breach of contract" and "the Zionist regime's continuous and relentless violation of the ceasefire in southern Lebanon", Iran's central military command said "the Strait of Hormuz will be closed to vessel traffic." The Revolutionary Guards' naval force warned vessels not to approach the waterway, saying "their security will be jeopardised". Hormuz, a key conduit for oil and gas shipments, was blockaded by Iran for much of the war, sending shockwaves through global energy markets. Tehran had agreed to reopen it under the preliminary accord signed this week by President Donald Trump and his Iranian counterpart Masoud Pezeshkian, and shipping traffic had begun to recover. US Central Command said after Iran's announcement that safe passage through the international waterway had "remained intact" and that US forces were "present and vigilant." Trump later warned that Washington could impose its own tolls on Hormuz if negotiators failed to complete the deal. There would be no tolls "unless they are imposed by and for the United States of America", Trump wrote on Truth Social.
+
+- Switzerland push -
+
+An Iranian delegation left for Switzerland on Saturday afternoon, state media reported, with the official broadcaster saying it included parliamentary speaker Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi. Foreign ministry spokesman Esmaeil Baqaei said the delegation would "demand implementation of the other party's commitments" under the deal. "Otherwise, the entire understanding will be in trouble," he said, according to official news agency IRNA. US Vice President JD Vance departed Washington on an afternoon flight for Switzerland to join the talks. "I can only be there for a day or two. I think we're going to hopefully make progress on the nuclear issue, make progress on the Lebanon ceasefire issue. Those are the two big things that I think we're to be focused on. I'm sure the Iranians are going to have issues they'd like to discuss as well," he told reporters before boarding. US negotiators Jared Kushner and Steve Witkoff were already there handling "some of the technical elements" and had reported that "things are going well," Vance said in an interview with Fox News earlier Saturday. Mediator Pakistan -- whose interior minister was reportedly in Iran on Saturday for meetings with officials -- said "technical-level talks" were scheduled for Sunday in Burgenstock, Switzerland, with Pakistani and Qatari mediators joining US and Iranian representatives. The talks are meant to open a two-month negotiation period on issues left unresolved by the initial accord, notably Iran's nuclear programme. Switzerland's foreign ministry confirmed unnamed foreign envoys there were "continuing their efforts to maintain the dialogue", but declined to give details.
+
+- Lebanon truce frays -
+
+Israel and Hezbollah continued trading accusations Saturday as fighting persisted in the south. The Israeli military said one soldier was killed in combat, the fifth such fatality since the US-Iran deal was reached. An Israeli army official later said the military had received orders from the country's political leadership to cease fire, adding that troops were "not conducting proactive strikes" but operating defensively inside a security zone. Earlier, an Israeli military official said fresh attacks were under way after Hezbollah "launched more than 50 projectiles at Israeli forces in southern Lebanon" overnight. Hezbollah accused Israel of carrying out "under the cover of the ceasefire...an infiltration attempt towards the Ali Taher hills", a strategic feature overlooking Nabatieh, and said its fighters had responded "with appropriate weapons". Lebanese state media reported Israeli air raids on around 20 location, with the country's civil defence agency saying 16 people were killed in the Nabatieh area. Lebanon's health ministry said seven more people were killed and 13 wounded in a strike near Sidon, and reported that the overall death toll from the fighting had surpassed 4,000. Hezbollah lawmaker Hassan Fadlallah said his group retained "the full right to confront this enemy when it attacks us". Israel's US ambassador Yechiel Leiter maintained it was Hezbollah that broke the truce, saying Israel was "defending itself against terrorist attacks". But Hezbollah said Israel bore "full responsibility". Fadi Zayat, who fled the southern Lebanon town of Tayr Debba, told AFP that "fear dominates" the south. "We returned to the village a few days ago, but our bags are ready to flee again," the 53-year-old said. Hezbollah pulled Lebanon into the wider Middle East conflict in early March when it fired rockets at Israel in retaliation for the killing of Iran's supreme leader in US-Israeli strikes. A previous ceasefire meant to take effect in Lebanon in April was never honoured, with each side justifying its attacks by citing alleged violations by the other.

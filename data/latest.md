@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-21T07:17:09.535Z
+Fetched at: 2026-06-21T10:53:32.382Z
 Target date: 2026-06-21 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-21 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran says Hormuz closed as US-Iran deal falters over Lebanon](https://www.arabnews.com/node/2647899/middle-east) - archive: archive/latest/headlines/01-2647899-iran-says-hormuz-closed-as-us-iran-deal-falters-over-lebanon/content.md
-2. [Israeli fire kills nine people in Gaza, including a child and journalist, medics say](https://www.arabnews.com/node/2647916/middle-east) - archive: archive/latest/headlines/02-2647916-israeli-fire-kills-nine-people-in-gaza-including-a-child-and-journalis/content.md
+1. [Iran says Lebanon conflict ‘main topic’ in US talks](https://www.arabnews.com/node/2648009/middle-east) - archive: archive/latest/headlines/01-2648009-iran-says-lebanon-conflict-main-topic-in-us-talks/content.md
+2. [Israel says it ‘eliminated’ two Hamas and Islamic Jihad operatives tied to major funding network](https://www.arabnews.com/node/2648000/middle-east) - archive: archive/latest/headlines/02-2648000-israel-says-it-eliminated-two-hamas-and-islamic-jihad-operatives-tied-/content.md
 3. [Saudi Arabia delivers Arab Group statement on Gaza at UN Security Council](https://www.arabnews.com/node/2647992/middle-east) - archive: archive/latest/headlines/03-2647992-saudi-arabia-delivers-arab-group-statement-on-gaza-at-un-security-coun/content.md
-4. [‘Dangerous’: Spain wary of Saudi threat as two fight for World Cup Group H supremacy](https://www.arabnews.com/node/2647914/sport) - archive: archive/latest/headlines/04-2647914-dangerous-spain-wary-of-saudi-threat-as-two-fight-for-world-cup-group-/content.md
+4. [Tunisia crash out of World Cup after devastating defeat to Japan](https://www.arabnews.com/node/2648003/sport) - archive: archive/latest/headlines/04-2648003-tunisia-crash-out-of-world-cup-after-devastating-defeat-to-japan/content.md

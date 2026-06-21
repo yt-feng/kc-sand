@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2648017/middle-east
 Captured source: https://www.arabnews.com/node/2648017/middle-east
 Published: 2026-06-21T14:15:44+03:00
-Modified: 2026-06-21T16:40:59+03:00
+Modified: 2026-06-21T19:46:32+03:00
 Author: AFP
 
 ## Summary
@@ -31,6 +31,10 @@ Israeli defense minister says army will not withdraw from the security zone in L
 JERUSALEM: Israel’s defense minister said Sunday that Israeli forces had standing orders to act against any threat they encountered inside Lebanon, insisting that troops would remain in the so-called security zone established within Lebanese territory.
 
 “There has never been, and there is currently no restriction on IDF soldiers in Lebanon from acting to eliminate threats... As Prime Minister Benjamin Netanyahu and I have made clear: Israel will not withdraw from the security zone in Lebanon,” Israel Katz said in a statement, referring to an area extending roughly 10 kilometers (six miles) into Lebanese territory, where Israeli forces are deployed.
+
+Hezbollah chief Naim Qassem on Sunday rejected any Israeli security zone in Lebanon.
+
+Israeli troops “remaining on Lebanese land is impossible. There are no security zones for Israel... we have a national army which deploys, and it is responsible for preserving sovereignty, and it is who we cooperate with,” Qassem said in a televised address, adding that “Israel is an aggressor and must leave.”
 
 Katz’s remarks came shortly after Iran warned that it would not enter talks on a broader agreement with Washington unless the war in Lebanon comes to an end.
 

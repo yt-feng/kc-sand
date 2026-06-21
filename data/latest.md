@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-21T15:28:17.514Z
+Fetched at: 2026-06-21T17:08:57.528Z
 Target date: 2026-06-21 (Asia/Riyadh)
 
 ## Latest Videos

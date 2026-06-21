@@ -16,7 +16,7 @@ DOHA: Qatar’s interior ​ministry said an explosion resulting from a “techn
 
 ## Video Or Embed URLs
 
-- https://949522db77703a52c6da4df2cf20f9bd.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a43e786351310a60270b732c3659f484.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank

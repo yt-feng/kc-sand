@@ -16,7 +16,7 @@ JERUSALEM: Israel’s defense minister said Sunday that Israeli forces had stand
 
 ## Video Or Embed URLs
 
-- https://941c5cfc5de1c725cd1a0877ff357490.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f6f15c1b5bd524ae67d393827bc25c90.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html

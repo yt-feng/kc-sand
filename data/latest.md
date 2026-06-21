@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-21T17:08:57.528Z
+Fetched at: 2026-06-21T19:03:27.342Z
 Target date: 2026-06-21 (Asia/Riyadh)
 
 ## Latest Videos
@@ -16,4 +16,4 @@ No parseable item-level dates were found, so the output is the current Top Headl
 1. [Saudi Arabia, Egypt, Pakistan and Turkiye back US-Iran talks at Cairo meeting](https://www.arabnews.com/node/2648038/saudi-arabia) - archive: archive/latest/headlines/01-2648038-saudi-arabia-egypt-pakistan-and-turkiye-back-us-iran-talks-at-cairo-me/content.md
 2. [Israel says no restriction on troops ‘eliminating threats’ in Lebanon, Iran says deal dependent on ceasefire](https://www.arabnews.com/node/2648017/middle-east) - archive: archive/latest/headlines/02-2648017-israel-says-no-restriction-on-troops-eliminating-threats-in-lebanon-ir/content.md
 3. [Israel says it ‘eliminated’ two Hamas and Islamic Jihad operatives tied to major funding network](https://www.arabnews.com/node/2648000/middle-east) - archive: archive/latest/headlines/03-2648000-israel-says-it-eliminated-two-hamas-and-islamic-jihad-operatives-tied-/content.md
-4. [Poll finds Israelis believe Iran won Middle East war](https://www.arabnews.com/node/2648033/middle-east) - archive: archive/latest/headlines/04-2648033-poll-finds-israelis-believe-iran-won-middle-east-war/content.md
+4. [Saudi World Cup progress in balance after heavy loss to Spain](https://www.arabnews.com/node/2648050/sport) - archive: archive/latest/headlines/04-2648050-saudi-world-cup-progress-in-balance-after-heavy-loss-to-spain/content.md

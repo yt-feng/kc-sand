@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-06-21T17:15:09.517Z
+Captured at: 2026-06-21T19:09:29.105Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -12,4 +12,4 @@ Errors: 0
 - [Saudi Arabia, Egypt, Pakistan and Turkiye back US\-Iran talks at Cairo meeting](https://www.arabnews.com/node/2648038/saudi-arabia) - ok - `archive/latest/headlines/01-2648038-saudi-arabia-egypt-pakistan-and-turkiye-back-us-iran-talks-at-cairo-me/content.md`
 - [Israel says no restriction on troops ‘eliminating threats’ in Lebanon, Iran says deal dependent on ceasefire](https://www.arabnews.com/node/2648017/middle-east) - ok - `archive/latest/headlines/02-2648017-israel-says-no-restriction-on-troops-eliminating-threats-in-lebanon-ir/content.md`
 - [Israel says it ‘eliminated’ two Hamas and Islamic Jihad operatives tied to major funding network](https://www.arabnews.com/node/2648000/middle-east) - ok - `archive/latest/headlines/03-2648000-israel-says-it-eliminated-two-hamas-and-islamic-jihad-operatives-tied-/content.md`
-- [Poll finds Israelis believe Iran won Middle East war](https://www.arabnews.com/node/2648033/middle-east) - ok - `archive/latest/headlines/04-2648033-poll-finds-israelis-believe-iran-won-middle-east-war/content.md`
+- [Saudi World Cup progress in balance after heavy loss to Spain](https://www.arabnews.com/node/2648050/sport) - ok - `archive/latest/headlines/04-2648050-saudi-world-cup-progress-in-balance-after-heavy-loss-to-spain/content.md`

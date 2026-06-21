@@ -7,7 +7,7 @@
   "dateText": "",
   "source": "video-page",
   "order": 3,
-  "capturedAt": "2026-06-21T20:58:17.371Z",
+  "capturedAt": "2026-06-21T22:23:21.276Z",
   "responseStatus": 200,
   "responseUrl": "https://www.arabnews.com/node/2640092/middle-east",
   "challengeDetected": false,
@@ -20,14 +20,15 @@
     "modified": "2026-04-17T00:10:12+03:00",
     "author": "Arab News",
     "canonical": "https://www.arabnews.com/node/2640092/middle-east",
-    "textLength": 8024,
+    "textLength": 7859,
     "videoUrls": [
-      "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8"
+      "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
+      "https://videos-cloudfront-usp.jwpsrv.com/6a390fcf_57e3538cfdd798c6f0a63485f77ab84fe111e25f/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
     ],
     "pageTitle": "Israel and Lebanon agree to 10-day ceasefire in push for permanent peace deal | Arab News"
   },
   "videoDownload": {
-    "path": "rendered-clips/2026-06-21/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
+    "path": "rendered-clips/2026-06-22/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
     "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
     "contentType": "video/mp4",
     "bytes": 8233121,
@@ -39,6 +40,6 @@
     "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
     "html": null,
     "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-    "video": "rendered-clips/2026-06-21/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+    "video": "rendered-clips/2026-06-22/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
   }
 }

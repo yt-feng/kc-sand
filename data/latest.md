@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-22T05:07:52.661Z
+Fetched at: 2026-06-22T11:15:54.152Z
 Target date: 2026-06-22 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-22 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [US, Iran engaged in Switzerland talks as Trump threatens Tehran over proxy support](https://www.arabnews.com/node/2647989/middle-east) - archive: archive/latest/headlines/01-2647989-us-iran-engaged-in-switzerland-talks-as-trump-threatens-tehran-over-pr/content.md
-2. [Saudi Arabia, Egypt, Pakistan and Turkiye back US-Iran talks at Cairo meeting](https://www.arabnews.com/node/2648038/saudi-arabia) - archive: archive/latest/headlines/02-2648038-saudi-arabia-egypt-pakistan-and-turkiye-back-us-iran-talks-at-cairo-me/content.md
+1. [Mediators announce a new de-conflicting mechanism aimed at containing violence in Lebanon](https://www.arabnews.com/node/2648091/middle-east) - archive: archive/latest/headlines/01-2648091-mediators-announce-a-new-de-conflicting-mechanism-aimed-at-containing-/content.md
+2. [Syria president denies wanting to intervene in Lebanon after Trump remarks](https://www.arabnews.com/node/2648077/middle-east) - archive: archive/latest/headlines/02-2648077-syria-president-denies-wanting-to-intervene-in-lebanon-after-trump-rem/content.md
 3. [QatarEnergy's liquefied natural gas production facilities can be seen in Ras Laffan Industrial City, Qatar. (File/Reuters)](https://www.arabnews.com/node/2648064/middle-east) - archive: archive/latest/headlines/03-2648064-qatarenergys-liquefied-natural-gas-production-facilities-can-be-seen-i/content.md
 4. [Arab teams at 2026 World Cup: Egypt makes history as Saudi Arabia, Tunisia falter](https://www.arabnews.com/node/2648087/sport) - archive: archive/latest/headlines/04-2648087-arab-teams-at-2026-world-cup-egypt-makes-history-as-saudi-arabia-tunis/content.md

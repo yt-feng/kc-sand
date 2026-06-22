@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2648064/middle-east
 Captured source: https://www.arabnews.com/node/2648064/middle-east
 Published: 2026-06-21T23:03:45+03:00
-Modified: 2026-06-22T07:47:03+03:00
+Modified: 2026-06-22T10:37:36+03:00
 Author: AP
 
 ## Summary
@@ -16,11 +16,12 @@ DUBAI: An explosion tore through Qatar’s key natural gas export terminal Sunda
 
 ## Video Or Embed URLs
 
-- https://static.addtoany.com/menu/sm.25.html
-- about:blank
+- blob:https://www.arabnews.com/b02ec4bd-f0ed-457f-b503-57629c04a204
 - https://imasdk.googleapis.com/js/core/bridge3.772.0_en.html
-- https://www.google.com/recaptcha/api2/aframe
+- about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648064%2Fmiddle-east
 
 ## Text

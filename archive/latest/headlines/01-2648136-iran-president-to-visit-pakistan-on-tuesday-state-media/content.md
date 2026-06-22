@@ -19,8 +19,8 @@ TEHRAN: Iranian President Masoud Pezeshkian will travel to Pakistan on Tuesday, 
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648136%2Fmiddle-east
 
 ## Text

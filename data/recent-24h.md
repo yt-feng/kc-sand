@@ -1,8 +1,8 @@
 # Arab News Recent 24 Hours
 
-Fetched at: 2026-06-22T22:09:09.245Z
-Window: 2026-06-21T22:09:09.245Z to 2026-06-22T22:09:09.245Z (24h)
-Items: 114
+Fetched at: 2026-06-22T23:52:22.803Z
+Window: 2026-06-21T23:52:22.803Z to 2026-06-22T23:52:22.803Z (24h)
+Items: 111
 
 ## Items
 
@@ -117,19 +117,16 @@ Items: 114
 109. [US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats](https://www.arabnews.com/node/2648079/middle-east) - published: 2026-06-22T01:18:23.000Z - section: middle east - author: AP
 110. [Defiant Cape Verde hold Uruguay to 2-2 draw in Miami thriller](https://www.arabnews.com/node/2648078/sport) - published: 2026-06-22T00:45:22.000Z - section: sport - author: Reuters
 111. [Syria president denies wanting to intervene in Lebanon after Trump remarks](https://www.arabnews.com/node/2648077/middle-east) - published: 2026-06-22T00:28:07.000Z - section: middle east - author: AFP
-112. [Tadej Pogacar wins the Tour de Suisse in style by taking the final stage](https://www.arabnews.com/node/2648076/sport) - published: 2026-06-21T23:37:27.000Z - section: sport - author: AP
-113. [Wyndham Clark hangs on to win second US Open in four years](https://www.arabnews.com/node/2648075/sport) - published: 2026-06-21T23:21:42.000Z - section: sport - author: Reuters
-114. [Syrian security forces capture alleged Daesh bomb-maker linked to Al-Bukamal attacks](https://www.arabnews.com/node/2648074/middle-east) - published: 2026-06-21T22:49:30.000Z - section: middle east - author: Arab News
 
 ## Diagnostics
 
 Unique candidates: 463
-Candidates verified: 116
+Candidates verified: 113
 Candidates after limit: 220
 Source errors: 0
 Article errors: 0
 
 Skipped:
 
-- source-date-older-than-window: 77
+- source-date-older-than-window: 80
 - article-older-than-window: 27

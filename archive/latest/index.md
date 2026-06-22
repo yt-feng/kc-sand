@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-06-21T23:58:57.389Z
+Captured at: 2026-06-22T05:14:06.576Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -9,7 +9,7 @@ Errors: 0
 - [Lebanon army reports Israeli ‘acts of aggression’ in ‘violation of ceasefire’](https://www.arabnews.com/node/2640197/middle-east) - ok - `archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/content.md` - video: `rendered-clips/2026-06-22/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4`
 - [Israel and Lebanon agree to 10\-day ceasefire in push for permanent peace deal](https://www.arabnews.com/node/2640092/middle-east) - ok - `archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/content.md` - video: `rendered-clips/2026-06-22/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4`
 - [Southern Lebanon ‘Hezbollah kill zone,’ Israel says](https://www.arabnews.com/node/2640086/middle-east) - ok - `archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md` - video: `rendered-clips/2026-06-22/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4`
-- [Saudi Arabia, Egypt, Pakistan and Turkiye back US\-Iran talks at Cairo meeting](https://www.arabnews.com/node/2648038/saudi-arabia) - ok - `archive/latest/headlines/01-2648038-saudi-arabia-egypt-pakistan-and-turkiye-back-us-iran-talks-at-cairo-me/content.md`
-- [Israel says no restriction on troops ‘eliminating threats’ in Lebanon, Iran says deal dependent on ceasefire](https://www.arabnews.com/node/2648017/middle-east) - ok - `archive/latest/headlines/02-2648017-israel-says-no-restriction-on-troops-eliminating-threats-in-lebanon-ir/content.md`
+- [US, Iran engaged in Switzerland talks as Trump threatens Tehran over proxy support](https://www.arabnews.com/node/2647989/middle-east) - ok - `archive/latest/headlines/01-2647989-us-iran-engaged-in-switzerland-talks-as-trump-threatens-tehran-over-pr/content.md`
+- [Saudi Arabia, Egypt, Pakistan and Turkiye back US\-Iran talks at Cairo meeting](https://www.arabnews.com/node/2648038/saudi-arabia) - ok - `archive/latest/headlines/02-2648038-saudi-arabia-egypt-pakistan-and-turkiye-back-us-iran-talks-at-cairo-me/content.md`
 - [QatarEnergy's liquefied natural gas production facilities can be seen in Ras Laffan Industrial City, Qatar\. \(File/Reuters\)](https://www.arabnews.com/node/2648064/middle-east) - ok - `archive/latest/headlines/03-2648064-qatarenergys-liquefied-natural-gas-production-facilities-can-be-seen-i/content.md`
-- [Israel says it ‘eliminated’ two Hamas and Islamic Jihad operatives tied to major funding network](https://www.arabnews.com/node/2648000/middle-east) - ok - `archive/latest/headlines/04-2648000-israel-says-it-eliminated-two-hamas-and-islamic-jihad-operatives-tied-/content.md`
+- [Arab teams at 2026 World Cup: Egypt makes history as Saudi Arabia, Tunisia falter](https://www.arabnews.com/node/2648087/sport) - ok - `archive/latest/headlines/04-2648087-arab-teams-at-2026-world-cup-egypt-makes-history-as-saudi-arabia-tunis/content.md`

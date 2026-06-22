@@ -16,7 +16,6 @@ CAIRO: Foreign ministers from Saudi Arabia, Egypt, Pakistan and Turkiye reaffirm
 
 ## Video Or Embed URLs
 
-- https://81c4134a2006e00ff536ed75b4fc8e15.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

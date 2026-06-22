@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-22T11:15:54.152Z
+Fetched at: 2026-06-22T16:12:51.611Z
 Target date: 2026-06-22 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-22 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Mediators announce a new de-conflicting mechanism aimed at containing violence in Lebanon](https://www.arabnews.com/node/2648091/middle-east) - archive: archive/latest/headlines/01-2648091-mediators-announce-a-new-de-conflicting-mechanism-aimed-at-containing-/content.md
-2. [Syria president denies wanting to intervene in Lebanon after Trump remarks](https://www.arabnews.com/node/2648077/middle-east) - archive: archive/latest/headlines/02-2648077-syria-president-denies-wanting-to-intervene-in-lebanon-after-trump-rem/content.md
-3. [QatarEnergy's liquefied natural gas production facilities can be seen in Ras Laffan Industrial City, Qatar. (File/Reuters)](https://www.arabnews.com/node/2648064/middle-east) - archive: archive/latest/headlines/03-2648064-qatarenergys-liquefied-natural-gas-production-facilities-can-be-seen-i/content.md
-4. [Arab teams at 2026 World Cup: Egypt makes history as Saudi Arabia, Tunisia falter](https://www.arabnews.com/node/2648087/sport) - archive: archive/latest/headlines/04-2648087-arab-teams-at-2026-world-cup-egypt-makes-history-as-saudi-arabia-tunis/content.md
+1. [Iran president to visit Pakistan on Tuesday: state media](https://www.arabnews.com/node/2648136/middle-east) - archive: archive/latest/headlines/01-2648136-iran-president-to-visit-pakistan-on-tuesday-state-media/content.md
+2. [Qatar gas plant blast kills 13, injures dozens, says energy minister](https://www.arabnews.com/node/2648155/middle-east) - archive: archive/latest/headlines/02-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/content.md
+3. [Iran leaves message of peace after World Cup draw in Los Angeles](https://www.arabnews.com/node/2648151/sport) - archive: archive/latest/headlines/03-2648151-iran-leaves-message-of-peace-after-world-cup-draw-in-los-angeles/content.md
+4. [Leaders of European powers to meet for Ukraine talks](https://www.arabnews.com/node/2648119/world) - archive: archive/latest/headlines/04-2648119-leaders-of-european-powers-to-meet-for-ukraine-talks/content.md

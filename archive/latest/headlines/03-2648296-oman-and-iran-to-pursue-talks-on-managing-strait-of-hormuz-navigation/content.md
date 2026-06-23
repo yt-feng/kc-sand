@@ -17,11 +17,10 @@ Oman and Iran agreed on Tuesday to press on with ​discussions about the future
 ## Video Or Embed URLs
 
 - https://static.addtoany.com/menu/sm.25.html
-- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://sync.teads.tv/wigo-no-slot
-- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648296%2Fmiddle-east
+- https://cm.g.doubleclick.net/partnerpixels?url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648296%2Fmiddle-east
 
 ## Text
 

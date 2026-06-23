@@ -16,10 +16,10 @@ DUBAI: ISLAMABAD: Iran’s president arrived in Pakistan for talks Tuesday with 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/805a2f89-beba-4a87-a9af-b3e78ff99288
+- blob:https://www.arabnews.com/5756fdd9-9964-4876-8c2f-6f0b3f927b55
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648232%2Fmiddle-east
 

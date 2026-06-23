@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-23T08:04:30.881Z
+Fetched at: 2026-06-23T11:40:27.485Z
 Target date: 2026-06-23 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-23 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Vance says US-Iran talks lay ‘good foundation’ for final peace deal](https://www.arabnews.com/node/2648153/middle-east) - archive: archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/content.md
-2. [Iran chief negotiator says Hormuz will be administered by Tehran: state media](https://www.arabnews.com/node/2648197/middle-east) - archive: archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/content.md
-3. [Israel the main obstacle to stability in Syria, envoy warns as Security Council reviews transition](https://www.arabnews.com/node/2648187/middle-east) - archive: archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/content.md
-4. [Arab teams at 2026 World Cup: Algeria wins over Jordan while Iraq concedes against France](https://www.arabnews.com/node/2648211/sport) - archive: archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/content.md
+1. [Israeli gunfire kills two people in south Lebanon, civil defense says](https://www.arabnews.com/node/2648245/middle-east) - archive: archive/latest/headlines/01-2648245-israeli-gunfire-kills-two-people-in-south-lebanon-civil-defense-says/content.md
+2. [Iran’s president lands in Pakistan as US-Iran teams work to finalize a war-ending deal](https://www.arabnews.com/node/2648232/middle-east) - archive: archive/latest/headlines/02-2648232-iran-s-president-lands-in-pakistan-as-us-iran-teams-work-to-finalize-a/content.md
+3. [US authorizes Iranian oil sales amid talks on final peace deal](https://www.arabnews.com/node/2648206/middle-east) - archive: archive/latest/headlines/03-2648206-us-authorizes-iranian-oil-sales-amid-talks-on-final-peace-deal/content.md
+4. [Iran links nuclear talks to MoU, asserts control over Hormuz](https://www.arabnews.com/node/2648197/middle-east) - archive: archive/latest/headlines/04-2648197-iran-links-nuclear-talks-to-mou-asserts-control-over-hormuz/content.md

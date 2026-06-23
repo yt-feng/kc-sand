@@ -16,17 +16,19 @@ BEIRUT: Israel declared southern Lebanon a “Hezbollah kill zone” on Wednesda
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/99510594-bed0-45a0-8a79-c89a28c7bc0a
+- https://039a98c121ef552d89f75a0b341a406e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/897bcf05-ffc8-4e3b-92cc-40caa23737f3
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/254/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2640086%2Fmiddle-east
 
 ## Downloaded Video
 
-- [03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4](../../../rendered-clips/2026-06-23/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4)
+- [03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4](../../../rendered-clips/2026-06-24/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4)
 
 ## Text
 

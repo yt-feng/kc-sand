@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2648266/world
 Captured source: https://www.arabnews.com/node/2648266/world
 Published: 2026-06-23T14:44:35+03:00
-Modified: 2026-06-23T16:44:13+03:00
+Modified: 2026-06-23T23:00:10+03:00
 Author: Reuters
 
 ## Summary
@@ -16,10 +16,11 @@ WASHINGTON: US President Donald Trump insisted on Tuesday that Iran has agreed t
 
 ## Video Or Embed URLs
 
-- https://truthsocial.com/@realDonaldTrump/116799154100072125/embed
-- https://static.addtoany.com/menu/sm.25.html
-- about:blank
+- blob:https://www.arabnews.com/5407fc54-2a70-4cdc-b5ce-e3ebf230b49d
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://truthsocial.com/@realDonaldTrump/116799154100072125/embed
+- about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648266%2Fworld
 

@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-23T19:28:59.852Z",
+  "fetchedAt": "2026-06-23T21:17:34.397Z",
   "targetDate": {
-    "iso": "2026-06-23",
+    "iso": "2026-06-24",
     "timeZone": "Asia/Riyadh"
   },
   "sources": {
@@ -27,7 +27,7 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-23/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-06-24/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         }
       }
     },
@@ -49,7 +49,7 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-23/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-06-24/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         }
       }
     },
@@ -71,18 +71,18 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-23/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-06-24/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         }
       }
     }
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 136,
+    "itemCount": 147,
     "window": {
       "hours": 24,
-      "start": "2026-06-22T19:28:59.852Z",
-      "end": "2026-06-23T19:28:59.852Z",
+      "start": "2026-06-22T21:17:34.397Z",
+      "end": "2026-06-23T21:17:34.397Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,9 +197,9 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-23T19:34:27.603Z",
+    "capturedAt": "2026-06-23T21:23:14.902Z",
     "directory": "archive/latest",
-    "renderedClipsDirectory": "rendered-clips/2026-06-23",
+    "renderedClipsDirectory": "rendered-clips/2026-06-24",
     "itemCount": 7,
     "okCount": 7,
     "challengeCount": 0,
@@ -218,12 +218,12 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-23/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-06-24/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3b8947_97fcbd97f3e51e5aea19a14d9f49831c7b9ff1de/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3b8947_97fcbd97f3e51e5aea19a14d9f49831c7b9ff1de/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3ba1e3_3a1b6748935d8822d8a3637ba489e40c723425ab/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3ba1e3_3a1b6748935d8822d8a3637ba489e40c723425ab/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -232,7 +232,7 @@
           "bytes": 27493
         },
         "video": {
-          "path": "rendered-clips/2026-06-23/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
+          "path": "rendered-clips/2026-06-24/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
           "url": "https://content.jwplatform.com/videos/ngVuDIbE-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 14628051,
@@ -252,11 +252,11 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-23/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-06-24/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3b889f_672b76dc25ff3b5508f8734ce478287043f3f5ed/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3ba4bf_ccfd90ddc10c5772bce1f8875fa46f5cbc7368fc/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -265,7 +265,7 @@
           "bytes": 43576
         },
         "video": {
-          "path": "rendered-clips/2026-06-23/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
+          "path": "rendered-clips/2026-06-24/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
           "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 8233121,
@@ -285,11 +285,11 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-23/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-06-24/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3b8ae2_61848dfd55d744b09102c5d93412222b2ef1c842/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3ba37e_ba483bd2759402a8aa0bf5e2a2e9577a75ce73b2/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -298,7 +298,7 @@
           "bytes": 33206
         },
         "video": {
-          "path": "rendered-clips/2026-06-23/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
+          "path": "rendered-clips/2026-06-24/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
           "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 7265426,
@@ -344,7 +344,10 @@
           "image": "archive/latest/headlines/02-2648266-trump-insists-iran-has-agreed-to-nuclear-inspections/image.jpg",
           "video": null
         },
-        "videoUrls": [],
+        "videoUrls": [
+          "https://cdn.jwplayer.com/manifests/1usixdJ1.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3ba2a4_8dacdd61ba621ef49afee346ef87f0501811a806/sites/wPTWN2YS/media/1usixdJ1/versions/J31nqm7c/manifest.ism/manifest-audio_0_QGHFYE5x_W7mmaFkW=112020-video_0_QGHFYE5x_dclBcZpk=542701.m3u8"
+        ],
         "image": {
           "path": "archive/latest/headlines/02-2648266-trump-insists-iran-has-agreed-to-nuclear-inspections/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/23/4724524-1535138605.jpg?itok=oHdu6tXx",
@@ -394,7 +397,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/XnF17kB7.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3b8981_251369f4cafad108cd011b520a3a6fefc744dda4/sites/wPTWN2YS/media/XnF17kB7/versions/VvfjJEnP/manifest.ism/manifest-audio_0_BNAMSBH2_GqHj6QI9=112019-video_0_BNAMSBH2_I2s4oUvz=347273.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3ba21d_5a5b369ca58aab52b25a7cd3575bbf0bed1133e3/sites/wPTWN2YS/media/XnF17kB7/versions/VvfjJEnP/manifest.ism/manifest-audio_0_BNAMSBH2_GqHj6QI9=112019-video_0_BNAMSBH2_I2s4oUvz=347273.m3u8",
           "https://video.twimg.com/amplify_video/2069357541176328192/pl/cf0IPj9iVsG2PE1O.m3u8?v=cfc",
           "https://video.twimg.com/amplify_video/2069357541176328192/pl/avc1/480x270/HdaAMfcKv6WGRhP7.m3u8",
           "https://video.twimg.com/amplify_video/2069357541176328192/pl/mp4a/32000/hg25QW0Br-5Gtxhb.m3u8",

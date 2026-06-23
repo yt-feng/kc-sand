@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-22T23:52:22.803Z
+Fetched at: 2026-06-23T04:05:49.653Z
 Target date: 2026-06-23 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-23 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran president to visit Pakistan on Tuesday: state media](https://www.arabnews.com/node/2648136/middle-east) - archive: archive/latest/headlines/01-2648136-iran-president-to-visit-pakistan-on-tuesday-state-media/content.md
-2. [Lebanon backs deconfliction cell proposal, but ties support to Israeli withdrawal](https://www.arabnews.com/node/2648158/middle-east) - archive: archive/latest/headlines/02-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/content.md
-3. [Qatar gas plant blast kills 13, injures dozens, says energy minister](https://www.arabnews.com/node/2648155/middle-east) - archive: archive/latest/headlines/03-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/content.md
-4. [Iran leaves message of peace after World Cup draw in Los Angeles](https://www.arabnews.com/node/2648151/sport) - archive: archive/latest/headlines/04-2648151-iran-leaves-message-of-peace-after-world-cup-draw-in-los-angeles/content.md
+1. [Iran chief negotiator says Hormuz will be administered by Tehran: state media](https://www.arabnews.com/node/2648197/middle-east) - archive: archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/content.md
+2. [Israel the main obstacle to stability in Syria, envoy warns as Security Council reviews transition](https://www.arabnews.com/node/2648187/middle-east) - archive: archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/content.md
+3. [Lebanon backs deconfliction cell proposal, but ties support to Israeli withdrawal](https://www.arabnews.com/node/2648158/middle-east) - archive: archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/content.md
+4. [Qatar gas plant blast kills 13, injures dozens, says energy minister](https://www.arabnews.com/node/2648155/middle-east) - archive: archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/content.md

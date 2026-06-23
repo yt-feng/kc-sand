@@ -16,6 +16,7 @@ DOHA: A huge blast at a Qatar gas hub killed 13 people and injured 66 others, th
 
 ## Video Or Embed URLs
 
+- https://859fdcf87c45c48601acc6f8dee84812.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

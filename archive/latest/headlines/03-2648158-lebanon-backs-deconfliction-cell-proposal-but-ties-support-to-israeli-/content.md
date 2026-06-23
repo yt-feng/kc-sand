@@ -16,6 +16,7 @@ BEIRUT: Lebanon has welcomed a proposal to establish a deconfliction cell aimed 
 
 ## Video Or Embed URLs
 
+- https://50123f3cc0450c64608ad5ebdbeb542b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

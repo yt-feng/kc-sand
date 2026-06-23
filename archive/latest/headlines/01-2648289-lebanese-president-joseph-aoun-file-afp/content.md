@@ -16,7 +16,6 @@ BEIRUT: Lebanese President Joseph Aoun on Tuesday rejected Israel’s occupation
 
 ## Video Or Embed URLs
 
-- https://9f032f320e277ca9fbfcdb032ef222a7.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

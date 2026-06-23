@@ -16,7 +16,6 @@ NEW YORK CITY: The main obstacle to stability in Syria is Israel, the country’
 
 ## Video Or Embed URLs
 
-- https://76cc62fcaa77e2e8a9086a1cb66c4f75.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

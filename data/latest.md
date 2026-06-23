@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-23T04:05:49.653Z
+Fetched at: 2026-06-23T08:04:30.881Z
 Target date: 2026-06-23 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-23 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran chief negotiator says Hormuz will be administered by Tehran: state media](https://www.arabnews.com/node/2648197/middle-east) - archive: archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/content.md
-2. [Israel the main obstacle to stability in Syria, envoy warns as Security Council reviews transition](https://www.arabnews.com/node/2648187/middle-east) - archive: archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/content.md
-3. [Lebanon backs deconfliction cell proposal, but ties support to Israeli withdrawal](https://www.arabnews.com/node/2648158/middle-east) - archive: archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/content.md
-4. [Qatar gas plant blast kills 13, injures dozens, says energy minister](https://www.arabnews.com/node/2648155/middle-east) - archive: archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/content.md
+1. [Vance says US-Iran talks lay ‘good foundation’ for final peace deal](https://www.arabnews.com/node/2648153/middle-east) - archive: archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/content.md
+2. [Iran chief negotiator says Hormuz will be administered by Tehran: state media](https://www.arabnews.com/node/2648197/middle-east) - archive: archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/content.md
+3. [Israel the main obstacle to stability in Syria, envoy warns as Security Council reviews transition](https://www.arabnews.com/node/2648187/middle-east) - archive: archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/content.md
+4. [Arab teams at 2026 World Cup: Algeria wins over Jordan while Iraq concedes against France](https://www.arabnews.com/node/2648211/sport) - archive: archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/content.md

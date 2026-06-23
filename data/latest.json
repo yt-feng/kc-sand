@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-23T04:05:49.653Z",
+  "fetchedAt": "2026-06-23T08:04:30.881Z",
   "targetDate": {
     "iso": "2026-06-23",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,39 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 110,
+    "itemCount": 112,
     "window": {
       "hours": 24,
-      "start": "2026-06-22T04:05:49.653Z",
-      "end": "2026-06-23T04:05:49.653Z",
+      "start": "2026-06-22T08:04:30.881Z",
+      "end": "2026-06-23T08:04:30.881Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Vance says US-Iran talks lay ‘good foundation’ for final peace deal",
+        "url": "https://www.arabnews.com/node/2648153/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/22/4724241-716049706.jpg?itok=NMZ_zimj",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/metadata.json",
+            "content": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/content.md",
+            "text": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "Iran chief negotiator says Hormuz will be administered by Tehran: state media",
         "url": "https://www.arabnews.com/node/2648197/middle-east",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state",
+          "directory": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/metadata.json",
-            "content": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/content.md",
-            "text": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/metadata.json",
+            "content": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/content.md",
+            "text": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/image.jpg",
+            "image": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/image.jpg",
             "video": null
           }
         }
@@ -119,60 +141,38 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security",
+          "directory": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/metadata.json",
-            "content": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/content.md",
-            "text": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/metadata.json",
+            "content": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/content.md",
+            "text": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/image.jpg",
+            "image": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "Lebanon backs deconfliction cell proposal, but ties support to Israeli withdrawal",
-        "url": "https://www.arabnews.com/node/2648158/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/22/4724253-823684167.jpg?itok=EGGJcMgi",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 5,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/metadata.json",
-            "content": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/content.md",
-            "text": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Qatar gas plant blast kills 13, injures dozens, says energy minister",
-        "url": "https://www.arabnews.com/node/2648155/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/22/4724245-2044107666.jpg?itok=En-db_W_",
+        "title": "Arab teams at 2026 World Cup: Algeria wins over Jordan while Iraq concedes against France",
+        "url": "https://www.arabnews.com/node/2648211/sport",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/23/4724395-603873469.jpg?itok=WjgqOp9E",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 7,
         "archive": {
-          "directory": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister",
+          "directory": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/metadata.json",
-            "content": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/content.md",
-            "text": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/metadata.json",
+            "content": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/content.md",
+            "text": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/image.jpg",
+            "image": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-23T04:11:22.805Z",
+    "capturedAt": "2026-06-23T08:10:00.881Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-23",
     "itemCount": 7,
@@ -222,8 +222,8 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3ab2d3_d1a8966c030e04e173c8038f683f7b0a3588a6d0/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3ab2d3_d1a8966c030e04e173c8038f683f7b0a3588a6d0/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3ae78f_45d762e93162496c025f6a73652c9f4aeae72bed/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3ae78f_45d762e93162496c025f6a73652c9f4aeae72bed/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -256,7 +256,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3ab22b_d8f90975f39b4455ecc48e3994c4736db49421d5/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3aea6b_c59a8943dec50364027f94ad7c458ad6facd3d7d/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -289,7 +289,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3ab0ea_e358d1405ca4b08368374f61c20f86e1bbcbc004/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3ae92a_80ab3e5eaa6115bd53f99db1d873edf6d0e52b59/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -308,21 +308,48 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Iran chief negotiator says Hormuz will be administered by Tehran: state media",
-        "url": "https://www.arabnews.com/node/2648197/middle-east",
-        "directory": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state",
+        "title": "Vance says US-Iran talks lay ‘good foundation’ for final peace deal",
+        "url": "https://www.arabnews.com/node/2648153/middle-east",
+        "directory": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/metadata.json",
-          "content": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/content.md",
-          "text": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/metadata.json",
+          "content": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/content.md",
+          "text": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/image.jpg",
+          "image": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://cdn.jwplayer.com/manifests/PEGxq9Kj.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3aeb0a_db089cb47cdb6159b906af0ae89cdbd5f2e4df16/sites/wPTWN2YS/media/PEGxq9Kj/versions/xVaIL3Ua/manifest.ism/manifest-audio_0_VP5uycAi_Pe06IQSp=112116-video_0_VP5uycAi_8EjLrk7r=334210.m3u8"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/01-2648153-vance-says-us-iran-talks-lay-good-foundation-for-final-peace-deal/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/22/4724241-716049706.jpg?itok=-jD7NoYY",
+          "contentType": "image/jpeg",
+          "bytes": 32394
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "Iran chief negotiator says Hormuz will be administered by Tehran: state media",
+        "url": "https://www.arabnews.com/node/2648197/middle-east",
+        "directory": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/metadata.json",
+          "content": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/content.md",
+          "text": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/01-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/image.jpg",
+          "path": "archive/latest/headlines/02-2648197-iran-chief-negotiator-says-hormuz-will-be-administered-by-tehran-state/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/23/4724366-1301984506.jpg?itok=36VsnQDb",
           "contentType": "image/jpeg",
           "bytes": 23802
@@ -331,22 +358,22 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "Israel the main obstacle to stability in Syria, envoy warns as Security Council reviews transition",
         "url": "https://www.arabnews.com/node/2648187/middle-east",
-        "directory": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security",
+        "directory": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/metadata.json",
-          "content": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/content.md",
-          "text": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/metadata.json",
+          "content": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/content.md",
+          "text": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/image.jpg",
+          "image": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/02-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/image.jpg",
+          "path": "archive/latest/headlines/03-2648187-israel-the-main-obstacle-to-stability-in-syria-envoy-warns-as-security/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/22/4724327-2078680217.jpg?itok=OAiehPBW",
           "contentType": "image/jpeg",
           "bytes": 30434
@@ -355,49 +382,25 @@
       },
       {
         "group": "headlines",
-        "index": 2,
-        "title": "Lebanon backs deconfliction cell proposal, but ties support to Israeli withdrawal",
-        "url": "https://www.arabnews.com/node/2648158/middle-east",
-        "directory": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/metadata.json",
-          "content": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/content.md",
-          "text": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/image.jpg",
-          "video": null
-        },
-        "videoUrls": [],
-        "image": {
-          "path": "archive/latest/headlines/03-2648158-lebanon-backs-deconfliction-cell-proposal-but-ties-support-to-israeli-/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/22/4724253-823684167.jpg?itok=x07EJyNL",
-          "contentType": "image/jpeg",
-          "bytes": 33087
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
         "index": 3,
-        "title": "Qatar gas plant blast kills 13, injures dozens, says energy minister",
-        "url": "https://www.arabnews.com/node/2648155/middle-east",
-        "directory": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister",
+        "title": "Arab teams at 2026 World Cup: Algeria wins over Jordan while Iraq concedes against France",
+        "url": "https://www.arabnews.com/node/2648211/sport",
+        "directory": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/metadata.json",
-          "content": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/content.md",
-          "text": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/metadata.json",
+          "content": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/content.md",
+          "text": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/image.jpg",
+          "image": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/image.jpg",
           "video": null
         },
         "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/04-2648155-qatar-gas-plant-blast-kills-13-injures-dozens-says-energy-minister/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/22/4724245-2044107666.jpg?itok=0lWorxSE",
+          "path": "archive/latest/headlines/04-2648211-arab-teams-at-2026-world-cup-algeria-wins-over-jordan-while-iraq-conce/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/23/4724395-603873469.jpg?itok=UtEleejK",
           "contentType": "image/jpeg",
-          "bytes": 14209
+          "bytes": 40625
         },
         "video": null
       }

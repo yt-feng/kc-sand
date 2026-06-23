@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-23T11:40:27.485Z
+Fetched at: 2026-06-23T15:15:36.317Z
 Target date: 2026-06-23 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-23 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Israeli gunfire kills two people in south Lebanon, civil defense says](https://www.arabnews.com/node/2648245/middle-east) - archive: archive/latest/headlines/01-2648245-israeli-gunfire-kills-two-people-in-south-lebanon-civil-defense-says/content.md
-2. [Iran’s president lands in Pakistan as US-Iran teams work to finalize a war-ending deal](https://www.arabnews.com/node/2648232/middle-east) - archive: archive/latest/headlines/02-2648232-iran-s-president-lands-in-pakistan-as-us-iran-teams-work-to-finalize-a/content.md
-3. [US authorizes Iranian oil sales amid talks on final peace deal](https://www.arabnews.com/node/2648206/middle-east) - archive: archive/latest/headlines/03-2648206-us-authorizes-iranian-oil-sales-amid-talks-on-final-peace-deal/content.md
-4. [Iran links nuclear talks to MoU, asserts control over Hormuz](https://www.arabnews.com/node/2648197/middle-east) - archive: archive/latest/headlines/04-2648197-iran-links-nuclear-talks-to-mou-asserts-control-over-hormuz/content.md
+1. [Trump insists Iran has agreed to nuclear inspections](https://www.arabnews.com/node/2648266/world) - archive: archive/latest/headlines/01-2648266-trump-insists-iran-has-agreed-to-nuclear-inspections/content.md
+2. [Iran’s president, FM in Pakistan as US-Iran teams work to finalize a war-ending deal](https://www.arabnews.com/node/2648232/middle-east) - archive: archive/latest/headlines/02-2648232-iran-s-president-fm-in-pakistan-as-us-iran-teams-work-to-finalize-a-wa/content.md
+3. [Oman and Iran to pursue talks on managing Strait of Hormuz navigation](https://www.arabnews.com/node/2648296/middle-east) - archive: archive/latest/headlines/03-2648296-oman-and-iran-to-pursue-talks-on-managing-strait-of-hormuz-navigation/content.md
+4. [Netanyahu vows to break free from dependency, pledges to manufacture own arms](https://www.arabnews.com/node/2648249/middle-east) - archive: archive/latest/headlines/04-2648249-netanyahu-vows-to-break-free-from-dependency-pledges-to-manufacture-ow/content.md

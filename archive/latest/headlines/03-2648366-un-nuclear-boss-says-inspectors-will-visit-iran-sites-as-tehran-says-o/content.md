@@ -16,7 +16,7 @@ TOKYO: The head of the UN’s nuclear agency signaled Wednesday that Iranian nuc
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/8cd9200f-7237-46c7-97ec-9d3432d0761f
+- blob:https://www.arabnews.com/b2f26b31-4b71-4403-afe6-1b5ae4e83bdb
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html

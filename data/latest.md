@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-24T11:24:33.290Z
+Fetched at: 2026-06-24T13:38:53.007Z
 Target date: 2026-06-24 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-24 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Oman opens temporary Strait of Hormuz shipping routes, says no tolls will be charged](https://www.arabnews.com/node/2648390/middle-east) - archive: archive/latest/headlines/01-2648390-oman-opens-temporary-strait-of-hormuz-shipping-routes-says-no-tolls-wi/content.md
-2. [Qatar says US-Iran hotline crucial for Hormuz reopening](https://www.arabnews.com/node/2648396/middle-east) - archive: archive/latest/headlines/02-2648396-qatar-says-us-iran-hotline-crucial-for-hormuz-reopening/content.md
-3. [UN nuclear agency boss signals that inspectors will visit Iran’s nuclear sites](https://www.arabnews.com/node/2648366/middle-east) - archive: archive/latest/headlines/03-2648366-un-nuclear-agency-boss-signals-that-inspectors-will-visit-iran-s-nucle/content.md
+1. [Rubio commits to UAE security, discusses Iran-US deal with Emirati leader](https://www.arabnews.com/node/2648315/middle-east) - archive: archive/latest/headlines/01-2648315-rubio-commits-to-uae-security-discusses-iran-us-deal-with-emirati-lead/content.md
+2. [Iran-Gulf-Iraq talks to focus on future Hormuz operations](https://www.arabnews.com/node/2648427/middle-east) - archive: archive/latest/headlines/02-2648427-iran-gulf-iraq-talks-to-focus-on-future-hormuz-operations/content.md
+3. [UN nuclear boss says inspectors will visit Iran sites, as Tehran says only after a final deal](https://www.arabnews.com/node/2648366/middle-east) - archive: archive/latest/headlines/03-2648366-un-nuclear-boss-says-inspectors-will-visit-iran-sites-as-tehran-says-o/content.md
 4. [Israel, Lebanon discuss US-backed proposal for transfer of some southern territory to Lebanese army](https://www.arabnews.com/node/2648375/middle-east) - archive: archive/latest/headlines/04-2648375-israel-lebanon-discuss-us-backed-proposal-for-transfer-of-some-souther/content.md

@@ -16,6 +16,7 @@ President Donald Trump on Wednesday said that Iran has informed the US that Tehr
 
 ## Video Or Embed URLs
 
+- https://0ef6aabd4c01b2b8d5f55033ce7fd8a9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

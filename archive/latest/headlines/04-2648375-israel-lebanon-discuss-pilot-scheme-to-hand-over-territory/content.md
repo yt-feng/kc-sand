@@ -16,6 +16,7 @@ JERUSALEM/BEIRUT: Lebanon and Israel are discussing a US-backed proposal for Isr
 
 ## Video Or Embed URLs
 
+- https://0cd005f8dd542a8b6c9d89d7b749dd5a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

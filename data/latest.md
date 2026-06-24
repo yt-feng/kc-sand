@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-24T13:38:53.007Z
+Fetched at: 2026-06-24T16:26:08.811Z
 Target date: 2026-06-24 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-24 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Rubio commits to UAE security, discusses Iran-US deal with Emirati leader](https://www.arabnews.com/node/2648315/middle-east) - archive: archive/latest/headlines/01-2648315-rubio-commits-to-uae-security-discusses-iran-us-deal-with-emirati-lead/content.md
+1. [Rubio arrives in Kuwait, reopens US embassy after Iranian attack](https://www.arabnews.com/node/2648443/middle-east) - archive: archive/latest/headlines/01-2648443-rubio-arrives-in-kuwait-reopens-us-embassy-after-iranian-attack/content.md
 2. [Iran-Gulf-Iraq talks to focus on future Hormuz operations](https://www.arabnews.com/node/2648427/middle-east) - archive: archive/latest/headlines/02-2648427-iran-gulf-iraq-talks-to-focus-on-future-hormuz-operations/content.md
 3. [UN nuclear boss says inspectors will visit Iran sites, as Tehran says only after a final deal](https://www.arabnews.com/node/2648366/middle-east) - archive: archive/latest/headlines/03-2648366-un-nuclear-boss-says-inspectors-will-visit-iran-sites-as-tehran-says-o/content.md
 4. [Israel, Lebanon discuss US-backed proposal for transfer of some southern territory to Lebanese army](https://www.arabnews.com/node/2648375/middle-east) - archive: archive/latest/headlines/04-2648375-israel-lebanon-discuss-us-backed-proposal-for-transfer-of-some-souther/content.md

@@ -16,13 +16,19 @@ BEIRUT: Israel and Lebanon agreed to a 10-day ceasefire on Thursday, Donald Trum
 
 ## Video Or Embed URLs
 
+- https://ae6a5ba2ac92d6132c7b54414e987e69.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/3b9544b8-a79b-4111-9326-c721f16b40fa
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://truthsocial.com/@realDonaldTrump/116415122630904602/embed
-- https://content.jwplatform.com/videos/tfVCFaJG-z057noEQ.mp4
-- https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8
+- https://platform.twitter.com/embed/Tweet.html?creatorScreenName=Arab_News&creatorUserId=69172612&dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=2044852243204042838&lang=en&origin=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2640092%2Fmiddle-east&sessionId=320b5daccac0c8ded2945a1f83ae861b39ab00e4&siteScreenName=Arab_News&siteUserId=69172612&theme=light&widgetsVersion=6a3ad42b224df%3A1778106238597&width=600px
+- https://static.addtoany.com/menu/sm.25.html
+- https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.arabnews.com
+- about:blank
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2640092%2Fmiddle-east
 
 ## Downloaded Video
 
-- [02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4](../../../rendered-clips/2026-06-24/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4)
+- [02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4](../../../rendered-clips/2026-06-25/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4)
 
 ## Text
 

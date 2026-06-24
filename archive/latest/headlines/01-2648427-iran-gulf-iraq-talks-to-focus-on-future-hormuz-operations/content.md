@@ -16,12 +16,12 @@ LONDON/DUBAI: Qatari ‌Prime Minister Sheikh Mohammed bin Abdulrahman Al-Thani 
 
 ## Video Or Embed URLs
 
-- https://aed3de933b66c44c3891cd560cf5ddc6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://9f7a747d4c3d96ac5445b5e93632e0d7.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
-- https://www.google.com/recaptcha/api2/aframe
+- about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://cm.g.doubleclick.net/partnerpixels?url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648427%2Fmiddle-east
+- https://www.google.com/recaptcha/api2/aframe
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648427%2Fmiddle-east
 
 ## Text
 

@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-24T04:55:24.235Z
+Fetched at: 2026-06-24T08:27:11.689Z
 Target date: 2026-06-24 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-24 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Senate for first time approves a war powers resolution in a rebuke to Trump over Iran conflict](https://www.arabnews.com/node/2648328/world) - archive: archive/latest/headlines/01-2648328-senate-for-first-time-approves-a-war-powers-resolution-in-a-rebuke-to-/content.md
-2. [Moroccan contingent arrives in Israel to join international Gaza force](https://www.arabnews.com/node/2648344/middle-east) - archive: archive/latest/headlines/02-2648344-moroccan-contingent-arrives-in-israel-to-join-international-gaza-force/content.md
-3. [Over 13m acutely food insecure in Syria: UN](https://www.arabnews.com/node/2648337/middle-east) - archive: archive/latest/headlines/03-2648337-over-13m-acutely-food-insecure-in-syria-un/content.md
+1. [Oman opens temporary Strait of Hormuz shipping routes, says no tolls will be charged](https://www.arabnews.com/node/2648390/middle-east) - archive: archive/latest/headlines/01-2648390-oman-opens-temporary-strait-of-hormuz-shipping-routes-says-no-tolls-wi/content.md
+2. [UN nuclear agency boss signals that inspectors will visit Iran’s nuclear sites](https://www.arabnews.com/node/2648366/middle-east) - archive: archive/latest/headlines/02-2648366-un-nuclear-agency-boss-signals-that-inspectors-will-visit-iran-s-nucle/content.md
+3. [Israel, Lebanon discuss US-backed proposal for transfer of some southern territory to Lebanese army](https://www.arabnews.com/node/2648375/middle-east) - archive: archive/latest/headlines/03-2648375-israel-lebanon-discuss-us-backed-proposal-for-transfer-of-some-souther/content.md
 4. [UN finds Rapid Support Forces and its allies committed almost 90% of rape and sexual violence in Sudan](https://www.arabnews.com/node/2648346/middle-east) - archive: archive/latest/headlines/04-2648346-un-finds-rapid-support-forces-and-its-allies-committed-almost-90-of-ra/content.md

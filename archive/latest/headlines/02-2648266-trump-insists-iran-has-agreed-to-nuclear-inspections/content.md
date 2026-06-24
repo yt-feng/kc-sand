@@ -16,11 +16,11 @@ WASHINGTON: US President Donald Trump insisted on Tuesday that Iran has agreed t
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/3685a43a-7673-463a-8884-9a56f7223c92
+- blob:https://www.arabnews.com/d1599094-befb-48d1-9951-60e59403f6ce
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://truthsocial.com/@realDonaldTrump/116799154100072125/embed
-- https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648266%2Fworld
 

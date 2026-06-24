@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-23T22:48:33.880Z",
+  "fetchedAt": "2026-06-24T00:04:11.213Z",
   "targetDate": {
     "iso": "2026-06-24",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 148,
+    "itemCount": 151,
     "window": {
       "hours": 24,
-      "start": "2026-06-22T22:48:33.880Z",
-      "end": "2026-06-23T22:48:33.880Z",
+      "start": "2026-06-23T00:04:11.213Z",
+      "end": "2026-06-24T00:04:11.213Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-23T22:54:20.404Z",
+    "capturedAt": "2026-06-24T00:10:11.408Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-24",
     "itemCount": 7,
@@ -222,8 +222,8 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3bb6fb_8d6849a1f507e3fc9f0d59e60f6381028f56eb41/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3bb6fb_8d6849a1f507e3fc9f0d59e60f6381028f56eb41/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3bcc13_01a7ead9a13f38d7c42898ff6eddbef9551d9ca5/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3bcc13_01a7ead9a13f38d7c42898ff6eddbef9551d9ca5/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -255,6 +255,7 @@
           "video": "rendered-clips/2026-06-24/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
+          "https://content.jwplatform.com/videos/tfVCFaJG-z057noEQ.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8"
         ],
         "image": {
@@ -288,7 +289,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3bb896_0885a792c5f8eb113483160c9b758c90b8747c98/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3bca2a_226a65fc110050ee2c5144859ee3371b28c1d101/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -345,7 +346,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/1usixdJ1.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3bb7bc_61c19ea41b0cff9bd3460dd5d72aae6193069991/sites/wPTWN2YS/media/1usixdJ1/versions/J31nqm7c/manifest.ism/manifest-audio_0_QGHFYE5x_W7mmaFkW=112020-video_0_QGHFYE5x_dclBcZpk=542701.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3bc950_30a3d45896e8a2fa02476bbc2554a074024f2952/sites/wPTWN2YS/media/1usixdJ1/versions/J31nqm7c/manifest.ism/manifest-audio_0_QGHFYE5x_W7mmaFkW=112020-video_0_QGHFYE5x_dclBcZpk=542701.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2648266-trump-insists-iran-has-agreed-to-nuclear-inspections/image.jpg",
@@ -396,7 +397,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/XnF17kB7.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3bbab9_9e8d81de5fddbf847a6b115eb61955831eecc463/sites/wPTWN2YS/media/XnF17kB7/versions/VvfjJEnP/manifest.ism/manifest-audio_0_BNAMSBH2_GqHj6QI9=112019-video_0_BNAMSBH2_I2s4oUvz=347273.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3bcc4d_1c301ba8d4420b74a0b6b5dd5da4f53da522e245/sites/wPTWN2YS/media/XnF17kB7/versions/VvfjJEnP/manifest.ism/manifest-audio_0_BNAMSBH2_GqHj6QI9=112019-video_0_BNAMSBH2_I2s4oUvz=347273.m3u8",
           "https://video.twimg.com/amplify_video/2069357541176328192/pl/cf0IPj9iVsG2PE1O.m3u8?v=cfc",
           "https://video.twimg.com/amplify_video/2069357541176328192/pl/avc1/480x270/HdaAMfcKv6WGRhP7.m3u8",
           "https://video.twimg.com/amplify_video/2069357541176328192/pl/mp4a/32000/hg25QW0Br-5Gtxhb.m3u8",

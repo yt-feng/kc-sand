@@ -1,0 +1,36 @@
+# Senate for first time approves a war powers resolution in a rebuke to Trump over Iran conflict
+
+Source: https://www.arabnews.com/node/2648328/world
+Captured source: https://www.arabnews.com/node/2648328/world
+Published: 2026-06-23T23:08:30+03:00
+Modified: 2026-06-23T23:13:53+03:00
+Author: AP
+
+## Summary
+
+WASHINGTON: The Senate for the first time approved a war powers resolution Tuesday seeking to block US military action against Iran, as lawmakers warily watch President Donald Trump’s efforts to resolve a conflict that the administration launched on its own and now needs Congress to fund. It was the 10th time the Senate has tried to stop the war, and the outcome, on a vote of
+
+## Image
+
+![main image](./image.jpg)
+
+## Video Or Embed URLs
+
+- https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://sync.teads.tv/wigo-no-slot
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648328%2Fworld
+
+## Text
+
+https://arab.news/vc7qx
+
+The vote comes as the Pentagon is seeking $80 billion from Congress mostly for the Iran war as it backfills munitions and stockpiles
+
+The president is not pleased with the Republicans who have been critical of the deal he struck with Iran, according to one GOP senator granted anonymity to discuss the private dynamics
+
+WASHINGTON: The Senate for the first time approved a war powers resolution Tuesday seeking to block US military action against Iran, as lawmakers warily watch President Donald Trump’s efforts to resolve a conflict that the administration launched on its own and now needs Congress to fund. It was the 10th time the Senate has tried to stop the war, and the outcome, on a vote of 50-48, was a stunning turnaround from past efforts. While the resolution is largely symbolic, and does not fully carry the force of law, it reflects the growing concerns from a number of Republican lawmakers in both the House and Senate over both the war and the deal Trump struck with Iran to end it. The House approved the resolution earlier this month. “Time after time, the vast majority of Senate Republicans sided with Trump and his war instead of the American people,” said Senate Democratic Leader Chuck Schumer. Schumer said Americans have paid the price for “Trump’s historic blunder in Iran. It’ll go down in the history books as one of the worst foreign policy forays America has ever made.” In the past, as many as four GOP senators have voted for the war powers resolutions, and they did so Tuesday — Republicans Lisa Murkowski of Alaska, Susan Collins of Maine, Rand Paul of Kentucky and Bill Cassidy of Louisiana. One Democrat, Sen. John Fetterman of Pennsylvania, voted against. On this vote, the absence of two Republicans, including Sen. Mitch McConnell of Kentucky, who was admitted to the hospital recently for an undisclosed matter, left the GOP without a full majority to halt the effort. Sen. Dave McCormick, R-Pennsylvania, also missed the vote. The vote also comes as the Pentagon is seeking $80 billion from Congress mostly for the Iran war as it backfills munitions and stockpiles. Trump to meet senators as Republicans balk at Iran deal Trump himself is headed to the Capitol this week to meet with GOP senators as Vice President JD Vance has been overseas working to negotiate with Iran to end its nuclear ambitions — which had been among the stated rationales for the war. The president is not pleased with the Republicans who have been critical of the deal he struck with Iran, according to one GOP senator granted anonymity to discuss the private dynamics. The terms of the Iran deal are spelled out in a Memorandum of Understanding that Trump signed last week, starting a 60-day clock for the sides to reach a broader agreement over ending Iran’s nuclear program. But Republicans have particularly objected to the $300 billion fund to help Iran rebuild, which is far greater than the $1.7 billion then-President Barack Obama refunded the country under his administration’s 2015 Iran deal. “I believe President Trump is getting very poor advice on Iran,” Sen. Ted Cruz, R-Texas, said last week on his podcast after the deal was made public. Democrats have repeatedly forced Iran votes Over and again, Democrats have been forcing votes on the Iran war, almost since the US and Israel launched missile strikes on Iran on Feb. 28. Nearly each week they’re in session, the Senate Democrats have put forward war powers resolutions, but they have failed to amass the majority needed for passage in the narrowly split chamber, where Trump’s Republican Party holds the majority. The House pushed its own version to passage earlier this month, with four Republicans joining all Democrats in approving the war powers resolution, over the objections of House Speaker Mike Johnson and the GOP leadership. While such resolutions do not go to the president for his signature, passage stands as a powerful, if symbolic, statement from Congress and a rebuke of the administration’s military actions. Sen. Tim Kaine, the Democrat from Virginia who has led his party’s efforts, said the pause in warfighting, as Trump’s team works to shore up a fragile ceasefire, provides the perfect time for Congress to step back and assess “what should the next chapter be.” Hegseth seeks $80 billion from Congress for the Iran war
+
+Defense Secretary Pete Hegseth is also on Capitol Hill this week, seeking roughly $80 billion in supplemental funding to shore up defense supplies in the aftermath of the Iran war, which is drawing scrutiny when many Americans are reeling from high gas prices and costs of living. The Pentagon early on had estimated the war cost $11.3 billion during its first week, and experts have put the overall price tag at close to $100 billion. The Defense Department’s funding request is part of a broader beef-up of military money the White House wants as part of its budget request this year. The Trump administration is seeking $1.5 trillion in defense funding this year — a 50 percent increase — including $350 billion that it wants in a so-called budget reconciliation package. Johnson and GOP leaders are working to pass that package on their own, over the objections of Democrats, much the way they approved Trump’s big tax cuts bill last year. The 2025 tax cuts package also included a sizable increase of about $175 billion for the military.

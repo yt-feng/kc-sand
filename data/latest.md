@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-24T00:04:11.213Z
+Fetched at: 2026-06-24T04:55:24.235Z
 Target date: 2026-06-24 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-24 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Lebanese President Joseph Aoun. (File/AFP)](https://www.arabnews.com/node/2648289/middle-east) - archive: archive/latest/headlines/01-2648289-lebanese-president-joseph-aoun-file-afp/content.md
-2. [Trump insists Iran has agreed to nuclear inspections](https://www.arabnews.com/node/2648266/world) - archive: archive/latest/headlines/02-2648266-trump-insists-iran-has-agreed-to-nuclear-inspections/content.md
-3. [Oman and Iran to pursue talks on managing Strait of Hormuz navigation](https://www.arabnews.com/node/2648296/middle-east) - archive: archive/latest/headlines/03-2648296-oman-and-iran-to-pursue-talks-on-managing-strait-of-hormuz-navigation/content.md
-4. [Netanyahu vows to break free from dependency, pledges to manufacture own arms](https://www.arabnews.com/node/2648249/middle-east) - archive: archive/latest/headlines/04-2648249-netanyahu-vows-to-break-free-from-dependency-pledges-to-manufacture-ow/content.md
+1. [Senate for first time approves a war powers resolution in a rebuke to Trump over Iran conflict](https://www.arabnews.com/node/2648328/world) - archive: archive/latest/headlines/01-2648328-senate-for-first-time-approves-a-war-powers-resolution-in-a-rebuke-to-/content.md
+2. [Moroccan contingent arrives in Israel to join international Gaza force](https://www.arabnews.com/node/2648344/middle-east) - archive: archive/latest/headlines/02-2648344-moroccan-contingent-arrives-in-israel-to-join-international-gaza-force/content.md
+3. [Over 13m acutely food insecure in Syria: UN](https://www.arabnews.com/node/2648337/middle-east) - archive: archive/latest/headlines/03-2648337-over-13m-acutely-food-insecure-in-syria-un/content.md
+4. [UN finds Rapid Support Forces and its allies committed almost 90% of rape and sexual violence in Sudan](https://www.arabnews.com/node/2648346/middle-east) - archive: archive/latest/headlines/04-2648346-un-finds-rapid-support-forces-and-its-allies-committed-almost-90-of-ra/content.md

@@ -16,11 +16,11 @@ NEW YORK: “When I’m talking about them, I’m counting those numbers, reciti
 
 ## Video Or Embed URLs
 
-- https://ed95359189e0e8e30c96dee861fe83b0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://24c0275dc1aa675f780a2c1e2b9cbfbd.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648489%2Fworld
 
 ## Text

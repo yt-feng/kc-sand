@@ -16,7 +16,7 @@ NEW YORK: Saudi Arabia’s permanent representative to the UN, Abdulaziz Alwasil
 
 ## Video Or Embed URLs
 
-- https://63bcdd73aaae27d3100037b754d552b4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://4f849c4e8e6991c709c856a714991401.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

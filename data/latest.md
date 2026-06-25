@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-25T15:26:40.910Z
+Fetched at: 2026-06-25T17:39:36.545Z
 Target date: 2026-06-25 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-25 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran slams NATO chief’s comments on US support in war](https://www.arabnews.com/node/2648506/middle-east) - archive: archive/latest/headlines/01-2648506-iran-slams-nato-chief-s-comments-on-us-support-in-war/content.md
-2. [Israel, Lebanon deny reports of Israeli troop withdrawal from southern Lebanon](https://www.arabnews.com/node/2648532/middle-east) - archive: archive/latest/headlines/02-2648532-israel-lebanon-deny-reports-of-israeli-troop-withdrawal-from-southern-/content.md
-3. [Saudi UN envoy slams ‘flagrant violation of international humanitarian law’ in Gaza](https://www.arabnews.com/node/2648490/middle-east) - archive: archive/latest/headlines/03-2648490-saudi-un-envoy-slams-flagrant-violation-of-international-humanitarian-/content.md
-4. [UN child rights chief slams ‘increased impunity toward international law’ in interview with Arab News](https://www.arabnews.com/node/2648489/world) - archive: archive/latest/headlines/04-2648489-un-child-rights-chief-slams-increased-impunity-toward-international-la/content.md
+1. [Rubio warns Hormuz tolls would ‘spread like contagion’ to other waterways](https://www.arabnews.com/node/2648526/middle-east) - archive: archive/latest/headlines/01-2648526-rubio-warns-hormuz-tolls-would-spread-like-contagion-to-other-waterway/content.md
+2. [Oman confirms Strait of Hormuz will remain toll-free](https://www.arabnews.com/node/2648575/middle-east) - archive: archive/latest/headlines/02-2648575-oman-confirms-strait-of-hormuz-will-remain-toll-free/content.md
+3. [Israel, Lebanon deny reports of Israeli troop withdrawal from southern Lebanon](https://www.arabnews.com/node/2648532/middle-east) - archive: archive/latest/headlines/03-2648532-israel-lebanon-deny-reports-of-israeli-troop-withdrawal-from-southern-/content.md
+4. [Saudi UN envoy slams ‘flagrant violation of international humanitarian law’ in Gaza](https://www.arabnews.com/node/2648490/middle-east) - archive: archive/latest/headlines/04-2648490-saudi-un-envoy-slams-flagrant-violation-of-international-humanitarian-/content.md

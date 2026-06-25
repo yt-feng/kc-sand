@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-25T06:14:47.006Z
+Fetched at: 2026-06-25T09:54:12.506Z
 Target date: 2026-06-25 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-25 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Just 1 in 4 Americans believes Iran war was worth its costs, poll finds](https://www.arabnews.com/node/2648477/world) - archive: archive/latest/headlines/01-2648477-just-1-in-4-americans-believes-iran-war-was-worth-its-costs-poll-finds/content.md
-2. [UN child rights chief slams ‘increased impunity toward international law’ in interview with Arab News](https://www.arabnews.com/node/2648489/world) - archive: archive/latest/headlines/02-2648489-un-child-rights-chief-slams-increased-impunity-toward-international-la/content.md
+1. [Iran slams NATO chief’s comments on US support in war](https://www.arabnews.com/node/2648506/middle-east) - archive: archive/latest/headlines/01-2648506-iran-slams-nato-chief-s-comments-on-us-support-in-war/content.md
+2. [Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon](https://www.arabnews.com/node/2648532/middle-east) - archive: archive/latest/headlines/02-2648532-israel-lebanon-deny-that-israel-has-withdrawn-from-part-of-southern-le/content.md
 3. [Saudi UN envoy slams ‘flagrant violation of international humanitarian law’ in Gaza](https://www.arabnews.com/node/2648490/middle-east) - archive: archive/latest/headlines/03-2648490-saudi-un-envoy-slams-flagrant-violation-of-international-humanitarian-/content.md
-4. [Arab teams at 2026 World Cup: Morocco advances as Qatar bows out](https://www.arabnews.com/node/2648501/sport) - archive: archive/latest/headlines/04-2648501-arab-teams-at-2026-world-cup-morocco-advances-as-qatar-bows-out/content.md
+4. [UN child rights chief slams ‘increased impunity toward international law’ in interview with Arab News](https://www.arabnews.com/node/2648489/world) - archive: archive/latest/headlines/04-2648489-un-child-rights-chief-slams-increased-impunity-toward-international-la/content.md

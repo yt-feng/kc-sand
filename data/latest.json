@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-25T20:11:09.098Z",
+  "fetchedAt": "2026-06-25T22:05:43.122Z",
   "targetDate": {
-    "iso": "2026-06-25",
+    "iso": "2026-06-26",
     "timeZone": "Asia/Riyadh"
   },
   "sources": {
@@ -27,7 +27,7 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-25/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         }
       }
     },
@@ -49,7 +49,7 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-25/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         }
       }
     },
@@ -71,18 +71,18 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-25/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         }
       }
     }
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 118,
+    "itemCount": 120,
     "window": {
       "hours": 24,
-      "start": "2026-06-24T20:11:09.098Z",
-      "end": "2026-06-25T20:11:09.098Z",
+      "start": "2026-06-24T22:05:43.122Z",
+      "end": "2026-06-25T22:05:43.122Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,9 +197,9 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-25T20:16:44.126Z",
+    "capturedAt": "2026-06-25T22:11:18.249Z",
     "directory": "archive/latest",
-    "renderedClipsDirectory": "rendered-clips/2026-06-25",
+    "renderedClipsDirectory": "rendered-clips/2026-06-26",
     "itemCount": 7,
     "okCount": 7,
     "challengeCount": 0,
@@ -218,12 +218,11 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-25/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3e36d3_12294f7b659ba31e7e1e323f9a475a16a17257f8/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3e36d3_12294f7b659ba31e7e1e323f9a475a16a17257f8/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3e52f3_a19493b6082fb8fde4d75c604f5bb53a87639709/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -232,7 +231,7 @@
           "bytes": 27493
         },
         "video": {
-          "path": "rendered-clips/2026-06-25/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
+          "path": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
           "url": "https://content.jwplatform.com/videos/ngVuDIbE-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 14628051,
@@ -252,11 +251,11 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-25/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3e362b_a9b6557f063c11978c07f06f37879cf0be723571/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3e524b_e0ca5658a5d3ae55e9d7851a2dcf2000a4fbe6c4/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -265,7 +264,7 @@
           "bytes": 43576
         },
         "video": {
-          "path": "rendered-clips/2026-06-25/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
+          "path": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
           "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 8233121,
@@ -285,11 +284,11 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-25/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3e386e_50ca79138e3a8a62d50d2f6869cff0be9ed3acd3/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3e510a_1ba7938c3532739f673882b306714c512c593f24/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -298,7 +297,7 @@
           "bytes": 33206
         },
         "video": {
-          "path": "rendered-clips/2026-06-25/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
+          "path": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
           "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 7265426,
@@ -345,8 +344,10 @@
           "video": null
         },
         "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782447021/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4C028B6446ADD405123A8469F825ECEC144C8453.3B504CBB5514C8DCFE96340C44E3B632B9E9162E/key/ck2/file/file.mp4",
+          "https://r4---sn-vgqsrnde.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782447021/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1519CB871DE0E59B8E78FCF35BC41916C8B91BB0.4285353BCD8152CBAA593A353A3F84396583EB44/key/cms1/cms_redirect/yes/met/1782425428,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsrnde/ms/nvh/mt/1782424507/mv/u/mvi/4/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/wMZN1iDc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3e353a_ee6a8ff7e58d89aa0558c54e33aa9b66803f6f6a/sites/wPTWN2YS/media/wMZN1iDc/versions/lJ1DpQtN/manifest.ism/manifest-audio_0_dCj0C7EP_Pl3TEzeT=112103-video_0_dCj0C7EP_S4Xy8ZDF=253074.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3e515a_d48bf337679aa26fca721600a167a3d6a66cdfe8/sites/wPTWN2YS/media/wMZN1iDc/versions/lJ1DpQtN/manifest.ism/manifest-audio_0_dCj0C7EP_Pl3TEzeT=112103-video_0_dCj0C7EP_S4Xy8ZDF=253074.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2648526-rubio-warns-hormuz-tolls-would-spread-like-contagion-to-other-waterway/image.jpg",
@@ -371,7 +372,10 @@
           "image": "archive/latest/headlines/03-2648575-oman-confirms-strait-of-hormuz-will-remain-toll-free/image.jpg",
           "video": null
         },
-        "videoUrls": [],
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782447041/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/303DD1FDF1FD65FFB283C24784DB894B5B73C8A6.07AE161CFCBDC72CAA4F4672020A1765C9813DB9/key/ck2/file/file.mp4",
+          "https://r4---sn-vgqsrnde.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782447041/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/377510D8A4F6BE1BBCEC222FB298C295FF7CBB7F.66D3705C6D6740F7BDDDD5CEEC0BDEC195012D25/key/cms1/cms_redirect/yes/met/1782425446,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsrnde/ms/nvh/mt/1782424507/mv/u/mvi/4/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
         "image": {
           "path": "archive/latest/headlines/03-2648575-oman-confirms-strait-of-hormuz-will-remain-toll-free/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/25/4725247-185798995.jpeg?itok=6Tu82EN7",
@@ -395,7 +399,10 @@
           "image": "archive/latest/headlines/04-2648532-israel-lebanon-deny-reports-of-israeli-troop-withdrawal-from-southern-/image.jpg",
           "video": null
         },
-        "videoUrls": [],
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782447062/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A76049B583A167C80BACAAF5F2F7A8F4764B881C.05012024DD3404FCA403AC001F7F25A2B5660ABA/key/ck2/file/file.mp4",
+          "https://r4---sn-vgqsrnde.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782447062/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6F35D5B89E7F0F731BF27472817C0228E14F2BE3.1E295E6B96871F8EA1880FBA313129FAE519B9EA/key/cms1/cms_redirect/yes/met/1782425467,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsrnde/ms/nvh/mt/1782424507/mv/u/mvi/4/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
         "image": {
           "path": "archive/latest/headlines/04-2648532-israel-lebanon-deny-reports-of-israeli-troop-withdrawal-from-southern-/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/25/4725152-1224978833.jpg?itok=laCFJvNJ",

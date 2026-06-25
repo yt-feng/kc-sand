@@ -16,7 +16,6 @@ LONDON/DUBAI: Qatari ‌Prime Minister Sheikh Mohammed bin Abdulrahman Al-Thani 
 
 ## Video Or Embed URLs
 
-- https://7ddfa3071331afc74ea2d1eccbe8d193.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

@@ -16,7 +16,7 @@ NEW YORK: “When I’m talking about them, I’m counting those numbers, reciti
 
 ## Video Or Embed URLs
 
-- https://9ff21d359ce32ba2021f4b89f54de818.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://ed95359189e0e8e30c96dee861fe83b0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

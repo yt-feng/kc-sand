@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-06-25T09:59:42.459Z
+Captured at: 2026-06-25T12:32:46.670Z
 Items: 7
 OK: 7
 Challenges: 0

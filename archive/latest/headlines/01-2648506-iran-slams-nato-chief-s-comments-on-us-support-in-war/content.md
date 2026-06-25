@@ -16,11 +16,11 @@ TEHRAN: Tehran accused NATO on Thursday of “complicity” in the US-Israeli wa
 
 ## Video Or Embed URLs
 
-- https://2d7957091a6064809e3212997bae40ad.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://0baf4ba52ec5f1cbb185c32658c071f6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648506%2Fmiddle-east
 

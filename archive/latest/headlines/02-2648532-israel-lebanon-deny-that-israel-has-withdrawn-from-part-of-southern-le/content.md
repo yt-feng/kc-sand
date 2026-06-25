@@ -16,7 +16,7 @@ BEIRUT: Senior Israeli and Lebanese officials denied on Thursday that there had 
 
 ## Video Or Embed URLs
 
-- https://1e7abd274a554b14fc27e6075fab382b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b1ad7c6695442d4a59fd05cb051cdff6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

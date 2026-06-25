@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-25T01:33:02.484Z
+Fetched at: 2026-06-25T06:14:47.006Z
 Target date: 2026-06-25 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-25 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran-Gulf-Iraq talks to focus on future Hormuz operations](https://www.arabnews.com/node/2648427/middle-east) - archive: archive/latest/headlines/01-2648427-iran-gulf-iraq-talks-to-focus-on-future-hormuz-operations/content.md
-2. [Trump: Iran says no tolls or charges on Strait of Hormuz](https://www.arabnews.com/node/2648390/middle-east) - archive: archive/latest/headlines/02-2648390-trump-iran-says-no-tolls-or-charges-on-strait-of-hormuz/content.md
-3. [UN nuclear boss says inspectors will visit Iran sites, as Tehran says only after a final deal](https://www.arabnews.com/node/2648366/middle-east) - archive: archive/latest/headlines/03-2648366-un-nuclear-boss-says-inspectors-will-visit-iran-sites-as-tehran-says-o/content.md
-4. [Israel, Lebanon discuss pilot scheme to hand over territory](https://www.arabnews.com/node/2648375/middle-east) - archive: archive/latest/headlines/04-2648375-israel-lebanon-discuss-pilot-scheme-to-hand-over-territory/content.md
+1. [Just 1 in 4 Americans believes Iran war was worth its costs, poll finds](https://www.arabnews.com/node/2648477/world) - archive: archive/latest/headlines/01-2648477-just-1-in-4-americans-believes-iran-war-was-worth-its-costs-poll-finds/content.md
+2. [UN child rights chief slams ‘increased impunity toward international law’ in interview with Arab News](https://www.arabnews.com/node/2648489/world) - archive: archive/latest/headlines/02-2648489-un-child-rights-chief-slams-increased-impunity-toward-international-la/content.md
+3. [Saudi UN envoy slams ‘flagrant violation of international humanitarian law’ in Gaza](https://www.arabnews.com/node/2648490/middle-east) - archive: archive/latest/headlines/03-2648490-saudi-un-envoy-slams-flagrant-violation-of-international-humanitarian-/content.md
+4. [Arab teams at 2026 World Cup: Morocco advances as Qatar bows out](https://www.arabnews.com/node/2648501/sport) - archive: archive/latest/headlines/04-2648501-arab-teams-at-2026-world-cup-morocco-advances-as-qatar-bows-out/content.md

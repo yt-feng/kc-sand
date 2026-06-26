@@ -16,7 +16,7 @@ DUBAI: The flow of shipping through the Strait of Hormuz should not be interrupt
 
 ## Video Or Embed URLs
 
-- https://03cae53c05917593a4d30b27f58c7d64.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c189095f4ed1e449975c4fae8ae4ee3a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

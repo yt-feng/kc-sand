@@ -16,7 +16,7 @@ BEIRUT: Israeli forces dropped leaflets over the southern Lebanese town of Manso
 
 ## Video Or Embed URLs
 
-- https://4c55c110105ac1aaa619c3b0093a83c0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2b6c93a59bebca0a2e870d0004b51a5e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

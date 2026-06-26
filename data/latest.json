@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-26T20:19:25.949Z",
+  "fetchedAt": "2026-06-26T21:48:51.977Z",
   "targetDate": {
-    "iso": "2026-06-26",
+    "iso": "2026-06-27",
     "timeZone": "Asia/Riyadh"
   },
   "sources": {
@@ -27,7 +27,7 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-06-27/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         }
       }
     },
@@ -49,7 +49,7 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-06-27/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         }
       }
     },
@@ -71,18 +71,18 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-06-27/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         }
       }
     }
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 101,
+    "itemCount": 97,
     "window": {
       "hours": 24,
-      "start": "2026-06-25T20:19:25.949Z",
-      "end": "2026-06-26T20:19:25.949Z",
+      "start": "2026-06-25T21:48:51.977Z",
+      "end": "2026-06-26T21:48:51.977Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -90,67 +90,45 @@
     "mode": "current-homepage-top-headlines",
     "items": [
       {
-        "title": "Trump slams Iran drone attack on cargo ship as ‘foolish’ ceasefire violation",
-        "url": "https://www.arabnews.com/node/2648694/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725524-1069563815.jpg?itok=xM2LY93a",
+        "title": "Israel and Lebanon sign framework agreement in Washington",
+        "url": "https://www.arabnews.com/node/2648702/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725561-1683227701.jpg?itok=-NE3PctG",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 0,
         "archive": {
-          "directory": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola",
+          "directory": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/metadata.json",
-            "content": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/content.md",
-            "text": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/page-text.txt",
+            "metadata": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/metadata.json",
+            "content": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md",
+            "text": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/image.jpg",
+            "image": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "Iranian sailors seized by US handed over in Pakistan",
-        "url": "https://www.arabnews.com/node/2648699/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725542-529928363.jpeg?itok=UtnExhMo",
+        "title": "Lebanon president: Israel deal first step to restoring sovereignty",
+        "url": "https://www.arabnews.com/node/2648720/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725605-481745990.jpg?itok=8KCxWMpW",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan",
+          "directory": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/metadata.json",
-            "content": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/content.md",
-            "text": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/metadata.json",
+            "content": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/content.md",
+            "text": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "UAE foreign minister tells Iran: Shipping must pass freely through Hormuz",
-        "url": "https://www.arabnews.com/node/2648684/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725497-898826502.jpg?itok=5qZXvAFc",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/metadata.json",
-            "content": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md",
-            "text": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
+            "image": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/image.jpg",
             "video": null
           }
         }
@@ -163,16 +141,38 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 6,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez",
+          "directory": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/metadata.json",
-            "content": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md",
-            "text": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/metadata.json",
+            "content": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md",
+            "text": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
+            "image": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "UAE foreign minister tells Iran: Shipping must pass freely through Hormuz",
+        "url": "https://www.arabnews.com/node/2648684/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725497-898826502.jpg?itok=5qZXvAFc",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 6,
+        "archive": {
+          "directory": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/metadata.json",
+            "content": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md",
+            "text": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
             "video": null
           }
         }
@@ -197,9 +197,9 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-26T20:24:55.591Z",
+    "capturedAt": "2026-06-26T21:54:17.378Z",
     "directory": "archive/latest",
-    "renderedClipsDirectory": "rendered-clips/2026-06-26",
+    "renderedClipsDirectory": "rendered-clips/2026-06-27",
     "itemCount": 7,
     "okCount": 7,
     "challengeCount": 0,
@@ -218,11 +218,12 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-06-27/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3f8853_3d44eff1ae598a33e1265aa69f21890dbe037104/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f9d6b_fdb31b198a4b9cd70217c5d216eab2d25bf9134c/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f9d6b_fdb31b198a4b9cd70217c5d216eab2d25bf9134c/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -231,7 +232,7 @@
           "bytes": 27493
         },
         "video": {
-          "path": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
+          "path": "rendered-clips/2026-06-27/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
           "url": "https://content.jwplatform.com/videos/ngVuDIbE-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 14628051,
@@ -251,10 +252,11 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-06-27/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8"
+          "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3fa047_00b0454a7c5cbdb55465136e3e8630e98e8af0dc/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -263,7 +265,7 @@
           "bytes": 43576
         },
         "video": {
-          "path": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
+          "path": "rendered-clips/2026-06-27/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
           "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 8233121,
@@ -283,11 +285,11 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-06-27/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3f89ee_15d71311af24d43a3bc37308220c9bef5e241c40/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f9f06_21fb763b1793221ff5835f2f54f762e50179e73a/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -296,7 +298,7 @@
           "bytes": 33206
         },
         "video": {
-          "path": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
+          "path": "rendered-clips/2026-06-27/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
           "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
           "contentType": "video/mp4",
           "bytes": 7265426,
@@ -306,105 +308,107 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Trump slams Iran drone attack on cargo ship as ‘foolish’ ceasefire violation",
-        "url": "https://www.arabnews.com/node/2648694/middle-east",
-        "directory": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola",
+        "title": "Israel and Lebanon sign framework agreement in Washington",
+        "url": "https://www.arabnews.com/node/2648702/middle-east",
+        "directory": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/metadata.json",
-          "content": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/content.md",
-          "text": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/metadata.json",
+          "content": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md",
+          "text": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/image.jpg",
+          "image": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/image.jpg",
           "video": null
         },
-        "videoUrls": [],
+        "videoUrls": [
+          "https://cdn.jwplayer.com/manifests/2rjftWu6.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3fa0bd_b411eba8eb6bc117c7bf9bda84da1dd5232f89f2/sites/wPTWN2YS/media/2rjftWu6/versions/KS4vzSvV/manifest.ism/manifest-audio_0_zMfgIoYC_rOMluIXn=112009-video_0_zMfgIoYC_bK0QxOsE=422245.m3u8"
+        ],
         "image": {
-          "path": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725524-1069563815.jpg?itok=e_OyCqAP",
+          "path": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725561-1683227701.jpg?itok=zVe62h7H",
           "contentType": "image/jpeg",
-          "bytes": 28579
+          "bytes": 46871
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "Iranian sailors seized by US handed over in Pakistan",
-        "url": "https://www.arabnews.com/node/2648699/middle-east",
-        "directory": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan",
+        "title": "Lebanon president: Israel deal first step to restoring sovereignty",
+        "url": "https://www.arabnews.com/node/2648720/middle-east",
+        "directory": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/metadata.json",
-          "content": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/content.md",
-          "text": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/metadata.json",
+          "content": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/content.md",
+          "text": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/image.jpg",
+          "image": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/image.jpg",
           "video": null
         },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782527041/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/08E70B8F5BF00BCD7D6D2731D0DF57938A4FE28F.43DECA62A045DBDBBE0061E6B5D294F5C01392DE/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782527041/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/795FF6C9B41B504FE706089F0566F4EA3575E4D9.5D18D66501027769393F828B5FF78D92D5E3B602/key/cms1/cms_redirect/yes/met/1782505446,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782504973/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
+        "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725542-529928363.jpeg?itok=GgyT2fti",
+          "path": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725605-481745990.jpg?itok=3lss2e38",
           "contentType": "image/jpeg",
-          "bytes": 35159
+          "bytes": 31197
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 2,
-        "title": "UAE foreign minister tells Iran: Shipping must pass freely through Hormuz",
-        "url": "https://www.arabnews.com/node/2648684/middle-east",
-        "directory": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm",
+        "title": "Israel orders residents in southern Lebanon to leave, says killed 7 Hezbollah militants in area",
+        "url": "https://www.arabnews.com/node/2648665/middle-east",
+        "directory": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/metadata.json",
-          "content": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md",
-          "text": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/metadata.json",
+          "content": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md",
+          "text": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
+          "image": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782527060/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B097BDD89E3004D07CA01280DCBF6F63275CFD5E.15E07D0468275023F85EA5FF0D43C5C054018C85/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782527060/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6BF63D59446AA2B9E189833A2BC257842EB23094.225C990895D046C6B234AA2BA8F965A180E4D837/key/cms1/cms_redirect/yes/met/1782505465,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782505213/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782532423/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/845872BBD860E205E9E72E36DC8E81197EF6D17B.8A90703888D18FCA8B541457D099A48FD3343F60/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782532423/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0B1BEEE58362004193FBB1BB815319411371F1CC.2AE750AD54A25115EF057CCA44D88F8A52D34FB3/key/cms1/cms_redirect/yes/met/1782510828,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782510491/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725497-898826502.jpg?itok=hDaDw-Br",
+          "path": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725468-671980666.jpg?itok=vrOjwGYG",
           "contentType": "image/jpeg",
-          "bytes": 28795
+          "bytes": 29300
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 3,
-        "title": "Israel orders residents in southern Lebanon to leave, says killed 7 Hezbollah militants in area",
-        "url": "https://www.arabnews.com/node/2648665/middle-east",
-        "directory": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez",
+        "title": "UAE foreign minister tells Iran: Shipping must pass freely through Hormuz",
+        "url": "https://www.arabnews.com/node/2648684/middle-east",
+        "directory": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/metadata.json",
-          "content": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md",
-          "text": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/metadata.json",
+          "content": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md",
+          "text": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
+          "image": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782527080/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/35FAC822D28C1E3B0F4CAB4CBAA31AE8E4070D64.5084DED2D1298B4981DFB96804945E10B0CA1418/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782527080/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/595D069B98FE20500E0062C55BAA969FBB91F34C.6CFAE2A1AA6F31A895E26F2490FE2F3B142FA112/key/cms1/cms_redirect/yes/met/1782505484,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782505211/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782532443/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/233BF7CFD7CDEB18A64C97C0E9B3C02BFCFD69D5.5F6D18C99239B76CF5F742259A6E8A7B5B582A03/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782532443/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/03253EEB709C251990089868ABCD72070AA74D99.1C1CBBF1E189325F269341C179CB7FFBCAC75E62/key/cms1/cms_redirect/yes/met/1782510847,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782510733/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782532443/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AA7C69F4E644BC705ACFBD1B897D04A9838359FE.B4B129005D80237AEC3BF88A3D5DD556A3EB43B7/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782532443/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/694A9D5208576173E49A9DB8A1D779B584B6B160.01A09070D2DCA450C12BABC894AEF155AAD01A01/key/cms1/cms_redirect/yes/met/1782510848,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782510491/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725468-671980666.jpg?itok=vrOjwGYG",
+          "path": "archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725497-898826502.jpg?itok=hDaDw-Br",
           "contentType": "image/jpeg",
-          "bytes": 29300
+          "bytes": 28795
         },
         "video": null
       }

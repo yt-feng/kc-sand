@@ -1,7 +1,7 @@
 # Arab News Latest
 
-Fetched at: 2026-06-26T20:19:25.949Z
-Target date: 2026-06-26 (Asia/Riyadh)
+Fetched at: 2026-06-26T21:48:51.977Z
+Target date: 2026-06-27 (Asia/Riyadh)
 
 ## Latest Videos
 
@@ -13,7 +13,7 @@ Target date: 2026-06-26 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Trump slams Iran drone attack on cargo ship as ‘foolish’ ceasefire violation](https://www.arabnews.com/node/2648694/middle-east) - archive: archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/content.md
-2. [Iranian sailors seized by US handed over in Pakistan](https://www.arabnews.com/node/2648699/middle-east) - archive: archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/content.md
-3. [UAE foreign minister tells Iran: Shipping must pass freely through Hormuz](https://www.arabnews.com/node/2648684/middle-east) - archive: archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md
-4. [Israel orders residents in southern Lebanon to leave, says killed 7 Hezbollah militants in area](https://www.arabnews.com/node/2648665/middle-east) - archive: archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md
+1. [Israel and Lebanon sign framework agreement in Washington](https://www.arabnews.com/node/2648702/middle-east) - archive: archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md
+2. [Lebanon president: Israel deal first step to restoring sovereignty](https://www.arabnews.com/node/2648720/middle-east) - archive: archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/content.md
+3. [Israel orders residents in southern Lebanon to leave, says killed 7 Hezbollah militants in area](https://www.arabnews.com/node/2648665/middle-east) - archive: archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md
+4. [UAE foreign minister tells Iran: Shipping must pass freely through Hormuz](https://www.arabnews.com/node/2648684/middle-east) - archive: archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md

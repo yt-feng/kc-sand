@@ -16,7 +16,7 @@ NEW YORK CITY: The 2023 Jeddah agreement brokered by Saudi Arabia can still serv
 
 ## Video Or Embed URLs
 
-- https://97352fefcdf64f66de285252b25142af.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a39b1d7139b2ed1e24fee3c634fb142a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

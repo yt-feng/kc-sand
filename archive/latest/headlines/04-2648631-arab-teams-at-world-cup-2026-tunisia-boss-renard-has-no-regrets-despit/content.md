@@ -16,7 +16,7 @@ KANSAS: Herve Renard said Thursday he had no regrets about taking on the job as 
 
 ## Video Or Embed URLs
 
-- https://a844f4962d2ca412c26b1cec55854fc4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://39c10a28f7cec1393475cfd94963f082.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

@@ -1,9 +1,9 @@
-# “Very strong” nuclear verification needed in Iran after war: IAEA head
+# ‘Very strong’ nuclear verification needed in Iran after war: IAEA head
 
 Source: https://www.arabnews.com/node/2648632/middle-east
 Captured source: https://www.arabnews.com/node/2648632/middle-east
 Published: 2026-06-26T08:11:37+03:00
-Modified: 2026-06-26T11:10:21+03:00
+Modified: 2026-06-26T15:23:38+03:00
 Author: AFP
 
 ## Summary
@@ -16,9 +16,9 @@ TOKYO: “Very strong” verification is needed in Iran following the Middle Eas
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/715bd5f2-7c2a-4a8e-a5c5-bc2915fbdb28
+- blob:https://www.arabnews.com/5af15893-dd1b-4c50-ab09-3465a5c0b7a8
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://d49aef6318355fd78fa4fae54b79a77f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://137aa9ae4ed081e233708294f717e94a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot

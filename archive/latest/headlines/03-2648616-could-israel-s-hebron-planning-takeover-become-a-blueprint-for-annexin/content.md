@@ -16,11 +16,11 @@ DUBAI: The decision by Israeli authorities to strip Hebron Municipality of its p
 
 ## Video Or Embed URLs
 
-- https://591005743d09329dff11583fdb0ba82c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://12385225258ce676ab8ac90dc1b8d60b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648616%2Fmiddle-east
 
 ## Text

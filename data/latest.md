@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-26T13:33:09.393Z
+Fetched at: 2026-06-26T16:22:21.526Z
 Target date: 2026-06-26 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-26 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [‘Very strong’ nuclear verification needed in Iran after war: IAEA head](https://www.arabnews.com/node/2648632/middle-east) - archive: archive/latest/headlines/01-2648632-very-strong-nuclear-verification-needed-in-iran-after-war-iaea-head/content.md
-2. [UN envoy says Jeddah deal can still anchor future Sudan peace talks, as fears grow over El-Obeid](https://www.arabnews.com/node/2648610/middle-east) - archive: archive/latest/headlines/02-2648610-un-envoy-says-jeddah-deal-can-still-anchor-future-sudan-peace-talks-as/content.md
-3. [Could Israel’s Hebron planning takeover become a blueprint for annexing the West Bank?](https://www.arabnews.com/node/2648616/middle-east) - archive: archive/latest/headlines/03-2648616-could-israel-s-hebron-planning-takeover-become-a-blueprint-for-annexin/content.md
-4. [Arab teams at World Cup 2026: Tunisia boss Renard has ‘no regrets’ despite World Cup flop](https://www.arabnews.com/node/2648631/sport) - archive: archive/latest/headlines/04-2648631-arab-teams-at-world-cup-2026-tunisia-boss-renard-has-no-regrets-despit/content.md
+1. [Iran insists on right to control shipping in Strait of Hormuz after ship hit near Oman](https://www.arabnews.com/node/2648664/middle-east) - archive: archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/content.md
+2. [UAE foreign minister tells Iran: Shipping must pass freely through Hormuz](https://www.arabnews.com/node/2648684/middle-east) - archive: archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md
+3. [Israel orders residents in southern Lebanon to leave, says killed 7 Hezbollah militants in area](https://www.arabnews.com/node/2648665/middle-east) - archive: archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md
+4. [Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL](https://www.arabnews.com/node/2648655/middle-east) - archive: archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/content.md

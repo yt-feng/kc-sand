@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T08:16:24.339Z",
+  "fetchedAt": "2026-06-26T11:25:54.675Z",
   "targetDate": {
     "iso": "2026-06-26",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 123,
+    "itemCount": 112,
     "window": {
       "hours": 24,
-      "start": "2026-06-25T08:16:24.339Z",
-      "end": "2026-06-26T08:16:24.339Z",
+      "start": "2026-06-25T11:25:54.675Z",
+      "end": "2026-06-26T11:25:54.675Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-26T08:21:51.748Z",
+    "capturedAt": "2026-06-26T11:31:20.693Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-26",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483559/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2420059CEF19DCE789C7B467FB7BFBC9B5661801.38D9B06C91DADD720012EBA628ECFE1503004903/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483559/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/45B213E3657C06E9DDBD0935D0C9A32D84A67FD0.3B8C2C6208D6F9DC5288EE7C4A7F3B55D7A54046/key/cms1/cms_redirect/yes/met/1782461967,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782461535/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782494927/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/17A1E78B77935F4B3A7CB42477C02F922E70CAF1.448BD4AFD77F2431FBA4FC6D1240CD28E7013762/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782494927/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/65213416B673B575F2536FD05086AFEC33E646F5.5723094CD0851881C924C673C7B9F2C5B9424FC5/key/cms1/cms_redirect/yes/met/1782473335,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782473059/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3edf93_dc6ccf4bcd1258d2035dc03bdb7444db7d7e2f48/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3edf93_dc6ccf4bcd1258d2035dc03bdb7444db7d7e2f48/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f0d47_efd97a4983530511e279bbd3c191d195417a73c1/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f0d47_efd97a4983530511e279bbd3c191d195417a73c1/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483559/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2420059CEF19DCE789C7B467FB7BFBC9B5661801.38D9B06C91DADD720012EBA628ECFE1503004903/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782494927/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/17A1E78B77935F4B3A7CB42477C02F922E70CAF1.448BD4AFD77F2431FBA4FC6D1240CD28E7013762/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483586/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B28D3A062F9495D4DAB25E152CD17B24A06E1F55.B0983D899A5FD9C8502284EFFA1D19F6C8B54A1B/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483586/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/466850721457AA32F76E0437736E1446BF12FDF3.512A96B87A1308B2766E07D02ABC628D71DEDEF6/key/cms1/cms_redirect/yes/met/1782461994,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782461535/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782494956/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/31C22AAE55D421212B65DF94E038243915F3F0AD.792E0411CC198663888D286EBE2DCDEDDBB7621A/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782494956/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6640606BBA106D1498DE95A22E3404AE432B191A.1005B051FA8B08CEFD9992CAC6D2C42BD488799D/key/cms1/cms_redirect/yes/met/1782473363,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782472818/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3ee26f_b0ada757ca7dfe7e0e75caadacc8b94faec2d06e/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f0c9f_90e70e6b3d54f3a45f106c456108aa4c3e9677d0/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483586/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B28D3A062F9495D4DAB25E152CD17B24A06E1F55.B0983D899A5FD9C8502284EFFA1D19F6C8B54A1B/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782494956/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/31C22AAE55D421212B65DF94E038243915F3F0AD.792E0411CC198663888D286EBE2DCDEDDBB7621A/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483611/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B1B8860992DEA7D7C8F9D30FFE100600D2F1628B.97F8E8B17E68940C6143151AF4C5329E7E2E3B1F/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483611/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/46BE569219BB78D2E1AB8B7147F275B525756341.48ED1B666E3A510C1466897D0F7618E729799A46/key/cms1/cms_redirect/yes/met/1782462019,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782461535/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782494981/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1D3164E7C465BF9D70D9599F68C790088681B34B.478D3C5252523BEC0F84D7F5E273A72F652143A0/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782494981/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5DE6DA8CF916DB5CC73A28C7902A67FD615C03CA.56CC8A0088189B0BEE48A96B733538CC5E56ED80/key/cms1/cms_redirect/yes/met/1782473388,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782473059/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3ee12e_97608af9dd321abd2ecbe89b965ab5b1bb856be6/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f0ee2_957a76b684fcd2e640367681628e0b0524ff537e/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483611/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B1B8860992DEA7D7C8F9D30FFE100600D2F1628B.97F8E8B17E68940C6143151AF4C5329E7E2E3B1F/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782494981/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1D3164E7C465BF9D70D9599F68C790088681B34B.478D3C5252523BEC0F84D7F5E273A72F652143A0/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -327,10 +327,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483633/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2127DF605128BB4FE1564F3FA2F224886114341B.394B4966111524ADFCBCEFF7217B09AE9BB2A708/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483633/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/573C00C22C3CABCA7DE12415B11245815DEEE87E.1A401BE97B017F73909E5D4446AEA8DA4EAE2487/key/cms1/cms_redirect/yes/met/1782462039,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782461535/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782495004/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/34283661A51FDC0B6152B14057400E7C1336A869.A2B412A8957594A91E9B875179449DEE4D88EE40/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782495004/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0F194908362FC4ED09153B75F343E6739EE0B7CF.690DF8DD2781E8261688948687EB3BA4E59A9D2D/key/cms1/cms_redirect/yes/met/1782473409,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782473059/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/JlCv3cST.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3edf83_98a8aef58941ff4ccc890c53635b22f1947e8396/sites/wPTWN2YS/media/JlCv3cST/versions/RnzVCg2E/manifest.ism/manifest-audio_0_syA7J70q_TtnTYz41=112036-video_0_syA7J70q_56UZCtkv=369321.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f0d37_024977b96f2f633c0455e49a50c9a2394aa4556e/sites/wPTWN2YS/media/JlCv3cST/versions/RnzVCg2E/manifest.ism/manifest-audio_0_syA7J70q_TtnTYz41=112036-video_0_syA7J70q_56UZCtkv=369321.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2648632-very-strong-nuclear-verification-needed-in-iran-after-war-iaea-head/image.jpg",
@@ -356,8 +356,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483653/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/96846CC13E005AA95F569F36F333F03C21A02FCB.8AC6288E6EFFC2E3C44827200AF92E924FC1B332/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483653/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/64590A2130B265CF5EB2D4C98AA25C51291975EE.755D99FC364F5986BD914EE940419FCA4353F05C/key/cms1/cms_redirect/yes/met/1782462057,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782461775/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782495024/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/22DC7DF5586FD539F5699B9CC7A97A44E1B9DEDC.095061BEF7701FB1542BA7BF96433599BFED8B42/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782495024/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6FF39EA61009F67BD377BCF01942E118DE2DB3F8.3C824A6651287A65675ED8A858D12A25F7E67F55/key/cms1/cms_redirect/yes/met/1782473429,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782473059/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2648610-un-envoy-says-jeddah-deal-can-still-anchor-future-sudan-peace-talks-as/image.jpg",
@@ -383,8 +383,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483675/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B78C3BE6F866A73725AD71B8EDD4D7CC576259A4.6B159D026B1C99A87EE39B0D3DD8949D3A4FCDEF/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483675/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/79904A13C757BFD424464FB77D0A935C2048F98B.0445754F077D14D029D0613505F8D438223FDEEC/key/cms1/cms_redirect/yes/met/1782462079,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782461775/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782495045/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/63149630EBE06A37D06A00599C5A9041C1FFB7FD.53910AA6C75E371E7A304E67C6867E4E6FE55CDA/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782495045/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5A2C57F86A9D7B05C1C4B97C3F25E8571D02560D.31DF8F9EFBED32501C64235954A089D146AA7568/key/cms1/cms_redirect/yes/met/1782473449,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782473059/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2648616-could-israel-s-hebron-planning-takeover-become-a-blueprint-for-annexin/image.jpg",
@@ -410,8 +410,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483696/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0BA7EC7C0A51A001CF0CE734A1561AD737CDB421.62DF2BEE9337D3498BD213CB4438037906CB53E9/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782483696/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/74D5658EE35B370DB26D4F35991E0870BDE33595.44A54815D6B1ECACDE9E656C8112C4EDDE88F8DB/key/cms1/cms_redirect/yes/met/1782462100,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782461775/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782495066/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/472817C303CF73DA8A42A7FDA2F37A19279EEB52.8ABAF476C270CE962E273678A5083AEE903CF72E/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782495066/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/62C018013D0645F183B242BD209677698029DC1F.6E6D21F1B529B678527530601209976A0126AB51/key/cms1/cms_redirect/yes/met/1782473471,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782473059/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2648631-arab-teams-at-world-cup-2026-tunisia-boss-renard-has-no-regrets-despit/image.jpg",

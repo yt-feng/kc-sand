@@ -16,11 +16,11 @@ TOKYO: “Very strong” verification is needed in Iran following the Middle Eas
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/9826c8dc-7d90-4f66-9ad0-be107586f3e9
+- blob:https://www.arabnews.com/715bd5f2-7c2a-4a8e-a5c5-bc2915fbdb28
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://efbe9aaf0a88bcc4eb2a4109817a8d75.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://d49aef6318355fd78fa4fae54b79a77f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe

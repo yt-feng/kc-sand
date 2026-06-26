@@ -16,12 +16,13 @@ MANAMA: US Secretary of State Marco Rubio on Thursday warned that Iranian tolls 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/a17b1533-82cb-400b-a362-ba22ae48684c
-- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://4c7793a9bb0e8e0c556931e0184aac41.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/d8fde0ca-ee7f-4cfb-b0e7-35558fede3a2
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://895ab20d2b8897d6a524863c1abbb8a0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648526%2Fmiddle-east
 

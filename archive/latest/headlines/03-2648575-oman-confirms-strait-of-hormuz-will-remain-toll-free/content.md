@@ -16,11 +16,11 @@ DUBAI: Oman confirmed on Thursday that no transit fees would be imposed on ships
 
 ## Video Or Embed URLs
 
-- https://fa5ed5602ab07589749cd814c38f09ef.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://0d5346af0b26634360434e37e49fdae6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648575%2Fmiddle-east
 
 ## Text

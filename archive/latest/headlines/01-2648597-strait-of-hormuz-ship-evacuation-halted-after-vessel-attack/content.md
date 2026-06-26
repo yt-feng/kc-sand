@@ -16,10 +16,10 @@ DUBAI: A United Nations agency paused the evacuation of ships through the Strait
 
 ## Video Or Embed URLs
 
-- https://e41935e3f76a947532db6615f74b7827.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://9c37d899203b668843d76639bebd25d0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648597%2Fmiddle-east

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T16:22:21.526Z",
+  "fetchedAt": "2026-06-26T18:11:47.383Z",
   "targetDate": {
     "iso": "2026-06-26",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 105,
+    "itemCount": 102,
     "window": {
       "hours": 24,
-      "start": "2026-06-25T16:22:21.526Z",
-      "end": "2026-06-26T16:22:21.526Z",
+      "start": "2026-06-25T18:11:47.383Z",
+      "end": "2026-06-26T18:11:47.383Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -90,23 +90,45 @@
     "mode": "current-homepage-top-headlines",
     "items": [
       {
-        "title": "Iran insists on right to control shipping in Strait of Hormuz after ship hit near Oman",
-        "url": "https://www.arabnews.com/node/2648664/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725460-55792501.jpg?itok=z09B34aA",
+        "title": "Trump slams Iran drone attack on cargo ship as ‘foolish’ ceasefire violation",
+        "url": "https://www.arabnews.com/node/2648694/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725524-1069563815.jpg?itok=xM2LY93a",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 0,
         "archive": {
-          "directory": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh",
+          "directory": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/metadata.json",
-            "content": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/content.md",
-            "text": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/page-text.txt",
+            "metadata": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/metadata.json",
+            "content": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/content.md",
+            "text": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/image.jpg",
+            "image": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Iranian sailors seized by US handed over in Pakistan",
+        "url": "https://www.arabnews.com/node/2648699/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725542-529928363.jpeg?itok=UtnExhMo",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2,
+        "archive": {
+          "directory": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/metadata.json",
+            "content": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/content.md",
+            "text": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/image.jpg",
             "video": null
           }
         }
@@ -119,16 +141,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm",
+          "directory": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/metadata.json",
-            "content": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md",
-            "text": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/metadata.json",
+            "content": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md",
+            "text": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
+            "image": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
             "video": null
           }
         }
@@ -141,38 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/metadata.json",
-            "content": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md",
-            "text": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL",
-        "url": "https://www.arabnews.com/node/2648655/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725444-2037482282.jpg?itok=cQ-Zmaqq",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to",
+          "directory": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/metadata.json",
-            "content": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/content.md",
-            "text": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/metadata.json",
+            "content": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md",
+            "text": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/image.jpg",
+            "image": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-26T16:27:48.477Z",
+    "capturedAt": "2026-06-26T18:17:12.605Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-26",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512716/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AD95BC696C80D2AC72209B5FE1CF431143B763F4.527C091B2BD8F01F77D550F4EEF919AF2F74EAE4/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512716/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1504802BCF093FE8B13C3B377E0EBCECD0018DAD.3DFF6FF30459DA5654AFB542FEC001A2A1DBB6BC/key/cms1/cms_redirect/yes/met/1782491123,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782490812/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519277/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/10407B1AA3C0AA34C8ED5F83CB456D2A01B65FFA.1AF75138785180D2DBB98695E2C374161B5589B1/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519277/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3579CA6F6F12548EEC8562EC96AB5B0F2E5BAC00.79A2D522C4F7E984FC6F4AB81CF66687F08A07A1/key/cms1/cms_redirect/yes/met/1782497684,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782497052/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3f5397_66f09d8ebe8034e2b91c446acc0cf1a4101075bd/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3f5397_66f09d8ebe8034e2b91c446acc0cf1a4101075bd/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f6c33_dca0588cec4db9998a5e5f637545ad90c6b705ac/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f6c33_dca0588cec4db9998a5e5f637545ad90c6b705ac/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-26/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512716/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AD95BC696C80D2AC72209B5FE1CF431143B763F4.527C091B2BD8F01F77D550F4EEF919AF2F74EAE4/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519277/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/10407B1AA3C0AA34C8ED5F83CB456D2A01B65FFA.1AF75138785180D2DBB98695E2C374161B5589B1/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512743/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AFAC2A49DA66E7863F5706722146446162768476.7E8A448B9548AF166968579D18474B5A2F056BF5/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512743/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7FE9224D03E0D5F9C66D1CECB417FC296B1C2565.623CFA199968AD61B2A04682B18900582869DCA2/key/cms1/cms_redirect/yes/met/1782491151,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782490573/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519301/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/74630FE84825B50B4DDA2C8E86080ABCF5EAA8E3.9147E40F65987602FC82C11CDC803AE117708A53/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519301/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/823F4E70D08A04974C37C87AC657EAF6169BEC25.4DB7BCBE2CDAD11DB19839D0A4C84017B9CFC01A/key/cms1/cms_redirect/yes/met/1782497711,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782497530/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3f52ef_fc8ffe66b67dec40315b855fbbd0b797f44923b1/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f6b8b_437fb2f8b168935327aacebdb411d3c3aa8d826e/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-26/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512743/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AFAC2A49DA66E7863F5706722146446162768476.7E8A448B9548AF166968579D18474B5A2F056BF5/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519301/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/74630FE84825B50B4DDA2C8E86080ABCF5EAA8E3.9147E40F65987602FC82C11CDC803AE117708A53/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512770/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/680F54D530849FE2E91E201716BF0C051BA43BBB.482AA35A702B44DEE14B76350BB2BF23E2FA64D1/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512770/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3102AEA17F8A07A1506EC4B3554EB32D619B9F2A.2D5B82CA98FDEB656F3D0E1EEE0FE7A4C06402B2/key/cms1/cms_redirect/yes/met/1782491178,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782490573/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519332/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/BA20CA5F3EA80627F8032E91F37AEC4FF2D887CE.338F8744F28E60093FAECB450250D35B118A8B57/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519332/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/68B0352E69280148560FC7D14DB411DB303082DA.7D0C8D0EBC2AAFF2B167D923028EE0A855587888/key/cms1/cms_redirect/yes/met/1782497739,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782497052/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a3f51ae_ff7fe00bd7929cf21f9b1f9bc0cba39b68200496/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a3f6dce_a9d2b237fccf27f2891ba0ba178711b762e4c525/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-26/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512770/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/680F54D530849FE2E91E201716BF0C051BA43BBB.482AA35A702B44DEE14B76350BB2BF23E2FA64D1/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519332/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/BA20CA5F3EA80627F8032E91F37AEC4FF2D887CE.338F8744F28E60093FAECB450250D35B118A8B57/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -314,51 +314,78 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Iran insists on right to control shipping in Strait of Hormuz after ship hit near Oman",
-        "url": "https://www.arabnews.com/node/2648664/middle-east",
-        "directory": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh",
+        "title": "Trump slams Iran drone attack on cargo ship as ‘foolish’ ceasefire violation",
+        "url": "https://www.arabnews.com/node/2648694/middle-east",
+        "directory": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/metadata.json",
-          "content": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/content.md",
-          "text": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/metadata.json",
+          "content": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/content.md",
+          "text": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/image.jpg",
+          "image": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512791/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/43842D830EF9723C38E0BCE4B5671E2B57F7DD34.2C1BE4E4953B118AFB60A7DAA2FB3ADB1122C979/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512791/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7BB3C5FF8D2571426658366DA9CEB7C27FECB04A.48A61D0B2B8B5DAB31A44B7C8839624FA72C7E77/key/cms1/cms_redirect/yes/met/1782491195,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782490573/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519355/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8B48A1D6A288E38B6B0C8D31560CF0DE9E8B4675.9B9E51C3881F61E035A757AD7CE65F116848D582/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519355/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5272A303CA2A73247AE44136A7B605668E20B1C8.4A90C96D7E91F4F7209F6E98930F3901C386B72E/key/cms1/cms_redirect/yes/met/1782497759,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782497052/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2648664-iran-insists-on-right-to-control-shipping-in-strait-of-hormuz-after-sh/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725460-55792501.jpg?itok=Y0HYyl4R",
+          "path": "archive/latest/headlines/01-2648694-trump-slams-iran-drone-attack-on-cargo-ship-as-foolish-ceasefire-viola/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725524-1069563815.jpg?itok=e_OyCqAP",
           "contentType": "image/jpeg",
-          "bytes": 22648
+          "bytes": 28579
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "UAE foreign minister tells Iran: Shipping must pass freely through Hormuz",
-        "url": "https://www.arabnews.com/node/2648684/middle-east",
-        "directory": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm",
+        "title": "Iranian sailors seized by US handed over in Pakistan",
+        "url": "https://www.arabnews.com/node/2648699/middle-east",
+        "directory": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/metadata.json",
-          "content": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md",
-          "text": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/metadata.json",
+          "content": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/content.md",
+          "text": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
+          "image": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512811/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B6BC3970B5673049188A4FF08B873F6A00C14161.745BAB1CDD61CB744C98B91E4FE6C50A5CCD8661/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512811/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3435DBEB1D1C9043320E68B62A2B9E50B4D13F09.83943F4BFA681FE7243FB284FB80A249EDB797E1/key/cms1/cms_redirect/yes/met/1782491215,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782490573/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519377/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/76BF975B5B4A662C794AFD848C846261E7B62CBD.788E9FCEF4F83ED0EECCA7A245BEE6D7A4113766/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519377/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/D9D41D43344DF6F1CC42B4B457B662A2863B5E.6FAC68D2351F15456F35CA3611AA20DCA7256ADD/key/cms1/cms_redirect/yes/met/1782497782,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782497535/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
+          "path": "archive/latest/headlines/02-2648699-iranian-sailors-seized-by-us-handed-over-in-pakistan/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725542-529928363.jpeg?itok=GgyT2fti",
+          "contentType": "image/jpeg",
+          "bytes": 35159
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 2,
+        "title": "UAE foreign minister tells Iran: Shipping must pass freely through Hormuz",
+        "url": "https://www.arabnews.com/node/2648684/middle-east",
+        "directory": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/metadata.json",
+          "content": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md",
+          "text": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519397/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/81C8013E75DB112EF5009DDC8ED7F1804E451885.4A8359DF3E78CA4F7336CD17DC906F671682BA11/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519397/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/450CEB449E4EF14DFA36034E5B64DE135CBC44AC.74CDD70D78AE8C20C88A1363BDE7DC43A0126960/key/cms1/cms_redirect/yes/met/1782497801,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782497052/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/03-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725497-898826502.jpg?itok=hDaDw-Br",
           "contentType": "image/jpeg",
           "bytes": 28795
@@ -367,55 +394,28 @@
       },
       {
         "group": "headlines",
-        "index": 2,
+        "index": 3,
         "title": "Israel orders residents in southern Lebanon to leave, says killed 7 Hezbollah militants in area",
         "url": "https://www.arabnews.com/node/2648665/middle-east",
-        "directory": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez",
+        "directory": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/metadata.json",
-          "content": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md",
-          "text": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/metadata.json",
+          "content": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md",
+          "text": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
+          "image": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512832/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3A24E105BDEE1E2C3BC884CED54A5C9633F0093C.72838C35834D6AF6710FE7980A5D047E78525EE1/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512832/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7DAE99352658C3899BAB90D9E974FFD599D3EEF5.77F0CF93E4BD161FCAC97F6C0CB8F314AD02626C/key/cms1/cms_redirect/yes/met/1782491237,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782490573/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519417/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9D64DB1D9C6260BBD3745C27B113C088B78D717C.B4BA7BB6686B65CD42876DC8182117D4AECF366E/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782519417/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/114B7C7372B4E68A44F8B290BB881F813DB8F79A.4A3313BD904EFB687E446D4C9D43C632996C821E/key/cms1/cms_redirect/yes/met/1782497822,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782497535/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
+          "path": "archive/latest/headlines/04-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725468-671980666.jpg?itok=vrOjwGYG",
           "contentType": "image/jpeg",
           "bytes": 29300
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
-        "index": 3,
-        "title": "Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL",
-        "url": "https://www.arabnews.com/node/2648655/middle-east",
-        "directory": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/metadata.json",
-          "content": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/content.md",
-          "text": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512853/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/74C761145EE3323A1E4FDE0E7D583D3B2B2BB390.38481102C882725E4488E61DDDD413A25ACE2A19/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782512853/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1573CB6678F80D149F381E4ECDA7D33170C34B2C.2935736227D3258AA259ABD54BE6FAC7B7E2D6F5/key/cms1/cms_redirect/yes/met/1782491258,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782490573/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/04-2648655-lebanon-president-welcomes-french-italian-efforts-to-form-coalition-to/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725444-2037482282.jpg?itok=DeGMpu_3",
-          "contentType": "image/jpeg",
-          "bytes": 45152
         },
         "video": null
       }

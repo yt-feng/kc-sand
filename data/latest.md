@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-26T04:16:20.275Z
+Fetched at: 2026-06-26T08:16:24.339Z
 Target date: 2026-06-26 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-26 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Strait of Hormuz ship evacuation halted after vessel attack](https://www.arabnews.com/node/2648597/middle-east) - archive: archive/latest/headlines/01-2648597-strait-of-hormuz-ship-evacuation-halted-after-vessel-attack/content.md
-2. [Rubio warns Hormuz tolls would ‘spread like contagion’ to other waterways](https://www.arabnews.com/node/2648526/middle-east) - archive: archive/latest/headlines/02-2648526-rubio-warns-hormuz-tolls-would-spread-like-contagion-to-other-waterway/content.md
-3. [Oman confirms Strait of Hormuz will remain toll-free](https://www.arabnews.com/node/2648575/middle-east) - archive: archive/latest/headlines/03-2648575-oman-confirms-strait-of-hormuz-will-remain-toll-free/content.md
-4. [Israel, Lebanon deny reports of Israeli troop withdrawal from southern Lebanon](https://www.arabnews.com/node/2648532/middle-east) - archive: archive/latest/headlines/04-2648532-israel-lebanon-deny-reports-of-israeli-troop-withdrawal-from-southern-/content.md
+1. [“Very strong” nuclear verification needed in Iran after war: IAEA head](https://www.arabnews.com/node/2648632/middle-east) - archive: archive/latest/headlines/01-2648632-very-strong-nuclear-verification-needed-in-iran-after-war-iaea-head/content.md
+2. [UN envoy says Jeddah deal can still anchor future Sudan peace talks, as fears grow over El-Obeid](https://www.arabnews.com/node/2648610/middle-east) - archive: archive/latest/headlines/02-2648610-un-envoy-says-jeddah-deal-can-still-anchor-future-sudan-peace-talks-as/content.md
+3. [Could Israel’s Hebron planning takeover become a blueprint for annexing the West Bank?](https://www.arabnews.com/node/2648616/middle-east) - archive: archive/latest/headlines/03-2648616-could-israel-s-hebron-planning-takeover-become-a-blueprint-for-annexin/content.md
+4. [Arab teams at World Cup 2026: Tunisia boss Renard has ‘no regrets’ despite World Cup flop](https://www.arabnews.com/node/2648631/sport) - archive: archive/latest/headlines/04-2648631-arab-teams-at-world-cup-2026-tunisia-boss-renard-has-no-regrets-despit/content.md

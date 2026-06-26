@@ -16,10 +16,10 @@ WASHINGTON: US President Donald Trump on Friday slammed Iran for carrying out a 
 
 ## Video Or Embed URLs
 
+- https://dca76bf7114c1258f27f32cb4a45b484.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://truthsocial.com/@realDonaldTrump/116817203281419093/embed
-- https://b148f55fa98e821be41df32535fb7870.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648694%2Fmiddle-east

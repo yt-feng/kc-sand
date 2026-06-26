@@ -16,11 +16,11 @@ LONDON: Twenty-two Iranian crew members whose oil tanker was seized by the Unite
 
 ## Video Or Embed URLs
 
-- https://94459393724d916667bd26c70c61414f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2fd3180901a8c59dc0fd8011c56acebb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648699%2Fmiddle-east
 
 ## Text

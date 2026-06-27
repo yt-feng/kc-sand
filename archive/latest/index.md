@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-06-27T01:35:23.100Z
+Captured at: 2026-06-27T05:39:44.230Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -11,5 +11,5 @@ Errors: 0
 - [Southern Lebanon ‘Hezbollah kill zone,’ Israel says](https://www.arabnews.com/node/2640086/middle-east) - ok - `archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/content.md` - video: `rendered-clips/2026-06-27/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4`
 - [Israel and Lebanon sign framework agreement in Washington](https://www.arabnews.com/node/2648702/middle-east) - ok - `archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md`
 - [Lebanon president: Israel deal first step to restoring sovereignty](https://www.arabnews.com/node/2648720/middle-east) - ok - `archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/content.md`
-- [Israel orders residents in southern Lebanon to leave, says killed 7 Hezbollah militants in area](https://www.arabnews.com/node/2648665/middle-east) - ok - `archive/latest/headlines/03-2648665-israel-orders-residents-in-southern-lebanon-to-leave-says-killed-7-hez/content.md`
-- [UAE foreign minister tells Iran: Shipping must pass freely through Hormuz](https://www.arabnews.com/node/2648684/middle-east) - ok - `archive/latest/headlines/04-2648684-uae-foreign-minister-tells-iran-shipping-must-pass-freely-through-horm/content.md`
+- [Saudi UN envoy warns external arms suppliers are fueling war in Sudan, rejects parallel rule](https://www.arabnews.com/node/2648723/middle-east) - ok - `archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/content.md`
+- [Arab teams at World Cup 2026: Saudi Arabia and Iraq knocked out, Egypt draws with Iran](https://www.arabnews.com/node/2648740/sport) - ok - `archive/latest/headlines/04-2648740-arab-teams-at-world-cup-2026-saudi-arabia-and-iraq-knocked-out-egypt-d/content.md`

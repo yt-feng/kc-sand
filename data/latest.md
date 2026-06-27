@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-27T17:38:52.928Z
+Fetched at: 2026-06-27T19:38:04.642Z
 Target date: 2026-06-27 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-27 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Bahrain condemns Iranian drone attacks on its territory](https://www.arabnews.com/node/2648756/middle-east) - archive: archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/content.md
-2. [Israel military says targeted suspected militants in south Lebanon airstrike](https://www.arabnews.com/node/2648761/middle-east) - archive: archive/latest/headlines/02-2648761-israel-military-says-targeted-suspected-militants-in-south-lebanon-air/content.md
-3. [Israel deal is not peace treaty but ‘process to end hostilities’ — Lebanese official](https://www.arabnews.com/node/2648787/middle-east) - archive: archive/latest/headlines/03-2648787-israel-deal-is-not-peace-treaty-but-process-to-end-hostilities-lebanes/content.md
-4. [Hezbollah rejects US-brokered Israel-Lebanon security deal as ‘surrender’](https://www.arabnews.com/node/2648786/middle-east) - archive: archive/latest/headlines/04-2648786-hezbollah-rejects-us-brokered-israel-lebanon-security-deal-as-surrende/content.md
+1. [US says will not ignore attacks on Hormuz shipping as both sides trade strikes](https://www.arabnews.com/node/2648759/middle-east) - archive: archive/latest/headlines/01-2648759-us-says-will-not-ignore-attacks-on-hormuz-shipping-as-both-sides-trade/content.md
+2. [Bahrain condemns Iranian drone attacks on its territory](https://www.arabnews.com/node/2648756/middle-east) - archive: archive/latest/headlines/02-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/content.md
+3. [Israel military says targeted suspected militants in south Lebanon airstrike](https://www.arabnews.com/node/2648761/middle-east) - archive: archive/latest/headlines/03-2648761-israel-military-says-targeted-suspected-militants-in-south-lebanon-air/content.md
+4. [Israel deal is not peace treaty but ‘process to end hostilities’ — Lebanese official](https://www.arabnews.com/node/2648787/middle-east) - archive: archive/latest/headlines/04-2648787-israel-deal-is-not-peace-treaty-but-process-to-end-hostilities-lebanes/content.md

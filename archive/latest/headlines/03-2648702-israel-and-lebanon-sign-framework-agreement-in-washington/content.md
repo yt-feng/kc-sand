@@ -16,9 +16,9 @@ WASHINGTON: Lebanon, Israel and the United States on Friday signed a trilateral 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/a06635c0-b883-4815-a44e-9a92f81f9f0c
+- blob:https://www.arabnews.com/3a5c88af-3ecf-4e20-b78f-9795ade18f4e
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://5daa0a4ef8117bccc8161fb3e99992c0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://381e80689e3eb8697500efdfdfdd0e7e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html

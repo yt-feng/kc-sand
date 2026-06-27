@@ -16,9 +16,9 @@ DUBAI: Saudi Arabia exited the World Cup at the group stage for the third tourna
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/8e020dc9-55b8-4930-973b-74b41a5f0107
+- blob:https://www.arabnews.com/5be4316f-c546-4cec-863c-4a8a43453ac8
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://82706f0717220da1ce2ee65682bb6adb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://3b4b4fa9180636466f8c555ca204fbcf.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot

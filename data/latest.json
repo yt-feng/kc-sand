@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T14:47:40.512Z",
+  "fetchedAt": "2026-06-27T16:11:21.491Z",
   "targetDate": {
     "iso": "2026-06-27",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 98,
+    "itemCount": 95,
     "window": {
       "hours": 24,
-      "start": "2026-06-26T14:47:40.512Z",
-      "end": "2026-06-27T14:47:40.512Z",
+      "start": "2026-06-26T16:11:21.491Z",
+      "end": "2026-06-27T16:11:21.491Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-27T14:53:08.286Z",
+    "capturedAt": "2026-06-27T16:17:00.341Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-27",
     "itemCount": 7,
@@ -221,9 +221,11 @@
           "video": "rendered-clips/2026-06-27/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598464/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/935DABDF0A78B4783962BDB194D0E15B146CFA5F.6BD497B6B3320E1EDC747140185F3E9FB7275E00/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598464/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/71A8DCFCFE0411F6174F924D257991E87E25D728.5CA909A0B59851E4D5FDCCC72A9282D75AFC45A0/key/cms1/cms_redirect/yes/met/1782576872,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782576498/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a408c7b_5d32024a0bc15d15c228ad2e31b9e050aaf14ee5/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a408c7b_5d32024a0bc15d15c228ad2e31b9e050aaf14ee5/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a40a193_2a3cd53ea3cc57b4fe0c021cdba384b08770a783/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a40a193_2a3cd53ea3cc57b4fe0c021cdba384b08770a783/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -233,9 +235,9 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-27/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://content.jwplatform.com/videos/ngVuDIbE-C8cpcmty.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598464/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/935DABDF0A78B4783962BDB194D0E15B146CFA5F.6BD497B6B3320E1EDC747140185F3E9FB7275E00/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
-          "bytes": 14628051,
+          "bytes": 1231960,
           "method": "direct"
         }
       },
@@ -255,8 +257,10 @@
           "video": "rendered-clips/2026-06-27/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598493/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/488A0F90B151C6E947B7201BD099550A96B1F741.29E164A9A06BD28F1AB3A97A868622FE7523869B/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598493/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/28003136C144AA2CE3E4325186B955201F762F95.6967746D208E308124B0E06E82D291CD80594504/key/cms1/cms_redirect/yes/met/1782576901,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782576498/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a408f57_5a7b6e0698d558aaf7d984845d647cf84f43cc55/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a40a0eb_b93d409345b263fae8b8dde766023a594784136d/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -266,9 +270,9 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-27/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598493/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/488A0F90B151C6E947B7201BD099550A96B1F741.29E164A9A06BD28F1AB3A97A868622FE7523869B/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
-          "bytes": 8233121,
+          "bytes": 1231960,
           "method": "direct"
         }
       },
@@ -288,8 +292,10 @@
           "video": "rendered-clips/2026-06-27/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598519/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8CAE085B84D8ACBA37B015F7D4F0E04302740EBA.178914EA811A5E0B5CE0E66CDE0F0A3043D8E434/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598519/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4C4CC7BEF55168CC116FDAD3FFAF23E5630F75B8.3B80D1757701C9851353237C32D44BBA53FF527B/key/cms1/cms_redirect/yes/met/1782576926,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782576735/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a408e16_c90bd3047dd78256efb7261d0ac0b6838c0f4c3d/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a40a32e_c1f8d5e388792343c590a12942ecf8ca03a78ab0/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -299,9 +305,9 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-27/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598519/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8CAE085B84D8ACBA37B015F7D4F0E04302740EBA.178914EA811A5E0B5CE0E66CDE0F0A3043D8E434/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
-          "bytes": 7265426,
+          "bytes": 1231960,
           "method": "direct"
         }
       },
@@ -321,8 +327,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782593511/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7E41E10CC5D6E89D751A09033B4A101C2F481F9E.3EC13FB0B291AD111A839BE989B2468E08243CF5/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782593511/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6BC7358AD261F3426914E091AE6CD3E8FCC12623.721872106421AC84F38A7CE427F6CB9E0246E5C5/key/cms1/cms_redirect/yes/met/1782571917,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782571700/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598542/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/35E1241F69A3670A266D958058597A6A2448E118.3C3CDA85D7E6B6260DA43B5A935D607BEE0D0621/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598542/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/45FEA0FC4AC5404D71AFD22D870C9337B554F49E.73A10F360828EE0F1DA34EBB28318786B541C10E/key/cms1/cms_redirect/yes/met/1782576948,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782576498/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/image.jpg",
@@ -347,7 +353,10 @@
           "image": "archive/latest/headlines/02-2648787-israel-deal-is-not-peace-treaty-but-process-to-end-hostilities-lebanes/image.jpg",
           "video": null
         },
-        "videoUrls": [],
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598562/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/43A81410D459BE39FBBA6417C5C606F77678E386.0DE277849AC6BEDD711AAFEFCB7A1A06D5E12C32/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598562/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1C0484F997B16167F398D3E221540BCD841A94D9.25814E32763371E0ED4E92F56B9070C9A42B9E1E/key/cms1/cms_redirect/yes/met/1782576967,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782576498/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
         "image": {
           "path": "archive/latest/headlines/02-2648787-israel-deal-is-not-peace-treaty-but-process-to-end-hostilities-lebanes/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725813-1111374178.jpg?itok=mfKJeuLv",
@@ -371,7 +380,10 @@
           "image": "archive/latest/headlines/03-2648786-hezbollah-rejects-us-brokered-israel-lebanon-security-deal-as-surrende/image.jpg",
           "video": null
         },
-        "videoUrls": [],
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598583/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6007F12CFAE2536C86864D3CA05E840A8D4AE53C.A5A88A57CADC5F9753D88A3518AE944F42EE2E91/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598583/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7F6DB6CC8E7D2C741F7D29EB62B77A8C1BFC4D2D.0F8B253C6C8FCAA140670A536F9AA5437665B826/key/cms1/cms_redirect/yes/met/1782576988,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782576498/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
         "image": {
           "path": "archive/latest/headlines/03-2648786-hezbollah-rejects-us-brokered-israel-lebanon-security-deal-as-surrende/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725815-1575691909.jpg?itok=uSqL_qff",
@@ -396,8 +408,10 @@
           "video": null
         },
         "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598605/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/41DD384AF97C704156D620EECB9BE04FC2813157.14D19935A351ACF1BB7D052BA6B644848FD5D949/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782598605/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/44F7EF6833C86517F535AEF83DDC878AC5C7F95B.7CC57C73EAB9A2209ED947C1AAA6A8D2972D61D6/key/cms1/cms_redirect/yes/met/1782577012,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782576498/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/JCtMAm7t.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a408e7f_7139ec7b6864d0d11aa5d2823d3f2d1472b8bc79/sites/wPTWN2YS/media/JCtMAm7t/versions/1IqWrnux/manifest.ism/manifest-audio_0_ZwXAMv4W_dxyC8AZy=112007-video_0_ZwXAMv4W_OSQVK6fy=302307.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a40a013_0969c903de165f85616e1cbbd0c153723c162291/sites/wPTWN2YS/media/JCtMAm7t/versions/1IqWrnux/manifest.ism/manifest-audio_0_ZwXAMv4W_dxyC8AZy=112007-video_0_ZwXAMv4W_OSQVK6fy=302307.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2648740-arab-teams-at-world-cup-2026-saudi-arabia-and-iraq-knocked-out-egypt-d/image.jpg",

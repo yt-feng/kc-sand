@@ -1,0 +1,68 @@
+# Israel military says targeted suspected militants in south Lebanon airstrike
+
+Source: https://www.arabnews.com/node/2648761/middle-east
+Captured source: https://www.arabnews.com/node/2648761/middle-east
+Published: 2026-06-27T13:53:43+03:00
+Modified: 2026-06-27T20:03:07+03:00
+Author: ReutersAFP
+
+## Summary
+
+JERUSALEM: The Israeli military said it carried out an airstrike on Saturday targeting suspected militants in the Nabatieh area of southern Lebanon, the first such attack since Washington announced a framework agreement between Israel and Lebanon. On Friday, Israel, Lebanon and the United States signed a trilateral agreement aimed at paving the way for a broader peace deal
+
+## Image
+
+![main image](./image.jpg)
+
+## Video Or Embed URLs
+
+- https://bb5e3b5b6cee26f719bb9171d1477a46.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648761%2Fmiddle-east
+
+## Text
+
+https://arab.news/nue24
+
+IDF spokeswoman said Saturday’s airstrike targeted “suspected terrorists who posted a threat” in Nabatieh area
+
+Israeli defense minister Israel Katz vowed to respond with “great force” if Iran attempted to prevent implementation of the agreement with Lebanon
+
+JERUSALEM: The Israeli military said it carried out an airstrike on Saturday targeting suspected militants in the Nabatieh area of southern Lebanon, the first such attack since Washington announced a framework agreement between Israel and Lebanon.
+
+On Friday, Israel, Lebanon and the United States signed a trilateral agreement aimed at paving the way for a broader peace deal between the two Middle East nations.
+
+An Israeli military spokeswoman told AFP that Saturday’s airstrike targeted “suspected terrorists who posted a threat to IDF soldiers” in the Nabatieh area.
+
+“The results of the strike are still being assessed.”
+
+According to the National News Agency (NNA), Israeli warplanes hit an unidentified target in Nabatieh al-Fawqa at around 6:30 pm (1530 GMT) local time. Earlier in the afternoon, drones carried out four strikes on the town square and the Al-Manzala neighborhood.
+
+The NNA said an Israeli drone struck in Nabatieh Al-Fawqa, which lies outside a security zone ⁠shown on a map ‌published ‌by Israel of an ‌expanded zone its ‌troops control in southern Lebanon.
+
+Israeli defense minister Israel Katz vowed on Saturday to respond with “great force” if Iran attacked Israel in an attempt to prevent the implementation of the agreement with Lebanon.
+
+“If Iran tries to attack Israel to prevent the implementation of the agreement, we will act against it with great force,” Israel Katz said in a video statement, adding that the agreement with Lebanon had dealt a “strategic blow to the Iranian axis.”
+
+The Israeli military told Reuters it had carried ‌out the strike, using a drone as ⁠no ⁠Israeli troops were in the immediate area.
+
+It said it targeted an individual who posed a threat to its forces, without providing further details or evidence.
+
+Lebanon was drawn into the broader Middle East war on March 2 when Iran-backed militant group Hezbollah fired rockets at Israel to avenge the killing of Iran’s supreme leader Ayatollah Ali Khamenei in US-Israeli strikes.
+
+Israel responded with heavy airstrikes and a ground invasion in southern Lebanon, where its troops occupy swathes of territory and have been carrying out extensive demolitions of homes and other buildings.
+
+Friday’s US-brokered agreement followed five rounds of negotiations between Israeli and Lebanese officials aimed at ending the fighting.
+
+The deal “begins to put in place a framework for lasting peace and security,” US Secretary of State Marco Rubio said at the signing ceremony.
+
+“It’s the beginning of the beginning. There’s a lot of work ahead.”
+
+According to the text of the agreement, Israel and Lebanon “declare their intent to conclusively end the conflict, address its underlying causes, and to therewith formally conclude any state of war between them.”
+
+Lebanon does not recognize Israel and the two have officially been at war for decades, although Israel has largely fought Hezbollah and other non-state actors in its conflicts in Lebanon.
+
+Despite the agreement, major differences remain between Israel and Hezbollah.

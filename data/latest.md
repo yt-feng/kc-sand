@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-27T16:11:21.491Z
+Fetched at: 2026-06-27T17:38:52.928Z
 Target date: 2026-06-27 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-06-27 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Bahrain condemns Iranian drone attacks on its territory](https://www.arabnews.com/node/2648756/middle-east) - archive: archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/content.md
-2. [Israel deal is not peace treaty but ‘process to end hostilities’ — Lebanese official](https://www.arabnews.com/node/2648787/middle-east) - archive: archive/latest/headlines/02-2648787-israel-deal-is-not-peace-treaty-but-process-to-end-hostilities-lebanes/content.md
-3. [Hezbollah rejects US-brokered Israel-Lebanon security deal as ‘surrender’](https://www.arabnews.com/node/2648786/middle-east) - archive: archive/latest/headlines/03-2648786-hezbollah-rejects-us-brokered-israel-lebanon-security-deal-as-surrende/content.md
-4. [Arab teams at World Cup 2026: Saudi Arabia and Iraq knocked out, Egypt draw with Iran](https://www.arabnews.com/node/2648740/sport) - archive: archive/latest/headlines/04-2648740-arab-teams-at-world-cup-2026-saudi-arabia-and-iraq-knocked-out-egypt-d/content.md
+2. [Israel military says targeted suspected militants in south Lebanon airstrike](https://www.arabnews.com/node/2648761/middle-east) - archive: archive/latest/headlines/02-2648761-israel-military-says-targeted-suspected-militants-in-south-lebanon-air/content.md
+3. [Israel deal is not peace treaty but ‘process to end hostilities’ — Lebanese official](https://www.arabnews.com/node/2648787/middle-east) - archive: archive/latest/headlines/03-2648787-israel-deal-is-not-peace-treaty-but-process-to-end-hostilities-lebanes/content.md
+4. [Hezbollah rejects US-brokered Israel-Lebanon security deal as ‘surrender’](https://www.arabnews.com/node/2648786/middle-east) - archive: archive/latest/headlines/04-2648786-hezbollah-rejects-us-brokered-israel-lebanon-security-deal-as-surrende/content.md

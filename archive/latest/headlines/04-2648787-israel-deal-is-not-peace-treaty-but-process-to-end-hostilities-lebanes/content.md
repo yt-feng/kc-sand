@@ -16,11 +16,11 @@ BEIRUT: The newly signed US-brokered framework with Israel does not amount to a 
 
 ## Video Or Embed URLs
 
-- https://a2e8340baf08cf10be8964eb6f5a2b78.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b82894d92fa7ac083ea993338502a171.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648787%2Fmiddle-east
 
 ## Text

@@ -16,7 +16,7 @@ BEIRUT: Lebanese President Joseph Aoun said a deal signed with Israel on Friday 
 
 ## Video Or Embed URLs
 
-- https://5fb1207d48b9a42d57bced5389d10ad0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://40a6df909432716f44f78aa5a331cd3d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

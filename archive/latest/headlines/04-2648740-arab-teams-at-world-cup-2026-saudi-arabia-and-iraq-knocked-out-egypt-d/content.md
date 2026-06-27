@@ -1,14 +1,14 @@
-# Arab teams at World Cup 2026: Saudi Arabia and Iraq knocked out, Egypt draws with Iran
+# Arab teams at World Cup 2026: Saudi Arabia and Iraq knocked out, Egypt draw with Iran
 
 Source: https://www.arabnews.com/node/2648740/sport
 Captured source: https://www.arabnews.com/node/2648740/sport
 Published: 2026-06-27T07:15:35+03:00
-Modified: 2026-06-27T14:01:49+03:00
+Modified: 2026-06-27T16:10:39+03:00
 Author: Agencies
 
 ## Summary
 
-DUBAI: Saudi Arabia exited the World Cup at the group stage for the third tournament in a row, after a goalless draw with Cabo Verde at Houston Stadium on Friday. Cape Verde (0-0-3, 3 points) are now the smallest nation ever to reach the second phase, finishing second in the group above Saudi Arabia (0-1-2, 2 points) and Uruguay (0-1-2, 2 points), who lost 1-0 in Friday
+DUBAI: Saudi Arabia exited the World Cup at the group stage for the third tournament in a row, after a goalless draw with Cape Verde at Houston Stadium on Friday. Cape Verde (0-0-3, 3 points) are now the smallest nation ever to reach the second phase, finishing second in the group above Saudi Arabia (0-1-2, 2 points) and Uruguay (0-1-2, 2 points), who lost 1-0 in Friday
 
 ## Image
 
@@ -16,9 +16,8 @@ DUBAI: Saudi Arabia exited the World Cup at the group stage for the third tourna
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/5be4316f-c546-4cec-863c-4a8a43453ac8
+- blob:https://www.arabnews.com/44cbf343-315a-4e23-8757-a97b6bbe85e6
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://3b4b4fa9180636466f8c555ca204fbcf.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot
@@ -34,7 +33,7 @@ Saudi Arabia failed to advance for a sixth consecutive World Cup appearance afte
 
 Iraq, making their second World Cup appearance and first in 40 years, will go home without a point
 
-DUBAI: Saudi Arabia exited the World Cup at the group stage for the third tournament in a row, after a goalless draw with Cabo Verde at Houston Stadium on Friday. For the latest updates, follow us @ArabNewsSport Cape Verde (0-0-3, 3 points) are now the smallest nation ever to reach the second phase, finishing second in the group above Saudi Arabia (0-1-2, 2 points) and Uruguay (0-1-2, 2 points), who lost 1-0 in Friday night’s other group game to Spain (2-0-1, 7 points). Saudi Arabia failed to advance for a sixth consecutive World Cup appearance after reaching the last 16 in their maiden tournament in 1994. Before Friday, Ghana and Ukraine were the last tournament debutants to progress from their group in 2006. Nuno ‌da Costa ran onto a throughball over the top from ‌in his own half, drove at two Saudi defenders, then laid the ball to his right into the path of Laros Duarte’s surging run. Goalkeeper Mohammed Al-Owais charged off his line and kept Duarte’s first-time effort out just barely with his ‌trailing leg. Cape Verde continued to threaten through da Costa in particular. Several minutes after Al-Owais’ save, he got ⁠around the ⁠corner but sent his effort wide from a tight angle. Then in second-half stoppage time, he missed narrowly wide on what looked like a clear chance, though the linesman’s flag eventually came up. Cape Verde had the better first half, but it was Saudi Arabia with the lone chance on goal, Mohamed Kanno’s header in stoppage time that Vozinha comfortably claimed. Cape Verde put their first effort on target three minutes into the second half when Jamiro Monteiro reached Ryan Mendes’ cross but sent only a tame effort at Al-Owais. The Saudis improved briefly after a double ​substitution, with Mohammed Abu Al- Shamat ​forcing Vozinha into an awkward-looking stop in the 67th minute, moments after his entrance.
+DUBAI: Saudi Arabia exited the World Cup at the group stage for the third tournament in a row, after a goalless draw with Cape Verde at Houston Stadium on Friday. For the latest updates, follow us @ArabNewsSport Cape Verde (0-0-3, 3 points) are now the smallest nation ever to reach the second phase, finishing second in the group above Saudi Arabia (0-1-2, 2 points) and Uruguay (0-1-2, 2 points), who lost 1-0 in Friday night’s other group game to Spain (2-0-1, 7 points). Saudi Arabia failed to advance for a sixth consecutive World Cup appearance after reaching the last 16 in their maiden tournament in 1994. Before Friday, Ghana and Ukraine were the last tournament debutants to progress from their group in 2006. Nuno ‌da Costa ran onto a throughball over the top from ‌in his own half, drove at two Saudi defenders, then laid the ball to his right into the path of Laros Duarte’s surging run. Goalkeeper Mohammed Al-Owais charged off his line and kept Duarte’s first-time effort out just barely with his ‌trailing leg. Cape Verde continued to threaten through da Costa in particular. Several minutes after Al-Owais’ save, he got ⁠around the ⁠corner but sent his effort wide from a tight angle. Then in second-half stoppage time, he missed narrowly wide on what looked like a clear chance, though the linesman’s flag eventually came up. Cape Verde had the better first half, but it was Saudi Arabia with the lone chance on goal, Mohamed Kanno’s header in stoppage time that Vozinha comfortably claimed. Cape Verde put their first effort on target three minutes into the second half when Jamiro Monteiro reached Ryan Mendes’ cross but sent only a tame effort at Al-Owais. The Saudis improved briefly after a double ​substitution, with Mohammed Abu Al- Shamat ​forcing Vozinha into an awkward-looking stop in the 67th minute, moments after his entrance.
 
 For the latest updates, follow us @ArabNewsSport
 

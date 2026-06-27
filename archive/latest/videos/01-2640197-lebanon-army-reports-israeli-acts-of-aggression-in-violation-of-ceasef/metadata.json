@@ -7,7 +7,7 @@
   "dateText": "",
   "source": "video-page",
   "order": 0,
-  "capturedAt": "2026-06-27T19:41:21.606Z",
+  "capturedAt": "2026-06-27T21:15:05.072Z",
   "responseStatus": 200,
   "responseUrl": "https://www.arabnews.com/node/2640197/middle-east",
   "challengeDetected": false,
@@ -22,19 +22,16 @@
     "canonical": "https://www.arabnews.com/node/2640197/middle-east",
     "textLength": 3010,
     "videoUrls": [
-      "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782610860/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8500DCBCDCD60CF58F78670FD6895E47E7506CDA.A0035C01445A58B94AB9AC1485BDBA761D69B58F/key/ck2/file/file.mp4",
-      "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782610860/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6FF0748DA82665FCEEE5A765A90E55AAD39933F5.48385B1D70FB81016A472022F100C9EB6980F982/key/cms1/cms_redirect/yes/met/1782589269,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782588733/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
       "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-      "https://videos-cloudfront-usp.jwpsrv.com/6a40d2cb_a07c30224f6597b0c6aaec52f05ba05d61355e53/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-      "https://videos-cloudfront-usp.jwpsrv.com/6a40d2cb_a07c30224f6597b0c6aaec52f05ba05d61355e53/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+      "https://videos-cloudfront-usp.jwpsrv.com/6a40e7e3_566a8919011ba5793d58e51330db5f372f5628e9/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
     ],
     "pageTitle": "Lebanon army reports Israeli ‘acts of aggression’ in ‘violation of ceasefire’ | Arab News"
   },
   "videoDownload": {
-    "path": "rendered-clips/2026-06-27/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-    "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782610860/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8500DCBCDCD60CF58F78670FD6895E47E7506CDA.A0035C01445A58B94AB9AC1485BDBA761D69B58F/key/ck2/file/file.mp4",
+    "path": "rendered-clips/2026-06-28/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
+    "url": "https://content.jwplatform.com/videos/ngVuDIbE-C8cpcmty.mp4",
     "contentType": "video/mp4",
-    "bytes": 1231960,
+    "bytes": 14628051,
     "method": "direct"
   },
   "files": {
@@ -43,6 +40,6 @@
     "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
     "html": null,
     "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-    "video": "rendered-clips/2026-06-27/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+    "video": "rendered-clips/2026-06-28/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
   }
 }

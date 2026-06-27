@@ -16,7 +16,7 @@ NEW YORK CITY: Saudi Arabia’s envoy to the UN, Abdulaziz Alwasil, told the Sec
 
 ## Video Or Embed URLs
 
-- https://a9ac5662a7ec74055bd3911fb12e489d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a002b475b59365b4ceedbd924377b532.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

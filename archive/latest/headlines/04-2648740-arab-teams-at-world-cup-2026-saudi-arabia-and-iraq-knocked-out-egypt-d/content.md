@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2648740/sport
 Captured source: https://www.arabnews.com/node/2648740/sport
 Published: 2026-06-27T07:15:35+03:00
-Modified: 2026-06-27T08:13:22+03:00
+Modified: 2026-06-27T14:01:49+03:00
 Author: Agencies
 
 ## Summary
@@ -16,12 +16,14 @@ DUBAI: Saudi Arabia exited the World Cup at the group stage for the third tourna
 
 ## Video Or Embed URLs
 
-- https://f5bd659585f72a7ea343463d0b8070c2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/8e020dc9-55b8-4930-973b-74b41a5f0107
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://82706f0717220da1ce2ee65682bb6adb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648740%2Fsport
 
 ## Text

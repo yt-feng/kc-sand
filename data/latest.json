@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T08:45:08.698Z",
+  "fetchedAt": "2026-06-27T11:01:04.102Z",
   "targetDate": {
     "iso": "2026-06-27",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,61 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 87,
+    "itemCount": 91,
     "window": {
       "hours": 24,
-      "start": "2026-06-26T08:45:08.698Z",
-      "end": "2026-06-27T08:45:08.698Z",
+      "start": "2026-06-26T11:01:04.102Z",
+      "end": "2026-06-27T11:01:04.102Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Bahrain condemns Iranian drone attacks on its territory",
+        "url": "https://www.arabnews.com/node/2648756/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/27/4725735-2012655092.jpg?itok=9H9ux9mC",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/metadata.json",
+            "content": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/content.md",
+            "text": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Israeli drone strike hits southern Lebanon day after security deal",
+        "url": "https://www.arabnews.com/node/2648761/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/27/4725749-1639188319.jpg?itok=lXgVNqBK",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2,
+        "archive": {
+          "directory": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/metadata.json",
+            "content": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/content.md",
+            "text": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "Israel and Lebanon sign framework agreement in Washington",
         "url": "https://www.arabnews.com/node/2648702/middle-east",
@@ -97,60 +141,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
-        "archive": {
-          "directory": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/metadata.json",
-            "content": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md",
-            "text": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Lebanon president: Israel deal first step to restoring sovereignty",
-        "url": "https://www.arabnews.com/node/2648720/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/26/4725605-481745990.jpg?itok=8KCxWMpW",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 2,
-        "archive": {
-          "directory": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/metadata.json",
-            "content": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/content.md",
-            "text": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Saudi UN envoy warns external arms suppliers are fueling war in Sudan, rejects parallel rule",
-        "url": "https://www.arabnews.com/node/2648723/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/27/4725610-1210371623.jpg?itok=Xoo5wACQ",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-",
+          "directory": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/metadata.json",
-            "content": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/content.md",
-            "text": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/metadata.json",
+            "content": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md",
+            "text": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/image.jpg",
+            "image": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/image.jpg",
             "video": null
           }
         }
@@ -163,7 +163,7 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 7,
+        "order": 6,
         "archive": {
           "directory": "archive/latest/headlines/04-2648740-arab-teams-at-world-cup-2026-saudi-arabia-and-iraq-knocked-out-egypt-d",
           "status": "ok",
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-27T08:50:29.437Z",
+    "capturedAt": "2026-06-27T11:06:45.433Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-27",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-06-27/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571672/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1B84924ADF26DD410ACB659CF22829030656E50C.2EFEF31D7E1CE44F2F9A4EEDFF922D9F19BB1D0C/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571672/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/30A23363F1B88D1317572887CC7678BD30015C1B.7E54820C3ED08755FA6E3D49D0167EBB6A17840B/key/cms1/cms_redirect/yes/met/1782550081,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782549613/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579850/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3A66F8105DC6D1D891245183E5C317C1AE2301F0.B43CAA0EE88ECB4EC85D7686F793894DE60F9471/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579850/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2A36C528C4A3136C3062FD5A5C6EA08D7E676752.7A028812A67631C9D5F9E2FA953299BDF4A0C94F/key/cms1/cms_redirect/yes/met/1782558257,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782558011/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a40381b_5eebc45aac4e8128c229bd86796467fab6a78cac/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a40381b_5eebc45aac4e8128c229bd86796467fab6a78cac/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4057bf_4d2b0c5bc54301b7742d46f3d5ab59018a0fb452/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4057bf_4d2b0c5bc54301b7742d46f3d5ab59018a0fb452/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-27/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571672/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1B84924ADF26DD410ACB659CF22829030656E50C.2EFEF31D7E1CE44F2F9A4EEDFF922D9F19BB1D0C/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579850/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3A66F8105DC6D1D891245183E5C317C1AE2301F0.B43CAA0EE88ECB4EC85D7686F793894DE60F9471/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-06-27/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571702/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4523FF2FEC6B1A462259A79391FB9F9E7BF44DD3.0D43A9EDE2900E11DE045BDB391D7508AF20773E/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571702/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3822CA4FBF8B87852DD817496D85EE8934C060C0.0DE2B1E55FDE41BC3614F0B2F370FCB2B6DDB572/key/cms1/cms_redirect/yes/met/1782550110,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782549613/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579876/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6E2FE7ADE34C1C66A781EADCE3488B10FBD8781F.85E688739ABC6F73A2448FE1D678BEF7371EA4CC/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579876/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/45E2CD5DC415E8F183C3C69FBBC0F89120D35A52.66EEC80005871081D22D94D3F0D81414E809DC5B/key/cms1/cms_redirect/yes/met/1782558284,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782557775/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a403773_de7776da67a3533e8c790663f1865de92aad636e/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a405717_6fbdafd5773a78347616a36cb81661bcb675c8ea/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-27/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571702/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4523FF2FEC6B1A462259A79391FB9F9E7BF44DD3.0D43A9EDE2900E11DE045BDB391D7508AF20773E/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579876/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6E2FE7ADE34C1C66A781EADCE3488B10FBD8781F.85E688739ABC6F73A2448FE1D678BEF7371EA4CC/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -292,20 +292,20 @@
           "video": "rendered-clips/2026-06-27/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571727/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/108414A848580DAC93C8ED520938FC66E8F9FF2C.575FB6E2CB1025A6C6802B126293B2E881E169E5/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571727/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/587518678CD2A517A749068C9327FC431FBBA669.7195217853153D100EEA98DEA169CD4D99C22DFD/key/cms1/cms_redirect/yes/met/1782550133,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782549613/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579901/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1A318AE4510367B5CB75EDB05C7A40898F62CF9B.9AAAFE173BA53370D1549CB0C67FA7C80F2F1987/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579901/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/71FFB1D1DBC3CA8BA5A6803C53968BCFA89C069F.19C5804B49D5EC3D3EB11D7461B5D62FF504435A/key/cms1/cms_redirect/yes/met/1782558309,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782558014/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4039b6_c106037732af07ff558b5c610e8046773d69e6c4/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a40595a_f76c7f10f4bcbfa7727ca278d75da855c8231171/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/04/16/4703301-2012512905.jpg?itok=fknboKTg",
           "contentType": "image/jpeg",
-          "bytes": 33206
+          "bytes": 35132
         },
         "video": {
           "path": "rendered-clips/2026-06-27/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571727/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/108414A848580DAC93C8ED520938FC66E8F9FF2C.575FB6E2CB1025A6C6802B126293B2E881E169E5/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579901/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1A318AE4510367B5CB75EDB05C7A40898F62CF9B.9AAAFE173BA53370D1549CB0C67FA7C80F2F1987/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -314,83 +314,80 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Israel and Lebanon sign framework agreement in Washington",
-        "url": "https://www.arabnews.com/node/2648702/middle-east",
-        "directory": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington",
+        "title": "Bahrain condemns Iranian drone attacks on its territory",
+        "url": "https://www.arabnews.com/node/2648756/middle-east",
+        "directory": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/metadata.json",
-          "content": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md",
-          "text": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/metadata.json",
+          "content": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/content.md",
+          "text": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/image.jpg",
+          "image": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/image.jpg",
           "video": null
         },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571749/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/355BAC9AF8F65F928F8C975AF919DD318CA02AD6.4387289992962A55AC17E45FDBD29F281E093D1B/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571749/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/51671F1699E418CB473998EBCDC78BA431EE757A.566FA0D8E5220A64A6541445F4DF881538E6AE3C/key/cms1/cms_redirect/yes/met/1782550159,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782549855/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
-          "https://cdn.jwplayer.com/manifests/2rjftWu6.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4037e9_7f82555e9e191c7bb228e4b659e5a005978a219c/sites/wPTWN2YS/media/2rjftWu6/versions/KS4vzSvV/manifest.ism/manifest-audio_0_zMfgIoYC_rOMluIXn=112009-video_0_zMfgIoYC_bK0QxOsE=422245.m3u8"
-        ],
+        "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725561-1683227701.jpg?itok=zVe62h7H",
+          "path": "archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725735-2012655092.jpg?itok=WhrXg8OJ",
           "contentType": "image/jpeg",
-          "bytes": 46871
+          "bytes": 35221
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "Lebanon president: Israel deal first step to restoring sovereignty",
-        "url": "https://www.arabnews.com/node/2648720/middle-east",
-        "directory": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty",
+        "title": "Israeli drone strike hits southern Lebanon day after security deal",
+        "url": "https://www.arabnews.com/node/2648761/middle-east",
+        "directory": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/metadata.json",
-          "content": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/content.md",
-          "text": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/metadata.json",
+          "content": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/content.md",
+          "text": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/image.jpg",
+          "image": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571773/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6942FF7744F27AAD2A1C2B643FB4CD975F1166A3.395C174658190F085F0413AACDDA606481F18378/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571773/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0805F957964E2585D540F345F8360C9551F6A4F7.167C5111971A393CA0C9F25807BE6D57EF86E064/key/cms1/cms_redirect/yes/met/1782550178,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782549855/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579945/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0516BF39816E744830145ABB118FDABB8CFCF8F3.A993DC9A10D53FD34A64B3C2314EFE2FA3B76B2C/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579945/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2FBDC34B34FE6ED32EC07629A7C6676B7173E746.783200D1ACC97515086C3AA6E17F4B78BF110860/key/cms1/cms_redirect/yes/met/1782558352,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782558014/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725605-481745990.jpg?itok=3lss2e38",
+          "path": "archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725749-1639188319.jpg?itok=3GGF_A1l",
           "contentType": "image/jpeg",
-          "bytes": 31197
+          "bytes": 54636
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 2,
-        "title": "Saudi UN envoy warns external arms suppliers are fueling war in Sudan, rejects parallel rule",
-        "url": "https://www.arabnews.com/node/2648723/middle-east",
-        "directory": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-",
+        "title": "Israel and Lebanon sign framework agreement in Washington",
+        "url": "https://www.arabnews.com/node/2648702/middle-east",
+        "directory": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/metadata.json",
-          "content": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/content.md",
-          "text": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/metadata.json",
+          "content": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md",
+          "text": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/image.jpg",
+          "image": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571792/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/582CA0EC3055809B1C72D19EA2646F7248A032FF.3D9B462BD364556472E440E82BDE43020C8A61C0/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571792/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/612994381A1627B79D35CB625C184D6931007609.50B24B5A311B213E9D0BDFF023CF7043890735DF/key/cms1/cms_redirect/yes/met/1782550197,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782550094/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579968/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B6716830E2FD5A362A658DCA64B37AF21B630E44.1D24CFCF9E9621139BDEEB6FC5E0102CE6C8864E/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579968/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/414DFF1D6500EEB3B60BECC02D89F713F081BEF2.4471449F088C2F715FB96BB67E72E00B7EB16EEE/key/cms1/cms_redirect/yes/met/1782558376,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782558014/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://cdn.jwplayer.com/manifests/2rjftWu6.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a40578d_1de100f9f29b9967563f0ddf9d2d19030e9c8ce4/sites/wPTWN2YS/media/2rjftWu6/versions/KS4vzSvV/manifest.ism/manifest-audio_0_zMfgIoYC_rOMluIXn=112009-video_0_zMfgIoYC_bK0QxOsE=422245.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725610-1210371623.jpg?itok=y-uBH5wb",
+          "path": "archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/26/4725561-1683227701.jpg?itok=zVe62h7H",
           "contentType": "image/jpeg",
-          "bytes": 36166
+          "bytes": 46871
         },
         "video": null
       },
@@ -410,8 +407,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571813/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7958F4303EF75EE526E2D63EF306B4A0CDDD6BF8.A6FAD5C898AC6826C42D1B9FC1DF0B332259119F/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782571813/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/373C036805C1A048631228069884176E6FCDB4EA.6D1E50BDFD3ABDFD6A1B9701E7785C782EDB834E/key/cms1/cms_redirect/yes/met/1782550218,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782549855/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579990/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A73F63D499B3D86C1B660329F256353D233F6CBB.65E45B70CEC6585A12AF9971D31B3D247F95B99E/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782579990/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2AE356296E9579C1D1BE3AFB68A93BB454400460.7CFEFA391E4B07D4A3A86BD189F474E45F278BED/key/cms1/cms_redirect/yes/met/1782558396,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782558014/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://cdn.jwplayer.com/manifests/JCtMAm7t.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4059c3_d03623c975b9e884b43fa3ed652dcc8a884d8c4f/sites/wPTWN2YS/media/JCtMAm7t/versions/1IqWrnux/manifest.ism/manifest-audio_0_ZwXAMv4W_dxyC8AZy=112007-video_0_ZwXAMv4W_OSQVK6fy=302307.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2648740-arab-teams-at-world-cup-2026-saudi-arabia-and-iraq-knocked-out-egypt-d/image.jpg",

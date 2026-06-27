@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-27T08:45:08.698Z
+Fetched at: 2026-06-27T11:01:04.102Z
 Target date: 2026-06-27 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-27 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Israel and Lebanon sign framework agreement in Washington](https://www.arabnews.com/node/2648702/middle-east) - archive: archive/latest/headlines/01-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md
-2. [Lebanon president: Israel deal first step to restoring sovereignty](https://www.arabnews.com/node/2648720/middle-east) - archive: archive/latest/headlines/02-2648720-lebanon-president-israel-deal-first-step-to-restoring-sovereignty/content.md
-3. [Saudi UN envoy warns external arms suppliers are fueling war in Sudan, rejects parallel rule](https://www.arabnews.com/node/2648723/middle-east) - archive: archive/latest/headlines/03-2648723-saudi-un-envoy-warns-external-arms-suppliers-are-fueling-war-in-sudan-/content.md
+1. [Bahrain condemns Iranian drone attacks on its territory](https://www.arabnews.com/node/2648756/middle-east) - archive: archive/latest/headlines/01-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/content.md
+2. [Israeli drone strike hits southern Lebanon day after security deal](https://www.arabnews.com/node/2648761/middle-east) - archive: archive/latest/headlines/02-2648761-israeli-drone-strike-hits-southern-lebanon-day-after-security-deal/content.md
+3. [Israel and Lebanon sign framework agreement in Washington](https://www.arabnews.com/node/2648702/middle-east) - archive: archive/latest/headlines/03-2648702-israel-and-lebanon-sign-framework-agreement-in-washington/content.md
 4. [Arab teams at World Cup 2026: Saudi Arabia and Iraq knocked out, Egypt draws with Iran](https://www.arabnews.com/node/2648740/sport) - archive: archive/latest/headlines/04-2648740-arab-teams-at-world-cup-2026-saudi-arabia-and-iraq-knocked-out-egypt-d/content.md

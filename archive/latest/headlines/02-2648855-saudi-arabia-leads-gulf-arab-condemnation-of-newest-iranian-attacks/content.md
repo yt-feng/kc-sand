@@ -16,10 +16,10 @@ DUBAI: Saudi Arabia has condemned, in the strongest terms, Iran’s latest attac
 
 ## Video Or Embed URLs
 
-- https://a655762e4aa4c45007c1e25ed12daae5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://0abf14ca44fa517a7f622867e0c6141c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648855%2Fmiddle-east
 

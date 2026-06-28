@@ -16,7 +16,6 @@ RIYADH: Saudi Crown Prince and French President Emmanuel Macron emphasised the i
 
 ## Video Or Embed URLs
 
-- https://96fdf4f51d0b1e7cffdce860326b185a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

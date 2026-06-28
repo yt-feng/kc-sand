@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-28T00:08:44.694Z
+Fetched at: 2026-06-28T05:04:42.292Z
 Target date: 2026-06-28 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-28 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [US says will not ignore attacks on Hormuz shipping as both sides trade strikes](https://www.arabnews.com/node/2648759/middle-east) - archive: archive/latest/headlines/01-2648759-us-says-will-not-ignore-attacks-on-hormuz-shipping-as-both-sides-trade/content.md
-2. [Bahrain condemns Iranian drone attacks on its territory](https://www.arabnews.com/node/2648756/middle-east) - archive: archive/latest/headlines/02-2648756-bahrain-condemns-iranian-drone-attacks-on-its-territory/content.md
-3. [Israel military says targeted suspected militants in south Lebanon airstrike](https://www.arabnews.com/node/2648761/middle-east) - archive: archive/latest/headlines/03-2648761-israel-military-says-targeted-suspected-militants-in-south-lebanon-air/content.md
-4. [Israel deal is not peace treaty but ‘process to end hostilities’ — Lebanese official](https://www.arabnews.com/node/2648787/middle-east) - archive: archive/latest/headlines/04-2648787-israel-deal-is-not-peace-treaty-but-process-to-end-hostilities-lebanes/content.md
+1. [Air raid siren sounded for a second time in Bahrain](https://www.arabnews.com/node/2648843/middle-east) - archive: archive/latest/headlines/01-2648843-air-raid-siren-sounded-for-a-second-time-in-bahrain/content.md
+2. [Lebanon’s Aoun hopes US will press Israel to withdraw from southern areas](https://www.arabnews.com/node/2648846/middle-east) - archive: archive/latest/headlines/02-2648846-lebanon-s-aoun-hopes-us-will-press-israel-to-withdraw-from-southern-ar/content.md
+3. [Hezbollah militants killed, rocket launcher hit in the Nabatieh area — Israeli army](https://www.arabnews.com/node/2648849/middle-east) - archive: archive/latest/headlines/03-2648849-hezbollah-militants-killed-rocket-launcher-hit-in-the-nabatieh-area-is/content.md
+4. [Arab teams at World Cup 2026: Algeria makes knockouts after 3-3 thriller, Jordan exits its debut tournament winless](https://www.arabnews.com/node/2648851/sport) - archive: archive/latest/headlines/04-2648851-arab-teams-at-world-cup-2026-algeria-makes-knockouts-after-3-3-thrille/content.md

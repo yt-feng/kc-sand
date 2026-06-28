@@ -1,125 +1,121 @@
 # Arab News Recent 24 Hours
 
-Fetched at: 2026-06-28T11:12:29.022Z
-Window: 2026-06-27T11:12:29.022Z to 2026-06-28T11:12:29.022Z (24h)
-Items: 104
+Fetched at: 2026-06-28T12:58:34.730Z
+Window: 2026-06-27T12:58:34.730Z to 2026-06-28T12:58:34.730Z (24h)
+Items: 100
 
 ## Items
 
-1. [Pakistani port handles record 54.7 million tons of cargo in FY26 amid Iran war](https://www.arabnews.com/node/2648874/pakistan) - published: 2026-06-28T10:43:59.000Z - author: ARAB NEWS PAKISTAN
-2. [Oman’s insurance sector investments climb 10.3% to $2.28bn in Q1](https://www.arabnews.com/node/2648873/business-economy) - published: 2026-06-28T10:32:29.000Z - section: business economy - author: Arab News
-3. [Ukrainian strike sets fire to an oil refinery in southern Russia](https://www.arabnews.com/node/2648872/world) - published: 2026-06-28T10:32:26.000Z - section: world - author: AP
-4. [Pakistani, Chinese firms sign agreement to locally manufacture lithium-ion batteries](https://www.arabnews.com/node/2648871/pakistan) - published: 2026-06-28T10:27:00.000Z - author: Arab News Pakistan
-5. [Iran FM warns any challenge to Hormuz routes will ‘increase tensions’](https://www.arabnews.com/node/2648870/middle-east) - published: 2026-06-28T10:21:28.000Z - section: middle east - author: AFP
-6. [Hezbollah lawmaker warns of Lebanese ‘internal conflict’ after Israel deal](https://www.arabnews.com/node/2648869/middle-east) - published: 2026-06-28T10:20:11.000Z - section: middle east - author: AFP
-7. [Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel](https://www.arabnews.com/node/2648868/middle-east) - published: 2026-06-28T10:16:13.000Z - section: middle east - author: AP
-8. [Saudi Arabia leads Gulf, Arab condemnation of newest Iranian attacks](https://www.arabnews.com/node/2648855/middle-east) - published: 2026-06-28T10:04:04.000Z - section: middle east - author: Arab News
-9. [Israel military says soldier killed in south Lebanon fighting](https://www.arabnews.com/node/2648867/middle-east) - published: 2026-06-28T10:03:04.000Z - section: middle east - author: AFP
-10. [From rubble to music: Gaza’s Oud repairman](https://www.arabnews.com/node/2648866/middle-east) - published: 2026-06-28T10:01:57.000Z - section: middle east - author: AFP
-11. [Sinner begins Wimbledon defense, Sabalenka seeks first title](https://www.arabnews.com/node/2648865/sport) - published: 2026-06-28T09:53:50.000Z - section: sport - author: Reuters
-12. [Israel damaged heritage sites across south Lebanon, minister says](https://www.arabnews.com/node/2648864/middle-east) - published: 2026-06-28T09:22:41.000Z - section: middle east - author: Reuters
-13. [Jordan’s exports to EU markets surge 49.3% in first 4 months of 2026](https://www.arabnews.com/node/2648863/business-economy) - published: 2026-06-28T08:48:23.000Z - section: business economy - author: Arab News
-14. [Baniyas maintain lead on Day 2 of the Khaled bin Mohamed bin Zayed Jiu-Jitsu Championship](https://www.arabnews.com/node/2648862/sport) - published: 2026-06-28T08:34:14.000Z - section: sport - author: Arab News
-15. [Saudi Arabia expands China transport ties at Shanghai logistics exhibition](https://www.arabnews.com/node/2648861/business-economy) - published: 2026-06-28T08:13:58.000Z - section: business economy - author: Arab News
-16. [‘High-strung’ camels race in Australian outback](https://www.arabnews.com/node/2648860/offbeat) - published: 2026-06-28T08:00:02.000Z - section: offbeat - author: AFP
-17. [Pakistan urges US, Iran to abide by ceasefire agreement as both exchange attacks](https://www.arabnews.com/node/2648859/pakistan) - published: 2026-06-28T07:50:06.000Z - author: Shahjahan Khurram
-18. [Lebanon state media reports Israeli strike on south](https://www.arabnews.com/node/2648849/middle-east) - published: 2026-06-28T07:36:09.000Z - section: middle east - author: AFPReuters
-19. [Pakistan says refined fuel prices expected to drop, vows to pass on relief to consumers](https://www.arabnews.com/node/2648858/pakistan) - published: 2026-06-28T07:05:23.000Z - author: ARAB NEWS PAKISTAN
-20. [France records around 1,000 excess deaths in heatwave: health agency](https://www.arabnews.com/node/2648856/world) - published: 2026-06-28T06:50:14.000Z - section: world - author: AFP
-21. [Nora Fatehi releases new World Cup song](https://www.arabnews.com/node/2648854/lifestyle) - published: 2026-06-28T06:27:33.000Z - section: lifestyle - author: Arab News
-22. [Residential building damaged in latest Iranian attack — Bahrain interior ministry](https://www.arabnews.com/node/2648843/middle-east) - published: 2026-06-28T06:04:08.000Z - section: middle east - author: Arab News
-23. [Venezuela quakes kill 1,400 as time running out to find survivors](https://www.arabnews.com/node/2648853/world) - published: 2026-06-28T05:29:45.000Z - section: world - author: AFP
-24. [Pakistan suspends Geo News transmission for 15 days over ‘religious visualization’ in Muharram program](https://www.arabnews.com/node/2648852/pakistan) - published: 2026-06-28T04:57:42.000Z - author: Waseem Abbasi
-25. [Arab teams at World Cup 2026: Algeria makes knockouts after 3-3 thriller, Jordan exits its debut tournament winless](https://www.arabnews.com/node/2648851/sport) - published: 2026-06-28T04:44:37.000Z - section: sport - author: Agencies
-26. [Trump threatens to annihilate Iran after new exchange of attacks](https://www.arabnews.com/node/2648834/middle-east) - published: 2026-06-28T04:42:46.000Z - section: middle east - author: Agencies
-27. [Will World Cup failure usher in moment of reckoning for Saudi football?](https://www.arabnews.com/node/2648826/football) - published: 2026-06-28T04:36:50.000Z - section: football - author: Ali Khaled
-28. [Algeria and Austria in dramatic draw as both reach World Cup knockout stages](https://www.arabnews.com/node/2648850/sport) - published: 2026-06-28T04:30:45.000Z - section: sport - author: Ali Khaled
-29. [Jordan bows out winless despite Altamari goal as Messi scores again in Argentina victory](https://www.arabnews.com/node/2648848/sport) - published: 2026-06-28T04:21:02.000Z - section: sport - author: AP
-30. [Jordanian royals in the stands as national team completes World Cup campaign](https://www.arabnews.com/node/2648857/lifestyle) - published: 2026-06-28T03:51:33.000Z - section: lifestyle - author: Arab News
-31. [Pakistan vows ‘retribution operations’ after attack on Karachi paramilitary facility kills 3 soldiers](https://www.arabnews.com/node/2648847/pakistan) - published: 2026-06-28T03:45:22.000Z - author: NAIMAT KHAN
-32. [Lebanon’s Aoun hopes US will press Israel to withdraw from southern areas](https://www.arabnews.com/node/2648846/middle-east) - published: 2026-06-28T03:37:24.000Z - section: middle east - author: ReutersAFP
-33. [Iraqi forces raid Baghdad’s Green Zone amid arrest reports](https://www.arabnews.com/node/2648845/middle-east) - published: 2026-06-28T03:14:36.000Z - section: middle east - author: AFP
-34. [Pakistan business group urges revival of Iran gas pipeline after regional thaw](https://www.arabnews.com/node/2648844/pakistan) - published: 2026-06-28T03:12:40.000Z - author: Ismail Dilawar
-35. [Congo rally to a 3-1 win against Uzbekistan to seal place in the World Cup knockouts](https://www.arabnews.com/node/2648842/football) - published: 2026-06-28T02:36:01.000Z - section: football - author: AP
-36. [Colombia and Portugal through to World Cup last 32 after thrilling draw](https://www.arabnews.com/node/2648837/football) - published: 2026-06-28T02:07:23.000Z - section: football - author: AFP
-37. [Congo rally to a 3-1 win against Uzbekistan to seal place in the World Cup knockouts](https://www.arabnews.com/node/2648836) - published: 2026-06-28T02:04:14.000Z - author: AP
-38. [Milei’s top aide and Cabinet chief resigns over spiraling corruption scandal](https://www.arabnews.com/node/2648835/world) - published: 2026-06-28T00:35:31.000Z - section: world - author: AP
-39. [Vlašić scores winner as Croatia beat Ghana 2-1 to reach World Cup knockout stage](https://www.arabnews.com/node/2648833/sport) - published: 2026-06-28T00:17:48.000Z - section: sport - author: AP
-40. [Bellingham and Kane shine as England sink Panama to top group](https://www.arabnews.com/node/2648832/football) - published: 2026-06-28T00:06:29.000Z - section: football - author: Reuters
-41. [Drone, artillery attacks kill civilians on both sides of Russia-Ukraine border](https://www.arabnews.com/node/2648831/world) - published: 2026-06-27T23:44:27.000Z - section: world - author: Reuters
-42. [Lebanon’s deal with Israel requires Hezbollah to disarm. That might be difficult](https://www.arabnews.com/node/2648830/middle-east) - published: 2026-06-27T22:11:31.000Z - section: middle east - author: AP
-43. [What Saudi Arabia can learn from the 2026 World Cup property boom](https://www.arabnews.com/node/2648829/business-economy) - published: 2026-06-27T21:14:43.000Z - section: business economy - author: Miguel Hadchity
-44. [US activates highest-level response to Ebola outbreak](https://www.arabnews.com/node/2648828/world) - published: 2026-06-27T20:48:16.000Z - section: world - author: AFP
-45. [Familiarity adds spice to Morocco-Netherlands last-32 clash](https://www.arabnews.com/node/2648824/sport) - published: 2026-06-27T20:19:54.000Z - section: sport - author: Reuters
-46. [Where We Are Going Today: ‘The Red Fox’ a non-alcoholic bar in Jeddah](https://www.arabnews.com/node/2648823/food-health) - published: 2026-06-27T20:15:48.000Z - section: food health - author: Afshan Aziz
-47. [Canada, South Africa venture into new territory with knockout round](https://www.arabnews.com/node/2648821/sport) - published: 2026-06-27T20:03:26.000Z - section: sport - author: Reuters
-48. [Pakistan reaffirms support for dialogue as US-Iran truce comes under strain](https://www.arabnews.com/node/2648820/pakistan) - published: 2026-06-27T19:58:12.000Z - author: Arab News Pakistan
-49. [What We Are Reading Today: The Hidden History of Conspiracy Theory](https://www.arabnews.com/node/2648819/books) - published: 2026-06-27T19:39:33.000Z - author: Arab News
-50. [Injury-hit Spain face winger dilemma before knockout stages](https://www.arabnews.com/node/2648818/sport) - published: 2026-06-27T19:35:29.000Z - section: sport - author: Reuters
-51. [Voluntary return of 1.5m Syrians since 2016: Turkish interior minister](https://www.arabnews.com/node/2648817/middle-east) - published: 2026-06-27T19:31:54.000Z - section: middle east - author: SANA
-52. [Syrian rescue team departs for Venezuela to help earthquake victims](https://www.arabnews.com/node/2648816/middle-east) - published: 2026-06-27T19:31:48.000Z - section: middle east - author: SANA
-53. [Serena Williams commands spotlight ahead of her Wimbledon return](https://www.arabnews.com/node/2648815/sport) - published: 2026-06-27T19:27:11.000Z - section: sport - author: AP
-54. [Israeli strike kills teenage girl and brother in southern Gaza](https://www.arabnews.com/node/2648814/middle-east) - published: 2026-06-27T19:12:21.000Z - section: middle east - author: APReuters
-55. [AlUla unveils Manara — a new destination for astronomy, astrotourism](https://www.arabnews.com/node/2648812/saudi-arabia) - published: 2026-06-27T18:53:35.000Z - section: saudi arabia - author: Rashid Hassan
-56. [15,231 held for residency, labor, border violations](https://www.arabnews.com/node/2648811/saudi-arabia) - published: 2026-06-27T18:53:11.000Z - section: saudi arabia - author: SPA
-57. [Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)](https://www.arabnews.com/node/2648809/cartoon-amjad-rasmi-courtesy-asharq-al-awsat) - published: 2026-06-27T18:52:54.000Z
-58. [Netanyahu says deal with Lebanon ‘historic’ for Israel](https://www.arabnews.com/node/2648808/middle-east) - published: 2026-06-27T18:37:54.000Z - section: middle east - author: AFP
-59. [Shakespeare could not have written a better British drama](https://www.arabnews.com/node/2648807) - published: 2026-06-27T18:03:03.000Z
-60. [Two Rangers personnel killed in attack on Karachi office, rescue officials say](https://www.arabnews.com/node/2648806/pakistan) - published: 2026-06-27T18:00:23.000Z - author: NAIMAT KHAN
-61. [Can North Africa power Europe’s green future?](https://www.arabnews.com/node/2648805) - published: 2026-06-27T17:57:15.000Z
-62. [Cities show how climate action is making life better](https://www.arabnews.com/node/2648804) - published: 2026-06-27T17:51:16.000Z - author: Michael R. Bloomberg and Teresa Ribera
-63. [Iran coach: US treatment at World Cup ‘really terrible’](https://www.arabnews.com/node/2648803/sport) - published: 2026-06-27T17:47:57.000Z - section: sport - author: Reuters
-64. [Who gains in an AI-supercharged economy?](https://www.arabnews.com/node/2648802) - published: 2026-06-27T17:43:38.000Z
-65. [EU condemns Tunisia over conviction of rights activist](https://www.arabnews.com/node/2648801/world) - published: 2026-06-27T17:36:00.000Z - section: world - author: AFP
-66. [Islamic coalition secretary general attends UN Counter-Terrorism Week in New York](https://www.arabnews.com/node/2648822/saudi-arabia) - published: 2026-06-27T17:00:00.000Z - section: saudi arabia - author: Arab News
-67. [Saudi Water Week opens Sunday in Jeddah](https://www.arabnews.com/node/2648813/saudi-arabia) - published: 2026-06-27T17:00:00.000Z - section: saudi arabia - author: SPA
-68. [France says 74 drowning deaths since 18 June](https://www.arabnews.com/node/2648800/world) - published: 2026-06-27T16:58:43.000Z - section: world - author: AFP
-69. [Deniz Undav’s World Cup success for Germany lifts Yazidi and Kurdish pride](https://www.arabnews.com/node/2648799/middle-east) - published: 2026-06-27T16:35:14.000Z - section: middle east - author: AP
-70. [Vespa riders take to roads in Rome to mark 80th birthday](https://www.arabnews.com/node/2648798/offbeat) - published: 2026-06-27T16:26:37.000Z - section: offbeat - author: Reuters
-71. [Four Rangers, six militants killed in attack on Karachi paramilitary facility, official says](https://www.arabnews.com/node/2648797/pakistan) - published: 2026-06-27T16:25:13.000Z - author: NAIMAT KHAN
-72. [Site of deadly Swiss ski resort fire will never reopen as a bar: regional chief](https://www.arabnews.com/node/2648796/world) - published: 2026-06-27T16:20:28.000Z - section: world - author: AFP
-73. [George Russell snatches pole, Kimi Antonelli fourth for Austria Grand Prix grid](https://www.arabnews.com/node/2648795/sport) - published: 2026-06-27T16:10:31.000Z - section: sport - author: AFP
-74. [Saudi FM discusses regional tensions with Egyptian and Qatari counterparts](https://www.arabnews.com/node/2648794/saudi-arabia) - published: 2026-06-27T16:01:56.000Z - section: saudi arabia - author: Arab News
-75. [Two tropical storms pound Japan, causing flooding and landslides](https://www.arabnews.com/node/2648793/world) - published: 2026-06-27T16:01:43.000Z - section: world - author: AP
-76. [Sinner ready for Wimbledon defense despite lack of time on grass](https://www.arabnews.com/node/2648792/sport) - published: 2026-06-27T15:44:15.000Z - section: sport
-77. [Pakistani hailed in Italy after rescuing children credits mother for his courage](https://www.arabnews.com/node/2648791/pakistan) - published: 2026-06-27T15:41:02.000Z - author: NAIMAT KHAN
-78. [DR Congo president urges team on ahead of must-win World Cup clash with Uzbekistan](https://www.arabnews.com/node/2648790/sport) - published: 2026-06-27T15:05:57.000Z - section: sport - author: Reuters
-79. [The scars of war among survivors in Sudan](https://www.arabnews.com/node/2648789/middle-east) - published: 2026-06-27T14:27:20.000Z - section: middle east - author: AP
-80. [Magnitude 5.9 earthquake jolts parts of Pakistan, no loss of life or property reported](https://www.arabnews.com/node/2648788/pakistan) - published: 2026-06-27T14:26:43.000Z - author: NAIMAT KHAN
-81. [Israel deal is not peace treaty but ‘process to end hostilities’ — Lebanese official](https://www.arabnews.com/node/2648787/middle-east) - published: 2026-06-27T14:11:53.000Z - section: middle east - author: NAJIA HOUSSARI
-82. [Hezbollah rejects US-brokered Israel-Lebanon security deal as ‘surrender’](https://www.arabnews.com/node/2648786/middle-east) - published: 2026-06-27T14:07:32.000Z - section: middle east - author: Reuters
-83. [World Cup opens US eyes to soccer’s global roar](https://www.arabnews.com/node/2648785/sport) - published: 2026-06-27T13:58:34.000Z - section: sport - author: Reuters
-84. [Saudi Arabia condemns Iranian drone attack on Bahrain](https://www.arabnews.com/node/2648784/saudi-arabia) - published: 2026-06-27T13:52:23.000Z - section: saudi arabia - author: Arab News
-85. [Catholic bishops call for humane treatment of migrants during US-Mexico border Mass](https://www.arabnews.com/node/2648783/world) - published: 2026-06-27T13:49:57.000Z - section: world - author: Reuters
-86. [Central African Republic declares cholera outbreak after 24 deaths](https://www.arabnews.com/node/2648782/world) - published: 2026-06-27T13:37:49.000Z - section: world - author: AFP
-87. [‘I can’t describe how disappointed and saddened we are’: Saudi players dismayed by World Cup exit](https://www.arabnews.com/node/2648781/sport) - published: 2026-06-27T13:29:10.000Z - section: sport - author: Gary Meenaghan
-88. [Pakistan to take over SCO Business Council chairmanship in 2027](https://www.arabnews.com/node/2648780/pakistan) - published: 2026-06-27T13:07:22.000Z - author: Ismail Dilawar
-89. [Pakistan calls right of free maritime passage an ‘absolute necessity’ after tanker struck in Hormuz](https://www.arabnews.com/node/2648779/pakistan) - published: 2026-06-27T13:02:39.000Z - author: KASHIF IMRAN
-90. [Review: ‘Supergirl’ shines brightest when Milly Alcock is on screen](https://www.arabnews.com/node/2648778/lifestyle) - published: 2026-06-27T12:52:57.000Z - section: lifestyle - author: Shyama Krishna Kumar
-91. [Australia to double fine for flouting teen social media ban](https://www.arabnews.com/node/2648777/world) - published: 2026-06-27T12:44:21.000Z - section: world - author: AFP
-92. [Turkiye arrests surge ahead of NATO summit](https://www.arabnews.com/node/2648776/middle-east) - published: 2026-06-27T12:39:02.000Z - section: middle east - author: AFP
-93. [Indonesia steps up tourism campaign to become top Muslim-friendly destination](https://www.arabnews.com/node/2648775/world) - published: 2026-06-27T12:38:58.000Z - section: world - author: Sheany Yasuko Lai
-94. [Baniyas take lead in round 5 of Khaled bin Mohamed bin Zayed Jiu-Jitsu Championship](https://www.arabnews.com/node/2648774/sport) - published: 2026-06-27T12:31:12.000Z - section: sport - author: Arab News
-95. [Germany gripped by record temperatures as European heatwave moves east](https://www.arabnews.com/node/2648773/world) - published: 2026-06-27T12:27:54.000Z - section: world - author: Reuters
-96. [Pakistan warns of glacial flood threat in northern regions through early July](https://www.arabnews.com/node/2648772/pakistan) - published: 2026-06-27T12:22:32.000Z - author: NAIMAT KHAN
-97. [Djibouti Embassy commemorates its 49th anniversary of independence](https://www.arabnews.com/node/2648771/saudi-arabia) - published: 2026-06-27T12:21:35.000Z - section: saudi arabia - author: Rashid Hassan
-98. [Ukraine strikes industrial facility in Russia’s Volgograd as Russian drone attack kills 1](https://www.arabnews.com/node/2648770/world) - published: 2026-06-27T12:17:37.000Z - section: world - author: AP
-99. [UK to expand refugee sponsorship schemes](https://www.arabnews.com/node/2648769/world) - published: 2026-06-27T12:09:50.000Z - section: world - author: AFP
-100. [New CPR tech saves cardiac arrest patient in Riyadh](https://www.arabnews.com/node/2648768/saudi-arabia) - published: 2026-06-27T11:33:24.000Z - section: saudi arabia - author: SPA
-101. [Body of Pakistani fisherman who died in India prison repatriated to Karachi, charity says](https://www.arabnews.com/node/2648767/pakistan) - published: 2026-06-27T11:22:05.000Z - author: NAIMAT KHAN
-102. [Kingdom reaffirms support for Sudan’s unity, political solution](https://www.arabnews.com/node/2648766/saudi-arabia) - published: 2026-06-27T11:20:00.000Z - section: saudi arabia - author: Arab News
-103. [Arab union chief calls for global AI framework to protect media rights](https://www.arabnews.com/node/2648765/saudi-arabia) - published: 2026-06-27T11:15:50.000Z - section: saudi arabia - author: SPA
-104. [Filipinos prepare to showcase talent at inaugural Esports Nations Cup in Riyadh](https://www.arabnews.com/node/2648764/world) - published: 2026-06-27T11:12:48.000Z - section: world - author: Ellie Aben
+1. [Pakistani-Chinese venture SLM Tyres to enhance local manufacturing, reduce imports — officials](https://www.arabnews.com/node/2648886/pakistan) - published: 2026-06-28T12:48:25.000Z - author: Arab News Pakistan
+2. [Saudi artist puts identity at heart of design](https://www.arabnews.com/node/2648885/saudi-arabia) - published: 2026-06-28T12:48:18.000Z - section: saudi arabia - author: Tareq Al-Thaqafi
+3. [Civilian plane crash kills 11 in France: local authorities](https://www.arabnews.com/node/2648884/world) - published: 2026-06-28T12:36:49.000Z - section: world - author: AFP
+4. [Saudi water sector draws over $16bn in investments, minister says](https://www.arabnews.com/node/2648883/business-economy) - published: 2026-06-28T12:32:14.000Z - section: business economy - author: ARAB NEWS
+5. [Group stage brings joy and despair for Arab teams at World Cup](https://www.arabnews.com/node/2648882/sport) - published: 2026-06-28T12:31:25.000Z - section: sport - author: John Duerden
+6. [Historic Darb Zubaida reservoirs showcase resilient water engineering](https://www.arabnews.com/node/2648881/saudi-arabia) - published: 2026-06-28T12:26:17.000Z - section: saudi arabia - author: SPA
+7. [Hajj and Umrah Data Center shifts fully to cloud as officials begin next season planning](https://www.arabnews.com/node/2648880/saudi-arabia) - published: 2026-06-28T12:17:32.000Z - section: saudi arabia - author: Arab News
+8. [Saudi Aramco helicopter crash kills 14, state new agency says](https://www.arabnews.com/node/2648879/saudi-arabia) - published: 2026-06-28T11:46:40.000Z - section: saudi arabia - author: Arab News
+9. [Israel government recognizes Armenian genocide in rebuke to Turkiye](https://www.arabnews.com/node/2648877/middle-east) - published: 2026-06-28T11:41:11.000Z - section: middle east - author: AFP
+10. [Kingdom stresses stronger parliamentary coordination at Arab conference in Cairo](https://www.arabnews.com/node/2648876/saudi-arabia) - published: 2026-06-28T11:23:37.000Z - section: saudi arabia - author: Arab News
+11. [Bangladesh’s fugitive ex-PM says will return to Dhaka ‘this year’](https://www.arabnews.com/node/2648875/world) - published: 2026-06-28T11:15:44.000Z - section: world - author: AFP
+12. [Pakistani port handles record 54.7 million tons of cargo in FY26 amid Iran war](https://www.arabnews.com/node/2648874/pakistan) - published: 2026-06-28T10:43:59.000Z - author: ARAB NEWS PAKISTAN
+13. [Oman’s insurance sector investments climb 10.3% to $2.28bn in Q1](https://www.arabnews.com/node/2648873/business-economy) - published: 2026-06-28T10:32:29.000Z - section: business economy - author: Arab News
+14. [Ukrainian strike sets fire to an oil refinery in southern Russia](https://www.arabnews.com/node/2648872/world) - published: 2026-06-28T10:32:26.000Z - section: world - author: AP
+15. [Pakistani, Chinese firms sign agreement to locally manufacture lithium-ion batteries](https://www.arabnews.com/node/2648871/pakistan) - published: 2026-06-28T10:27:00.000Z - author: Arab News Pakistan
+16. [Iran FM warns any challenge to Hormuz routes will ‘increase tensions’](https://www.arabnews.com/node/2648870/middle-east) - published: 2026-06-28T10:21:28.000Z - section: middle east - author: AFP
+17. [Hezbollah lawmaker warns of Lebanese ‘internal conflict’ after Israel deal](https://www.arabnews.com/node/2648869/middle-east) - published: 2026-06-28T10:20:11.000Z - section: middle east - author: AFP
+18. [Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel](https://www.arabnews.com/node/2648868/middle-east) - published: 2026-06-28T10:16:13.000Z - section: middle east - author: AP
+19. [Saudi Arabia leads Gulf, Arab condemnation of newest Iranian attacks](https://www.arabnews.com/node/2648855/middle-east) - published: 2026-06-28T10:04:04.000Z - section: middle east - author: Arab News
+20. [Israel military says soldier killed in south Lebanon fighting](https://www.arabnews.com/node/2648867/middle-east) - published: 2026-06-28T10:03:04.000Z - section: middle east - author: AFP
+21. [From rubble to music: Gaza’s Oud repairman](https://www.arabnews.com/node/2648866/middle-east) - published: 2026-06-28T10:01:57.000Z - section: middle east - author: AFP
+22. [Sinner begins Wimbledon defense, Sabalenka seeks first title](https://www.arabnews.com/node/2648865/sport) - published: 2026-06-28T09:53:50.000Z - section: sport - author: Reuters
+23. [Israel damaged heritage sites across south Lebanon, minister says](https://www.arabnews.com/node/2648864/middle-east) - published: 2026-06-28T09:22:41.000Z - section: middle east - author: Reuters
+24. [Jordan’s exports to EU markets surge 49.3% in first 4 months of 2026](https://www.arabnews.com/node/2648863/business-economy) - published: 2026-06-28T08:48:23.000Z - section: business economy - author: Arab News
+25. [Baniyas maintain lead on Day 2 of the Khaled bin Mohamed bin Zayed Jiu-Jitsu Championship](https://www.arabnews.com/node/2648862/sport) - published: 2026-06-28T08:34:14.000Z - section: sport - author: Arab News
+26. [Saudi Arabia expands China transport ties at Shanghai logistics exhibition](https://www.arabnews.com/node/2648861/business-economy) - published: 2026-06-28T08:13:58.000Z - section: business economy - author: Arab News
+27. [‘High-strung’ camels race in Australian outback](https://www.arabnews.com/node/2648860/offbeat) - published: 2026-06-28T08:00:02.000Z - section: offbeat - author: AFP
+28. [Pakistan urges US, Iran to abide by ceasefire agreement as both exchange attacks](https://www.arabnews.com/node/2648859/pakistan) - published: 2026-06-28T07:50:06.000Z - author: Shahjahan Khurram
+29. [Lebanon state media reports Israeli strike on south](https://www.arabnews.com/node/2648849/middle-east) - published: 2026-06-28T07:36:09.000Z - section: middle east - author: AFPReuters
+30. [Pakistan says refined fuel prices expected to drop, vows to pass on relief to consumers](https://www.arabnews.com/node/2648858/pakistan) - published: 2026-06-28T07:05:23.000Z - author: ARAB NEWS PAKISTAN
+31. [France records around 1,000 excess deaths in heatwave: health agency](https://www.arabnews.com/node/2648856/world) - published: 2026-06-28T06:50:14.000Z - section: world - author: AFP
+32. [Nora Fatehi releases new World Cup song](https://www.arabnews.com/node/2648854/lifestyle) - published: 2026-06-28T06:27:33.000Z - section: lifestyle - author: Arab News
+33. [Residential building damaged in latest Iranian attack — Bahrain interior ministry](https://www.arabnews.com/node/2648843/middle-east) - published: 2026-06-28T06:04:08.000Z - section: middle east - author: Arab News
+34. [Venezuela quakes kill 1,400 as time running out to find survivors](https://www.arabnews.com/node/2648853/world) - published: 2026-06-28T05:29:45.000Z - section: world - author: AFP
+35. [Pakistan suspends Geo News transmission for 15 days over ‘religious visualization’ in Muharram program](https://www.arabnews.com/node/2648852/pakistan) - published: 2026-06-28T04:57:42.000Z - author: Waseem Abbasi
+36. [Arab teams at World Cup 2026: Algeria makes knockouts after 3-3 thriller, Jordan exits its debut tournament winless](https://www.arabnews.com/node/2648851/sport) - published: 2026-06-28T04:44:37.000Z - section: sport - author: Agencies
+37. [Trump threatens to annihilate Iran after new exchange of attacks](https://www.arabnews.com/node/2648834/middle-east) - published: 2026-06-28T04:42:46.000Z - section: middle east - author: Agencies
+38. [Will World Cup failure usher in moment of reckoning for Saudi football?](https://www.arabnews.com/node/2648826/football) - published: 2026-06-28T04:36:50.000Z - section: football - author: Ali Khaled
+39. [Algeria and Austria in dramatic draw as both reach World Cup knockout stages](https://www.arabnews.com/node/2648850/sport) - published: 2026-06-28T04:30:45.000Z - section: sport - author: Ali Khaled
+40. [Jordan bows out winless despite Altamari goal as Messi scores again in Argentina victory](https://www.arabnews.com/node/2648848/sport) - published: 2026-06-28T04:21:02.000Z - section: sport - author: AP
+41. [Jordanian royals in the stands as national team completes World Cup campaign](https://www.arabnews.com/node/2648857/lifestyle) - published: 2026-06-28T03:51:33.000Z - section: lifestyle - author: Arab News
+42. [Pakistan vows ‘retribution operations’ after attack on Karachi paramilitary facility kills 3 soldiers](https://www.arabnews.com/node/2648847/pakistan) - published: 2026-06-28T03:45:22.000Z - author: NAIMAT KHAN
+43. [Lebanon’s Aoun hopes US will press Israel to withdraw from southern areas](https://www.arabnews.com/node/2648846/middle-east) - published: 2026-06-28T03:37:24.000Z - section: middle east - author: ReutersAFP
+44. [Iraqi forces raid Baghdad’s Green Zone amid arrest reports](https://www.arabnews.com/node/2648845/middle-east) - published: 2026-06-28T03:14:36.000Z - section: middle east - author: AFP
+45. [Pakistan business group urges revival of Iran gas pipeline after regional thaw](https://www.arabnews.com/node/2648844/pakistan) - published: 2026-06-28T03:12:40.000Z - author: Ismail Dilawar
+46. [Congo rally to a 3-1 win against Uzbekistan to seal place in the World Cup knockouts](https://www.arabnews.com/node/2648842/football) - published: 2026-06-28T02:36:01.000Z - section: football - author: AP
+47. [Colombia and Portugal through to World Cup last 32 after thrilling draw](https://www.arabnews.com/node/2648837/football) - published: 2026-06-28T02:07:23.000Z - section: football - author: AFP
+48. [Congo rally to a 3-1 win against Uzbekistan to seal place in the World Cup knockouts](https://www.arabnews.com/node/2648836) - published: 2026-06-28T02:04:14.000Z - author: AP
+49. [Milei’s top aide and Cabinet chief resigns over spiraling corruption scandal](https://www.arabnews.com/node/2648835/world) - published: 2026-06-28T00:35:31.000Z - section: world - author: AP
+50. [Vlašić scores winner as Croatia beat Ghana 2-1 to reach World Cup knockout stage](https://www.arabnews.com/node/2648833/sport) - published: 2026-06-28T00:17:48.000Z - section: sport - author: AP
+51. [Bellingham and Kane shine as England sink Panama to top group](https://www.arabnews.com/node/2648832/football) - published: 2026-06-28T00:06:29.000Z - section: football - author: Reuters
+52. [Drone, artillery attacks kill civilians on both sides of Russia-Ukraine border](https://www.arabnews.com/node/2648831/world) - published: 2026-06-27T23:44:27.000Z - section: world - author: Reuters
+53. [Lebanon’s deal with Israel requires Hezbollah to disarm. That might be difficult](https://www.arabnews.com/node/2648830/middle-east) - published: 2026-06-27T22:11:31.000Z - section: middle east - author: AP
+54. [What Saudi Arabia can learn from the 2026 World Cup property boom](https://www.arabnews.com/node/2648829/business-economy) - published: 2026-06-27T21:14:43.000Z - section: business economy - author: Miguel Hadchity
+55. [US activates highest-level response to Ebola outbreak](https://www.arabnews.com/node/2648828/world) - published: 2026-06-27T20:48:16.000Z - section: world - author: AFP
+56. [Familiarity adds spice to Morocco-Netherlands last-32 clash](https://www.arabnews.com/node/2648824/sport) - published: 2026-06-27T20:19:54.000Z - section: sport - author: Reuters
+57. [Where We Are Going Today: ‘The Red Fox’ a non-alcoholic bar in Jeddah](https://www.arabnews.com/node/2648823/food-health) - published: 2026-06-27T20:15:48.000Z - section: food health - author: Afshan Aziz
+58. [Canada, South Africa venture into new territory with knockout round](https://www.arabnews.com/node/2648821/sport) - published: 2026-06-27T20:03:26.000Z - section: sport - author: Reuters
+59. [Pakistan reaffirms support for dialogue as US-Iran truce comes under strain](https://www.arabnews.com/node/2648820/pakistan) - published: 2026-06-27T19:58:12.000Z - author: Arab News Pakistan
+60. [What We Are Reading Today: The Hidden History of Conspiracy Theory](https://www.arabnews.com/node/2648819/books) - published: 2026-06-27T19:39:33.000Z - author: Arab News
+61. [Injury-hit Spain face winger dilemma before knockout stages](https://www.arabnews.com/node/2648818/sport) - published: 2026-06-27T19:35:29.000Z - section: sport - author: Reuters
+62. [Voluntary return of 1.5m Syrians since 2016: Turkish interior minister](https://www.arabnews.com/node/2648817/middle-east) - published: 2026-06-27T19:31:54.000Z - section: middle east - author: SANA
+63. [Syrian rescue team departs for Venezuela to help earthquake victims](https://www.arabnews.com/node/2648816/middle-east) - published: 2026-06-27T19:31:48.000Z - section: middle east - author: SANA
+64. [Serena Williams commands spotlight ahead of her Wimbledon return](https://www.arabnews.com/node/2648815/sport) - published: 2026-06-27T19:27:11.000Z - section: sport - author: AP
+65. [Israeli strike kills teenage girl and brother in southern Gaza](https://www.arabnews.com/node/2648814/middle-east) - published: 2026-06-27T19:12:21.000Z - section: middle east - author: APReuters
+66. [AlUla unveils Manara — a new destination for astronomy, astrotourism](https://www.arabnews.com/node/2648812/saudi-arabia) - published: 2026-06-27T18:53:35.000Z - section: saudi arabia - author: Rashid Hassan
+67. [15,231 held for residency, labor, border violations](https://www.arabnews.com/node/2648811/saudi-arabia) - published: 2026-06-27T18:53:11.000Z - section: saudi arabia - author: SPA
+68. [Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)](https://www.arabnews.com/node/2648809/cartoon-amjad-rasmi-courtesy-asharq-al-awsat) - published: 2026-06-27T18:52:54.000Z
+69. [Netanyahu says deal with Lebanon ‘historic’ for Israel](https://www.arabnews.com/node/2648808/middle-east) - published: 2026-06-27T18:37:54.000Z - section: middle east - author: AFP
+70. [Shakespeare could not have written a better British drama](https://www.arabnews.com/node/2648807) - published: 2026-06-27T18:03:03.000Z
+71. [Two Rangers personnel killed in attack on Karachi office, rescue officials say](https://www.arabnews.com/node/2648806/pakistan) - published: 2026-06-27T18:00:23.000Z - author: NAIMAT KHAN
+72. [Can North Africa power Europe’s green future?](https://www.arabnews.com/node/2648805) - published: 2026-06-27T17:57:15.000Z
+73. [Cities show how climate action is making life better](https://www.arabnews.com/node/2648804) - published: 2026-06-27T17:51:16.000Z - author: Michael R. Bloomberg and Teresa Ribera
+74. [Iran coach: US treatment at World Cup ‘really terrible’](https://www.arabnews.com/node/2648803/sport) - published: 2026-06-27T17:47:57.000Z - section: sport - author: Reuters
+75. [Who gains in an AI-supercharged economy?](https://www.arabnews.com/node/2648802) - published: 2026-06-27T17:43:38.000Z
+76. [EU condemns Tunisia over conviction of rights activist](https://www.arabnews.com/node/2648801/world) - published: 2026-06-27T17:36:00.000Z - section: world - author: AFP
+77. [Islamic coalition secretary general attends UN Counter-Terrorism Week in New York](https://www.arabnews.com/node/2648822/saudi-arabia) - published: 2026-06-27T17:00:00.000Z - section: saudi arabia - author: Arab News
+78. [Saudi Water Week opens Sunday in Jeddah](https://www.arabnews.com/node/2648813/saudi-arabia) - published: 2026-06-27T17:00:00.000Z - section: saudi arabia - author: SPA
+79. [France says 74 drowning deaths since 18 June](https://www.arabnews.com/node/2648800/world) - published: 2026-06-27T16:58:43.000Z - section: world - author: AFP
+80. [Deniz Undav’s World Cup success for Germany lifts Yazidi and Kurdish pride](https://www.arabnews.com/node/2648799/middle-east) - published: 2026-06-27T16:35:14.000Z - section: middle east - author: AP
+81. [Vespa riders take to roads in Rome to mark 80th birthday](https://www.arabnews.com/node/2648798/offbeat) - published: 2026-06-27T16:26:37.000Z - section: offbeat - author: Reuters
+82. [Four Rangers, six militants killed in attack on Karachi paramilitary facility, official says](https://www.arabnews.com/node/2648797/pakistan) - published: 2026-06-27T16:25:13.000Z - author: NAIMAT KHAN
+83. [Site of deadly Swiss ski resort fire will never reopen as a bar: regional chief](https://www.arabnews.com/node/2648796/world) - published: 2026-06-27T16:20:28.000Z - section: world - author: AFP
+84. [George Russell snatches pole, Kimi Antonelli fourth for Austria Grand Prix grid](https://www.arabnews.com/node/2648795/sport) - published: 2026-06-27T16:10:31.000Z - section: sport - author: AFP
+85. [Saudi FM discusses regional tensions with Egyptian and Qatari counterparts](https://www.arabnews.com/node/2648794/saudi-arabia) - published: 2026-06-27T16:01:56.000Z - section: saudi arabia - author: Arab News
+86. [Two tropical storms pound Japan, causing flooding and landslides](https://www.arabnews.com/node/2648793/world) - published: 2026-06-27T16:01:43.000Z - section: world - author: AP
+87. [Sinner ready for Wimbledon defense despite lack of time on grass](https://www.arabnews.com/node/2648792/sport) - published: 2026-06-27T15:44:15.000Z - section: sport
+88. [Pakistani hailed in Italy after rescuing children credits mother for his courage](https://www.arabnews.com/node/2648791/pakistan) - published: 2026-06-27T15:41:02.000Z - author: NAIMAT KHAN
+89. [DR Congo president urges team on ahead of must-win World Cup clash with Uzbekistan](https://www.arabnews.com/node/2648790/sport) - published: 2026-06-27T15:05:57.000Z - section: sport - author: Reuters
+90. [The scars of war among survivors in Sudan](https://www.arabnews.com/node/2648789/middle-east) - published: 2026-06-27T14:27:20.000Z - section: middle east - author: AP
+91. [Magnitude 5.9 earthquake jolts parts of Pakistan, no loss of life or property reported](https://www.arabnews.com/node/2648788/pakistan) - published: 2026-06-27T14:26:43.000Z - author: NAIMAT KHAN
+92. [Israel deal is not peace treaty but ‘process to end hostilities’ — Lebanese official](https://www.arabnews.com/node/2648787/middle-east) - published: 2026-06-27T14:11:53.000Z - section: middle east - author: NAJIA HOUSSARI
+93. [Hezbollah rejects US-brokered Israel-Lebanon security deal as ‘surrender’](https://www.arabnews.com/node/2648786/middle-east) - published: 2026-06-27T14:07:32.000Z - section: middle east - author: Reuters
+94. [World Cup opens US eyes to soccer’s global roar](https://www.arabnews.com/node/2648785/sport) - published: 2026-06-27T13:58:34.000Z - section: sport - author: Reuters
+95. [Saudi Arabia condemns Iranian drone attack on Bahrain](https://www.arabnews.com/node/2648784/saudi-arabia) - published: 2026-06-27T13:52:23.000Z - section: saudi arabia - author: Arab News
+96. [Catholic bishops call for humane treatment of migrants during US-Mexico border Mass](https://www.arabnews.com/node/2648783/world) - published: 2026-06-27T13:49:57.000Z - section: world - author: Reuters
+97. [Central African Republic declares cholera outbreak after 24 deaths](https://www.arabnews.com/node/2648782/world) - published: 2026-06-27T13:37:49.000Z - section: world - author: AFP
+98. [‘I can’t describe how disappointed and saddened we are’: Saudi players dismayed by World Cup exit](https://www.arabnews.com/node/2648781/sport) - published: 2026-06-27T13:29:10.000Z - section: sport - author: Gary Meenaghan
+99. [Pakistan to take over SCO Business Council chairmanship in 2027](https://www.arabnews.com/node/2648780/pakistan) - published: 2026-06-27T13:07:22.000Z - author: Ismail Dilawar
+100. [Pakistan calls right of free maritime passage an ‘absolute necessity’ after tanker struck in Hormuz](https://www.arabnews.com/node/2648779/pakistan) - published: 2026-06-27T13:02:39.000Z - author: KASHIF IMRAN
 
 ## Diagnostics
 
-Unique candidates: 460
-Candidates verified: 104
+Unique candidates: 462
+Candidates verified: 101
 Candidates after limit: 220
 Source errors: 0
 Article errors: 0
 
 Skipped:
 
-- source-date-older-than-window: 87
-- article-older-than-window: 29
+- source-date-older-than-window: 94
+- article-older-than-window: 25

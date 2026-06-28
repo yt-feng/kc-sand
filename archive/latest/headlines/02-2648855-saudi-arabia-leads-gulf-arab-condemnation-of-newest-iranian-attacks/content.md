@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2648855/middle-east
 Captured source: https://www.arabnews.com/node/2648855/middle-east
 Published: 2026-06-28T13:04:04+03:00
-Modified: 2026-06-28T13:05:01+03:00
+Modified: 2026-06-28T14:48:43+03:00
 Author: Arab News
 
 ## Summary
@@ -16,10 +16,10 @@ DUBAI: Saudi Arabia has condemned, in the strongest terms, Iran’s latest attac
 
 ## Video Or Embed URLs
 
-- https://e207a338ee5f9c832e401acc79193b41.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://a655762e4aa4c45007c1e25ed12daae5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
-- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- about:blank
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648855%2Fmiddle-east
 
@@ -34,6 +34,12 @@ DUBAI: Saudi Arabia has condemned, in the strongest terms, Iran’s latest attac
 In statement issued by the Saudi foreign affairs ministry, the Kingdom categorically rejected the attacks and described them as a violation of international law and the United Nations Charter.
 
 “The Kingdom reiterates that these violations undermine international efforts aimed at restoring security and stability in the region,” the foreign affairs ministry statement said.
+
+Jasem Mohamed Albudaiwi, Secretary General of the Gulf Cooperation Council, also condemned the “terrorist Iranian attacks” against Bahrain and Kuwait.
+
+In a statement, he emphasized that these “treacherous attacks constitute a direct threat to the security, stability and safety of citizens and residents on the territories” of the two countries.
+
+He added that the “continuation of these Iranian attacks actively undermines ongoing regional and international efforts aimed at consolidating peace and security and resolving the crisis.”
 
 The UAE also condemned the “renewed aggressive Iranian attacks” against Kuwait and Bahrain, which its foreign affairs ministry said were a flagrant violation of the countries’ sovereignty and a threat to their security and stability.
 

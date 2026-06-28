@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-28T11:12:29.022Z
+Fetched at: 2026-06-28T12:58:34.730Z
 Target date: 2026-06-28 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-28 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Residential building damaged in latest Iranian attack — Bahrain interior ministry](https://www.arabnews.com/node/2648843/middle-east) - archive: archive/latest/headlines/01-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/content.md
+1. [Iran FM warns any challenge to Hormuz routes will ‘increase tensions’](https://www.arabnews.com/node/2648870/middle-east) - archive: archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/content.md
 2. [Saudi Arabia leads Gulf, Arab condemnation of newest Iranian attacks](https://www.arabnews.com/node/2648855/middle-east) - archive: archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/content.md
 3. [Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel](https://www.arabnews.com/node/2648868/middle-east) - archive: archive/latest/headlines/03-2648868-trump-presses-syria-to-take-on-hezbollah-raising-alarm-in-lebanon-and-/content.md
-4. [Arab teams at World Cup 2026: Algeria makes knockouts after 3-3 thriller, Jordan exits its debut tournament winless](https://www.arabnews.com/node/2648851/sport) - archive: archive/latest/headlines/04-2648851-arab-teams-at-world-cup-2026-algeria-makes-knockouts-after-3-3-thrille/content.md
+4. [Residential building damaged in latest Iranian attack — Bahrain interior ministry](https://www.arabnews.com/node/2648843/middle-east) - archive: archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/content.md

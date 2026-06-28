@@ -16,10 +16,10 @@ DUBAI: A residential building was damaged in Muharraq Governorate after the late
 
 ## Video Or Embed URLs
 
-- https://2bbe7a22bf6cebc1f1fa7d20b8fca232.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://fb79c162d901cc66787cc7e28e9316a2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648843%2Fmiddle-east
 

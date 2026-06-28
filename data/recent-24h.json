@@ -1,38 +1,60 @@
 {
-  "fetchedAt": "2026-06-28T08:33:05.953Z",
+  "fetchedAt": "2026-06-28T11:12:29.022Z",
   "window": {
     "hours": 24,
-    "start": "2026-06-27T08:33:05.953Z",
-    "end": "2026-06-28T08:33:05.953Z",
+    "start": "2026-06-27T11:12:29.022Z",
+    "end": "2026-06-28T11:12:29.022Z",
     "futureLeewayMinutes": 15
   },
-  "itemCount": 101,
+  "itemCount": 104,
   "items": [
     {
-      "title": "Saudi Arabia expands China transport ties at Shanghai logistics exhibition",
-      "url": "https://www.arabnews.com/node/2648861/business-economy",
-      "section": "business economy",
-      "publishedAt": "2026-06-28T08:13:58.000Z",
-      "publishedRaw": "2026-06-28T11:13:58+03:00",
-      "modifiedAt": "2026-06-28T08:15:56.000Z",
-      "modifiedRaw": "2026-06-28T11:15:56+03:00",
-      "description": "RIYADH: Saudi Arabia expanded its transport and logistics partnership with China by signing a smart-mobility agreement and showcasing more than 75 investment opportunities at Transport Logistic China 2026 in Shanghai. According to the Saudi Press Agency, the Transport General Authority participated in a Saudi pavilion comprising 25 government and private-sector entities. Saudi",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726021-1246665906.jpg?itok=dKg58QQo",
-      "author": "Arab News",
-      "nodeId": 2648861,
-      "candidateUrl": "https://www.arabnews.com/node/2648861/business-economy",
+      "title": "Pakistani port handles record 54.7 million tons of cargo in FY26 amid Iran war",
+      "url": "https://www.arabnews.com/node/2648874/pakistan",
+      "section": "",
+      "publishedAt": "2026-06-28T10:43:59.000Z",
+      "publishedRaw": "2026-06-28T13:43:59+03:00",
+      "modifiedAt": "2026-06-28T10:43:59.000Z",
+      "modifiedRaw": "2026-06-28T13:43:59+03:00",
+      "description": "ISLAMABAD: The Karachi Port Trust (KPT) handled the highest volume of cargo in its 138-year-old history this fiscal year, state media reported on Sunday, as the US-Iran war in the Middle East rerouted several ships toward Pakistan. Pakistan saw a surge in port activity after the US-Iran war started in February this year, with several vessels diverting from Gulf transshipment",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726056-390919143.jpg?itok=RfIY03RX",
+      "author": "ARAB NEWS PAKISTAN",
+      "nodeId": 2648874,
+      "candidateUrl": "https://www.arabnews.com/node/2648874/pakistan",
       "sources": [
         {
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-28T08:13:58+00:00",
+          "datePublished": "2026-06-28T10:43:59+00:00",
           "order": 0
+        }
+      ]
+    },
+    {
+      "title": "Oman’s insurance sector investments climb 10.3% to $2.28bn in Q1",
+      "url": "https://www.arabnews.com/node/2648873/business-economy",
+      "section": "business economy",
+      "publishedAt": "2026-06-28T10:32:29.000Z",
+      "publishedRaw": "2026-06-28T13:32:29+03:00",
+      "modifiedAt": "2026-06-28T10:32:29.000Z",
+      "modifiedRaw": "2026-06-28T13:32:29+03:00",
+      "description": "JEDDAH: Investments by Oman’s insurance sector rose 10.3 percent year on year to 876.3 million Omani rials ($2.28 billion) at the end of the first quarter, driven by higher allocations to domestic assets, official data showed. Domestic insurance companies accounted for approximately 588.8 million rials of the sector’s total investments, while foreign insurers held around 287.5",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726051-135848175.jpeg?itok=ciaw_1qd",
+      "author": "Arab News",
+      "nodeId": 2648873,
+      "candidateUrl": "https://www.arabnews.com/node/2648873/business-economy",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T10:32:29+00:00",
+          "order": 1
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 29
+          "order": 33
         },
         {
           "source": "dom",
@@ -44,53 +66,65 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 20
+          "order": 16
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 23
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 21
+          "order": 22
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 22
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 11
+          "order": 12
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy?page=1",
           "datePublished": null,
-          "order": 27
+          "order": 28
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 24
+          "order": 25
         }
       ]
     },
     {
-      "title": "‘High-strung’ camels race in Australian outback",
-      "url": "https://www.arabnews.com/node/2648860/offbeat",
-      "section": "offbeat",
-      "publishedAt": "2026-06-28T08:00:02.000Z",
-      "publishedRaw": "2026-06-28T11:00:02+03:00",
-      "modifiedAt": "2026-06-28T08:01:59.000Z",
-      "modifiedRaw": "2026-06-28T11:01:59+03:00",
-      "description": "MARREE, Australia: Camels with “a bit of fire in them” raced in a remote Australian outback town this weekend at an annual event celebrating the desert beasts first imported in the mid-19th century. Hundreds of spectators descended on Marree, which has a population of 65 and lies nearly 600 kilometers (370 miles) north of the South Australian capital Adelaide, for a 13-race",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726020-1224098738.jpg?itok=7YecwvQL",
-      "author": "AFP",
-      "nodeId": 2648860,
-      "candidateUrl": "https://www.arabnews.com/node/2648860/offbeat",
+      "title": "Ukrainian strike sets fire to an oil refinery in southern Russia",
+      "url": "https://www.arabnews.com/node/2648872/world",
+      "section": "world",
+      "publishedAt": "2026-06-28T10:32:26.000Z",
+      "publishedRaw": "2026-06-28T13:32:26+03:00",
+      "modifiedAt": "2026-06-28T10:35:20.000Z",
+      "modifiedRaw": "2026-06-28T13:35:20+03:00",
+      "description": "KYIV: Ukraine kept up its heavy drone assault on Russia, setting fire to a major oil refinery in the south and killing at least two people, Russian authorities said Sunday. Kyiv’s campaign of massive long-range strikes has choked Russian fuel supplies and military deliveries, in what authorities call an attempt to bring the Kremlin to the negotiating table. Debris from downed",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726054-1656444619.jpg?itok=GH2qsx3a",
+      "author": "AP",
+      "nodeId": 2648872,
+      "candidateUrl": "https://www.arabnews.com/node/2648872/world",
       "sources": [
         {
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-28T08:00:02+00:00",
-          "order": 1
+          "datePublished": "2026-06-28T10:32:26+00:00",
+          "order": 2
         },
         {
           "source": "dom",
@@ -112,19 +146,25 @@
         },
         {
           "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 0
+        },
+        {
+          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
           "order": 0
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 0
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
           "order": 0
         },
@@ -143,46 +183,46 @@
       ]
     },
     {
-      "title": "Pakistan pushes for dialogue and diplomacy as US-Iran exchange attacks",
-      "url": "https://www.arabnews.com/node/2648859/pakistan",
+      "title": "Pakistani, Chinese firms sign agreement to locally manufacture lithium-ion batteries",
+      "url": "https://www.arabnews.com/node/2648871/pakistan",
       "section": "",
-      "publishedAt": "2026-06-28T07:50:06.000Z",
-      "publishedRaw": "2026-06-28T10:50:06+03:00",
-      "modifiedAt": "2026-06-28T07:51:07.000Z",
-      "modifiedRaw": "2026-06-28T10:51:07+03:00",
-      "description": "ISLAMABAD: Pakistan’s Deputy Prime Minister Ishaq Dar reiterated Islamabad’s resolve to promote dialogue and diplomacy in the region on Sunday, as the fragile ceasefire between the United States and Iran came under strain as the two sides exchanged fresh attacks in the Middle East. The conversation takes place as Iran’s Islamic Revolutionary Guard Corps (IRGC) said early",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726017-1287560032.jpg?itok=JfrG1XEo",
-      "author": "Shahjahan Khurram",
-      "nodeId": 2648859,
-      "candidateUrl": "https://www.arabnews.com/node/2648859/pakistan",
+      "publishedAt": "2026-06-28T10:27:00.000Z",
+      "publishedRaw": "2026-06-28T13:27:00+03:00",
+      "modifiedAt": "2026-06-28T10:27:00.000Z",
+      "modifiedRaw": "2026-06-28T13:27:00+03:00",
+      "description": "ISLAMABAD: Pakistani industrial conglomerate Saigol Group and China’s Juhang Energy Technology Group have signed a memorandum of understanding (MoU) which would pave the way for lithium-ion batteries to be manufactured in Pakistan, state media reported on Sunday, as Islamabad shifts to cleaner energy resources. Lithium-ion batteries are used to power devices people use",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726050-1338166605.jpg?itok=Mzz22HDK",
+      "author": "Arab News Pakistan",
+      "nodeId": 2648871,
+      "candidateUrl": "https://www.arabnews.com/node/2648871/pakistan",
       "sources": [
         {
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-28T07:50:06+00:00",
-          "order": 2
+          "datePublished": "2026-06-28T10:27:00+00:00",
+          "order": 3
         }
       ]
     },
     {
-      "title": "Lebanon state media reports Israeli strike on south",
-      "url": "https://www.arabnews.com/node/2648849/middle-east",
+      "title": "Iran FM warns any challenge to Hormuz routes will ‘increase tensions’",
+      "url": "https://www.arabnews.com/node/2648870/middle-east",
       "section": "middle east",
-      "publishedAt": "2026-06-28T07:36:09.000Z",
-      "publishedRaw": "2026-06-28T10:36:09+03:00",
-      "modifiedAt": "2026-06-28T07:43:15.000Z",
-      "modifiedRaw": "2026-06-28T10:43:15+03:00",
-      "description": "BEIRUT: The Lebanese state news agency reported a new Israeli attack on southern Lebanon on Sunday, two days after the countries signed an agreement to pave the way to peace talks. “An Israeli warplane carried out an airstrike targeting the outskirts of the towns of Deir Seryan and Taybeh in southern Lebanon,” Lebanon’s state-run National News Agency reported. Israeli military",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4725985-217727505.jpg?itok=sk91gU54",
-      "author": "AFPReuters",
-      "nodeId": 2648849,
-      "candidateUrl": "https://www.arabnews.com/node/2648849/middle-east",
+      "publishedAt": "2026-06-28T10:21:28.000Z",
+      "publishedRaw": "2026-06-28T13:21:28+03:00",
+      "modifiedAt": "2026-06-28T10:22:55.000Z",
+      "modifiedRaw": "2026-06-28T13:22:55+03:00",
+      "description": "BAGHDAD: Iran’s top diplomat warned Sunday that any attempt to bypass the Strait of Hormuz routes agreed with the United States would “increase tensions” in the Middle East, as the countries traded attacks and accusations of violating a fragile ceasefire in the region. During a visit to Iraqi capital Baghdad, Abbas Araghchi also called for the establishment of a security",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726048-471201978.jpg?itok=jeyeLo1r",
+      "author": "AFP",
+      "nodeId": 2648870,
+      "candidateUrl": "https://www.arabnews.com/node/2648870/middle-east",
       "sources": [
         {
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-28T07:36:09+00:00",
-          "order": 3
+          "datePublished": "2026-06-28T10:21:28+00:00",
+          "order": 4
         },
         {
           "source": "dom",
@@ -206,7 +246,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 9
+          "order": 1
         },
         {
           "source": "dom",
@@ -218,7 +258,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 9
+          "order": 1
         },
         {
           "source": "dom",
@@ -230,7 +270,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy?page=1",
           "datePublished": null,
-          "order": 1
+          "order": 0
         },
         {
           "source": "dom",
@@ -240,15 +280,871 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 4
+          "order": 1
+        }
+      ]
+    },
+    {
+      "title": "Hezbollah lawmaker warns of Lebanese ‘internal conflict’ after Israel deal",
+      "url": "https://www.arabnews.com/node/2648869/middle-east",
+      "section": "middle east",
+      "publishedAt": "2026-06-28T10:20:11.000Z",
+      "publishedRaw": "2026-06-28T13:20:11+03:00",
+      "modifiedAt": "2026-06-28T10:21:02.000Z",
+      "modifiedRaw": "2026-06-28T13:21:02+03:00",
+      "description": "BEIRUT: Hezbollah lawmaker Hassan Fadlallah warned on Sunday of “internal conflict” in Lebanon over the country’s agreement with Israel, which the Iran-backed militant group rejects, predicting that the deal would not be implemented. The agreement, which was signed in Washington on Friday after five rounds of talks and aims to pave the way to peace between the neighbors,",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726046-875303823.jpg?itok=WzELmbtX",
+      "author": "AFP",
+      "nodeId": 2648869,
+      "candidateUrl": "https://www.arabnews.com/node/2648869/middle-east",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T10:20:11+00:00",
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 1
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 2
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "title": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel",
+      "url": "https://www.arabnews.com/node/2648868/middle-east",
+      "section": "middle east",
+      "publishedAt": "2026-06-28T10:16:13.000Z",
+      "publishedRaw": "2026-06-28T13:16:13+03:00",
+      "modifiedAt": "2026-06-28T10:18:22.000Z",
+      "modifiedRaw": "2026-06-28T13:18:22+03:00",
+      "description": "BEIRUT: As the White House has soured on Israel’s war with Hezbollah in Lebanon, US President Donald Trump has shocked many in the region by pushing an alternative: Let Syria fight the Iran-backed militant group instead. He has suggested that the battle-hardened and Islamist-led insurgents who overthrew Syria’s autocratic President Bashar Assad a year and a half ago and formed",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726044-667408339.jpg?itok=M_woAXSv",
+      "author": "AP",
+      "nodeId": 2648868,
+      "candidateUrl": "https://www.arabnews.com/node/2648868/middle-east",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T10:16:13+00:00",
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
+          "datePublished": null,
+          "order": 3
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia leads Gulf, Arab condemnation of newest Iranian attacks",
+      "url": "https://www.arabnews.com/node/2648855/middle-east",
+      "section": "middle east",
+      "publishedAt": "2026-06-28T10:04:04.000Z",
+      "publishedRaw": "2026-06-28T13:04:04+03:00",
+      "modifiedAt": "2026-06-28T10:05:01.000Z",
+      "modifiedRaw": "2026-06-28T13:05:01+03:00",
+      "description": "DUBAI: Saudi Arabia has condemned, in the strongest terms, Iran’s latest attacks Kuwait and Bahrain as well as on “the security and freedom of navigation in the Strait of Hormuz.” In statement issued by the Saudi foreign affairs ministry, the Kingdom categorically rejected the attacks and described them as a violation of international law and the United Nations Charter. “The",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726006-1093001401.jpg?itok=mAGsh_WM",
+      "author": "Arab News",
+      "nodeId": 2648855,
+      "candidateUrl": "https://www.arabnews.com/node/2648855/middle-east",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T10:04:04+00:00",
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle?page=1",
+          "datePublished": null,
           "order": 1
+        }
+      ]
+    },
+    {
+      "title": "Israel military says soldier killed in south Lebanon fighting",
+      "url": "https://www.arabnews.com/node/2648867/middle-east",
+      "section": "middle east",
+      "publishedAt": "2026-06-28T10:03:04.000Z",
+      "publishedRaw": "2026-06-28T13:03:04+03:00",
+      "modifiedAt": "2026-06-28T10:07:41.000Z",
+      "modifiedRaw": "2026-06-28T13:07:41+03:00",
+      "description": "JERUSALEM: The Israeli military said a soldier was killed on Sunday in fighting in southern Lebanon, two days after Israel and Lebanon signed an agreement aimed at ending hostilities. Captain David Hazutt, 21, a platoon commander “fell in combat” in southern Lebanon, the military said. His death brings Israel’s military losses to 38 soldiers and one civilian contractor since",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726038-1111511270.jpg?itok=jbJ-7jEh",
+      "author": "AFP",
+      "nodeId": 2648867,
+      "candidateUrl": "https://www.arabnews.com/node/2648867/middle-east",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T10:03:04+00:00",
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 4
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
+          "datePublished": null,
+          "order": 5
+        }
+      ]
+    },
+    {
+      "title": "From rubble to music: Gaza’s Oud repairman",
+      "url": "https://www.arabnews.com/node/2648866/middle-east",
+      "section": "middle east",
+      "publishedAt": "2026-06-28T10:01:57.000Z",
+      "publishedRaw": "2026-06-28T13:01:57+03:00",
+      "modifiedAt": "2026-06-28T11:06:06.000Z",
+      "modifiedRaw": "2026-06-28T14:06:06+03:00",
+      "description": "NUSEIRAT: In a modest makeshift workshop tucked inside the crowded Nuseirat refugee camp in central Gaza, the soft sound of an oud echoes through the ruins of war. Surrounded by wooden pallets, fragments of crates that held humanitarian aid, and the pieces of damaged instruments, Palestinian craftsman Suhail Abu Shawish bends carefully over a battered oud, tuning its strings",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726042-1474519182.jpg?itok=u_JBS9Pm",
+      "author": "AFP",
+      "nodeId": 2648866,
+      "candidateUrl": "https://www.arabnews.com/node/2648866/middle-east",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T10:01:57+00:00",
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 5
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
+          "datePublished": null,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "title": "Sinner begins Wimbledon defense, Sabalenka seeks first title",
+      "url": "https://www.arabnews.com/node/2648865/sport",
+      "section": "sport",
+      "publishedAt": "2026-06-28T09:53:50.000Z",
+      "publishedRaw": "2026-06-28T12:53:50+03:00",
+      "modifiedAt": "2026-06-28T09:55:51.000Z",
+      "modifiedRaw": "2026-06-28T12:55:51+03:00",
+      "description": "LONDON: Wimbledon begins on Monday, with defending champion Jannik Sinner ‌chasing a fifth Grand Slam title and women’s top seed Aryna Sabalenka chasing her first major of the year. In the absence of rival and two-time Wimbledon winner ​Carlos Alcaraz, Sinner is the clear favorite this year, but the Italian may have to contend with the hot weather and his own lack of",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726036-1573397934.jpg?itok=ePgStncP",
+      "author": "Reuters",
+      "nodeId": 2648865,
+      "candidateUrl": "https://www.arabnews.com/node/2648865/sport",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T09:53:50+00:00",
+          "order": 10
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 6
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 0
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
+          "datePublished": null,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "title": "Israel damaged heritage sites across south Lebanon, minister says",
+      "url": "https://www.arabnews.com/node/2648864/middle-east",
+      "section": "middle east",
+      "publishedAt": "2026-06-28T09:22:41.000Z",
+      "publishedRaw": "2026-06-28T12:22:41+03:00",
+      "modifiedAt": "2026-06-28T09:44:59.000Z",
+      "modifiedRaw": "2026-06-28T12:44:59+03:00",
+      "description": "TYRE/BEIRUT: A crown was blown off an ancient column in a UNESCO-listed site in Lebanon’s port city of Tyre. A pilgrimage site for Muslims and Christians alike was destroyed ​in another southern town. Israeli strikes pummelled the Mamluk-era market in the city of Nabatieh and troops razed centuries-old Lebanese border towns. Israel’s nearly four-month air and ground campaign",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726034-341867410.jpg?itok=XSeC-4dk",
+      "author": "Reuters",
+      "nodeId": 2648864,
+      "candidateUrl": "https://www.arabnews.com/node/2648864/middle-east",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T09:22:41+00:00",
+          "order": 11
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 7
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 1
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
+          "datePublished": null,
+          "order": 8
+        }
+      ]
+    },
+    {
+      "title": "Jordan’s exports to EU markets surge 49.3% in first 4 months of 2026",
+      "url": "https://www.arabnews.com/node/2648863/business-economy",
+      "section": "business economy",
+      "publishedAt": "2026-06-28T08:48:23.000Z",
+      "publishedRaw": "2026-06-28T11:48:23+03:00",
+      "modifiedAt": "2026-06-28T08:48:23.000Z",
+      "modifiedRaw": "2026-06-28T11:48:23+03:00",
+      "description": "RIYADH: Jordan’s exports to EU countries reached 218 million Jordanian dinars ($307.48 million) during the first four months of 2026, up 49.3 percent from the same period a year earlier. Mohammed Samadi, chairman of the European Chamber of Commerce in Jordan, described the growth as a strong validation of the competitiveness of Jordanian products in global markets.",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726025-1806848679.jpg?itok=V1pq-V3U",
+      "author": "Arab News",
+      "nodeId": 2648863,
+      "candidateUrl": "https://www.arabnews.com/node/2648863/business-economy",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T08:48:23+00:00",
+          "order": 12
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 34
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 13
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 29
+        }
+      ]
+    },
+    {
+      "title": "Baniyas maintain lead on Day 2 of the Khaled bin Mohamed bin Zayed Jiu-Jitsu Championship",
+      "url": "https://www.arabnews.com/node/2648862/sport",
+      "section": "sport",
+      "publishedAt": "2026-06-28T08:34:14.000Z",
+      "publishedRaw": "2026-06-28T11:34:14+03:00",
+      "modifiedAt": "2026-06-28T08:34:14.000Z",
+      "modifiedRaw": "2026-06-28T11:34:14+03:00",
+      "description": "ABU DHABI: The fifth round of the Khaled bin Mohamed bin Zayed Jiu-Jitsu Championship (Gi division) continued on Saturday at Mubadala Arena in Abu Dhabi with the Kids division, attracting strong participation from clubs and academies across the UAE. Baniyas Jiu-Jitsu Club maintained the overall lead after Day 2, followed by M.O.D UAE in second place and Al Jazira Jiu-Jitsu",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726024-149342078.jpg?itok=INQK2J6b",
+      "author": "Arab News",
+      "nodeId": 2648862,
+      "candidateUrl": "https://www.arabnews.com/node/2648862/sport",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T08:34:14+00:00",
+          "order": 13
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 8
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 3
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
+          "datePublished": null,
+          "order": 9
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia expands China transport ties at Shanghai logistics exhibition",
+      "url": "https://www.arabnews.com/node/2648861/business-economy",
+      "section": "business economy",
+      "publishedAt": "2026-06-28T08:13:58.000Z",
+      "publishedRaw": "2026-06-28T11:13:58+03:00",
+      "modifiedAt": "2026-06-28T08:15:56.000Z",
+      "modifiedRaw": "2026-06-28T11:15:56+03:00",
+      "description": "RIYADH: Saudi Arabia expanded its transport and logistics partnership with China by signing a smart-mobility agreement and showcasing more than 75 investment opportunities at Transport Logistic China 2026 in Shanghai. According to the Saudi Press Agency, the Transport General Authority participated in a Saudi pavilion comprising 25 government and private-sector entities. Saudi",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726021-1246665906.jpg?itok=dKg58QQo",
+      "author": "Arab News",
+      "nodeId": 2648861,
+      "candidateUrl": "https://www.arabnews.com/node/2648861/business-economy",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T08:13:58+00:00",
+          "order": 14
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 35
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 11
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 30
+        }
+      ]
+    },
+    {
+      "title": "‘High-strung’ camels race in Australian outback",
+      "url": "https://www.arabnews.com/node/2648860/offbeat",
+      "section": "offbeat",
+      "publishedAt": "2026-06-28T08:00:02.000Z",
+      "publishedRaw": "2026-06-28T11:00:02+03:00",
+      "modifiedAt": "2026-06-28T08:01:59.000Z",
+      "modifiedRaw": "2026-06-28T11:01:59+03:00",
+      "description": "MARREE, Australia: Camels with “a bit of fire in them” raced in a remote Australian outback town this weekend at an annual event celebrating the desert beasts first imported in the mid-19th century. Hundreds of spectators descended on Marree, which has a population of 65 and lies nearly 600 kilometers (370 miles) north of the South Australian capital Adelaide, for a 13-race",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726020-1224098738.jpg?itok=7YecwvQL",
+      "author": "AFP",
+      "nodeId": 2648860,
+      "candidateUrl": "https://www.arabnews.com/node/2648860/offbeat",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T08:00:02+00:00",
+          "order": 15
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy?page=1",
+          "datePublished": null,
+          "order": 9
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "title": "Pakistan urges US, Iran to abide by ceasefire agreement as both exchange attacks",
+      "url": "https://www.arabnews.com/node/2648859/pakistan",
+      "section": "",
+      "publishedAt": "2026-06-28T07:50:06.000Z",
+      "publishedRaw": "2026-06-28T10:50:06+03:00",
+      "modifiedAt": "2026-06-28T10:55:34.000Z",
+      "modifiedRaw": "2026-06-28T13:55:34+03:00",
+      "description": "ISLAMABAD: Pakistan’s Deputy Prime Minister Ishaq Dar urged all parties to abide by the ceasefire agreement on Sunday, as tensions between the United States and Iran surged this week after both sides exchanged fresh attacks in the Middle East. Dar spoke to Bahrain’s Foreign Minister Dr. Abdullatif bin Rashid Al Zayani and EU High Representative for Foreign Affairs Kaja Kallas,",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726017-1287560032.jpg?itok=JfrG1XEo",
+      "author": "Shahjahan Khurram",
+      "nodeId": 2648859,
+      "candidateUrl": "https://www.arabnews.com/node/2648859/pakistan",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T07:50:06+00:00",
+          "order": 16
+        }
+      ]
+    },
+    {
+      "title": "Lebanon state media reports Israeli strike on south",
+      "url": "https://www.arabnews.com/node/2648849/middle-east",
+      "section": "middle east",
+      "publishedAt": "2026-06-28T07:36:09.000Z",
+      "publishedRaw": "2026-06-28T10:36:09+03:00",
+      "modifiedAt": "2026-06-28T09:45:22.000Z",
+      "modifiedRaw": "2026-06-28T12:45:22+03:00",
+      "description": "BEIRUT: The Lebanese state news agency reported a new Israeli attack on southern Lebanon on Sunday, two days after the countries signed an agreement to pave the way to peace talks. “An Israeli warplane carried out an airstrike targeting the outskirts of the towns of Deir Seryan and Taybeh in southern Lebanon,” Lebanon’s state-run National News Agency reported. Israeli military",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4725985-217727505.jpg?itok=sk91gU54",
+      "author": "AFPReuters",
+      "nodeId": 2648849,
+      "candidateUrl": "https://www.arabnews.com/node/2648849/middle-east",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-06-28T07:36:09+00:00",
+          "order": 17
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 16
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 12
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 5
         },
         {
           "source": "dom",
@@ -276,7 +1172,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T07:05:23+00:00",
-          "order": 4
+          "order": 18
         }
       ]
     },
@@ -286,9 +1182,9 @@
       "section": "world",
       "publishedAt": "2026-06-28T06:50:14.000Z",
       "publishedRaw": "2026-06-28T09:50:14+03:00",
-      "modifiedAt": "2026-06-28T06:57:21.000Z",
-      "modifiedRaw": "2026-06-28T09:57:21+03:00",
-      "description": "PARIS: French health officials said Sunday there had been around 1,000 more deaths than expected during a record-breaking heatwave that has baked much of western Europe for days. “Since June 24, approximately 1,000 additional deaths (unconsolidated figures) have been observed compared to the deaths recorded in previous months,” Public Health France said in a statement. The",
+      "modifiedAt": "2026-06-28T09:10:47.000Z",
+      "modifiedRaw": "2026-06-28T12:10:47+03:00",
+      "description": "PARIS: At least 191 million people are forecast to endure temperatures of at least 35C on Sunday in Europe, with the heat particularly intense in Germany, the Czech Republic, Hungary and Poland, according to AFP estimates. A total of 381 million people in Europe, excluding Turkey, will see temperatures surpass 30C, according to analysis based on forecasts from the German",
       "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726008-328556205.jpg?itok=o01d-4ty",
       "author": "AFP",
       "nodeId": 2648856,
@@ -298,161 +1194,31 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T06:50:14+00:00",
-          "order": 5
+          "order": 19
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
-          "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
-          "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 0
+          "order": 32
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 2
+          "order": 10
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 0
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy?page=1",
-          "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
-          "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle?page=1",
-          "datePublished": null,
-          "order": 0
-        }
-      ]
-    },
-    {
-      "title": "Kuwait, Bahrain condemn latest Iranian attacks on their territories",
-      "url": "https://www.arabnews.com/node/2648855/middle-east",
-      "section": "middle east",
-      "publishedAt": "2026-06-28T06:48:04.000Z",
-      "publishedRaw": "2026-06-28T09:48:04+03:00",
-      "modifiedAt": "2026-06-28T07:07:56.000Z",
-      "modifiedRaw": "2026-06-28T10:07:56+03:00",
-      "description": "DUBAI: Kuwait and Bahrain have strongly condemned the latest Iranian attacks targeting their territories, describing the incidents as serious violations of their sovereignty and threats to regional security.",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726006-1093001401.jpg?itok=mAGsh_WM",
-      "author": "Arab News",
-      "nodeId": 2648855,
-      "candidateUrl": "https://www.arabnews.com/node/2648855/middle-east",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-28T06:48:04+00:00",
           "order": 6
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 1
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 1
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy?page=1",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle?page=1",
           "datePublished": null,
-          "order": 1
+          "order": 0
         }
       ]
     },
@@ -474,67 +1240,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T06:27:33+00:00",
-          "order": 7
+          "order": 20
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 4
+          "order": 41
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 4
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
-          "datePublished": null,
-          "order": 4
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
-          "datePublished": null,
-          "order": 4
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 2
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 4
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy?page=1",
-          "datePublished": null,
-          "order": 4
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
-          "datePublished": null,
-          "order": 4
+          "order": 7
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 4
+          "order": 10
         },
         {
           "source": "dom",
@@ -562,73 +1286,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T06:04:08+00:00",
-          "order": 8
+          "order": 21
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 5
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
-          "datePublished": null,
-          "order": 5
+          "order": 13
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 5
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
-          "datePublished": null,
-          "order": 5
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 3
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 5
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy?page=1",
-          "datePublished": null,
-          "order": 5
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
-          "datePublished": null,
-          "order": 5
+          "order": 10
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 6
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 5
+          "order": 8
         },
         {
           "source": "dom",
@@ -656,67 +1332,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T05:29:45+00:00",
-          "order": 9
+          "order": 22
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 6
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
-          "datePublished": null,
-          "order": 6
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
-          "datePublished": null,
-          "order": 6
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 4
+          "order": 15
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 6
+          "order": 11
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 4
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 6
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy?page=1",
-          "datePublished": null,
-          "order": 6
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
-          "datePublished": null,
-          "order": 6
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 6
+          "order": 9
         },
         {
           "source": "dom",
@@ -744,7 +1378,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T04:57:42+00:00",
-          "order": 10
+          "order": 23
         }
       ]
     },
@@ -766,73 +1400,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T04:44:37+00:00",
-          "order": 11
+          "order": 24
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 7
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
-          "datePublished": null,
-          "order": 7
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
-          "datePublished": null,
-          "order": 7
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 5
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
-          "datePublished": null,
-          "order": 7
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 5
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 7
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy?page=1",
-          "datePublished": null,
-          "order": 7
+          "order": 14
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 7
+          "order": 10
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 0
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 7
+          "order": 26
         },
         {
           "source": "dom",
@@ -860,73 +1446,19 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T04:42:46+00:00",
-          "order": 12
+          "order": 25
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
-          "datePublished": null,
-          "order": 8
+          "order": 12
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 6
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 6
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy?page=1",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
-          "datePublished": null,
-          "order": 1
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 8
+          "order": 11
         },
         {
           "source": "dom",
@@ -954,73 +1486,73 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T04:36:50+00:00",
-          "order": 13
+          "order": 26
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 9
+          "order": 19
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
-          "order": 9
+          "order": 24
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 9
+          "order": 17
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 7
+          "order": 24
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 9
+          "order": 23
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 7
+          "order": 23
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 9
+          "order": 33
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy?page=1",
           "datePublished": null,
-          "order": 9
+          "order": 33
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 9
+          "order": 11
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 2
+          "order": 23
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 9
+          "order": 26
         },
         {
           "source": "dom",
@@ -1036,8 +1568,8 @@
       "section": "sport",
       "publishedAt": "2026-06-28T04:30:45.000Z",
       "publishedRaw": "2026-06-28T07:30:45+03:00",
-      "modifiedAt": "2026-06-28T04:55:48.000Z",
-      "modifiedRaw": "2026-06-28T07:55:48+03:00",
+      "modifiedAt": "2026-06-28T09:35:06.000Z",
+      "modifiedRaw": "2026-06-28T12:35:06+03:00",
       "description": "DUBAI: A barely believable 3-3 draw between Austria and Algeria at Arrowhead Stadium in Kansas City sent both teams to the 2026 World Cup Round of 32 as the second and third placed teams in Group J. The build-up to the fixture had focused on its infamous historical significance. Algeria had lost 2-0 to Austria on its first World Cup participation in 1982, and were later",
       "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4725988-1301340435.jpg?itok=edq0uhjS",
       "author": "Ali Khaled",
@@ -1048,37 +1580,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T04:30:45+00:00",
-          "order": 14
+          "order": 27
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 41
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 8
+          "order": 38
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 10
+          "order": 12
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 3
+          "order": 22
         },
         {
           "source": "dom",
@@ -1106,25 +1626,19 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T04:21:02+00:00",
-          "order": 15
+          "order": 28
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 13
+          "order": 17
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 11
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
-          "datePublished": null,
-          "order": 5
+          "order": 13
         }
       ]
     },
@@ -1146,19 +1660,19 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T03:51:33+00:00",
-          "order": 16
+          "order": 29
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 39
+          "order": 42
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 10
+          "order": 11
         }
       ]
     },
@@ -1180,7 +1694,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T03:45:22+00:00",
-          "order": 17
+          "order": 30
         }
       ]
     },
@@ -1202,25 +1716,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T03:37:24+00:00",
-          "order": 18
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 12
+          "order": 31
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 10
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
-          "datePublished": null,
-          "order": 7
+          "order": 13
         }
       ]
     },
@@ -1242,25 +1744,19 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T03:14:36+00:00",
-          "order": 19
+          "order": 32
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 14
+          "order": 18
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 11
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
-          "datePublished": null,
-          "order": 8
+          "order": 14
         }
       ]
     },
@@ -1282,7 +1778,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T03:12:40+00:00",
-          "order": 20
+          "order": 33
         }
       ]
     },
@@ -1304,19 +1800,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T02:36:01+00:00",
-          "order": 21
+          "order": 34
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 12
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
-          "datePublished": null,
-          "order": 24
+          "order": 14
         }
       ]
     },
@@ -1338,13 +1828,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T02:07:23+00:00",
-          "order": 22
+          "order": 35
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 13
+          "order": 15
         }
       ]
     },
@@ -1366,7 +1856,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T02:04:14+00:00",
-          "order": 23
+          "order": 36
         }
       ]
     },
@@ -1388,25 +1878,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T00:35:31+00:00",
-          "order": 24
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 28
+          "order": 37
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 10
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
-          "datePublished": null,
-          "order": 9
+          "order": 12
         }
       ]
     },
@@ -1428,13 +1906,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T00:17:48+00:00",
-          "order": 25
+          "order": 38
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 14
+          "order": 16
         }
       ]
     },
@@ -1456,13 +1934,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-28T00:06:29+00:00",
-          "order": 26
+          "order": 39
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 15
+          "order": 17
         }
       ]
     },
@@ -1484,13 +1962,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T23:44:27+00:00",
-          "order": 27
+          "order": 40
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 11
+          "order": 13
         }
       ]
     },
@@ -1512,13 +1990,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T22:11:31+00:00",
-          "order": 28
+          "order": 41
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 12
+          "order": 15
         }
       ]
     },
@@ -1528,8 +2006,8 @@
       "section": "business economy",
       "publishedAt": "2026-06-27T21:14:43.000Z",
       "publishedRaw": "2026-06-28T00:14:43+03:00",
-      "modifiedAt": "2026-06-27T21:33:45.000Z",
-      "modifiedRaw": "2026-06-28T00:33:45+03:00",
+      "modifiedAt": "2026-06-28T10:24:56.000Z",
+      "modifiedRaw": "2026-06-28T13:24:56+03:00",
       "description": "RIYADH: New data shows that host cities for the ongoing 2026 World Cup have averaged 44 percent property price growth since the tournament was announced, and with Saudi Arabia confirmed to host in 2034, the clock is already ticking. When FIFA awarded the 2026 World Cup to the US, Canada and Mexico in June 2018, savvy investors were already looking beyond football and toward",
       "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4725932-460061320.jpg?itok=nL8gESCp",
       "author": "Miguel Hadchity",
@@ -1540,13 +2018,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T21:14:43+00:00",
-          "order": 29
+          "order": 42
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 30
+          "order": 36
         },
         {
           "source": "dom",
@@ -1558,7 +2036,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy?page=1",
           "datePublished": null,
-          "order": 28
+          "order": 31
         }
       ]
     },
@@ -1580,13 +2058,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T20:48:16+00:00",
-          "order": 30
+          "order": 43
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 12
+          "order": 14
         }
       ]
     },
@@ -1608,13 +2086,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T20:19:54+00:00",
-          "order": 31
+          "order": 44
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 16
+          "order": 18
         }
       ]
     },
@@ -1636,7 +2114,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T20:15:48+00:00",
-          "order": 32
+          "order": 45
         }
       ]
     },
@@ -1658,7 +2136,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T20:03:26+00:00",
-          "order": 33
+          "order": 46
         },
         {
           "source": "dom",
@@ -1670,7 +2148,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 17
+          "order": 19
         }
       ]
     },
@@ -1692,7 +2170,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T19:58:12+00:00",
-          "order": 34
+          "order": 47
         }
       ]
     },
@@ -1714,7 +2192,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T19:39:33+00:00",
-          "order": 35
+          "order": 48
         }
       ]
     },
@@ -1736,7 +2214,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T19:35:29+00:00",
-          "order": 36
+          "order": 49
         },
         {
           "source": "dom",
@@ -1748,7 +2226,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 18
+          "order": 20
         }
       ]
     },
@@ -1770,7 +2248,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T19:31:54+00:00",
-          "order": 37
+          "order": 50
         },
         {
           "source": "dom",
@@ -1780,9 +2258,9 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 14
+          "order": 10
         }
       ]
     },
@@ -1804,7 +2282,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T19:31:48+00:00",
-          "order": 38
+          "order": 51
         },
         {
           "source": "dom",
@@ -1814,9 +2292,9 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 15
+          "order": 11
         }
       ]
     },
@@ -1838,7 +2316,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T19:27:11+00:00",
-          "order": 39
+          "order": 52
         },
         {
           "source": "dom",
@@ -1848,9 +2326,9 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 19
+          "order": 10
         }
       ]
     },
@@ -1872,7 +2350,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T19:12:21+00:00",
-          "order": 40
+          "order": 53
         },
         {
           "source": "dom",
@@ -1882,9 +2360,9 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 16
+          "order": 12
         }
       ]
     },
@@ -1906,7 +2384,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T18:53:35+00:00",
-          "order": 41
+          "order": 54
         },
         {
           "source": "dom",
@@ -1946,13 +2424,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T18:53:11+00:00",
-          "order": 42
+          "order": 55
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 25
+          "order": 29
         },
         {
           "source": "dom",
@@ -1986,7 +2464,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 33
+          "order": 37
         }
       ]
     },
@@ -1996,8 +2474,8 @@
       "section": "middle east",
       "publishedAt": "2026-06-27T18:37:54.000Z",
       "publishedRaw": "2026-06-27T21:37:54+03:00",
-      "modifiedAt": "2026-06-27T19:10:56.000Z",
-      "modifiedRaw": "2026-06-27T22:10:56+03:00",
+      "modifiedAt": "2026-06-28T10:08:48.000Z",
+      "modifiedRaw": "2026-06-28T13:08:48+03:00",
       "description": "JERUSALEM: Israel’s Prime Minister Benjamin Netanyahu on Saturday hailed the US-brokered agreement with Lebanon, calling it a historic achievement that dealt a blow to arch-foes Iran and Hezbollah. “Yesterday ... we achieved a historic deal for the state of Israel after direct negotiations between Israel and Lebanon,” Netanyahu said in a televised briefing. “This is a blow to",
       "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725875-1706703649.jpg?itok=8IJvOXBv",
       "author": "AFP",
@@ -2008,7 +2486,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T18:37:54+00:00",
-          "order": 43
+          "order": 56
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 39
         },
         {
           "source": "dom",
@@ -2018,9 +2502,9 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 17
+          "order": 13
         }
       ]
     },
@@ -2042,7 +2526,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 18
+          "order": 23
         },
         {
           "source": "dom",
@@ -2070,7 +2554,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T18:00:23+00:00",
-          "order": 44
+          "order": 57
         }
       ]
     },
@@ -2092,7 +2576,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 19
+          "order": 24
         },
         {
           "source": "dom",
@@ -2126,7 +2610,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 20
+          "order": 25
         },
         {
           "source": "dom",
@@ -2160,7 +2644,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T17:47:57+00:00",
-          "order": 45
+          "order": 58
         },
         {
           "source": "dom",
@@ -2170,9 +2654,9 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 20
+          "order": 11
         },
         {
           "source": "dom",
@@ -2206,7 +2690,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 21
+          "order": 26
         },
         {
           "source": "dom",
@@ -2240,13 +2724,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T17:36:00+00:00",
-          "order": 46
+          "order": 59
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 13
+          "order": 15
         },
         {
           "source": "dom",
@@ -2280,13 +2764,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T17:00:00+00:00",
-          "order": 48
+          "order": 61
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 27
+          "order": 31
         },
         {
           "source": "dom",
@@ -2314,13 +2798,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T17:00:00+00:00",
-          "order": 47
+          "order": 60
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 26
+          "order": 30
         },
         {
           "source": "dom",
@@ -2348,13 +2832,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T16:58:43+00:00",
-          "order": 49
+          "order": 62
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 14
+          "order": 16
         },
         {
           "source": "dom",
@@ -2388,13 +2872,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T16:35:14+00:00",
-          "order": 50
+          "order": 63
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 18
+          "order": 14
         },
         {
           "source": "dom",
@@ -2428,7 +2912,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T16:26:37+00:00",
-          "order": 51
+          "order": 64
         },
         {
           "source": "dom",
@@ -2462,7 +2946,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T16:25:13+00:00",
-          "order": 52
+          "order": 65
         }
       ]
     },
@@ -2484,13 +2968,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T16:20:28+00:00",
-          "order": 53
+          "order": 66
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 15
+          "order": 17
         },
         {
           "source": "dom",
@@ -2524,13 +3008,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T16:10:31+00:00",
-          "order": 54
+          "order": 67
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 10
+          "order": 12
         },
         {
           "source": "dom",
@@ -2564,25 +3048,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T16:01:56+00:00",
-          "order": 55
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 24
+          "order": 68
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
           "order": 14
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
-          "datePublished": null,
-          "order": 13
         },
         {
           "source": "dom",
@@ -2616,13 +3088,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T16:01:43+00:00",
-          "order": 56
+          "order": 69
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 16
+          "order": 18
         },
         {
           "source": "dom",
@@ -2656,13 +3128,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T15:44:15+00:00",
-          "order": 57
+          "order": 70
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 11
+          "order": 13
         },
         {
           "source": "dom",
@@ -2696,7 +3168,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T15:41:02+00:00",
-          "order": 58
+          "order": 71
         }
       ]
     },
@@ -2718,13 +3190,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T15:05:57+00:00",
-          "order": 59
+          "order": 72
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 12
+          "order": 14
         }
       ]
     },
@@ -2746,13 +3218,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T14:27:20+00:00",
-          "order": 60
+          "order": 73
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 19
+          "order": 15
         }
       ]
     },
@@ -2774,7 +3246,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T14:26:43+00:00",
-          "order": 61
+          "order": 74
         }
       ]
     },
@@ -2796,7 +3268,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T14:11:53+00:00",
-          "order": 62
+          "order": 75
         },
         {
           "source": "dom",
@@ -2808,7 +3280,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 10
+          "order": 16
         }
       ]
     },
@@ -2830,13 +3302,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T14:07:32+00:00",
-          "order": 63
+          "order": 76
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 11
+          "order": 17
         }
       ]
     },
@@ -2858,13 +3330,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T13:58:34+00:00",
-          "order": 64
+          "order": 77
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 13
+          "order": 15
         }
       ]
     },
@@ -2886,7 +3358,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T13:52:23+00:00",
-          "order": 65
+          "order": 78
         },
         {
           "source": "dom",
@@ -2914,13 +3386,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T13:49:57+00:00",
-          "order": 66
+          "order": 79
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 17
+          "order": 19
         }
       ]
     },
@@ -2942,13 +3414,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T13:37:49+00:00",
-          "order": 67
+          "order": 80
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 18
+          "order": 20
         }
       ]
     },
@@ -2970,13 +3442,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T13:29:10+00:00",
-          "order": 68
+          "order": 81
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 14
+          "order": 16
         }
       ]
     },
@@ -2998,7 +3470,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T13:07:22+00:00",
-          "order": 69
+          "order": 82
         }
       ]
     },
@@ -3020,7 +3492,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T13:02:39+00:00",
-          "order": 70
+          "order": 83
         }
       ]
     },
@@ -3042,19 +3514,19 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:52:57+00:00",
-          "order": 71
+          "order": 84
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 40
+          "order": 43
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 11
+          "order": 12
         }
       ]
     },
@@ -3076,13 +3548,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:44:21+00:00",
-          "order": 72
+          "order": 85
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 19
+          "order": 21
         }
       ]
     },
@@ -3104,13 +3576,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:39:02+00:00",
-          "order": 73
+          "order": 86
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 12
+          "order": 18
         }
       ]
     },
@@ -3132,13 +3604,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:38:58+00:00",
-          "order": 74
+          "order": 87
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 20
+          "order": 10
         }
       ]
     },
@@ -3160,13 +3632,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:31:12+00:00",
-          "order": 75
+          "order": 88
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 15
+          "order": 17
         }
       ]
     },
@@ -3188,13 +3660,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:27:54+00:00",
-          "order": 76
+          "order": 89
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 10
+          "order": 11
         }
       ]
     },
@@ -3216,7 +3688,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:22:32+00:00",
-          "order": 77
+          "order": 90
         }
       ]
     },
@@ -3238,7 +3710,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:21:35+00:00",
-          "order": 78
+          "order": 91
         },
         {
           "source": "dom",
@@ -3266,13 +3738,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:17:37+00:00",
-          "order": 79
+          "order": 92
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 11
+          "order": 12
         }
       ]
     },
@@ -3294,13 +3766,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T12:09:50+00:00",
-          "order": 80
+          "order": 93
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 12
+          "order": 13
         }
       ]
     },
@@ -3322,7 +3794,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T11:33:24+00:00",
-          "order": 81
+          "order": 94
         },
         {
           "source": "dom",
@@ -3350,7 +3822,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T11:22:05+00:00",
-          "order": 82
+          "order": 95
         }
       ]
     },
@@ -3372,7 +3844,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T11:20:00+00:00",
-          "order": 83
+          "order": 96
         },
         {
           "source": "dom",
@@ -3400,7 +3872,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T11:15:50+00:00",
-          "order": 84
+          "order": 97
         },
         {
           "source": "dom",
@@ -3428,299 +3900,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-06-27T11:12:48+00:00",
-          "order": 85
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 13
-        }
-      ]
-    },
-    {
-      "title": "At Zurich summit, Pakistan calls for role of developing economies in tokenized finance",
-      "url": "https://www.arabnews.com/node/2648763/pakistan",
-      "section": "",
-      "publishedAt": "2026-06-27T10:54:31.000Z",
-      "publishedRaw": "2026-06-27T13:54:31+03:00",
-      "modifiedAt": "2026-06-27T10:54:31.000Z",
-      "modifiedRaw": "2026-06-27T13:54:31+03:00",
-      "description": "ISLAMABAD: Pakistan called for developing economies to play a greater role in shaping the future of tokenized finance and urged global policymakers at the ‘Point Zero Forum’ in Zurich to ensure emerging markets have a voice in setting standards for digital financial systems, the Pakistan Virtual Assets Regulatory Authority (PVARA) said on Saturday.",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725753-2113166453.jpg?itok=qMOGo5XC",
-      "author": "Waseem Abbasi",
-      "nodeId": 2648763,
-      "candidateUrl": "https://www.arabnews.com/node/2648763/pakistan",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T10:54:31+00:00",
-          "order": 86
-        }
-      ]
-    },
-    {
-      "title": "Review: ‘King of the Shoulders’ documentary about Hasawi bisht turns threads into gold at Saudi Film Festival",
-      "url": "https://www.arabnews.com/node/2648762/lifestyle",
-      "section": "lifestyle",
-      "publishedAt": "2026-06-27T10:54:09.000Z",
-      "publishedRaw": "2026-06-27T13:54:09+03:00",
-      "modifiedAt": "2026-06-28T04:29:14.000Z",
-      "modifiedRaw": "2026-06-28T07:29:14+03:00",
-      "description": "DHAHRAN: The 12th Saudi Film Festival opened at the King Abdulaziz Center for World Culture (Ithra) in Dhahran with the charming documentary “King of the Shoulders,” which had audiences laughing out loud. The documentary explores the Hasawi bisht, a formal garment usually made of dark-colored wool with decorative gold and silver accents, worn by Saudi men over their crisp",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725986-405395522.jpg?itok=OIl95Gxb",
-      "author": "Jasmine Bager",
-      "nodeId": 2648762,
-      "candidateUrl": "https://www.arabnews.com/node/2648762/lifestyle",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T10:54:09+00:00",
-          "order": 87
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 12
-        }
-      ]
-    },
-    {
-      "title": "Israel military says targeted suspected militants in south Lebanon airstrike",
-      "url": "https://www.arabnews.com/node/2648761/middle-east",
-      "section": "middle east",
-      "publishedAt": "2026-06-27T10:53:43.000Z",
-      "publishedRaw": "2026-06-27T13:53:43+03:00",
-      "modifiedAt": "2026-06-27T17:03:07.000Z",
-      "modifiedRaw": "2026-06-27T20:03:07+03:00",
-      "description": "JERUSALEM: The Israeli military said it carried out an airstrike on Saturday targeting suspected militants in the Nabatieh area of southern Lebanon, the first such attack since Washington announced a framework agreement between Israel and Lebanon. On Friday, Israel, Lebanon and the United States signed a trilateral agreement aimed at paving the way for a broader peace deal",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725788-1354433177.jpg?itok=2weRAatv",
-      "author": "ReutersAFP",
-      "nodeId": 2648761,
-      "candidateUrl": "https://www.arabnews.com/node/2648761/middle-east",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T10:53:43+00:00",
-          "order": 88
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 13
-        }
-      ]
-    },
-    {
-      "title": "Bella Hadid releases 2 new Orebella fragrances",
-      "url": "https://www.arabnews.com/node/2648760/lifestyle",
-      "section": "lifestyle",
-      "publishedAt": "2026-06-27T10:03:37.000Z",
-      "publishedRaw": "2026-06-27T13:03:37+03:00",
-      "modifiedAt": "2026-06-27T10:03:37.000Z",
-      "modifiedRaw": "2026-06-27T13:03:37+03:00",
-      "description": "DUBAI: Palestinian US Dutch model Bella Hadid has donned her entrepreneurial hat once more with the news that Orebella, her fragrance line, is expanding its collection of body and hair mists. “Solaris” is a sun-inspired duo of new limited-edition scents for summer. Hadid explained: “With ‘Solaris,’ I wanted to bottle that feeling of golden-hour light on the skin, the warmth",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725742-1472926849.jpg?itok=EKhqrHDw",
-      "author": "Arab News",
-      "nodeId": 2648760,
-      "candidateUrl": "https://www.arabnews.com/node/2648760/lifestyle",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T10:03:37+00:00",
-          "order": 89
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 13
-        }
-      ]
-    },
-    {
-      "title": "US says will not ignore attacks on Hormuz shipping as both sides trade strikes",
-      "url": "https://www.arabnews.com/node/2648759/middle-east",
-      "section": "middle east",
-      "publishedAt": "2026-06-27T10:02:25.000Z",
-      "publishedRaw": "2026-06-27T13:02:25+03:00",
-      "modifiedAt": "2026-06-27T16:36:50.000Z",
-      "modifiedRaw": "2026-06-27T19:36:50+03:00",
-      "description": "DUBAI: A tanker came under attack in the Strait of Hormuz on Saturday, just after Bahrain said that Iran launched an attack targeting the kingdom. The British military’s United Kingdom Maritime Trade Operations center reported the attack, saying the ship’s crew was safe and no environmental damage was reported. No one immediately claimed the attack. However, Iran attacked a",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725744-1914679787.jpg?itok=5l4WGMJq",
-      "author": "Arab News",
-      "nodeId": 2648759,
-      "candidateUrl": "https://www.arabnews.com/node/2648759/middle-east",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T10:02:25+00:00",
-          "order": 90
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "title": "Small plane crash at Beijing high-rise kills the pilot and injures 13, authorities say",
-      "url": "https://www.arabnews.com/node/2648758/world",
-      "section": "world",
-      "publishedAt": "2026-06-27T09:28:38.000Z",
-      "publishedRaw": "2026-06-27T12:28:38+03:00",
-      "modifiedAt": "2026-06-27T13:34:56.000Z",
-      "modifiedRaw": "2026-06-27T16:34:56+03:00",
-      "description": "BEIJING: Chinese authorities on Saturday said a small plane that crashed into a building in Beijing the day before had killed the pilot and injured 13 others. The authorities of the Chaoyang district, a vibrant business area, said a two-seat light sport aircraft collided with a high-rise building near East Third Ring Road at 5:55 p.m. on Friday and caused the casualties. The",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725796-195312535.jpg?itok=TpPlCrqC",
-      "author": "AP",
-      "nodeId": 2648758,
-      "candidateUrl": "https://www.arabnews.com/node/2648758/world",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T09:28:38+00:00",
-          "order": 91
+          "order": 98
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 14
-        }
-      ]
-    },
-    {
-      "title": "Turkish national who was abducted in Balochistan recovered after two months — official",
-      "url": "https://www.arabnews.com/node/2648757/pakistan",
-      "section": "",
-      "publishedAt": "2026-06-27T09:08:30.000Z",
-      "publishedRaw": "2026-06-27T12:08:30+03:00",
-      "modifiedAt": "2026-06-27T10:32:44.000Z",
-      "modifiedRaw": "2026-06-27T13:32:44+03:00",
-      "description": "QUETTA: Authorities in Pakistan’s southwestern Balochistan province have found and safely repatriated a Turkish national who was abducted two months ago, an official said on Saturday. Balochistan, which has been the site of a long-running insurgency, has frequently witnessed kidnappings of and attacks targeting foreign nationals, infrastructure projects, security forces,",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725741-1915046288.jpg?itok=0KCb5Djx",
-      "author": "SAADULLAH AKHTER",
-      "nodeId": 2648757,
-      "candidateUrl": "https://www.arabnews.com/node/2648757/pakistan",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T09:08:30+00:00",
-          "order": 92
-        }
-      ]
-    },
-    {
-      "title": "Bahrain condemns Iranian drone attacks on its territory",
-      "url": "https://www.arabnews.com/node/2648756/middle-east",
-      "section": "middle east",
-      "publishedAt": "2026-06-27T09:07:59.000Z",
-      "publishedRaw": "2026-06-27T12:07:59+03:00",
-      "modifiedAt": "2026-06-27T09:07:59.000Z",
-      "modifiedRaw": "2026-06-27T12:07:59+03:00",
-      "description": "Bahrain condemned what ​it said were Iranian drone attacks on its territory ‌on Saturday, ‌the ​state news ‌agency ⁠reported, ​saying it ⁠reserved the full right to defend its ⁠sovereignty and ‌security. Iran ‌said ​earlier ‌it ‌had carried out strikes against targets linked ‌to US forces in the ⁠region, ⁠without identifying the targets or saying where they were located.",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725735-2012655092.jpg?itok=WhrXg8OJ",
-      "author": "Reuters",
-      "nodeId": 2648756,
-      "candidateUrl": "https://www.arabnews.com/node/2648756/middle-east",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T09:07:59+00:00",
-          "order": 93
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 15
-        }
-      ]
-    },
-    {
-      "title": "Explosive drone targets Iranian Kurdish opposition camp north of Iraq’s Erbil, security sources say",
-      "url": "https://www.arabnews.com/node/2648755/middle-east",
-      "section": "middle east",
-      "publishedAt": "2026-06-27T08:49:21.000Z",
-      "publishedRaw": "2026-06-27T11:49:21+03:00",
-      "modifiedAt": "2026-06-27T09:01:08.000Z",
-      "modifiedRaw": "2026-06-27T12:01:08+03:00",
-      "description": "An ‌explosive ​drone ‌targeted ⁠a ​camp belonging to ⁠an Iranian Kurdish opposition group ⁠north of ‌Iraq's Erbil, ‌security ​sources ‌told ‌Reuters on Saturday. No casualties were reported ‌as the camp had ⁠recently ⁠been evacuated, the security sources added.",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725732-335257800.jpg?itok=byhDTU55",
-      "author": "Reuters",
-      "nodeId": 2648755,
-      "candidateUrl": "https://www.arabnews.com/node/2648755/middle-east",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T08:49:21+00:00",
-          "order": 94
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 16
-        }
-      ]
-    },
-    {
-      "title": "Inside Saudi Arabia’s female economic revolution: leadership, innovation, and SME dominance",
-      "url": "https://www.arabnews.com/node/2648754/business-economy",
-      "section": "business economy",
-      "publishedAt": "2026-06-27T08:49:16.000Z",
-      "publishedRaw": "2026-06-27T11:49:16+03:00",
-      "modifiedAt": "2026-06-27T08:49:16.000Z",
-      "modifiedRaw": "2026-06-27T11:49:16+03:00",
-      "description": "RIYADH: Saudi women are driving one of the most striking transformations in the Kingdom’s modern history, with female labor force participation surging from around 23 percent in 2016 to over 34 percent today, and women now owning nearly 45 percent of small and medium-sized enterprises, experts told Arab News.",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/27/4725733-113512909.jpg?itok=1O3ref7n",
-      "author": "Nirmal Narayanan",
-      "nodeId": 2648754,
-      "candidateUrl": "https://www.arabnews.com/node/2648754/business-economy",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-06-27T08:49:16+00:00",
-          "order": 95
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 31
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
-          "datePublished": null,
-          "order": 20
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 12
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy?page=1",
-          "datePublished": null,
-          "order": 29
         }
       ]
     }
@@ -3732,7 +3918,7 @@
     "listingSources": [
       {
         "sourceUrl": "https://www.arabnews.com/",
-        "itemCount": 51,
+        "itemCount": 53,
         "challengeDetected": false
       },
       {
@@ -3752,7 +3938,7 @@
       },
       {
         "sourceUrl": "https://www.arabnews.com/saudiarabia",
-        "itemCount": 29,
+        "itemCount": 30,
         "challengeDetected": false
       },
       {
@@ -3762,47 +3948,47 @@
       },
       {
         "sourceUrl": "https://www.arabnews.com/middleeast",
-        "itemCount": 26,
+        "itemCount": 23,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-        "itemCount": 27,
+        "itemCount": 30,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/world",
-        "itemCount": 27,
+        "itemCount": 29,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/world?page=1",
-        "itemCount": 27,
+        "itemCount": 29,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/economy",
-        "itemCount": 38,
+        "itemCount": 39,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/economy?page=1",
-        "itemCount": 37,
+        "itemCount": 39,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/sport",
-        "itemCount": 28,
+        "itemCount": 27,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/sport?page=1",
-        "itemCount": 28,
+        "itemCount": 30,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/lifestyle",
-        "itemCount": 30,
+        "itemCount": 32,
         "challengeDetected": false
       },
       {
@@ -3839,7 +4025,7 @@
       },
       {
         "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-        "itemCount": 180,
+        "itemCount": 186,
         "parserError": null
       },
       {
@@ -3880,13 +4066,13 @@
     ],
     "sourceErrors": [],
     "skipped": {
-      "source-date-older-than-window": 84,
-      "article-older-than-window": 35
+      "source-date-older-than-window": 87,
+      "article-older-than-window": 29
     },
     "articleErrors": [],
-    "candidateCountBeforeLimit": 881,
+    "candidateCountBeforeLimit": 900,
     "candidateCountAfterLimit": 220,
-    "verifiedCount": 101,
-    "uniqueCandidateCount": 456
+    "verifiedCount": 104,
+    "uniqueCandidateCount": 460
   }
 }

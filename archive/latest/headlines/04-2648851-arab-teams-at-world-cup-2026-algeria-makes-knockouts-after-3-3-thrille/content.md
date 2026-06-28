@@ -16,11 +16,11 @@ KANSAS CITY: Algeria secured its place in the World Cup knockout rounds for the 
 
 ## Video Or Embed URLs
 
-- https://1ab3ce59f7afff11a26bc34668537e08.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://0dc2da0ebe4d1ac07bbf9c80013d9249.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648851%2Fsport
 

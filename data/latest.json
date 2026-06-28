@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T14:53:41.397Z",
+  "fetchedAt": "2026-06-28T16:18:07.869Z",
   "targetDate": {
     "iso": "2026-06-28",
     "timeZone": "Asia/Riyadh"
@@ -78,39 +78,17 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 94,
+    "itemCount": 91,
     "window": {
       "hours": 24,
-      "start": "2026-06-27T14:53:41.397Z",
-      "end": "2026-06-28T14:53:41.397Z",
+      "start": "2026-06-27T16:18:07.869Z",
+      "end": "2026-06-28T16:18:07.869Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
-      {
-        "title": "Iran FM warns any challenge to Hormuz routes will ‘increase tensions’",
-        "url": "https://www.arabnews.com/node/2648870/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/28/4726048-471201978.jpg?itok=myHMKbZf",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 0,
-        "archive": {
-          "directory": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/metadata.json",
-            "content": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/content.md",
-            "text": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/image.jpg",
-            "video": null
-          }
-        }
-      },
       {
         "title": "Saudi Arabia leads Gulf, Arab condemnation of newest Iranian attacks",
         "url": "https://www.arabnews.com/node/2648855/middle-east",
@@ -119,16 +97,38 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 0,
         "archive": {
-          "directory": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks",
+          "directory": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/metadata.json",
-            "content": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/content.md",
-            "text": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/page-text.txt",
+            "metadata": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/metadata.json",
+            "content": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/content.md",
+            "text": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/image.jpg",
+            "image": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Saudi crown prince, Macron emphasize importance of freedom of navigation during call",
+        "url": "https://www.arabnews.com/node/2648894/saudi-arabia",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/28/4726111-556008004.jpg?itok=RRQXJqSu",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2,
+        "archive": {
+          "directory": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio/metadata.json",
+            "content": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio/content.md",
+            "text": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio/image.jpg",
             "video": null
           }
         }
@@ -156,23 +156,23 @@
         }
       },
       {
-        "title": "Residential building damaged in latest Iranian attack — Bahrain interior ministry",
-        "url": "https://www.arabnews.com/node/2648843/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/28/4725999-957176424.jpeg?itok=yRQ0xCcV",
+        "title": "Saudi Aramco helicopter crash kills 14",
+        "url": "https://www.arabnews.com/node/2648879/saudi-arabia",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/28/4726068-302331242.jpg?itok=O7hWj2a4",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior",
+          "directory": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/metadata.json",
-            "content": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/content.md",
-            "text": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14/metadata.json",
+            "content": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14/content.md",
+            "text": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/image.jpg",
+            "image": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-28T14:59:05.401Z",
+    "capturedAt": "2026-06-28T16:23:31.021Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-28",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-06-28/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680194/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5354DD67C3CB24A571EE6C277288CEB3189B474A.218CF5617016BCD1B6B658250199A29AF93657/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680194/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3A60F8005E40A76C6C6CE2D1EF00C1E3DC25E86A.2291F5674DA231685D74B33236571080873600B5/key/cms1/cms_redirect/yes/met/1782658603,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782658093/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685263/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/63A7C8F437F3A7ACD5F52F392FDBE44B23F18884.0747744E5ABC8DA00D6CBD2DB771C89C11021BFA/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685263/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/13230C6A99FAB05A217E0EBC51F6390C6784E585.25A25ED226B2283788BA5CDA7AFD5A170BF0B8DC/key/cms1/cms_redirect/yes/met/1782663669,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782663374/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a41e17f_beb466f5d940e1af3f2119fdc4f25909c40f626a/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a41e17f_beb466f5d940e1af3f2119fdc4f25909c40f626a/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a41f313_3b677ce5cf641207ce01d504b6a3b9df8b9cd8d9/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a41f313_3b677ce5cf641207ce01d504b6a3b9df8b9cd8d9/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-28/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680194/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5354DD67C3CB24A571EE6C277288CEB3189B474A.218CF5617016BCD1B6B658250199A29AF93657/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685263/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/63A7C8F437F3A7ACD5F52F392FDBE44B23F18884.0747744E5ABC8DA00D6CBD2DB771C89C11021BFA/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-06-28/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680223/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A22BC05DC4589D7F7B0FB37AB19BE7177E77B883.B0F4B1520E803434EAF57B976F6BD601315659A1/key/ck2/file/file.mp4",
-          "https://r4---sn-vgqsrnde.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680223/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/13DAFF238E91A4CE2C53DAB837993F07FCE6E16D.13D177A366907E1812772E10F821361BB3F57B05/key/cms1/cms_redirect/yes/met/1782658631,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsrnde/ms/nvh/mt/1782658140/mv/u/mvi/4/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685288/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/35BA80A93F20B887566CBE5B7A064C11FAC045F2.7E59A7880F32CB51C23B83F6D18C907BD7E26645/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685288/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3BC3923A3C62BF9141B264262CB56AB7C911F8E8.5D0F6CEB228EA9518F177FFA3DC0EC66598873FE/key/cms1/cms_redirect/yes/met/1782663697,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782663374/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a41e0d7_5e2acde6f422767606783b791dea31dfe0d2fffe/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a41f5ef_80e1ad1bbb30927e0b88755572ecd68b31d9c587/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-28/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680223/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A22BC05DC4589D7F7B0FB37AB19BE7177E77B883.B0F4B1520E803434EAF57B976F6BD601315659A1/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685288/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/35BA80A93F20B887566CBE5B7A064C11FAC045F2.7E59A7880F32CB51C23B83F6D18C907BD7E26645/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-06-28/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680247/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8387BE5E70B7EBFDBCDE5998F9EFB4A56F728B54.4B270F9E4AE01B16208350412BF3CD8A8AF551E0/key/ck2/file/file.mp4",
-          "https://r4---sn-vgqsrnde.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680247/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/76F2766B2E081994E2DA330F2F582C2A960C932E.326E2AC07279C1B6B7E00E448AD9A43E1D58C6EC/key/cms1/cms_redirect/yes/met/1782658655,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsrnde/ms/nvh/mt/1782658140/mv/u/mvi/4/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685314/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/93E9B04A2A1245B0D31AF2FE78153C17851D08B7.62589D42341CE1DDBEDF240193C6A0CE2BC31912/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685314/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6A0AAFC6907B8376A5EC6EBAC509601CF17440B1.2638C5913C00440C286A2546718C8FF5BD1327BE/key/cms1/cms_redirect/yes/met/1782663722,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782663374/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a41df96_6ad5a995f8c0782355a1762ddb928a7101bd94b9/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a41f4ae_372d3f2b8022d88fe64941f52ff1fe3bd17cc3af/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-28/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680247/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8387BE5E70B7EBFDBCDE5998F9EFB4A56F728B54.4B270F9E4AE01B16208350412BF3CD8A8AF551E0/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685314/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/93E9B04A2A1245B0D31AF2FE78153C17851D08B7.62589D42341CE1DDBEDF240193C6A0CE2BC31912/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1231960,
           "method": "direct"
@@ -314,54 +314,54 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Iran FM warns any challenge to Hormuz routes will ‘increase tensions’",
-        "url": "https://www.arabnews.com/node/2648870/middle-east",
-        "directory": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions",
+        "title": "Saudi Arabia leads Gulf, Arab condemnation of newest Iranian attacks",
+        "url": "https://www.arabnews.com/node/2648855/middle-east",
+        "directory": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/metadata.json",
-          "content": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/content.md",
-          "text": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/metadata.json",
+          "content": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/content.md",
+          "text": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/image.jpg",
+          "image": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680270/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/01E7FBB3DEEA5121A9A7499489E8FBFF03F7FBC6.AB3D9716283CE3FCBB958A36991809EDE0A23FC3/key/ck2/file/file.mp4",
-          "https://r4---sn-vgqsrnde.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680270/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4563B7E62C64A998608D196F86239C817F08A5B0.095D1B0FA6C522CD52D38DD2AEB0773E8847AC05/key/cms1/cms_redirect/yes/met/1782658674,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsrnde/ms/nvh/mt/1782658418/mv/u/mvi/4/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685337/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/54E38F2B816F3185C9D586F46684949C7FEAE629.43CDA42850F05B619216CB9C1AD9E9E7420B43EF/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685337/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6C8F67AF8658E69FEA64D7EB976BDB4FE4163263.7594486E1FFE8AF366B3F47DA536DC822F674095/key/cms1/cms_redirect/yes/met/1782663741,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782663374/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726048-471201978.jpg?itok=jeyeLo1r",
+          "path": "archive/latest/headlines/01-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726006-1093001401.jpg?itok=mAGsh_WM",
           "contentType": "image/jpeg",
-          "bytes": 30231
+          "bytes": 35221
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "Saudi Arabia leads Gulf, Arab condemnation of newest Iranian attacks",
-        "url": "https://www.arabnews.com/node/2648855/middle-east",
-        "directory": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks",
+        "title": "Saudi crown prince, Macron emphasize importance of freedom of navigation during call",
+        "url": "https://www.arabnews.com/node/2648894/saudi-arabia",
+        "directory": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/metadata.json",
-          "content": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/content.md",
-          "text": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio/metadata.json",
+          "content": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio/content.md",
+          "text": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/image.jpg",
+          "image": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680290/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/35C80BE48EAD2E7D2BF9C05EA8FE9F58E8DA6D9C.97A85347AFEAF0A977E6E2B78185F98D7355FFF7/key/ck2/file/file.mp4",
-          "https://r4---sn-vgqsrnde.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680290/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3775E7564BA096F762E83BEC774EC2A30881A5A0.020D1AA550A492FC2EB53E24FE31DF5E587D44BE/key/cms1/cms_redirect/yes/met/1782658694,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsrnde/ms/nvh/mt/1782658447/mv/u/mvi/4/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685357/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/88E69627FC7B57DDF9ABCAFCAA01313FFC4B2EA6.8225667BE5AE5256712CDBD86086F1F12223173D/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685357/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/71FEB5CAF37EB2CBDDB6335EBA036A9C4B80E40B.77A71BD297F39D304FC56B83DD8F1860087F6B4B/key/cms1/cms_redirect/yes/met/1782663761,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782663375/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2648855-saudi-arabia-leads-gulf-arab-condemnation-of-newest-iranian-attacks/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726006-1093001401.jpg?itok=mAGsh_WM",
+          "path": "archive/latest/headlines/02-2648894-saudi-crown-prince-macron-emphasize-importance-of-freedom-of-navigatio/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726111-556008004.jpg?itok=XzDAR6Zi",
           "contentType": "image/jpeg",
-          "bytes": 35221
+          "bytes": 39425
         },
         "video": null
       },
@@ -381,8 +381,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680310/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/040EAF1F72B0DDC7A217AB00F8E35AC066DD089A.2C2EC43345F1BF9EC1F7E12FD4DA93AE137A58F4/key/ck2/file/file.mp4",
-          "https://r4---sn-vgqsrnde.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680310/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3FA64B17ADB10B6D30534B3A5893AE75FFDEEB09.668979C70E41C0C2A1297F6123202D0579A8FDFC/key/cms1/cms_redirect/yes/met/1782658714,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsrnde/ms/nvh/mt/1782658418/mv/u/mvi/4/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685375/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AC18DEE77480548DFD3A9B1F8736AFC9CFE60ED9.50336B0FA20E04D8D81B5511B46AC607CF8ED836/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685375/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1572A0D61C95CA4672171C6F6FCD577D5E9AC526.2CD0260566DFE519C624A15B6A4BAF1DE457C21E/key/cms1/cms_redirect/yes/met/1782663780,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782663374/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2648868-trump-presses-syria-to-take-on-hezbollah-raising-alarm-in-lebanon-and-/image.jpg",
@@ -395,27 +395,27 @@
       {
         "group": "headlines",
         "index": 3,
-        "title": "Residential building damaged in latest Iranian attack — Bahrain interior ministry",
-        "url": "https://www.arabnews.com/node/2648843/middle-east",
-        "directory": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior",
+        "title": "Saudi Aramco helicopter crash kills 14",
+        "url": "https://www.arabnews.com/node/2648879/saudi-arabia",
+        "directory": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/metadata.json",
-          "content": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/content.md",
-          "text": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14/metadata.json",
+          "content": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14/content.md",
+          "text": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/image.jpg",
+          "image": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680330/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/260C6317CFE64F9C2763C0A05C5FAECBAFB3FEB0.432532980DCBE93154D521E7E8D02976A8A29598/key/ck2/file/file.mp4",
-          "https://r4---sn-vgqsrnde.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782680330/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/39731F755E528F8EC6A4E4C2B2A4760775EC1062.15DFC5F156F4281E3411E6E376A491D0FBD8425F/key/cms1/cms_redirect/yes/met/1782658734,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsrnde/ms/nvh/mt/1782658418/mv/u/mvi/4/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685395/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8D7E00700357767F432B16DE53FBE2D0015F07D0.584B770D83CBD883967E48883DD9DF7ABBA10474/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknds.gvt1.com/videoplayback/id/6ef8c6afa1382ba0/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782685395/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/08EC78A187C3CB37232ABE74241F0C5C0C1EAC1C.2CA9A608BCF0BBBC80042705E4941B58E104BC7E/key/cms1/cms_redirect/yes/met/1782663800,/mh/3j/mip/64.177.114.231/mm/28/mn/sn-vgqsknds/ms/nvh/mt/1782663613/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/04-2648843-residential-building-damaged-in-latest-iranian-attack-bahrain-interior/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4725999-957176424.jpeg?itok=wTjiihdF",
+          "path": "archive/latest/headlines/04-2648879-saudi-aramco-helicopter-crash-kills-14/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/28/4726068-302331242.jpg?itok=b-kJ_KgW",
           "contentType": "image/jpeg",
-          "bytes": 50727
+          "bytes": 13423
         },
         "video": null
       }

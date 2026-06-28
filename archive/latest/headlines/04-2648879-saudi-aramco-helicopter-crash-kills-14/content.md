@@ -16,7 +16,7 @@ RIYADH: Fourteen people were killed on Sunday after ‌a ‌helicopter belonging
 
 ## Video Or Embed URLs
 
-- https://c55e911424d34f35a966fa19e25c3ebe.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://3e14a7401ea4d0a998eb8fbb1c47e55b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

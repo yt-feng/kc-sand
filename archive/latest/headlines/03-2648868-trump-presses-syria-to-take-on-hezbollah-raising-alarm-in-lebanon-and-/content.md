@@ -16,13 +16,12 @@ BEIRUT: As the White House has soured on Israel’s war with Hezbollah in Lebano
 
 ## Video Or Embed URLs
 
-- https://b8160f23c3b1b42ccab0a66d0b91843c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://93fc7645f80852cf777f7834215a47ad.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
-- about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
-- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648868%2Fmiddle-east
+- https://cm.g.doubleclick.net/partnerpixels?url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648868%2Fmiddle-east
 
 ## Text
 

@@ -16,11 +16,11 @@ BEIRUT: ‌Lebanese President Joseph Aoun told US President Donald Trump that he
 
 ## Video Or Embed URLs
 
-- https://3f238b44929d33db40c38246eba2c9f7.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://149d604fc46ca90c7b5475f8d79863ea.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648846%2Fmiddle-east
 

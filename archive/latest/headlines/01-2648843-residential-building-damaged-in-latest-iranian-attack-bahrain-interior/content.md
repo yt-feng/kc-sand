@@ -1,14 +1,14 @@
-# Air raid siren sounded for a second time in Bahrain
+# Residential building damaged in latest Iranian attack — Bahrain interior ministry
 
 Source: https://www.arabnews.com/node/2648843/middle-east
 Captured source: https://www.arabnews.com/node/2648843/middle-east
-Published: 2026-06-28T07:02:08+03:00
-Modified: 2026-06-28T07:10:34+03:00
-Author: AFP
+Published: 2026-06-28T09:04:08+03:00
+Modified: 2026-06-28T10:15:08+03:00
+Author: Arab News
 
 ## Summary
 
-Air raid sirens sounded for a second time in Bahrain on Sunday, the country’s interior ministry said. “The siren has been sounded … Citizens and residents are urged to remain calm and head to the nearest safe place,” the Interior Ministry said on X.
+DUBAI: A residential building was damaged in Muharraq Governorate after the latest Iranian attack on Sunday, Bahrain’s interior ministry said, adding no casualties were reported. “The relevant authorities are taking the necessary measures at the site,” the interior ministry said on its social media account.
 
 ## Image
 
@@ -16,22 +16,28 @@ Air raid sirens sounded for a second time in Bahrain on Sunday, the country’s 
 
 ## Video Or Embed URLs
 
-- https://b9ea80eda1f4bf234fead2d4b994c872.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://238656ca2b4261d8f6a25285a15605b3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648843%2Fmiddle-east
 
 ## Text
 
 https://arab.news/2krgf
 
-Iran announced earlier that it had launched strikes against the US Fifth Fleet base in Bahrain and another base in Kuwait
+Iran launches strikes against the US Fifth Fleet base in Bahrain and another base in Kuwait
 
-Air raid sirens sounded for a second time in Bahrain on Sunday, the country’s interior ministry said.
+Kuwait armed forces intercepted and destroyed two ballistic missiles at dawn on Sunday,
 
-“The siren has been sounded … Citizens and residents are urged to remain calm and head to the nearest safe place,” the Interior Ministry said on X.
+DUBAI: A residential building was damaged in Muharraq Governorate after the latest Iranian attack on Sunday, Bahrain’s interior ministry said, adding no casualties were reported.
+
+“The relevant authorities are taking the necessary measures at the site,” the interior ministry said on its social media account.
+
+Air raid sirens sounded twice on Sunday as the General Command of the Bahrain Defense Force said in a statement it has intercepted and destroyed a number of Iranian missiles and drones that targeted civilians, insisting that the “deliberate use of missiles and marching aircraft to target civilians and private property is a blatant violation of International Humanitarian Law.”
+
+Kuwait’s defense ministry meanwhile said that armed forces intercepted and destroyed two ballistic missiles at dawn on Sunday, and no damage or human injuries were reported from the interceptions.
 
 Iran’s Revolutionary Guards said on Sunday that it carried out strikes against Kuwait and Bahrain in retaliation for US attacks on Iranian territory, warning any further aggression would be met with a “crushing response.”
 

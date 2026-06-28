@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T21:10:28.906Z",
+  "fetchedAt": "2026-06-28T22:36:37.882Z",
   "targetDate": {
     "iso": "2026-06-29",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 86,
+    "itemCount": 88,
     "window": {
       "hours": 24,
-      "start": "2026-06-27T21:10:28.906Z",
-      "end": "2026-06-28T21:10:28.906Z",
+      "start": "2026-06-27T22:36:37.882Z",
+      "end": "2026-06-28T22:36:37.882Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-28T21:16:04.483Z",
+    "capturedAt": "2026-06-28T22:42:12.518Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-29",
     "itemCount": 7,
@@ -222,8 +222,8 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a423963_ffd0df7df0a030e498433c8ed5398fb3842b7c7f/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a423963_ffd0df7df0a030e498433c8ed5398fb3842b7c7f/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a424e7b_36c29058d879bebce00b2aa373b5ae81ebbb6f77/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a424e7b_36c29058d879bebce00b2aa373b5ae81ebbb6f77/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -256,7 +256,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4238bb_da98da4fc156584d8499a121d8f74464f2541c69/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a424dd3_ad326ba7315e05600f2fb8f6d2dd9b814c74e848/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -289,7 +289,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a423afe_7f5fe308ff85a36f26e4702a86460c8c22ae19af/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a424c92_726178e1084959b70de39827762e4de4a762212e/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -322,7 +322,7 @@
         },
         "videoUrls": [
           "https://cdn.jwplayer.com/manifests/BXIa9btZ.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4238d2_ecd1e2ab20311e9b6d2acd6f2d8feffee28d8b98/sites/wPTWN2YS/media/BXIa9btZ/versions/H4RQIzJl/manifest.ism/manifest-audio_0_2bcjOZRt_kC1jrTIu=112015-video_0_2bcjOZRt_hnkdOFmL=661189.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a424dea_60ab41c9ab2d84593eb770d5dc4b8cff3ae24e18/sites/wPTWN2YS/media/BXIa9btZ/versions/H4RQIzJl/manifest.ism/manifest-audio_0_2bcjOZRt_kC1jrTIu=112015-video_0_2bcjOZRt_hnkdOFmL=661189.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/image.jpg",

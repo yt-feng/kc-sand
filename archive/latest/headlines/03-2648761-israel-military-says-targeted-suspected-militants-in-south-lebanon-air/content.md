@@ -16,7 +16,7 @@ JERUSALEM: The Israeli military said it carried out an airstrike on Saturday tar
 
 ## Video Or Embed URLs
 
-- https://4822f38f1527cf334810f16e5cc93c9a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b0e8052dd6c662d9b72ee563d7f34d55.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

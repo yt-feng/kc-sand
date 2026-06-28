@@ -16,7 +16,6 @@ DUBAI: A tanker came under attack in the Strait of Hormuz on Saturday, just afte
 
 ## Video Or Embed URLs
 
-- https://b9a952064805737a80977c5e0ab219ef.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html

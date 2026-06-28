@@ -16,12 +16,12 @@ Bahrain condemned what â€‹it said were Iranian drone attacks on its territory â€
 
 ## Video Or Embed URLs
 
-- https://97331ae2993d36501210527eb47c8555.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
-- about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
+- https://4b1860e516b409df926a07025bad7309.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648756%2Fmiddle-east
 
 ## Text

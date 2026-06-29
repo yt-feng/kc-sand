@@ -16,10 +16,10 @@ BAGHDAD: Iran’s top diplomat warned Sunday that any attempt to bypass the Stra
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/9bd2b443-597e-4933-bdd6-b2235a652e1e
+- blob:https://www.arabnews.com/7c0e03a1-7b3e-4895-ba29-24adf694788b
 - https://imasdk.googleapis.com/js/core/bridge3.773.0_en.html
-- about:blank
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648870%2Fmiddle-east
 

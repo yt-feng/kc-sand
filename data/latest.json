@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T14:35:36.184Z",
+  "fetchedAt": "2026-06-29T17:44:04.367Z",
   "targetDate": {
     "iso": "2026-06-29",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 98,
+    "itemCount": 100,
     "window": {
       "hours": 24,
-      "start": "2026-06-28T14:35:36.184Z",
-      "end": "2026-06-29T14:35:36.184Z",
+      "start": "2026-06-28T17:44:04.367Z",
+      "end": "2026-06-29T17:44:04.367Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -112,6 +112,50 @@
         }
       },
       {
+        "title": "Lebanese president Joseph Aoun, right, meets with Adm. Brad Cooper, the top US military commander in the Middle East.",
+        "url": "https://www.arabnews.com/node/2648994/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/29/4726381-1943164985.jpg?itok=SnGlkaR4",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2,
+        "archive": {
+          "directory": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/metadata.json",
+            "content": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/content.md",
+            "text": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Iraq sets 3-month deadline for pro-Iran groups to disarm",
+        "url": "https://www.arabnews.com/node/2648992/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/29/4726355-18688070.jpg?itok=1k-Sruwj",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 4,
+        "archive": {
+          "directory": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/metadata.json",
+            "content": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/content.md",
+            "text": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
         "title": "Iraqi FM makes first visit to Syria since Assad’s fall",
         "url": "https://www.arabnews.com/node/2648988/middle-east",
         "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/29/4726345-1476515996.jpg?itok=Ix8fL-Rv",
@@ -119,60 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
-        "archive": {
-          "directory": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/metadata.json",
-            "content": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/content.md",
-            "text": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Israeli strike targeting a militant kills 3, including a child, in Gaza",
-        "url": "https://www.arabnews.com/node/2648964/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/29/4726285-1982328378.jpg?itok=OOiv8Xsb",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza/metadata.json",
-            "content": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza/content.md",
-            "text": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
-        "url": "https://www.arabnews.com/node/2648992/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/29/4726355-18688070.jpg?itok=1k-Sruwj",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm",
+          "directory": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm/metadata.json",
-            "content": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm/content.md",
-            "text": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/metadata.json",
+            "content": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/content.md",
+            "text": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm/image.jpg",
+            "image": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-29T14:41:13.624Z",
+    "capturedAt": "2026-06-29T17:49:40.703Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-29",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-06-29/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765521/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0920C231B0102BAC642495E1674D4E11B5280D71.9552703CA694AE59AF2EB95EA63D64FA2522F208/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765521/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/33FF3F2966CF83B9E50FD22E3105F9FDBEBE3B82.4ED818D6DC50B2E46E9AF899F00672C925A3818B/key/cms1/cms_redirect/yes/met/1782743929,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782743502/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776830/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/234F44BA42D0585CDA34EA9B72066569CDBC1C28.0433C799C277268928CCA126BE6BD2E17EA3BB99/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776830/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/55C529F370C875376D207747AD1231C32C9C5776.2EB0DE41EC0E3026B208E1B91D4B8B6C003B400E/key/cms1/cms_redirect/yes/met/1782755239,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782754855/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a432f7b_a6ad76a927d04d2c771877221b325821e3241f8c/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a432f7b_a6ad76a927d04d2c771877221b325821e3241f8c/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4359ab_e87e0e1a5e5382a590eb63405348283984e3bd20/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4359ab_e87e0e1a5e5382a590eb63405348283984e3bd20/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-29/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765521/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0920C231B0102BAC642495E1674D4E11B5280D71.9552703CA694AE59AF2EB95EA63D64FA2522F208/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776830/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/234F44BA42D0585CDA34EA9B72066569CDBC1C28.0433C799C277268928CCA126BE6BD2E17EA3BB99/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-06-29/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765550/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/542668D1FB38431AFF7633CF27AE683BAF64E0BC.795AB07CD18521A7C3966E142EA2ADCB1C9529EA/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765550/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/314FC0FA51171891744A35497E977CF15696DA57.0B430BB2905BC1A936B683FA0108107334CF811C/key/cms1/cms_redirect/yes/met/1782743958,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782743502/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776858/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2DA1EFE46AA6D31B141F915428FD70FBC3A22BBA.015BBD95E63D8C81B8AACD79AAE110A81CA78F61/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776858/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0116CD575127134AF95F35A96182DFCA986E1EA5.36A9FE2FBCC640D98B4AD5095AEC8B9439457F6B/key/cms1/cms_redirect/yes/met/1782755266,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782754855/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a432ed3_d1f7a915dfc2730b33ca7d5068c7a726f68f5a85/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a435903_8b96691aa3cb0318618e8f08f122a07285cac356/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-29/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765550/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/542668D1FB38431AFF7633CF27AE683BAF64E0BC.795AB07CD18521A7C3966E142EA2ADCB1C9529EA/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776858/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2DA1EFE46AA6D31B141F915428FD70FBC3A22BBA.015BBD95E63D8C81B8AACD79AAE110A81CA78F61/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-06-29/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765574/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8152632CD32F1738A346AE67A27BDB1FB61972E1.6587B79EBB5712B83A7E96DC286B2E090DABBCB2/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765574/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/227CE878156E39761A604E1B5D64094368FE8C96.28E2E2A1645F936748845EFE98F2B480CC328BA2/key/cms1/cms_redirect/yes/met/1782743980,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782743361/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776882/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/990A3B8D7F9F29A523A03C3F0EA563E37D01E8E9.60B15A7D8BC40F1ADE92233C9E344EB7005565F5/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776882/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2BFF4F34FE5F8CE7319A9BCF56FDF0FE96181032.3AFEBB895780B5C3D47C940B3D8953F92EF7F547/key/cms1/cms_redirect/yes/met/1782755290,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782755207/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a432d92_600d695b1ee9d842dbe7925bf5baa2f11d704e1f/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a435b46_3e97b60a53a538def3bbee80edfc6397d179a8d1/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-29/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765574/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8152632CD32F1738A346AE67A27BDB1FB61972E1.6587B79EBB5712B83A7E96DC286B2E090DABBCB2/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776882/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/990A3B8D7F9F29A523A03C3F0EA563E37D01E8E9.60B15A7D8BC40F1ADE92233C9E344EB7005565F5/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -327,8 +327,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765595/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8742C3BF22E879F107BE8BF6BBEF77D6562ADACB.2EB4E83BF992C31AE1B2FA927BECDF8DD2FCBC77/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765595/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/778F3C3447A77586B0BE2F85C320004486EE66C0.54A1FBA1BB503144936D0F6D5E07BF9969E5BAA2/key/cms1/cms_redirect/yes/met/1782744000,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782743502/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776905/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8C42E284B48046E045B27C30D20BC2DB37B791A2.84747174FB7F76E22A409F8832754D670B11E7DD/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776905/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6F4F553E54FC6F237A6C6B972ADBC7173BEF1C13.065732A8F0421915D1D515E36145BB000356A37D/key/cms1/cms_redirect/yes/met/1782755310,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782754855/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2648950-iran-says-held-first-meeting-with-oman-on-managing-hormuz/image.jpg",
@@ -341,81 +341,81 @@
       {
         "group": "headlines",
         "index": 1,
-        "title": "Iraqi FM makes first visit to Syria since Assad’s fall",
-        "url": "https://www.arabnews.com/node/2648988/middle-east",
-        "directory": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall",
+        "title": "Lebanese president Joseph Aoun, right, meets with Adm. Brad Cooper, the top US military commander in the Middle East.",
+        "url": "https://www.arabnews.com/node/2648994/middle-east",
+        "directory": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/metadata.json",
-          "content": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/content.md",
-          "text": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/metadata.json",
+          "content": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/content.md",
+          "text": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/image.jpg",
+          "image": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765617/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A9B600DEEAF6FB5A4F7D13D5DEC785021D5C9393.1C96C634ED23BF33662AF78FBAEBD558DE93356E/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765617/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6B6AFBF2AC4BBC286E0D64B49E639D33AC365FC9.7DEF3334EA183773B4A3A4E88405FD3D4E9BFF21/key/cms1/cms_redirect/yes/met/1782744022,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782743502/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776926/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/BAA3D7C0FA39FC8FDAC9731BA62492A86E05C457.911D0C816C2B7A14A3701418968259356E59E0BF/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776926/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/624D26AF9433290F23422B7B05125646993855BC.230DC6F5043D1A6CF9376CC9D2DA4D7EAB1B74D2/key/cms1/cms_redirect/yes/met/1782755331,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782754751/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/29/4726345-1476515996.jpg?itok=JlIXIoql",
+          "path": "archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/29/4726381-1943164985.jpg?itok=mE0XD2wo",
           "contentType": "image/jpeg",
-          "bytes": 33477
+          "bytes": 45930
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 2,
-        "title": "Israeli strike targeting a militant kills 3, including a child, in Gaza",
-        "url": "https://www.arabnews.com/node/2648964/middle-east",
-        "directory": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza",
+        "title": "Iraq sets 3-month deadline for pro-Iran groups to disarm",
+        "url": "https://www.arabnews.com/node/2648992/middle-east",
+        "directory": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza/metadata.json",
-          "content": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza/content.md",
-          "text": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/metadata.json",
+          "content": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/content.md",
+          "text": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza/image.jpg",
+          "image": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765637/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3C0829A572A9AEA439A7B3B523EAC90F821E020D.55520EEB2B6DBE5666074EDA99B88C23B697287A/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765637/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2750BAA04C58D8699A8BFFEEC425420BC0EAC47C.038F7938BA34A3BA45C1159AC0235AD5EEBA087A/key/cms1/cms_redirect/yes/met/1782744042,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782743502/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776947/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/04FE9AEB321507B63745A825F2AA6F5E5EADA74E.0928646CA2FE512F3CC3F93B9BDFCA0193770E31/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776947/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5FD4A36CFDC892B12F5D5B4C08F406309D0C982B.326E6461EA228D73D51923AC48718E5BDC9EB341/key/cms1/cms_redirect/yes/met/1782755351,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782754855/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2648964-israeli-strike-targeting-a-militant-kills-3-including-a-child-in-gaza/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/29/4726285-1982328378.jpg?itok=OFAJjeNs",
+          "path": "archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/29/4726355-18688070.jpg?itok=4xXD06O4",
           "contentType": "image/jpeg",
-          "bytes": 16819
+          "bytes": 25898
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 3,
-        "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
-        "url": "https://www.arabnews.com/node/2648992/middle-east",
-        "directory": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm",
+        "title": "Iraqi FM makes first visit to Syria since Assad’s fall",
+        "url": "https://www.arabnews.com/node/2648988/middle-east",
+        "directory": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm/metadata.json",
-          "content": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm/content.md",
-          "text": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/metadata.json",
+          "content": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/content.md",
+          "text": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm/image.jpg",
+          "image": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765657/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8CFB850898A03D28A98A308AD6740B90212AE306.346C4B9358F1C0C7E7F45F866EDC40F2666025EC/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782765657/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/77CBB5728CC54F3A62BEE0438DCC90ECE5093872.3D3B23711D1181927177D39F4F41C6B7D2596808/key/cms1/cms_redirect/yes/met/1782744063,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782743874/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776965/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5C8C221A80CDB9DF393B263EEA752C0CE34BA527.0BC434DCCBF7E2A4BA980DD95658A2013E9B7D8C/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782776965/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/05603C7505E2FC362A6306388086C330E7CEBC1F.36A00E0114245B3A8496BF06E4BF14F80223B5DA/key/cms1/cms_redirect/yes/met/1782755370,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782755207/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/04-2648992-iraq-sets-september-30-deadline-for-pro-iran-groups-to-disarm/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/29/4726355-18688070.jpg?itok=4xXD06O4",
+          "path": "archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/29/4726345-1476515996.jpg?itok=JlIXIoql",
           "contentType": "image/jpeg",
-          "bytes": 25898
+          "bytes": 33477
         },
         "video": null
       }

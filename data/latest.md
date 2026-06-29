@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-29T05:14:23.870Z
+Fetched at: 2026-06-29T10:10:20.599Z
 Target date: 2026-06-29 (Asia/Riyadh)
 
 ## Latest Videos
@@ -15,5 +15,5 @@ No parseable item-level dates were found, so the output is the current Top Headl
 
 1. [Hezbollah-allied Lebanese parliament head says US-Israel-Lebanon deal ‘will not pass’](https://www.arabnews.com/node/2648924/middle-east) - archive: archive/latest/headlines/01-2648924-hezbollah-allied-lebanese-parliament-head-says-us-israel-lebanon-deal-/content.md
 2. [Syria condemns Israeli incursions, urges UN action as Arab parliament backs sovereignty](https://www.arabnews.com/node/2648938/middle-east) - archive: archive/latest/headlines/02-2648938-syria-condemns-israeli-incursions-urges-un-action-as-arab-parliament-b/content.md
-3. [Iran FM warns any challenge to Hormuz routes will ‘increase tensions’](https://www.arabnews.com/node/2648870/middle-east) - archive: archive/latest/headlines/03-2648870-iran-fm-warns-any-challenge-to-hormuz-routes-will-increase-tensions/content.md
-4. [Saudi Crown Prince Mohammed bin Salman and French President Emmanuel Macron. (File/SPA/AFP)](https://www.arabnews.com/node/2648894/saudi-arabia) - archive: archive/latest/headlines/04-2648894-saudi-crown-prince-mohammed-bin-salman-and-french-president-emmanuel-m/content.md
+3. [In Sudan’s Kordofan, a key city reels as paramilitary offensive looms](https://www.arabnews.com/node/2648936/middle-east) - archive: archive/latest/headlines/03-2648936-in-sudan-s-kordofan-a-key-city-reels-as-paramilitary-offensive-looms/content.md
+4. [Saudi Arabian Football Federation chief Yasser Al-Misehal resigns after World Cup group-stage exit](https://www.arabnews.com/node/2648935/football) - archive: archive/latest/headlines/04-2648935-saudi-arabian-football-federation-chief-yasser-al-misehal-resigns-afte/content.md

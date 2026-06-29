@@ -16,7 +16,7 @@ BEIRUT: Lebanon’s President Joseph Aoun on Monday told the head of US forces i
 
 ## Video Or Embed URLs
 
-- https://ef0f2ba67ac480c334ff43e679d34c3b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://4fcb533d4358e48817f40d99998e25d8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

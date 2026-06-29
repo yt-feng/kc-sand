@@ -1,7 +1,7 @@
 # Arab News Latest
 
-Fetched at: 2026-06-29T20:07:55.499Z
-Target date: 2026-06-29 (Asia/Riyadh)
+Fetched at: 2026-06-29T21:53:44.908Z
+Target date: 2026-06-30 (Asia/Riyadh)
 
 ## Latest Videos
 
@@ -16,4 +16,4 @@ No parseable item-level dates were found, so the output is the current Top Headl
 1. [Iran says held first meeting with Oman on managing Hormuz](https://www.arabnews.com/node/2648950/middle-east) - archive: archive/latest/headlines/01-2648950-iran-says-held-first-meeting-with-oman-on-managing-hormuz/content.md
 2. [Lebanese president Joseph Aoun, right, meets with Adm. Brad Cooper, the top US military commander in the Middle East.](https://www.arabnews.com/node/2648994/middle-east) - archive: archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/content.md
 3. [Iraq sets 3-month deadline for pro-Iran groups to disarm](https://www.arabnews.com/node/2648992/middle-east) - archive: archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/content.md
-4. [Iraqi FM makes first visit to Syria since Assad’s fall](https://www.arabnews.com/node/2648988/middle-east) - archive: archive/latest/headlines/04-2648988-iraqi-fm-makes-first-visit-to-syria-since-assad-s-fall/content.md
+4. [Iraqi foreign minister makes first visit to Syria since Assad’s fall](https://www.arabnews.com/node/2648988/middle-east) - archive: archive/latest/headlines/04-2648988-iraqi-foreign-minister-makes-first-visit-to-syria-since-assad-s-fall/content.md

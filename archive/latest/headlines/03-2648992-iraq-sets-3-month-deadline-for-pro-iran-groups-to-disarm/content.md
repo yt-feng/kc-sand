@@ -16,11 +16,11 @@ BAGHDAD: Iraq’s government has given pro-Iran armed groups in the country unti
 
 ## Video Or Embed URLs
 
-- https://de652d56985c43f19ac2c3b733bb45c1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a989d0419df7f79cea50c9931e0cab00.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648992%2Fmiddle-east
 

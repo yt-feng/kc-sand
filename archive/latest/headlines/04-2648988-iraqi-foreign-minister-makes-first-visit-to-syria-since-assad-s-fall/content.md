@@ -16,12 +16,12 @@ BAGHDAD: Iraqi Deputy Prime Minister and Foreign Minister Fuad Hussein on Monday
 
 ## Video Or Embed URLs
 
-- https://6d2e5f74d78e9156305d0b25941f8158.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://6d35a50bced79f028f0920f7616f4a14.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
+- https://static.addtoany.com/menu/sm.25.html
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648988%2Fmiddle-east
 
 ## Text

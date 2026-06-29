@@ -16,11 +16,12 @@ TEHRAN: Iran’s foreign ministry said it had held on Monday the first meeting w
 
 ## Video Or Embed URLs
 
-- https://1448421e74fe449974296b8fd5253bf0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://88d7814a4d41046e1bfeb5d55c6f41f0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2648950%2Fmiddle-east
 

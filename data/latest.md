@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-30T01:31:53.308Z
+Fetched at: 2026-06-30T06:19:32.423Z
 Target date: 2026-06-30 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-30 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran says held first meeting with Oman on managing Hormuz](https://www.arabnews.com/node/2648950/middle-east) - archive: archive/latest/headlines/01-2648950-iran-says-held-first-meeting-with-oman-on-managing-hormuz/content.md
-2. [Lebanese president Joseph Aoun, right, meets with Adm. Brad Cooper, the top US military commander in the Middle East.](https://www.arabnews.com/node/2648994/middle-east) - archive: archive/latest/headlines/02-2648994-lebanese-president-joseph-aoun-right-meets-with-adm-brad-cooper-the-to/content.md
-3. [Iraq sets 3-month deadline for pro-Iran groups to disarm](https://www.arabnews.com/node/2648992/middle-east) - archive: archive/latest/headlines/03-2648992-iraq-sets-3-month-deadline-for-pro-iran-groups-to-disarm/content.md
-4. [Iraqi foreign minister makes first visit to Syria since Assad’s fall](https://www.arabnews.com/node/2648988/middle-east) - archive: archive/latest/headlines/04-2648988-iraqi-foreign-minister-makes-first-visit-to-syria-since-assad-s-fall/content.md
+1. [UN hails US-brokered Israel-Lebanon ‘Framework’ agreement as a ‘milestone’](https://www.arabnews.com/node/2649026/middle-east) - archive: archive/latest/headlines/01-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/content.md
+2. [West Bank suffering its largest displacement crisis since 1967, UN Security Council told](https://www.arabnews.com/node/2649024/middle-east) - archive: archive/latest/headlines/02-2649024-west-bank-suffering-its-largest-displacement-crisis-since-1967-un-secu/content.md
+3. [Iraq PM to Asharq Al-Awsat: Corruption crackdown Is irreversible, arms must be under state control](https://www.arabnews.com/node/2649028/middle-east) - archive: archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/content.md
+4. [Morocco survive penalty drama to down Netherlands and reach last 16](https://www.arabnews.com/node/2649040/sport) - archive: archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/content.md

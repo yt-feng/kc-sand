@@ -16,7 +16,7 @@ RIYADH: Saudi Arabia’s Public Investment Fund boosted its total assets to SR4.
 
 ## Video Or Embed URLs
 
-- https://f7c4b929bc9c42af03f5ccf4082dab9c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://5536c7446365671525c64b90bdf3586b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

@@ -16,11 +16,11 @@ DUBAI: A confidential security annex to the Lebanon-Israel framework agreement h
 
 ## Video Or Embed URLs
 
-- https://f684889f4bf485f046a54cb452d6c84e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://fbc1ea8bf7e622159db29dee7a07e27b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649088%2Fmiddle-east
 
 ## Text

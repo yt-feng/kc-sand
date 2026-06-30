@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-30T19:21:46.081Z",
+  "fetchedAt": "2026-06-30T21:16:19.673Z",
   "targetDate": {
-    "iso": "2026-06-30",
+    "iso": "2026-07-01",
     "timeZone": "Asia/Riyadh"
   },
   "sources": {
@@ -27,7 +27,7 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-30/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-07-01/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         }
       }
     },
@@ -49,7 +49,7 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-30/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-07-01/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         }
       }
     },
@@ -71,24 +71,46 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-30/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-07-01/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         }
       }
     }
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 151,
+    "itemCount": 156,
     "window": {
       "hours": 24,
-      "start": "2026-06-29T19:21:46.081Z",
-      "end": "2026-06-30T19:21:46.081Z",
+      "start": "2026-06-29T21:16:19.673Z",
+      "end": "2026-06-30T21:16:19.673Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal",
+        "url": "https://www.arabnews.com/node/2649090/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726604-615115480.jpg?itok=RBCMnnlX",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/metadata.json",
+            "content": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/content.md",
+            "text": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "China calls for maintaining Iran talks momentum",
         "url": "https://www.arabnews.com/node/2649151/saudi-arabia",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum",
+          "directory": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/metadata.json",
-            "content": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md",
-            "text": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/metadata.json",
+            "content": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md",
+            "text": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/image.jpg",
+            "image": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/image.jpg",
             "video": null
           }
         }
@@ -119,16 +141,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed",
+          "directory": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/metadata.json",
-            "content": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md",
-            "text": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/metadata.json",
+            "content": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md",
+            "text": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
+            "image": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
             "video": null
           }
         }
@@ -141,38 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/metadata.json",
-            "content": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md",
-            "text": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "PIF assets rise 5% to $1.21tn, net profit more than doubles",
-        "url": "https://www.arabnews.com/node/2649080/business-economy",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726581-1030297591.png?itok=aChmLa4j",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles",
+          "directory": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/metadata.json",
-            "content": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/content.md",
-            "text": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/metadata.json",
+            "content": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md",
+            "text": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/image.png",
+            "image": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/image.jpg",
             "video": null
           }
         }
@@ -197,9 +197,9 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-30T19:27:26.594Z",
+    "capturedAt": "2026-06-30T21:22:05.547Z",
     "directory": "archive/latest",
-    "renderedClipsDirectory": "rendered-clips/2026-06-30",
+    "renderedClipsDirectory": "rendered-clips/2026-07-01",
     "itemCount": 7,
     "okCount": 7,
     "challengeCount": 0,
@@ -218,14 +218,11 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-06-30/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-07-01/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869095/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/408DE0FBBE1CBDFCF2F1BDB6755DFD6BDC58E4.56F3395652D94D2A60864CEF7668777F473327B7/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869095/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/014E584F8821D0F3D20BE18FD53EB30B251F4F8C.666FFEC65B97BE2A15ACD02BB850E29892E2FD89/key/cms1/cms_redirect/yes/met/1782847504,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782847083/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a44c3c7_e7eefe5913d529fe4ab5f707364a422789d6395b/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a44c3c7_e7eefe5913d529fe4ab5f707364a422789d6395b/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a44dc63_4f1be68029dae821abacd9067fd182812698dae7/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -234,10 +231,10 @@
           "bytes": 27493
         },
         "video": {
-          "path": "rendered-clips/2026-06-30/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869095/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/408DE0FBBE1CBDFCF2F1BDB6755DFD6BDC58E4.56F3395652D94D2A60864CEF7668777F473327B7/key/ck2/file/file.mp4",
+          "path": "rendered-clips/2026-07-01/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
+          "url": "https://content.jwplatform.com/videos/ngVuDIbE-C8cpcmty.mp4",
           "contentType": "video/mp4",
-          "bytes": 1384740,
+          "bytes": 14628051,
           "method": "direct"
         }
       },
@@ -254,13 +251,11 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-06-30/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-07-01/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869123/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/65B7208C2CFEDE8BF7B38A888E67B24AA571A638.5C09D0532320F2FD2B128D9BAE8F08FF8382E274/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869123/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1D5020230D8CA0A0697A007343CB980CB5C9B23E.10E46F3933D4274199CFD6309E18A281FA1A6671/key/cms1/cms_redirect/yes/met/1782847532,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782847383/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a44c31f_f611610b017f0056c1620f3f30fc9f70903369bc/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a44df3f_459e8b5adcdafed1bfe6292c00704a033f0f1ead/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -269,10 +264,10 @@
           "bytes": 43576
         },
         "video": {
-          "path": "rendered-clips/2026-06-30/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869123/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/65B7208C2CFEDE8BF7B38A888E67B24AA571A638.5C09D0532320F2FD2B128D9BAE8F08FF8382E274/key/ck2/file/file.mp4",
+          "path": "rendered-clips/2026-07-01/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
+          "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
           "contentType": "video/mp4",
-          "bytes": 1384740,
+          "bytes": 8233121,
           "method": "direct"
         }
       },
@@ -289,13 +284,11 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-06-30/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-07-01/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869152/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4A8CC429AA0F92D54D0785A3DDD8C11318458FCC.A92530B81272B68723EA039570528969EB022619/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869152/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/031347B0FE896655FD68C72649B3D211470092EC.3EAFF325EAC1A2F419795EB47711A2E0F17E11C0/key/cms1/cms_redirect/yes/met/1782847558,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782847083/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a44c1de_8011ef01ca048b87e08f8ea1df6ab179f76dcad0/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a44ddfe_35d968715542fe8e0cfde7a001187e1f01afb21b/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -304,34 +297,58 @@
           "bytes": 33206
         },
         "video": {
-          "path": "rendered-clips/2026-06-30/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869152/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4A8CC429AA0F92D54D0785A3DDD8C11318458FCC.A92530B81272B68723EA039570528969EB022619/key/ck2/file/file.mp4",
+          "path": "rendered-clips/2026-07-01/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
+          "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
           "contentType": "video/mp4",
-          "bytes": 1384740,
+          "bytes": 7265426,
           "method": "direct"
         }
       },
       {
         "group": "headlines",
         "index": 0,
-        "title": "China calls for maintaining Iran talks momentum",
-        "url": "https://www.arabnews.com/node/2649151/saudi-arabia",
-        "directory": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum",
+        "title": "Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal",
+        "url": "https://www.arabnews.com/node/2649090/middle-east",
+        "directory": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/metadata.json",
-          "content": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md",
-          "text": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/metadata.json",
+          "content": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/content.md",
+          "text": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/image.jpg",
+          "image": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869172/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/84A4F6845578DF15A1394555270E34F1B04E4489.14B508B9102C2547BA70866E769782AA9A74C406/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869172/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/15271F185B0D14A5030B022238A6B91EF5F7C3F0.2CBB3DBD0A88A44D434FF8818543DE607A3BFB6F/key/cms1/cms_redirect/yes/met/1782847576,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782847083/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://cdn.jwplayer.com/manifests/rItrN80S.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a44dc00_b49c70dd2778084f6570bbb3f0533b96fbbf6e61/sites/wPTWN2YS/media/rItrN80S/versions/kPH9T2x6/manifest.ism/manifest-audio_0_dZLOgmEs_jTaS5Lci=112043-video_0_dZLOgmEs_2yVlC8jL=430377.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/image.jpg",
+          "path": "archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726604-615115480.jpg?itok=GGsjD-N3",
+          "contentType": "image/jpeg",
+          "bytes": 33872
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "China calls for maintaining Iran talks momentum",
+        "url": "https://www.arabnews.com/node/2649151/saudi-arabia",
+        "directory": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/metadata.json",
+          "content": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md",
+          "text": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/image.jpg",
+          "video": null
+        },
+        "videoUrls": [],
+        "image": {
+          "path": "archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726771-1352445318.jpeg?itok=NHBhC_zt",
           "contentType": "image/jpeg",
           "bytes": 33355
@@ -340,25 +357,22 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "Confidential annex to Lebanon-Israel security deal revealed",
         "url": "https://www.arabnews.com/node/2649088/middle-east",
-        "directory": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed",
+        "directory": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/metadata.json",
-          "content": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md",
-          "text": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/metadata.json",
+          "content": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md",
+          "text": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
+          "image": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
           "video": null
         },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869192/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/09123C128F7350A6CEB038B3FAB06CDEF91F9E43.17B468DA3F96D006462DD3B41FDEBF16DEDBD07F/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869192/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5B58F4552B8D113E1F42B0833F1DFE284870A62E.1A9686B14F371AB6B856EA289BDC1938F73C7D9C/key/cms1/cms_redirect/yes/met/1782847596,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782847083/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
+        "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
+          "path": "archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726597-1775344743.jpg?itok=XogirwBm",
           "contentType": "image/jpeg",
           "bytes": 20269
@@ -367,55 +381,25 @@
       },
       {
         "group": "headlines",
-        "index": 2,
+        "index": 3,
         "title": "Israeli Prime Minister Benjamin Netanyahu visits troops in southern Lebanon. (File/@IsraeliPM)",
         "url": "https://www.arabnews.com/node/2649150/middle-east",
-        "directory": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le",
+        "directory": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/metadata.json",
-          "content": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md",
-          "text": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/metadata.json",
+          "content": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md",
+          "text": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/image.jpg",
+          "image": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/image.jpg",
           "video": null
         },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869212/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1CA488B9C75E2D6C1F81D189C9C9BB781CB5B676.7F2486A5BC96DE8454125CF3D782C5194DCADD8E/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869212/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/61D799CE5ED74F4C4DFCC839A4E9E81438A789B0.22F2DB728FB01A7585FDF45E28435C1A6149D49A/key/cms1/cms_redirect/yes/met/1782847616,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782847083/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
+        "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/image.jpg",
+          "path": "archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726766-1371851489.jpeg?itok=zAbH7VNn",
           "contentType": "image/jpeg",
           "bytes": 36565
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
-        "index": 3,
-        "title": "PIF assets rise 5% to $1.21tn, net profit more than doubles",
-        "url": "https://www.arabnews.com/node/2649080/business-economy",
-        "directory": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/metadata.json",
-          "content": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/content.md",
-          "text": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/image.png",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869232/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7A92832B20F0EB8AC5ADCABBAAC3192D5033267E.9FC936139F680100AF59336006125DEA70EB4D78/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782869232/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5923608AF0ECD9F2C3D5A30BCC4DDDE0BBD5AE07.1D4333341259EADDB1A5E4D9D8FF104703B1F716/key/cms1/cms_redirect/yes/met/1782847637,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782847531/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/image.png",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726581-1030297591.png?itok=DJGMAtBG",
-          "contentType": "image/png",
-          "bytes": 178397
         },
         "video": null
       }

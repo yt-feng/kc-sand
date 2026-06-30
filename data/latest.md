@@ -1,7 +1,7 @@
 # Arab News Latest
 
-Fetched at: 2026-06-30T19:21:46.081Z
-Target date: 2026-06-30 (Asia/Riyadh)
+Fetched at: 2026-06-30T21:16:19.673Z
+Target date: 2026-07-01 (Asia/Riyadh)
 
 ## Latest Videos
 
@@ -13,7 +13,7 @@ Target date: 2026-06-30 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [China calls for maintaining Iran talks momentum](https://www.arabnews.com/node/2649151/saudi-arabia) - archive: archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md
-2. [Confidential annex to Lebanon-Israel security deal revealed](https://www.arabnews.com/node/2649088/middle-east) - archive: archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md
-3. [Israeli Prime Minister Benjamin Netanyahu visits troops in southern Lebanon. (File/@IsraeliPM)](https://www.arabnews.com/node/2649150/middle-east) - archive: archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md
-4. [PIF assets rise 5% to $1.21tn, net profit more than doubles](https://www.arabnews.com/node/2649080/business-economy) - archive: archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/content.md
+1. [Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal](https://www.arabnews.com/node/2649090/middle-east) - archive: archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/content.md
+2. [China calls for maintaining Iran talks momentum](https://www.arabnews.com/node/2649151/saudi-arabia) - archive: archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md
+3. [Confidential annex to Lebanon-Israel security deal revealed](https://www.arabnews.com/node/2649088/middle-east) - archive: archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md
+4. [Israeli Prime Minister Benjamin Netanyahu visits troops in southern Lebanon. (File/@IsraeliPM)](https://www.arabnews.com/node/2649150/middle-east) - archive: archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md

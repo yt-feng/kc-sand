@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-30T12:30:16.339Z
+Fetched at: 2026-06-30T17:25:28.350Z
 Target date: 2026-06-30 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-30 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Confidential annex to Lebanon-Israel security deal revealed](https://www.arabnews.com/node/2649088/middle-east) - archive: archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md
-2. [UN hails US-brokered Israel-Lebanon ‘Framework’ agreement as a ‘milestone’](https://www.arabnews.com/node/2649026/middle-east) - archive: archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/content.md
-3. [Iraq PM to Asharq Al-Awsat: Corruption crackdown Is irreversible, arms must be under state control](https://www.arabnews.com/node/2649028/middle-east) - archive: archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/content.md
-4. [Morocco survive penalty drama to down Netherlands and reach last 16](https://www.arabnews.com/node/2649040/sport) - archive: archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/content.md
+1. [China calls for maintaining Iran talks momentum](https://www.arabnews.com/node/2649151/saudi-arabia) - archive: archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md
+2. [Confidential annex to Lebanon-Israel security deal revealed](https://www.arabnews.com/node/2649088/middle-east) - archive: archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md
+3. [Israeli Prime Minister Benjamin Netanyahu visits troops in southern Lebanon. (File/@IsraeliPM)](https://www.arabnews.com/node/2649150/middle-east) - archive: archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md
+4. [PIF assets rise 5% to $1.21tn, net profit more than doubles](https://www.arabnews.com/node/2649080/business-economy) - archive: archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/content.md

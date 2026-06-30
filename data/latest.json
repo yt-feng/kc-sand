@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T12:30:16.339Z",
+  "fetchedAt": "2026-06-30T17:25:28.350Z",
   "targetDate": {
     "iso": "2026-06-30",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,39 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 120,
+    "itemCount": 145,
     "window": {
       "hours": 24,
-      "start": "2026-06-29T12:30:16.339Z",
-      "end": "2026-06-30T12:30:16.339Z",
+      "start": "2026-06-29T17:25:28.350Z",
+      "end": "2026-06-30T17:25:28.350Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "China calls for maintaining Iran talks momentum",
+        "url": "https://www.arabnews.com/node/2649151/saudi-arabia",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726771-1352445318.jpeg?itok=3K_Gz4pf",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/metadata.json",
+            "content": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md",
+            "text": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "Confidential annex to Lebanon-Israel security deal revealed",
         "url": "https://www.arabnews.com/node/2649088/middle-east",
@@ -97,82 +119,60 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
-        "archive": {
-          "directory": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/metadata.json",
-            "content": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md",
-            "text": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "UN hails US-brokered Israel-Lebanon ‘Framework’ agreement as a ‘milestone’",
-        "url": "https://www.arabnews.com/node/2649026/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/29/4726454-1980981877.jpg?itok=OYYUcld8",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone",
+          "directory": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/metadata.json",
-            "content": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/content.md",
-            "text": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/metadata.json",
+            "content": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md",
+            "text": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/image.jpg",
+            "image": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "Iraq PM to Asharq Al-Awsat: Corruption crackdown Is irreversible, arms must be under state control",
-        "url": "https://www.arabnews.com/node/2649028/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726458-313781812.jpeg?itok=fKDbY40s",
+        "title": "Israeli Prime Minister Benjamin Netanyahu visits troops in southern Lebanon. (File/@IsraeliPM)",
+        "url": "https://www.arabnews.com/node/2649150/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726766-1371851489.jpeg?itok=arIgUAkJ",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 5,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m",
+          "directory": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/metadata.json",
-            "content": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/content.md",
-            "text": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/metadata.json",
+            "content": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md",
+            "text": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/image.jpg",
+            "image": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "Morocco survive penalty drama to down Netherlands and reach last 16",
-        "url": "https://www.arabnews.com/node/2649040/sport",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726490-800476658.jpg?itok=RSl3ebkc",
+        "title": "PIF assets rise 5% to $1.21tn, net profit more than doubles",
+        "url": "https://www.arabnews.com/node/2649080/business-economy",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726581-1030297591.png?itok=aChmLa4j",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 7,
+        "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16",
+          "directory": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/metadata.json",
-            "content": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/content.md",
-            "text": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/metadata.json",
+            "content": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/content.md",
+            "text": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/image.jpg",
+            "image": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/image.png",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-06-30T12:35:47.325Z",
+    "capturedAt": "2026-06-30T17:31:04.297Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-06-30",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-06-30/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844394/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/316ECBBB1F262ECDA1D9A8A656C5D616816F73A8.1DD5563AFB2DCD0C29272CE87EF844D41B010010/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844394/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/673C43FB813CD98DAA9C07C63C9BCB4FCFA9FE92.1C37DE3CA9B77A7EFDDC432CE791846F5A2F2752/key/cms1/cms_redirect/yes/met/1782822803,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782821963/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862115/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/40B8C55A7CFA25B12FC117119A7F75DB6B35D243.756C47C0DA8E8B22E5A1B8FD2C591B369C2FEDB8/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862115/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6E2D966EAFE6D63A9AF8CF7E5D56A229BAE637D0.3B5A8101653DB850445E27C4C04D0402F20EE32E/key/cms1/cms_redirect/yes/met/1782840524,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782840254/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a446157_2416812dc6b6c45f267a9294203f081de7a4c3c0/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a446157_2416812dc6b6c45f267a9294203f081de7a4c3c0/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a44a7a7_72b451bfda2f6ba4dfa4ab3372ca27d58ea9fa33/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a44a7a7_72b451bfda2f6ba4dfa4ab3372ca27d58ea9fa33/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-30/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844394/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/316ECBBB1F262ECDA1D9A8A656C5D616816F73A8.1DD5563AFB2DCD0C29272CE87EF844D41B010010/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862115/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/40B8C55A7CFA25B12FC117119A7F75DB6B35D243.756C47C0DA8E8B22E5A1B8FD2C591B369C2FEDB8/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-06-30/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844422/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/536BD8FD747EC62C7C7272FD68CBDD8C576770E0.974184EC0DC4C40C482B386EA65859354A0397B6/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844422/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/583235951F99475C5638E12092B45FC6A9BEF86E.733F1C140F8997C9E9AFB8ED0CA9E0D20EED0CAB/key/cms1/cms_redirect/yes/met/1782822830,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782821963/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862143/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/847B51C2BFFAC8187A676798C26ECA419B689522.05D68148E66041C020EC202A2E65E765A0795751/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862143/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/05E04F857DBE8313B085EB853636886FEE591E6E.12DBE9A8D78FDF6CBFF7C6C3414E067FED2FFE84/key/cms1/cms_redirect/yes/met/1782840551,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782840254/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4460af_d947521fce7318969affb76186aef7c5ee044fac/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a44a6ff_02dd41b005e44309fb72f6b495f012ed5e951c27/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-30/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844422/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/536BD8FD747EC62C7C7272FD68CBDD8C576770E0.974184EC0DC4C40C482B386EA65859354A0397B6/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862143/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/847B51C2BFFAC8187A676798C26ECA419B689522.05D68148E66041C020EC202A2E65E765A0795751/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-06-30/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844448/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/87F93D6F0E303FB9F108D1AF0CB32FFD89A422EA.6C2F3133D63CE4E935896FEEB705BDCCD9F235D2/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844448/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/451EB846FB41E652ED00EC5E3F6B8C6FBF2165BE.6B1117E2153A80199DFEAAFC372613322E108720/key/cms1/cms_redirect/yes/met/1782822855,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782822314/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862168/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7FB6C9DB2A4908A3731ADBAF2FDD39A7CA7C374B.2820E46CE7ED98038E27F102D9CCE6215B7B3DDC/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862168/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/42B01D049BFA4FDE160F1BE20F237ACF2187A864.19AA12A7BA3799AC549279622DB7F330B1F50CB0/key/cms1/cms_redirect/yes/met/1782840575,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782840254/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4462f2_3c90ee99df5c021417852c812c6692ac86f298ac/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a44a942_0273511451820b05bb94ddb10cc60d3f2f5e0379/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-06-30/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844448/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/87F93D6F0E303FB9F108D1AF0CB32FFD89A422EA.6C2F3133D63CE4E935896FEEB705BDCCD9F235D2/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862168/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7FB6C9DB2A4908A3731ADBAF2FDD39A7CA7C374B.2820E46CE7ED98038E27F102D9CCE6215B7B3DDC/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -314,24 +314,51 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Confidential annex to Lebanon-Israel security deal revealed",
-        "url": "https://www.arabnews.com/node/2649088/middle-east",
-        "directory": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed",
+        "title": "China calls for maintaining Iran talks momentum",
+        "url": "https://www.arabnews.com/node/2649151/saudi-arabia",
+        "directory": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/metadata.json",
-          "content": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md",
-          "text": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/metadata.json",
+          "content": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md",
+          "text": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
+          "image": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844470/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AAE2049968A85D8380784BCCA32076A731576884.31F020C0EAE15FFF3DF3E8160C83D93099C17A9E/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844470/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/52D68F1129510982CB12C49980E08A75DD19FADC.0C0592CE7DF7152307E0ABF199D7ADB3F64DAC80/key/cms1/cms_redirect/yes/met/1782822874,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782822739/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862189/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8F252E6D20431E1A879B8D2AD9DD5F3F289D9851.B92935D0C02D2613B9740339DB2B225F26881ADF/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862189/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/62F1729AC9DDE01608DFB97A483137767CD3720C.75A4BDB1E2FD4E73845FC729576B2050D439DE8B/key/cms1/cms_redirect/yes/met/1782840593,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782840254/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
+          "path": "archive/latest/headlines/01-2649151-china-calls-for-maintaining-iran-talks-momentum/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726771-1352445318.jpeg?itok=NHBhC_zt",
+          "contentType": "image/jpeg",
+          "bytes": 33355
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "Confidential annex to Lebanon-Israel security deal revealed",
+        "url": "https://www.arabnews.com/node/2649088/middle-east",
+        "directory": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/metadata.json",
+          "content": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md",
+          "text": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862210/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5B3480AF685E9CF4BBF068231AD1AF42A88E0A5B.B97D2726ABF6C5A08631E097A52121EBDF576D39/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862210/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0CAB8FDDDD4A4F649C789045D9E5CEF9AD626338.7A6D4FF2FFA5B80FEE3B1DB4F99695EA9DC7EAA0/key/cms1/cms_redirect/yes/met/1782840614,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782840290/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/02-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726597-1775344743.jpg?itok=XogirwBm",
           "contentType": "image/jpeg",
           "bytes": 20269
@@ -340,84 +367,55 @@
       },
       {
         "group": "headlines",
-        "index": 1,
-        "title": "UN hails US-brokered Israel-Lebanon ‘Framework’ agreement as a ‘milestone’",
-        "url": "https://www.arabnews.com/node/2649026/middle-east",
-        "directory": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/metadata.json",
-          "content": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/content.md",
-          "text": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844490/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/777860BFBF06DD57B7B87E227FDAAE9B8301047F.44235ADE7F33F64CE5D22BA0F169FBFD7A104CC6/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844490/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/08125AED35448B6EC7B08844E4405BF995E6FFBA.80B5D50EB1753B325D46604BFDB526D67A1585A3/key/cms1/cms_redirect/yes/met/1782822895,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782821963/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/29/4726454-1980981877.jpg?itok=ZePGx3Z5",
-          "contentType": "image/jpeg",
-          "bytes": 45600
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
         "index": 2,
-        "title": "Iraq PM to Asharq Al-Awsat: Corruption crackdown Is irreversible, arms must be under state control",
-        "url": "https://www.arabnews.com/node/2649028/middle-east",
-        "directory": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m",
+        "title": "Israeli Prime Minister Benjamin Netanyahu visits troops in southern Lebanon. (File/@IsraeliPM)",
+        "url": "https://www.arabnews.com/node/2649150/middle-east",
+        "directory": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/metadata.json",
-          "content": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/content.md",
-          "text": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/metadata.json",
+          "content": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md",
+          "text": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/image.jpg",
+          "image": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844511/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/773540021A783B3ABEC6FCDEFC0E1FAD7D43CB21.96E8A924BE069194145AD417BF25BF3198EE16E3/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844511/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0DBA893BD088166CF4E78C0ECC0E548EF213CD05.8174AD1A6A3BCB822B550063EDB93F546C3E86F6/key/cms1/cms_redirect/yes/met/1782822915,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782821963/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862230/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8334C440FB716DCB026F34254D05637F97CECA1F.372BFD7492B82AF5F34170F1A4D23A58F7455F22/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862230/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0864D6D06C81BCF41BFDEC5EF0C8DC6CB0B8BF14.57764D6ABE21410F8B11542AF20AF50912205A6D/key/cms1/cms_redirect/yes/met/1782840634,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782840254/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726458-313781812.jpeg?itok=Dlqd5aQ7",
+          "path": "archive/latest/headlines/03-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726766-1371851489.jpeg?itok=zAbH7VNn",
           "contentType": "image/jpeg",
-          "bytes": 32554
+          "bytes": 36565
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 3,
-        "title": "Morocco survive penalty drama to down Netherlands and reach last 16",
-        "url": "https://www.arabnews.com/node/2649040/sport",
-        "directory": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16",
+        "title": "PIF assets rise 5% to $1.21tn, net profit more than doubles",
+        "url": "https://www.arabnews.com/node/2649080/business-economy",
+        "directory": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/metadata.json",
-          "content": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/content.md",
-          "text": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/metadata.json",
+          "content": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/content.md",
+          "text": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/image.jpg",
+          "image": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/image.png",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844532/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4FFD647F5750BA5C9B63F22D0FDABCA8EA66FF91.0BF3EFA11C23A8949E6B1A3C49C8FB7D093B11D5/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782844532/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/39666CB0737E03A900EF3D3289784604930D18A3.7EDB9172A9AAC4916412CF0D40F1EA204CC63C4E/key/cms1/cms_redirect/yes/met/1782822937,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782821963/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
-          "https://cdn.jwplayer.com/manifests/NeNlaURx.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a446402_ee23d1ecb78bb674bb680af81e1f21aafebee710/sites/wPTWN2YS/media/NeNlaURx/versions/kwJCJ3fw/manifest.ism/manifest-audio_0_md6VWSld_IG1oCwml=112053-video_0_md6VWSld_B9Gor9XE=605569.m3u8"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862250/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8A9B581678393C773EBFB01521D97F1FE9BEA9D2.A30482CAA1B8E642A28B636CEDE2E32B0690B303/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782862250/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7C6CAE9D1922D7430C139A4833A2D716850D5059.22E93589DA6A8D4159F28AC8EE275DDECB452701/key/cms1/cms_redirect/yes/met/1782840654,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782840254/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726490-800476658.jpg?itok=071LYVMH",
-          "contentType": "image/jpeg",
-          "bytes": 50149
+          "path": "archive/latest/headlines/04-2649080-pif-assets-rise-5-to-1-21tn-net-profit-more-than-doubles/image.png",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726581-1030297591.png?itok=DJGMAtBG",
+          "contentType": "image/png",
+          "bytes": 178397
         },
         "video": null
       }

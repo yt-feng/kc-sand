@@ -16,7 +16,7 @@ NEW YORK CITY: The UN on Monday described a newly announced “Trilateral Framew
 
 ## Video Or Embed URLs
 
-- https://3cbfffd3847eef4beca7c7ad558beb61.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://ae9432cb77abc0e5700b9b865d7a9d41.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

@@ -16,11 +16,12 @@ RIYADH: Few would argue the match between the Netherlands and Morocco in the 202
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/15b9329f-ec92-48d6-acbc-74f034dff686
+- blob:https://www.arabnews.com/794ca0c8-d7f2-495f-a5bc-2bc477d29b62
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://776f4419d206b8ff6abf66a4c17c42fb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://eb700d0dd396b0475b758bd58697a3cc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649040%2Fsport
 

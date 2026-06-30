@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-06-30T10:08:45.915Z
+Fetched at: 2026-06-30T12:30:16.339Z
 Target date: 2026-06-30 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-06-30 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [UN hails US-brokered Israel-Lebanon ‘Framework’ agreement as a ‘milestone’](https://www.arabnews.com/node/2649026/middle-east) - archive: archive/latest/headlines/01-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/content.md
-2. [West Bank suffering its largest displacement crisis since 1967, UN Security Council told](https://www.arabnews.com/node/2649024/middle-east) - archive: archive/latest/headlines/02-2649024-west-bank-suffering-its-largest-displacement-crisis-since-1967-un-secu/content.md
+1. [Confidential annex to Lebanon-Israel security deal revealed](https://www.arabnews.com/node/2649088/middle-east) - archive: archive/latest/headlines/01-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md
+2. [UN hails US-brokered Israel-Lebanon ‘Framework’ agreement as a ‘milestone’](https://www.arabnews.com/node/2649026/middle-east) - archive: archive/latest/headlines/02-2649026-un-hails-us-brokered-israel-lebanon-framework-agreement-as-a-milestone/content.md
 3. [Iraq PM to Asharq Al-Awsat: Corruption crackdown Is irreversible, arms must be under state control](https://www.arabnews.com/node/2649028/middle-east) - archive: archive/latest/headlines/03-2649028-iraq-pm-to-asharq-al-awsat-corruption-crackdown-is-irreversible-arms-m/content.md
 4. [Morocco survive penalty drama to down Netherlands and reach last 16](https://www.arabnews.com/node/2649040/sport) - archive: archive/latest/headlines/04-2649040-morocco-survive-penalty-drama-to-down-netherlands-and-reach-last-16/content.md

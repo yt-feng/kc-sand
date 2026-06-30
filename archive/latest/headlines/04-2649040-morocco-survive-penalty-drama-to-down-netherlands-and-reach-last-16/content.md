@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2649040/sport
 Captured source: https://www.arabnews.com/node/2649040/sport
 Published: 2026-06-30T07:08:53+03:00
-Modified: 2026-06-30T07:53:24+03:00
+Modified: 2026-06-30T10:41:13+03:00
 Author: Mohammed Fayad
 
 ## Summary
@@ -16,11 +16,12 @@ RIYADH: Few would argue the match between the Netherlands and Morocco in the 202
 
 ## Video Or Embed URLs
 
-- https://f60c66cc032aca2c3c0773ac328e0e4e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/15b9329f-ec92-48d6-acbc-74f034dff686
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://776f4419d206b8ff6abf66a4c17c42fb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649040%2Fsport
 
 ## Text

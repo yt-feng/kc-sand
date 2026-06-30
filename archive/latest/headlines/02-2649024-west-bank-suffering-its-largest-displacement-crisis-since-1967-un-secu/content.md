@@ -16,7 +16,7 @@ NEW YORK CITY: The West Bank is experiencing its largest displacement crisis sin
 
 ## Video Or Embed URLs
 
-- https://a4be703cc00ab3a759a3ae9920658aff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://67edfe543d482799d497741a693574df.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

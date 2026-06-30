@@ -16,12 +16,11 @@ DOHA/DUBAI: Top US envoys who have arrived in Doha will not hold a high-level me
 
 ## Video Or Embed URLs
 
-- https://c607a9c0ec86fee09da3a33b2367f968.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/933bd92f-2b35-4acf-a178-88db6b249ed0
+- blob:https://www.arabnews.com/d1f69abf-2c8d-4025-bfcf-9a69886d3d88
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://ae174445333a4a6d2160920a0949ec26.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649090%2Fmiddle-east
 

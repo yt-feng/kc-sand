@@ -7,11 +7,11 @@
   "dateText": "",
   "source": "video-page",
   "order": 0,
-  "capturedAt": "2026-06-30T21:19:50.035Z",
+  "capturedAt": "2026-06-30T22:57:43.249Z",
   "responseStatus": 200,
   "responseUrl": "https://www.arabnews.com/node/2640197/middle-east",
   "challengeDetected": false,
-  "articleHtmlFallbackUsed": false,
+  "articleHtmlFallbackUsed": true,
   "snapshot": {
     "title": "Lebanon army reports Israeli ‘acts of aggression’ in ‘violation of ceasefire’",
     "description": "BEIRUT: Lebanon’s army reported “acts of aggression” by Israel on Friday, saying they violated a ceasefire that took effect at midnight, even as a 10-day truce raised hopes of halting weeks of devastating conflict.",
@@ -22,8 +22,9 @@
     "canonical": "https://www.arabnews.com/node/2640197/middle-east",
     "textLength": 3010,
     "videoUrls": [
-      "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-      "https://videos-cloudfront-usp.jwpsrv.com/6a44dc63_4f1be68029dae821abacd9067fd182812698dae7/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
+      "https://content.jwplatform.com/videos/ngVuDIbE-z057noEQ.mp4",
+      "https://cdn.jwplayer.com/manifests/r8OsVWhm.m3u8",
+      "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8"
     ],
     "pageTitle": "Lebanon army reports Israeli ‘acts of aggression’ in ‘violation of ceasefire’ | Arab News"
   },

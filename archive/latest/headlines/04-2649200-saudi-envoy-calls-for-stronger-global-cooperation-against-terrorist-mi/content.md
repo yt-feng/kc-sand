@@ -17,7 +17,7 @@ NEW YORK: Saudi Arabia’s permanent representative to the UN on Tuesday called 
 ## Video Or Embed URLs
 
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://a4a2879b8f182162f2875c6cc250e3d1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f2e349ace0c58a0252eb1dac3e1b3507.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe

@@ -16,7 +16,7 @@ NEW YORK CITY: The operations of the UN Relief and Works Agency for Palestine Re
 
 ## Video Or Embed URLs
 
-- https://189e69e6e51043edd9edd5d68b3d3403.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://34d7d6eea40de240c1292ef65d32f1c3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-01T00:14:37.795Z
+Fetched at: 2026-07-01T05:08:06.786Z
 Target date: 2026-07-01 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-01 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal](https://www.arabnews.com/node/2649090/middle-east) - archive: archive/latest/headlines/01-2649090-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal/content.md
-2. [China calls for maintaining Iran talks momentum](https://www.arabnews.com/node/2649151/saudi-arabia) - archive: archive/latest/headlines/02-2649151-china-calls-for-maintaining-iran-talks-momentum/content.md
-3. [Confidential annex to Lebanon-Israel security deal revealed](https://www.arabnews.com/node/2649088/middle-east) - archive: archive/latest/headlines/03-2649088-confidential-annex-to-lebanon-israel-security-deal-revealed/content.md
-4. [Israeli Prime Minister Benjamin Netanyahu visits troops in southern Lebanon. (File/@IsraeliPM)](https://www.arabnews.com/node/2649150/middle-east) - archive: archive/latest/headlines/04-2649150-israeli-prime-minister-benjamin-netanyahu-visits-troops-in-southern-le/content.md
+1. [Qatar reaffirms mediation role in US-Iran talks after meeting with Witkoff](https://www.arabnews.com/node/2649195/middle-east) - archive: archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/content.md
+2. [UN aid chief warns El-Obeid risks becoming ‘another El-Fasher’ as drone strikes escalate in Sudan](https://www.arabnews.com/node/2649179/middle-east) - archive: archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/content.md
+3. [UNRWA warns of breaking point as funding crisis threatens mandate to help Palestine refugees](https://www.arabnews.com/node/2649198/middle-east) - archive: archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/content.md
+4. [Saudi envoy calls for stronger global cooperation against terrorist misuse of AI](https://www.arabnews.com/node/2649200/world) - archive: archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/content.md

@@ -16,11 +16,11 @@ DUBAI: Lebanese President Joseph Aoun on Wednesday defended a US-backed framewor
 
 ## Video Or Embed URLs
 
-- https://60eae7bbc456c7abc6a98ff0b54601b1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://52077ec9a965e5d8d3cecc2859bb21c0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649269%2Fmiddle-east
 
 ## Text

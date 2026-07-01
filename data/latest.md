@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-01T22:05:23.484Z
+Fetched at: 2026-07-01T23:52:22.878Z
 Target date: 2026-07-02 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-02 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Lebanon and Syria join US-led Middle East military talks](https://www.arabnews.com/node/2649321/middle-east) - archive: archive/latest/headlines/01-2649321-lebanon-and-syria-join-us-led-middle-east-military-talks/content.md
-2. [Bahrain seeks emergency UN Security Council meeting after Iranian attacks](https://www.arabnews.com/node/2649310/middle-east) - archive: archive/latest/headlines/02-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/content.md
-3. [Lebanon’s Aoun defends US-backed framework, says it preserves state authority and rights](https://www.arabnews.com/node/2649269/middle-east) - archive: archive/latest/headlines/03-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/content.md
-4. [Israel defense minister says troops to stay ‘indefinitely’ in Lebanon, Syria, Gaza](https://www.arabnews.com/node/2649244/middle-east) - archive: archive/latest/headlines/04-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/content.md
+1. [Strait of Hormuz reopens but UN warns poorest nations will face lasting economic fallout](https://www.arabnews.com/node/2649348/middle-east) - archive: archive/latest/headlines/01-2649348-strait-of-hormuz-reopens-but-un-warns-poorest-nations-will-face-lastin/content.md
+2. [Lebanon and Syria join US-led Middle East military talks](https://www.arabnews.com/node/2649321/middle-east) - archive: archive/latest/headlines/02-2649321-lebanon-and-syria-join-us-led-middle-east-military-talks/content.md
+3. [Bahrain seeks emergency UN Security Council meeting after Iranian attacks](https://www.arabnews.com/node/2649310/middle-east) - archive: archive/latest/headlines/03-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/content.md
+4. [Lebanon’s Aoun defends US-backed framework, says it preserves state authority and rights](https://www.arabnews.com/node/2649269/middle-east) - archive: archive/latest/headlines/04-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/content.md

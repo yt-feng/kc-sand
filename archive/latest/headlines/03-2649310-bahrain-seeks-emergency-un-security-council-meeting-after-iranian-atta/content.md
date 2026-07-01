@@ -16,10 +16,11 @@ NEW YORK: Bahrain on Wednesday requested an emergency meeting of the UN Security
 
 ## Video Or Embed URLs
 
-- https://9229ac6d75c5c6087ecbe42e694609e8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://e1ad50dace66de25ad11c44f3c9d1b2d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649310%2Fmiddle-east
 

@@ -16,6 +16,7 @@ JERUSALEM: Israel’s defense minister said Wednesday that Israeli forces would 
 
 ## Video Or Embed URLs
 
+- https://7d9eaabb7f7fdede23595a7f6faca759.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

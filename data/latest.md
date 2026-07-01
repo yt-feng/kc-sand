@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-01T15:20:54.387Z
+Fetched at: 2026-07-01T17:30:16.959Z
 Target date: 2026-07-01 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-01 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Lebanon’s Aoun defends US-backed framework, says it preserves state authority and rights](https://www.arabnews.com/node/2649269/middle-east) - archive: archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/content.md
-2. [Israel defense minister says troops to stay ‘indefinitely’ in Lebanon, Syria, Gaza](https://www.arabnews.com/node/2649244/middle-east) - archive: archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/content.md
-3. [UNRWA warns of breaking point as funding crisis threatens mandate to help Palestine refugees](https://www.arabnews.com/node/2649198/middle-east) - archive: archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/content.md
-4. [Saudi envoy calls for stronger global cooperation against terrorist misuse of AI](https://www.arabnews.com/node/2649200/world) - archive: archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/content.md
+1. [Bahrain seeks emergency UN Security Council meeting after Iranian attacks](https://www.arabnews.com/node/2649310/middle-east) - archive: archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/content.md
+2. [Lebanon’s Aoun defends US-backed framework, says it preserves state authority and rights](https://www.arabnews.com/node/2649269/middle-east) - archive: archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/content.md
+3. [Israel defense minister says troops to stay ‘indefinitely’ in Lebanon, Syria, Gaza](https://www.arabnews.com/node/2649244/middle-east) - archive: archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/content.md
+4. [US signs agreement to build permanent embassy in Jerusalem](https://www.arabnews.com/node/2649275/middle-east) - archive: archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/content.md

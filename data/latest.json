@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-01T15:20:54.387Z",
+  "fetchedAt": "2026-07-01T17:30:16.959Z",
   "targetDate": {
     "iso": "2026-07-01",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,39 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 148,
+    "itemCount": 145,
     "window": {
       "hours": 24,
-      "start": "2026-06-30T15:20:54.387Z",
-      "end": "2026-07-01T15:20:54.387Z",
+      "start": "2026-06-30T17:30:16.959Z",
+      "end": "2026-07-01T17:30:16.959Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Bahrain seeks emergency UN Security Council meeting after Iranian attacks",
+        "url": "https://www.arabnews.com/node/2649310/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/01/4727135-1714292535.png?itok=QDookKTV",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/metadata.json",
+            "content": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/content.md",
+            "text": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/image.png",
+            "video": null
+          }
+        }
+      },
       {
         "title": "Lebanon’s Aoun defends US-backed framework, says it preserves state authority and rights",
         "url": "https://www.arabnews.com/node/2649269/middle-east",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut",
+          "directory": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/metadata.json",
-            "content": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/content.md",
-            "text": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/metadata.json",
+            "content": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/content.md",
+            "text": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/image.jpg",
+            "image": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/image.jpg",
             "video": null
           }
         }
@@ -119,60 +141,38 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
-        "archive": {
-          "directory": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/metadata.json",
-            "content": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/content.md",
-            "text": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "UNRWA warns of breaking point as funding crisis threatens mandate to help Palestine refugees",
-        "url": "https://www.arabnews.com/node/2649198/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/01/4726892-2022807674.jpeg?itok=TDtX7-f4",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h",
+          "directory": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/metadata.json",
-            "content": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/content.md",
-            "text": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/metadata.json",
+            "content": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/content.md",
+            "text": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/image.jpg",
+            "image": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "Saudi envoy calls for stronger global cooperation against terrorist misuse of AI",
-        "url": "https://www.arabnews.com/node/2649200/world",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/01/4726897-433274349.jpg?itok=-0XItDmK",
+        "title": "US signs agreement to build permanent embassy in Jerusalem",
+        "url": "https://www.arabnews.com/node/2649275/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/01/4727057-6131240.jpg?itok=g9o8H-mi",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 7,
+        "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi",
+          "directory": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/metadata.json",
-            "content": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/content.md",
-            "text": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/metadata.json",
+            "content": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/content.md",
+            "text": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/image.jpg",
+            "image": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-01T15:26:39.549Z",
+    "capturedAt": "2026-07-01T17:35:59.063Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-01",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-01/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941042/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/BB70DBC9F6987E175E9F56A287117D4632346F82.80BCD8797785C01C6E4B06D0F9F4C343A0AE397E/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941042/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/36DDAE8BF0A58A28CD9A6615FF5E535E520FDB21.109DF62D4C94054F18019C27A233AF0BFBE40B59/key/cms1/cms_redirect/yes/met/1782919450,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782918976/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948805/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/69F60A641737EFA2E9EE1CDE3E26A6853135A929.7409594E21B2CFE8C94893275CEDDBBAA7662DB6/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948805/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/01BD4A9093B3BAFF15EE749676EA8B5CF57827F8.798C939185D81CF60369C13B9D3B6B658BF3EDAB/key/cms1/cms_redirect/yes/met/1782927214,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782926934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a45dd07_848b3c46762aa68e8e9fa154452f9efa47bb8031/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a45dd07_848b3c46762aa68e8e9fa154452f9efa47bb8031/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a45f927_12483943c960e5d5fc75371e1cbee93fd5602793/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a45f927_12483943c960e5d5fc75371e1cbee93fd5602793/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-01/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941042/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/BB70DBC9F6987E175E9F56A287117D4632346F82.80BCD8797785C01C6E4B06D0F9F4C343A0AE397E/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948805/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/69F60A641737EFA2E9EE1CDE3E26A6853135A929.7409594E21B2CFE8C94893275CEDDBBAA7662DB6/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-01/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941071/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9E05B8515BCE0306FB14F12F05C8398DA6F36C73.35F22ADE26568E78052A97A13B6710624D269807/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941071/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/298F05F277C9A2A50CC4D06E7B34AD3D18FEC516.0AFE9B161AB670FF0972616661CF81C9C13A4CBE/key/cms1/cms_redirect/yes/met/1782919479,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782919365/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948833/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A9C85C60991D68FC2CA6E28941756026E61E4575.235CEAC147AF1E139BC3377CA5762C5483A83F02/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948833/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0BB6B1D0F67B1347DC0D4C96E96AC489923EC8E4.2C17A9D75E66CF2D28CE5896BD17021D4BB30DD5/key/cms1/cms_redirect/yes/met/1782927240,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782926934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a45dc5f_e77bb06ac43d5a962e712acd735e78c4a2f562c1/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a45f87f_2f47f62a95bab76d18e9fca3e0c51c23e2cafb45/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-01/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941071/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9E05B8515BCE0306FB14F12F05C8398DA6F36C73.35F22ADE26568E78052A97A13B6710624D269807/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948833/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A9C85C60991D68FC2CA6E28941756026E61E4575.235CEAC147AF1E139BC3377CA5762C5483A83F02/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-01/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941098/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/46FA1EA3846665F6468014A251730FDB70386D53.70973E447F35DF1D4321C0BE40DC2E49D8DDE3FA/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941098/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5B9264C78E261E5A670D09EC6C9D5FFE1E42E8F4.1B29A1A87FF178781C3CE0DB0B00D90EA270C147/key/cms1/cms_redirect/yes/met/1782919506,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782919299/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948859/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/20AA261C6244AF56C43CB9AE939AB8880881151E.5202F18A8F06CBC7F4B08894383943E65D232D39/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948859/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/72970952DAE4A34333AE2A4C97D02B326172C6E3.04BC4628FDF21CD175ECAA3B045D71FDCA518FCD/key/cms1/cms_redirect/yes/met/1782927266,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782926934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a45db1e_3cc2cab800921397fc9727d24d1595f2ab4ff7a3/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a45fac2_f87c8e6a469a211cffaf8059b6f54a9706f5c783/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-01/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941098/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/46FA1EA3846665F6468014A251730FDB70386D53.70973E447F35DF1D4321C0BE40DC2E49D8DDE3FA/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948859/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/20AA261C6244AF56C43CB9AE939AB8880881151E.5202F18A8F06CBC7F4B08894383943E65D232D39/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -314,24 +314,51 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Lebanon’s Aoun defends US-backed framework, says it preserves state authority and rights",
-        "url": "https://www.arabnews.com/node/2649269/middle-east",
-        "directory": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut",
+        "title": "Bahrain seeks emergency UN Security Council meeting after Iranian attacks",
+        "url": "https://www.arabnews.com/node/2649310/middle-east",
+        "directory": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/metadata.json",
-          "content": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/content.md",
-          "text": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/metadata.json",
+          "content": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/content.md",
+          "text": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/image.jpg",
+          "image": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/image.png",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941122/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4BF65EDE873FD2DD5FADCECB79FF13A28433B976.7C4842B47F700159FCBED744047ACDBE12CDACB7/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941122/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/337888DDC6B541FA94908A5C0FA7623133C7C395.6AD4C51AEBF2E49D59CE7B57443AE89B39A983BF/key/cms1/cms_redirect/yes/met/1782919526,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782919019/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948882/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/345F2F3ACDC35600333A58FCE50B65C502F94FC8.6EBFE817E824879E1254419076615B7F4B38F1EA/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948882/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3A3825F389CC4A7F5EF09879A1174EC6F179907F.680D270625B224AE0D95FBC4780104C015570BBB/key/cms1/cms_redirect/yes/met/1782927286,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782927085/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/image.jpg",
+          "path": "archive/latest/headlines/01-2649310-bahrain-seeks-emergency-un-security-council-meeting-after-iranian-atta/image.png",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/01/4727135-1714292535.png?itok=OdDq-kZZ",
+          "contentType": "image/png",
+          "bytes": 281673
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "Lebanon’s Aoun defends US-backed framework, says it preserves state authority and rights",
+        "url": "https://www.arabnews.com/node/2649269/middle-east",
+        "directory": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/metadata.json",
+          "content": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/content.md",
+          "text": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948901/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/687AE8B0D89E8AAE57B67037F549C26E6A4ABA07.3B079D842D859AE830042C10766329502EB2AA92/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948901/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/29E94F97A6C3ED7C2A79386868DD7783FF46F6DF.32577FC6021632F281B47D0AE25B3AE3D93CC033/key/cms1/cms_redirect/yes/met/1782927306,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782926934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/02-2649269-lebanon-s-aoun-defends-us-backed-framework-says-it-preserves-state-aut/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/01/4727045-2018422932.jpg?itok=RH-aS1F4",
           "contentType": "image/jpeg",
           "bytes": 49362
@@ -340,25 +367,25 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "Israel defense minister says troops to stay ‘indefinitely’ in Lebanon, Syria, Gaza",
         "url": "https://www.arabnews.com/node/2649244/middle-east",
-        "directory": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy",
+        "directory": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/metadata.json",
-          "content": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/content.md",
-          "text": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/metadata.json",
+          "content": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/content.md",
+          "text": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/image.jpg",
+          "image": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941142/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/92774067CD128D19AD1E431FDC06B1565A357233.973F9F5D36D2755E4C37CBFBB7469269A50FB51C/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941142/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0B8FCA3AB9AB26377994F5C0C8EC0EB7F177F21E.702C4B3205A429004A0023F651798D7C80287590/key/cms1/cms_redirect/yes/met/1782919547,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782919299/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948923/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/26944006AB9172566EDF8536541AA1B3A3D284DD.AEAC0E6B5FD2FE89313AC92B8C7081DE962964FF/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948923/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/77075089DCF3FE7E1B8AF537F58D4F04305DB2D0.0EDC23A7278D855A72452EB19B1BA6C9A4E870EB/key/cms1/cms_redirect/yes/met/1782927328,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782926934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/image.jpg",
+          "path": "archive/latest/headlines/03-2649244-israel-defense-minister-says-troops-to-stay-indefinitely-in-lebanon-sy/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/01/4726984-1720009674.jpg?itok=HcD-BGBn",
           "contentType": "image/jpeg",
           "bytes": 24359
@@ -367,55 +394,30 @@
       },
       {
         "group": "headlines",
-        "index": 2,
-        "title": "UNRWA warns of breaking point as funding crisis threatens mandate to help Palestine refugees",
-        "url": "https://www.arabnews.com/node/2649198/middle-east",
-        "directory": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/metadata.json",
-          "content": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/content.md",
-          "text": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941162/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/06E2DB27B044E58CDF6DA82A1C0C060915BAD0DA.036C3B629982953C62F878F0708F307BE4EE8CD3/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941162/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5AA239A6C736652BCAE91DBA9410EF57E15C9AF1.2E1B33966262239F7B161E1C5133BBC1931EE6A9/key/cms1/cms_redirect/yes/met/1782919566,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782919299/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/01/4726892-2022807674.jpeg?itok=NJXotdES",
-          "contentType": "image/jpeg",
-          "bytes": 48601
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
         "index": 3,
-        "title": "Saudi envoy calls for stronger global cooperation against terrorist misuse of AI",
-        "url": "https://www.arabnews.com/node/2649200/world",
-        "directory": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi",
+        "title": "US signs agreement to build permanent embassy in Jerusalem",
+        "url": "https://www.arabnews.com/node/2649275/middle-east",
+        "directory": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/metadata.json",
-          "content": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/content.md",
-          "text": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/metadata.json",
+          "content": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/content.md",
+          "text": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/image.jpg",
+          "image": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941183/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/789ADB0BF778589D66C972AF2ECF31D82E498739.4E8DA1FAD1E4FEEF72C497B9F71224B36C9A34A9/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782941183/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6C7ADD727C88AA42E6586ACB106D1AF63D172C4A.44E39B32B79F9EB3710C25FD3D1E87EA42CB2E07/key/cms1/cms_redirect/yes/met/1782919588,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782919299/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948944/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0BD3B97B201BD6EEE06F907CBA16C5AB6F678361.48F98C9C13AF8A9D34D4B2FD20B1E28008B1A289/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782948944/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4D940CB7BE5FE2B92F78868C5DFC82A19E6035CF.6566815D7F929CED2293BA3D6F8B9D8BC89B3FA9/key/cms1/cms_redirect/yes/met/1782927350,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782926934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://cdn.jwplayer.com/manifests/5OsW4U8V.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a45f995_58efd740acd800aa68589cdb74ea5df0be45912f/sites/wPTWN2YS/media/5OsW4U8V/versions/9WW9dVd7/manifest.ism/manifest-audio_0_glZheeiW_NQvBhPpL=112027-video_0_glZheeiW_Qlf0r2Nh=340268.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/01/4726897-433274349.jpg?itok=PtCfw0Vd",
+          "path": "archive/latest/headlines/04-2649275-us-signs-agreement-to-build-permanent-embassy-in-jerusalem/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/01/4727057-6131240.jpg?itok=84ussSx5",
           "contentType": "image/jpeg",
-          "bytes": 41097
+          "bytes": 26161
         },
         "video": null
       }

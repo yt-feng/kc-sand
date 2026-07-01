@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-01T05:08:06.786Z",
+  "fetchedAt": "2026-07-01T09:00:15.576Z",
   "targetDate": {
     "iso": "2026-07-01",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 161,
+    "itemCount": 156,
     "window": {
       "hours": 24,
-      "start": "2026-06-30T05:08:06.786Z",
-      "end": "2026-07-01T05:08:06.786Z",
+      "start": "2026-06-30T09:00:15.576Z",
+      "end": "2026-07-01T09:00:15.576Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -90,45 +90,45 @@
     "mode": "current-homepage-top-headlines",
     "items": [
       {
-        "title": "Qatar reaffirms mediation role in US-Iran talks after meeting with Witkoff",
-        "url": "https://www.arabnews.com/node/2649195/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/01/4726885-1144632815.jpg?itok=YScG5A_X",
+        "title": "Iran’s Parliament Speaker Mohammad Bagher Ghalibaf. (AP file photo)",
+        "url": "https://www.arabnews.com/node/2649186/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726887-94954985.jpg?itok=2y8NaNfL",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 0,
         "archive": {
-          "directory": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit",
+          "directory": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/metadata.json",
-            "content": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/content.md",
-            "text": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/page-text.txt",
+            "metadata": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/metadata.json",
+            "content": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/content.md",
+            "text": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/image.jpg",
+            "image": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "UN aid chief warns El-Obeid risks becoming ‘another El-Fasher’ as drone strikes escalate in Sudan",
-        "url": "https://www.arabnews.com/node/2649179/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726844-1437238479.jpg?itok=5stl4vEv",
+        "title": "Analysis: Could the Lebanon-Israel framework agreement open the door to stability?",
+        "url": "https://www.arabnews.com/node/2649176/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/06/30/4726829-2120658765.jpg?itok=CJqssAov",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-",
+          "directory": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/metadata.json",
-            "content": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/content.md",
-            "text": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/metadata.json",
+            "content": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/content.md",
+            "text": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/image.jpg",
+            "image": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/image.jpg",
             "video": null
           }
         }
@@ -141,7 +141,7 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 5,
+        "order": 4,
         "archive": {
           "directory": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h",
           "status": "ok",
@@ -163,7 +163,7 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 8,
+        "order": 7,
         "archive": {
           "directory": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi",
           "status": "ok",
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-01T05:13:55.304Z",
+    "capturedAt": "2026-07-01T09:06:06.832Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-01",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-01/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904284/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1BBE600EF32097CC99A018DEED9AF579AC1B9E74.523DBBF5EC305BC49B62274B12A006D5EBBDD459/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904284/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/62DF902C1683DA77013104ABA56BF067FCF5F7CB.194805442B1F930557CA270E2F5DEF857C75B9F1/key/cms1/cms_redirect/yes/met/1782882692,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782882010/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918216/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B2DE45CDAEEB0B5AB659258ED01B0C6ABBB5700A.FDACCEB7639ED6A8024FE3C35DD656C47CBAC5/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918216/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/19D87A543C651B8A9356B50224BAE546C726258E.557668D8D07B7C8BF1788647D87B57B80D5F4B99/key/cms1/cms_redirect/yes/met/1782896623,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782896089/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a454ce3_270d49bec0747a98a9ea9b2562059fd9ed81e4e2/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a454ce3_270d49bec0747a98a9ea9b2562059fd9ed81e4e2/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a45819f_9734ea83990f8df5e836fa549717fb455115ab9b/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a45819f_9734ea83990f8df5e836fa549717fb455115ab9b/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-01/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904284/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1BBE600EF32097CC99A018DEED9AF579AC1B9E74.523DBBF5EC305BC49B62274B12A006D5EBBDD459/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918216/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B2DE45CDAEEB0B5AB659258ED01B0C6ABBB5700A.FDACCEB7639ED6A8024FE3C35DD656C47CBAC5/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-01/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904314/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A09D686BDD9FB2D815BAEDF2BE9E276CF85FD3FF.61E7975698B1DB2D9F1C7B2D0CBA81F1D1555095/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904314/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2208040EFA4678FE639F98B63DCC62D728D7F6EB.8401D71787318ABD59B483E92DB39E1285A6B112/key/cms1/cms_redirect/yes/met/1782882722,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782882010/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918242/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/50E69259887CDB1DF8F87D44F1002488A7A47A6D.49C0D5A43509DDA33665AAD4D5912C86D25E58B4/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918242/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5E763AF054048E8B6782B539365014F11C699855.4B7F116DC5AB933DA66B43FFE28DE36D05BC7E68/key/cms1/cms_redirect/yes/met/1782896650,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782896391/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a454c3b_8c821be6c14089664d088ce7cff561d49b71c3ed/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4580f7_c60f90db3d0884b06a7a10b59a289298ea94bedd/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-01/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904314/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A09D686BDD9FB2D815BAEDF2BE9E276CF85FD3FF.61E7975698B1DB2D9F1C7B2D0CBA81F1D1555095/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918242/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/50E69259887CDB1DF8F87D44F1002488A7A47A6D.49C0D5A43509DDA33665AAD4D5912C86D25E58B4/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-01/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904336/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4F8CB1BC8D75DDF4D6B2B5E10C53798A50AADBB4.850A9C11614DAF08A4E51F49BB8770B7B67BE7DA/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904336/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7716D5B6935D2CF18A3E5BA88F12EFFF485263F5.0B2DAEBC0E7FDB44DB037E73C3C10D7C5CF98DE0/key/cms1/cms_redirect/yes/met/1782882744,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782882010/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918267/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/871C3F884E624F570D9D559ADAFB0ED1B36201A8.3186F7509D613AD92CA1D94815FF61033D2EFC0E/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918267/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/60DEFDC5A281C66081ADCE7EE4E7A25AC1709457.2A3CEBDAE8EDF614D7B37B74C74AD64ABE4BF089/key/cms1/cms_redirect/yes/met/1782896673,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782896391/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a454afa_4867a7a2cb56b1369cb62d7ffab31ad12c37c4ba/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a45833a_14cda4ae780030db754dfedc590f5ab80a008b0b/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-01/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904336/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4F8CB1BC8D75DDF4D6B2B5E10C53798A50AADBB4.850A9C11614DAF08A4E51F49BB8770B7B67BE7DA/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918267/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/871C3F884E624F570D9D559ADAFB0ED1B36201A8.3186F7509D613AD92CA1D94815FF61033D2EFC0E/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -314,54 +314,58 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Qatar reaffirms mediation role in US-Iran talks after meeting with Witkoff",
-        "url": "https://www.arabnews.com/node/2649195/middle-east",
-        "directory": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit",
+        "title": "Iran’s Parliament Speaker Mohammad Bagher Ghalibaf. (AP file photo)",
+        "url": "https://www.arabnews.com/node/2649186/middle-east",
+        "directory": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/metadata.json",
-          "content": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/content.md",
-          "text": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/metadata.json",
+          "content": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/content.md",
+          "text": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/image.jpg",
+          "image": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904359/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/92606445271AACCDCB55CBE72768A4703BDF585F.2D933C9EB0D04D161E11EBD87376C8E6A157800F/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904359/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1382155750895C79298703BB009F1161438E9033.67AB63A1B57CC01613E182BF9BA5E1351F526668/key/cms1/cms_redirect/yes/met/1782882765,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782882010/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918290/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7E78DC75C77F68DB871867E6B220667649F54177.93431EF3A1F58AE6E84C201AC984FECA599C00DB/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918290/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6C8077B902DCEA050DD26A40D75FA3ED26E015C1.6E38991BAEA8A6000F3D32917512CBCC31ACB6B8/key/cms1/cms_redirect/yes/met/1782896696,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782896391/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://cdn.jwplayer.com/manifests/8N3Lv225.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a458205_111d43288757809416b5d2a3c4968205d7114efa/sites/wPTWN2YS/media/8N3Lv225/versions/IcG4FNS8/manifest.ism/manifest-audio_0_zHgtgvhP_jFF5d8a7=112014-video_0_zHgtgvhP_nOk9oeQd=274877.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/01/4726885-1144632815.jpg?itok=J1pm25u0",
+          "path": "archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726887-94954985.jpg?itok=R83AY0jf",
           "contentType": "image/jpeg",
-          "bytes": 20543
+          "bytes": 27811
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "UN aid chief warns El-Obeid risks becoming ‘another El-Fasher’ as drone strikes escalate in Sudan",
-        "url": "https://www.arabnews.com/node/2649179/middle-east",
-        "directory": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-",
+        "title": "Analysis: Could the Lebanon-Israel framework agreement open the door to stability?",
+        "url": "https://www.arabnews.com/node/2649176/middle-east",
+        "directory": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/metadata.json",
-          "content": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/content.md",
-          "text": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/metadata.json",
+          "content": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/content.md",
+          "text": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/image.jpg",
+          "image": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904379/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AB5736291FDF50A968F2AA4043CA40CAB6285B47.0D35573E61395DA3DFB45327985F78E08E5989A9/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904379/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/77F75B148B1186A0F7878DCA845E392A4DD884F0.1ECF43E4D6BFD94F13D0237CA89D5DB0FCDD3CAE/key/cms1/cms_redirect/yes/met/1782882783,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782882010/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918310/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/995704CB7B3EFA20163F3B4F939A1E430F29AE64.23BAE7C771B8A746C17E63B0BEEBF11BF75E9533/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918310/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/102B89C497C411B69472984E6BAA17F4648997C4.595565EDEC2DD249D7046446C56F83277F03BECD/key/cms1/cms_redirect/yes/met/1782896715,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782896391/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918311/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B8694B9AC762C6515D0AB2E113306238339A6C4B.392AC6C4E589F1355DC04D5F7B83F17A4F597AE9/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918311/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7CDE47431FA14EC4947F7C64407F8C5B2FA39A6D.6DAAF4434BA48EC192718207681C857DFAB4F93D/key/cms1/cms_redirect/yes/met/1782896716,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782896391/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726844-1437238479.jpg?itok=nSLLN-E3",
+          "path": "archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/30/4726829-2120658765.jpg?itok=IdMnuQU9",
           "contentType": "image/jpeg",
-          "bytes": 52856
+          "bytes": 61964
         },
         "video": null
       },
@@ -381,8 +385,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904399/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/332F859874953D5101C7C7F1346148C78226315E.10C71BF9FEAF882FE7FB9CDA61251B6A12AC93A4/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904399/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/786475C708066DE4D98819FAB4ABA09E722E72CC.45344E0F9618FFCBAF718AF30789DE16FD576BDE/key/cms1/cms_redirect/yes/met/1782882804,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782882010/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918331/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/28E3EC10E6919D4F842AB537A0780CB938333A1E.3656E28B45B8FCF58154F3BBA1BCC7D52B498F8D/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918331/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1EDB4429D82BC2A5F0C9C3668F9D1C0AE833FD68.1BEF390C27786E5FDDB9376459E08F7F6E0C73A0/key/cms1/cms_redirect/yes/met/1782896735,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782896391/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/image.jpg",
@@ -408,8 +412,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904420/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/41197359DC3F2D9E0C5A30C80455AAD0E91FE4.619F32A829240986BB076C61D9BC3521470657DF/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782904420/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/537BCDB5D5C32F527CF6CE65F954AB792538E1B1.4E42E26E95255474EA9ED8BA65BFDB838A834C02/key/cms1/cms_redirect/yes/met/1782882825,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782882010/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918351/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/35B77CDA5429E15330EF3C553140F24909E029E0.8DFDF696FB718012E1465F70700399A8B0867576/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1782918351/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5BFE44EA7B7F4D20E5D42C0F981039923024ADF7.5F4195FE1379F1B1AA55C055126F68F9EB72C4E1/key/cms1/cms_redirect/yes/met/1782896756,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1782896391/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/image.jpg",

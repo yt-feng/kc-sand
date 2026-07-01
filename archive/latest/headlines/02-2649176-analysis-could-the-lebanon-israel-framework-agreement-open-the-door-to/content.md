@@ -1,0 +1,168 @@
+# Analysis: Could the Lebanon-Israel framework agreement open the door to stability?
+
+Source: https://www.arabnews.com/node/2649176/middle-east
+Captured source: https://www.arabnews.com/node/2649176/middle-east
+Published: 2026-06-30T22:30:48+03:00
+Modified: 2026-06-30T23:11:15+03:00
+Author: NAJIA HOUSSARI
+
+## Summary
+
+BEIRUT: Lebanon is moving along two parallel tracks following the framework agreement it signed with Israel under US sponsorship on June 26, with the stated aim of ending decades of hostility between the two countries. The Lebanese government is pressing ahead with the course set during the fifth round of US-mediated negotiations with Israel, hoping the talks will pave the way
+
+## Image
+
+![main image](./image.jpg)
+
+## Video Or Embed URLs
+
+- https://1733afea507fb369eb147856c8f7b2be.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649176%2Fmiddle-east
+
+## Text
+
+https://arab.news/m54fr
+
+Lebanon’s leaders see a pathway to sovereignty, while Hezbollah insists only Iran can secure an Israeli withdrawal
+
+Critics warn the US-backed deal could entrench divisions even as supporters hail a chance to end decades of conflict
+
+BEIRUT: Lebanon is moving along two parallel tracks following the framework agreement it signed with Israel under US sponsorship on June 26, with the stated aim of ending decades of hostility between the two countries.
+
+The Lebanese government is pressing ahead with the course set during the fifth round of US-mediated negotiations with Israel, hoping the talks will pave the way for ending Israel’s occupation of the remaining Lebanese territory under its control.
+
+Hezbollah, however, is pursuing a different approach. The group insisted that Iran should remain its sole negotiating party in efforts to secure an Israeli withdrawal within the 60-day deadline outlined in the US-Iran memorandum of understanding reached on June 18.
+
+In that agreement, both sides, along with what was described as “their allies in the current war,” committed to “the immediate and permanent cessation of military operations on all fronts, including Lebanon,” while guaranteeing Lebanon’s sovereignty and territorial integrity.
+
+Whether either path will ultimately lead Lebanon toward stability remains uncertain, observers said.
+
+The publication of the framework agreement and its security annex — despite Beirut’s efforts to keep both confidential — sparked a wave of criticism across Lebanon. Opponents warned that the deal could deepen internal divisions and even risk renewed civil war.
+
+Hezbollah responded with a fierce political campaign targeting President Joseph Aoun and Prime Minister Nawaf Salam, accusing the government of overstepping by engaging in direct negotiations with Israel and criticizing the concessions resulting from those talks.
+
+At the heart of the domestic dispute lies Lebanon’s relationship with Iran.
+
+The divide has become one of the main factors behind the government’s decision to negotiate directly with Israel and accept a framework under which Hezbollah’s disarmament is tied to an Israeli withdrawal from southern Lebanon.
+
+“There is no direct line of communication between Iran and Israel. Israel is Lebanon’s neighbor, so it is Lebanon — not Iran — that negotiates with Israel,” an official Lebanese source told Arab News.
+
+The source reiterated that the framework agreement “is not a peace treaty. It is a mechanism to end the state of hostility. It is only the first step in what will be a long process.”
+
+Under the framework agreement, ending the conflict and securing Israel’s withdrawal from occupied Lebanese territory would require security arrangements centered on Hezbollah’s disarmament, not only in southern Lebanon but across the country.
+
+The arrangements, the US State Department said, would be implemented by the Lebanese government, overseen by the US and verified by Israel.
+
+Following the signing in Washington, Maj. Gen. Joseph Clearfield, head of the Military Coordination Group for Lebanon, and Admiral Brad Cooper, commander of US Central Command, arrived in Beirut on Monday, marking the official start of the agreement’s implementation phase.
+
+Talks focused on the practical mechanisms needed to put the agreement into effect, beginning with the establishment of pilot zones, as well as coordination procedures between the Lebanese and Israeli armies.
+
+According to the US Embassy in Beirut, the two officials met President Aoun and Army Commander Gen. Rodolphe Haykal to discuss the next steps and the formal launch of the framework agreement’s implementation.
+
+The embassy said the agreement provides “a realistic path out of the current conflict and establishes a clear and structured process to restore Lebanon’s sovereignty and disarm Hezbollah.”
+
+The Beirut visit followed meetings in Israel, where, according to Israeli media reports, the US officials discussed Iran and the impact of the framework agreement on Lebanon.
+
+The talks also reportedly covered Israel’s rules of engagement in response to Hezbollah ceasefire violations and the conditions under which the Lebanese Army would take control of areas currently held by Israeli forces, allowing for a phased Israeli withdrawal.
+
+The framework agreement was reached against the backdrop of the war launched by the US and Israel against Iran on Feb. 28. Hezbollah unilaterally entered the war on March 2.
+
+In response, the Lebanese government reiterated its rejection of “any military action launched from Lebanese territory,” stressing that decisions on war and peace fall exclusively within the authority of the state.
+
+The Cabinet also approved a resolution imposing an immediate ban on Hezbollah’s military and security activities.
+
+To prevent Iran from linking the two negotiating tracks, Israel accepted President Aoun’s proposal presented on March 9 calling for a comprehensive ceasefire, Israel’s withdrawal from the occupied Lebanese territories, and the resolution of the weapons issue.
+
+In return, the two parties would enter direct negotiations to end the state of conflict between them.
+
+The 14-article framework agreement goes further in its content than any previous agreement between Lebanon and Israel, including the 1949 Armistice Agreement, the May 17, 1983 Agreement, UN Security Council Resolution 1701, adopted after the July 2006 war, and even the November 2024 agreement that followed the 66-day war between Hezbollah and Israel, according to an analysis by the Arab Center for Research and Policy Studies.
+
+“The Lebanese government agreed, under the framework agreement, to the continuation of the Israeli occupation unless Hezbollah is completely disarmed,” the center’s analysis said.
+
+“Under the agreement, the acquiesced state’s official demand for an Israeli withdrawal has been replaced by a commitment to disarm Hezbollah as a precondition for Israel’s withdrawal, a condition the state is incapable of fulfilling.”
+
+However, Hezbollah insisted that the pressure exerted by Iran on the US, by closing the Strait of Hormuz, is what forced Israel to agree to a ceasefire in Lebanon, not the government’s direct negotiations with Israel.
+
+The party said that “only resistance (Hezbollah) and coordination with Iran can compel Israel to withdraw from the occupied Lebanese territories.”
+
+Therefore, Hezbollah said it preferred an approach based on a regional settlement, and taking advantage of any international or regional move that puts pressure on Israel, instead of engaging in a direct negotiation track, in which Lebanon does not have many cards to play.
+
+Hezbollah MP Hassan Ezzeddine argued that under Article 52 of the Lebanese constitution, the president is entitled to negotiate with states with which Lebanon maintains diplomatic relations, “not with the occupying Zionist entity.”
+
+Any agreement or treaty, he said, requires the approval of the Cabinet and then of Parliament.
+
+“Negotiating with the enemy — under the constitution and the laws stipulating that anyone who establishes a relationship, communicates with, negotiates with, or strengthens the enemy at the expense of Lebanon’s interests is in breach of the law — exposes that person to accountability and to the provisions of the law and its penalties.”
+
+Muhyiddin Al-Shahymi, professor of law and foreign policy at the Paris School of Business and Graduate Studies, told Arab News that the statements against the president and the prime minister “are nothing but continuous political campaigns, both before reaching the framework agreement and after it, because the party’s entity is severed from the Lebanese national entity.”
+
+Al-Shahymi described the framework agreement as “less than an agreement and less than a contract.”
+
+“It is a memorandum to ensure the continuity of the negotiating track and the durability of the steps both parties committed to under American mediation, and to keep the concept of the armistice from collapsing,” Al-Shahymi told Arab News.
+
+Despite all the agreement’s fragility, he said it is the only path to achieving Lebanon’s objectives, to the state holding its own decision-making, and to liberating Lebanese geography from the “Israeli occupation.”
+
+“The rest comes once these two points succeed: the return of the displaced and reconstruction. For all its weaknesses, this agreement is the only gateway,” he added.
+
+“Is the alternative to continue fighting unequal battles, expand the occupation, and turn Lebanon into a bargaining chip in Hezbollah’s hands to serve Iranian interests?”
+
+On Hezbollah’s claim that the negotiations are unconstitutional and that the framework agreement requires parliamentary approval — an angle the party hopes to use to overturn it — Al-Shahymi said the Lebanese constitution did not designate the enemy state, leaving that open to practical circumstances and to procedural conditions that change.
+
+Lebanese laws, since 1948, have prohibited dealing with Israel — specifically individual dealings of any kind, but, Al-Shahymi said, that does not apply at the constitutional and state level.
+
+“The matter falls within the powers of the president and the Cabinet, with the affirmation that it is the government that holds the decision of war and peace,” Al-Shahymi said.
+
+He stressed that the framework agreement “is not a final instrument.” Rather, he described it as “a connecting link between two phases” — one stage along what he called the long legal road toward a final agreement struck within the Arab Peace Initiative.
+
+The State Shura Council has previously affirmed that non-final memoranda — those that fall short of a treaty and create no financial obligations — are not put before Parliament. They remain the prerogative of the executive, which is the empowered authority, not the legislature.
+
+This, Al-Shahymi insisted, is not the May 17 Agreement, which was a final accord and was duly submitted to Parliament at the time.
+
+Druze leader Walid Jumblatt took to social media to criticize the agreement for an omission: it makes “no mention of the Armistice Agreement, the very foundation of relations between the Lebanese state and Israel.”
+
+That agreement, he said, “was an integral part of the Taif Accord, written into the presidential oath, and reaffirmed in the ministerial statement.”
+
+Al-Shahymi agreed that the framework “sidestepped” the international cover by failing to mention either the Armistice Agreement or Resolution 245 on Israel’s withdrawal from Lebanese territory.
+
+However, he said that in exchange, the framework agreement stated that Israel has no designs on Lebanon — and the framework is, after all, one step on the road to implementing all the international resolutions.
+
+Israeli media, meanwhile, reported that the agreement’s security annex “allows the Israeli army to re-enter the designated sites to verify for itself that they have been cleared of weapons.”
+
+The deal also recasts Washington’s role. Under its terms, the US moves from sponsor to the central authority governing implementation, helping to verify disarmament, lead the military coordination group, oversee the channels of financial and military support, and linking economic aid to its own reading of how far implementation has progressed.
+
+The security annex stipulated that Lebanon and Israel shall establish the Lebanon-specific Military Coordination Group, operating around the clock to manage de-confliction, carry out verification, and supervise overall implementation.
+
+The group reports to the relevant political authorities on both sides through indirect military channels, with verification proceeding in parallel with the clearing of weapons.
+
+The Lebanese official was quick to rule out any American boots on the ground. “There would be no US forces stationed in Lebanon to police the security component,” the source said.
+
+Instead, the matter is entrusted to a committee that liaises with both the Israeli and Lebanese sides. In practice, the source said, the Israeli Army would notify the committee of a withdrawal from a given area, which then notifies the Lebanese side to move in. The two armies will never be present in the same area at once.
+
+A diplomatic source, one who backs the Lebanese-Israeli negotiations and supports the state’s claim to be the sole party authorized to negotiate, nonetheless accused the framework of having “abandoned international legitimacy.”
+
+The diplomatic source told Arab News: “A careful reading of the text points to a legal foundation, but one stripped of principle.”
+
+The agreement, the source argued, allows every step to be hitched to Israeli conditions, and lays the burden of the continued occupation squarely on Hezbollah, making the party’s refusal to surrender its weapons the very pretext for Israel’s continued hold on Lebanese land.
+
+Sovereignty, under this logic, is made conditional on a long list of obligations: disarming all armed groups, dismantling their military infrastructure, sealing the borders, choking off financing, overhauling the security apparatus, setting up monitoring mechanisms, and tying economic aid to the delivery of each.
+
+The effect, the source warned, is to hand Israel “the right to freeze implementation whenever it judges that Lebanon has not met its obligations,” and to “legitimize the occupation’s survival” until Lebanon satisfies the one condition for ending it — the disarmament of Hezbollah.
+
+For all the sharpness of the rhetoric, the reaction stopped short of mobilization. Neither Hezbollah nor its allies called supporters into the streets, and the Lebanese Army moved to disperse what were described as spontaneous gatherings of the party’s backers.
+
+Still, some of Hezbollah’s parliamentary and political voices hinted at the possibility of internal strife, even as they cast themselves as warning against it.
+
+Hezbollah MP Ezzeddine said the party, together with its ally the Amal Movement, would first assess the new political landscape before deciding on its next steps.
+
+“From that assessment, we will determine the mechanisms required and the paths open to us,” he said.
+
+Ezzeddine also warned political opponents against assuming the Washington framework had weakened Hezbollah or altered the regional balance of power.
+
+On the options left for Hezbollah, the Lebanese official said: “More killing and destruction, through an open-ended war of attrition waged against a devastating Israeli edge in technology and airpower.
+
+“More economic collapse, as the means of daily life are eroded entirely. The continued displacement of hundreds of thousands. And the reduction of an entire society to a relief case, dependent on foreign aid.”
+
+The source predicted that criticism of the agreement would fade once withdrawals began. “The moment the Israeli pullbacks start, the volume of criticism will drop,” he said. “Because the priority will become getting people back to their villages and starting reconstruction.”

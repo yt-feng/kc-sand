@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-01T05:08:06.786Z
+Fetched at: 2026-07-01T09:00:15.576Z
 Target date: 2026-07-01 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-01 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Qatar reaffirms mediation role in US-Iran talks after meeting with Witkoff](https://www.arabnews.com/node/2649195/middle-east) - archive: archive/latest/headlines/01-2649195-qatar-reaffirms-mediation-role-in-us-iran-talks-after-meeting-with-wit/content.md
-2. [UN aid chief warns El-Obeid risks becoming ‘another El-Fasher’ as drone strikes escalate in Sudan](https://www.arabnews.com/node/2649179/middle-east) - archive: archive/latest/headlines/02-2649179-un-aid-chief-warns-el-obeid-risks-becoming-another-el-fasher-as-drone-/content.md
+1. [Iran’s Parliament Speaker Mohammad Bagher Ghalibaf. (AP file photo)](https://www.arabnews.com/node/2649186/middle-east) - archive: archive/latest/headlines/01-2649186-iran-s-parliament-speaker-mohammad-bagher-ghalibaf-ap-file-photo/content.md
+2. [Analysis: Could the Lebanon-Israel framework agreement open the door to stability?](https://www.arabnews.com/node/2649176/middle-east) - archive: archive/latest/headlines/02-2649176-analysis-could-the-lebanon-israel-framework-agreement-open-the-door-to/content.md
 3. [UNRWA warns of breaking point as funding crisis threatens mandate to help Palestine refugees](https://www.arabnews.com/node/2649198/middle-east) - archive: archive/latest/headlines/03-2649198-unrwa-warns-of-breaking-point-as-funding-crisis-threatens-mandate-to-h/content.md
 4. [Saudi envoy calls for stronger global cooperation against terrorist misuse of AI](https://www.arabnews.com/node/2649200/world) - archive: archive/latest/headlines/04-2649200-saudi-envoy-calls-for-stronger-global-cooperation-against-terrorist-mi/content.md

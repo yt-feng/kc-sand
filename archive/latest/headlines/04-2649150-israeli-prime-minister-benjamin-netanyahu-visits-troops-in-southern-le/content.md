@@ -16,12 +16,12 @@ JERUSALEM: Israeli Prime Minister Benjamin Netanyahu visited troops in southern 
 
 ## Video Or Embed URLs
 
-- https://2a5c7d417a5cffa0516e458f09ebd8ce.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b2891f6dc432dcd7b1b554ac37b2811a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649150%2Fmiddle-east
 
 ## Text

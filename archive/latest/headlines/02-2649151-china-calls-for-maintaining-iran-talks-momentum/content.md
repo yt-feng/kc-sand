@@ -16,7 +16,7 @@ BEIJING: China’s Foreign Minister Wang Yi on Tuesday called for maintaining th
 
 ## Video Or Embed URLs
 
-- https://e59352ae14c7a71c0b76c25a14ad10ad.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://8132004842a27c58b806a9c6aae48306.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

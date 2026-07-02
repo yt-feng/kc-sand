@@ -16,11 +16,11 @@ TEHRAN: Iranian Deputy Foreign Minister Kazem Gharibabadi said Wednesday that Te
 
 ## Video Or Embed URLs
 
-- https://9740a2d82d7b1422357617d9fcafee0f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://bb9700d97e93d3e701644d7e5d5add4e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649341%2Fmiddle-east
 

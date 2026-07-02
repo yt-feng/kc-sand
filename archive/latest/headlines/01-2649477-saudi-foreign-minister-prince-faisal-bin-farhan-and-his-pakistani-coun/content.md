@@ -16,7 +16,7 @@ RIYADH: Saudi Foreign Minister Prince Faisal bin Farhan and his Pakistani counte
 
 ## Video Or Embed URLs
 
-- https://a803d8079bc742ebeebb595526905d6b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://52bef193a71aeea1a5d58e387c9b3bd0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

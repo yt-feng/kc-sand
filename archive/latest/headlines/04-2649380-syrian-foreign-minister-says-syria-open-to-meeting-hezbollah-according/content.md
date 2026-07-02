@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2649380/middle-east
 Captured source: https://www.arabnews.com/node/2649380/middle-east
 Published: 2026-07-02T12:42:26+03:00
-Modified: 2026-07-02T12:48:52+03:00
+Modified: 2026-07-02T15:14:01+03:00
 Author: Reuters
 
 ## Summary
@@ -16,9 +16,9 @@ BEIRUT: Syria’s foreign ​minister said during a visit to Beirut on Thursday 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/8241e8f4-f41e-4dbe-87ab-f151107ad59a
+- blob:https://www.arabnews.com/80a4e00d-8372-4b1f-befc-74611bb5e9a6
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://5e6f887c8712b10b42d0c27f7050cfcf.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://883f42e261a195208c16be5b96d2c303.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
@@ -64,3 +64,9 @@ Trump’s special envoy to Syria, Tom Barrack, dismissed the report of the US en
 Syria long dominated Lebanon under the Assad family, sending in forces in 1976 during the 1975-90 civil war and controlling Lebanon’s post-war politics ​until its withdrawal in 2005.
 
 Any Syrian ​intervention could fuel sectarian tensions in both Syria and Lebanon, home to a mosaic of sects including Sunni Muslims, Shiite Muslims, Christians and Druze.
+
+Lebanese President committed to establishing fraternal relations
+
+After a meeting with the Syrian foreign minister, Aoun said he is keen on both countries' stability and is reassured by the coordination between Beirut and Damascus, especially in the areas of border control and preventing the smuggling of persons and weapons.
+
+The president also said Al Sharaa assured him multiple times that Syria's role “will not be like its role in the past” and that a “new page has been opened” dispeling rumors about Syria's involvement in fighting Hezbollah. Aoun added it is not in Lebanon's interest in this critical phase is not to squander American support for reaching a solution as per the framework formula, in addition to the positions of the European Union and supportive Gulf states as he stated the country will not cede “a single inch” of territory to Israel.

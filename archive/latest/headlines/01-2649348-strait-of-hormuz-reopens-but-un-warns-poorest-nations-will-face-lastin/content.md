@@ -16,11 +16,11 @@ NEW YORK CITY: The reopening of the Strait of Hormuz after more than 100 days of
 
 ## Video Or Embed URLs
 
-- https://0bd1c41bcf67c3ebb824e2dfe915f0d0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c1c6a6305c74881750a9209773384a0d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://imasdk.googleapis.com/js/core/bridge3.775.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649348%2Fmiddle-east
 
 ## Text

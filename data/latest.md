@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-02T15:53:11.129Z
+Fetched at: 2026-07-02T17:56:54.708Z
 Target date: 2026-07-02 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-07-02 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Iran warns US, Israel against attacks ahead of funeral processions for Khamenei](https://www.arabnews.com/node/2649382/middle-east) - archive: archive/latest/headlines/01-2649382-iran-warns-us-israel-against-attacks-ahead-of-funeral-processions-for-/content.md
-2. [Syria, Lebanon form joint ministerial committee on security, economy](https://www.arabnews.com/node/2649424/middle-east) - archive: archive/latest/headlines/02-2649424-syria-lebanon-form-joint-ministerial-committee-on-security-economy/content.md
+2. [Lebanese president says will not yield ‘a single inch’ of territory to Israel](https://www.arabnews.com/node/2649443/middle-east) - archive: archive/latest/headlines/02-2649443-lebanese-president-says-will-not-yield-a-single-inch-of-territory-to-i/content.md
 3. [Syrian foreign minister says Syria open to meeting Hezbollah, according to media reports](https://www.arabnews.com/node/2649380/middle-east) - archive: archive/latest/headlines/03-2649380-syrian-foreign-minister-says-syria-open-to-meeting-hezbollah-according/content.md
-4. [‘Positive progress’ in US-Iran indirect talks in Doha: Qatar spokesman](https://www.arabnews.com/node/2649361/middle-east) - archive: archive/latest/headlines/04-2649361-positive-progress-in-us-iran-indirect-talks-in-doha-qatar-spokesman/content.md
+4. [Bahrain’s king, US commander discuss military cooperation](https://www.arabnews.com/node/2649437/middle-east) - archive: archive/latest/headlines/04-2649437-bahrain-s-king-us-commander-discuss-military-cooperation/content.md

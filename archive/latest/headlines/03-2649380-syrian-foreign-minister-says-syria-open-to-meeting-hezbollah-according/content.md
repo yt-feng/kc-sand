@@ -16,9 +16,9 @@ BEIRUT: Syria’s foreign ​minister said during a visit to Beirut on Thursday 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/9f8a73b8-8072-45ca-9fab-efb6aed058a3
+- blob:https://www.arabnews.com/34d2a641-4720-4638-ab98-1e47bf322e37
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://9dade6018c73c67bf1c69e8ed6b2c0a9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://148957fa46a8993aa3d3286545e4ab69.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html

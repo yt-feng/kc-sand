@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2649382/middle-east
 Captured source: https://www.arabnews.com/node/2649382/middle-east
 Published: 2026-07-02T13:42:23+03:00
-Modified: 2026-07-02T14:01:54+03:00
+Modified: 2026-07-02T21:04:17+03:00
 Author: Reuters
 
 ## Summary
@@ -16,10 +16,12 @@ DUBAI: An ‌Iranian military commander warned the United States and Israel on T
 
 ## Video Or Embed URLs
 
-- https://1540369b2c50cf23ce71a64c42ce1437.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/6178224b-78db-43e8-9a77-4e8a084a57e7
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://a271e575bf31d1238948118e8800c284.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649382%2Fmiddle-east
 

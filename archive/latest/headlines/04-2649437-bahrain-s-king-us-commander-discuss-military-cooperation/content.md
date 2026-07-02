@@ -16,11 +16,11 @@ LONDON: King Hamad bin Isa Al-Khalifa of Bahrain received in Manama Adm. Charles
 
 ## Video Or Embed URLs
 
-- https://93236dd62ee0c779a6e9a902dd7c8d1b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://9d0a1b3aa1a4c249d7d10656b9a1760b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649437%2Fmiddle-east
 

@@ -17,11 +17,11 @@ DOHA: US and Iran negotiators made “positive progress” during indirect talks
 ## Video Or Embed URLs
 
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://46eec4fcaf149622c52e70b7426068e3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://6362fd300daadc09f1ba04407e410765.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
+- https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649361%2Fmiddle-east
 
 ## Text

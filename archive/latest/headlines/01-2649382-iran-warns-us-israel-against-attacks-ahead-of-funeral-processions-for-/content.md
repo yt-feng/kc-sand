@@ -16,7 +16,7 @@ DUBAI: An ‌Iranian military commander warned the United States and Israel on T
 
 ## Video Or Embed URLs
 
-- https://9bf34b88f05d56c0075816b643060dbf.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://8a393c5f6779a6fcb17ed2bec992bf68.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

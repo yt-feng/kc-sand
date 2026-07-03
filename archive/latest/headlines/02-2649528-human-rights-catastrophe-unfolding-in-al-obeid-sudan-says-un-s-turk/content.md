@@ -16,7 +16,7 @@ GENEVA: The United Nations human rights chief on Friday said another human right
 
 ## Video Or Embed URLs
 
-- https://2fce1c64fb1d208acd80f7f5ed3dec2c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://e38957ddaa1c0993c88d6dfeb6a94968.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

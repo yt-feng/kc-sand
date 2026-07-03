@@ -16,7 +16,7 @@ VANCOUVER: Switzerland moved into the last 16 of the World Cup with a controlled
 
 ## Video Or Embed URLs
 
-- https://e0260cac1693ed3cd65b6f8e445df013.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f336b17786f1aa3ee202cf698aa28520.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

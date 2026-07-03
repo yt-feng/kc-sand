@@ -16,12 +16,12 @@ RIYADH: Saudi Arabia on Friday condemned and denounced the bombing of a cafe in 
 
 ## Video Or Embed URLs
 
-- https://d8152f76f55172daef5fc256cb986a6a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://86014eba89d96ac22fa4ebae022d3013.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot
-- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649547%2Fsaudi-arabia
 
 ## Text

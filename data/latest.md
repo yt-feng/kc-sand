@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-03T17:39:35.872Z
+Fetched at: 2026-07-03T19:38:59.130Z
 Target date: 2026-07-03 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-03 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Powerful general in Iran emerges from hiding as Tehran prepares for Khamenei’s dayslong funeral](https://www.arabnews.com/node/2649510/middle-east) - archive: archive/latest/headlines/01-2649510-powerful-general-in-iran-emerges-from-hiding-as-tehran-prepares-for-kh/content.md
-2. [Israel military says struck Hezbollah positions in south Lebanon](https://www.arabnews.com/node/2649556/middle-east) - archive: archive/latest/headlines/02-2649556-israel-military-says-struck-hezbollah-positions-in-south-lebanon/content.md
-3. [Human rights catastrophe unfolding in Sudan’s Al-Obeid, says UN’s Turk](https://www.arabnews.com/node/2649528/middle-east) - archive: archive/latest/headlines/03-2649528-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un-s-turk/content.md
-4. [Saudi Arabia condemns bombing at Damascus cafe](https://www.arabnews.com/node/2649547/saudi-arabia) - archive: archive/latest/headlines/04-2649547-saudi-arabia-condemns-bombing-at-damascus-cafe/content.md
+1. [Iran’s slain leader Khamenei laid in state in Tehran for week of mass funeral events](https://www.arabnews.com/node/2649502/middle-east) - archive: archive/latest/headlines/01-2649502-iran-s-slain-leader-khamenei-laid-in-state-in-tehran-for-week-of-mass-/content.md
+2. [Powerful general in Iran emerges from hiding as Tehran prepares for Khamenei’s dayslong funeral](https://www.arabnews.com/node/2649510/middle-east) - archive: archive/latest/headlines/02-2649510-powerful-general-in-iran-emerges-from-hiding-as-tehran-prepares-for-kh/content.md
+3. [Israel military says struck Hezbollah positions in south Lebanon](https://www.arabnews.com/node/2649556/middle-east) - archive: archive/latest/headlines/03-2649556-israel-military-says-struck-hezbollah-positions-in-south-lebanon/content.md
+4. [Human rights catastrophe unfolding in Sudan’s Al-Obeid, says UN’s Turk](https://www.arabnews.com/node/2649528/middle-east) - archive: archive/latest/headlines/04-2649528-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un-s-turk/content.md

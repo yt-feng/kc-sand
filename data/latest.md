@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-03T04:27:11.465Z
+Fetched at: 2026-07-03T07:48:02.469Z
 Target date: 2026-07-03 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-03 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Saudi Foreign Minister Prince Faisal bin Farhan and his Pakistani counterpart Ishaq Dar. (File/AFP)](https://www.arabnews.com/node/2649477/saudi-arabia) - archive: archive/latest/headlines/01-2649477-saudi-foreign-minister-prince-faisal-bin-farhan-and-his-pakistani-coun/content.md
-2. [Bahrain FM demands Security Council action after Iranian attacks](https://www.arabnews.com/node/2649472/middle-east) - archive: archive/latest/headlines/02-2649472-bahrain-fm-demands-security-council-action-after-iranian-attacks/content.md
-3. [Lebanese president says will not yield ‘a single inch’ of territory to Israel](https://www.arabnews.com/node/2649443/middle-east) - archive: archive/latest/headlines/03-2649443-lebanese-president-says-will-not-yield-a-single-inch-of-territory-to-i/content.md
-4. [UN aid truck destroyed in Darfur drone strike as El-Obeid siege deepens](https://www.arabnews.com/node/2649467/middle-east) - archive: archive/latest/headlines/04-2649467-un-aid-truck-destroyed-in-darfur-drone-strike-as-el-obeid-siege-deepen/content.md
+1. [Powerful general in Iran emerges from hiding as Tehran prepares for Khamenei’s dayslong funeral](https://www.arabnews.com/node/2649510/middle-east) - archive: archive/latest/headlines/01-2649510-powerful-general-in-iran-emerges-from-hiding-as-tehran-prepares-for-kh/content.md
+2. [UN aid truck destroyed in Darfur drone strike as El-Obeid siege deepens](https://www.arabnews.com/node/2649467/middle-east) - archive: archive/latest/headlines/02-2649467-un-aid-truck-destroyed-in-darfur-drone-strike-as-el-obeid-siege-deepen/content.md
+3. [Can Lebanon still prosecute Israel for war crimes under framework agreement?](https://www.arabnews.com/node/2649436/middle-east) - archive: archive/latest/headlines/03-2649436-can-lebanon-still-prosecute-israel-for-war-crimes-under-framework-agre/content.md
+4. [Arab teams at World Cup 2026: Switzerland beat Algeria 2-0 to move into World Cup last 16](https://www.arabnews.com/node/2649506/sport) - archive: archive/latest/headlines/04-2649506-arab-teams-at-world-cup-2026-switzerland-beat-algeria-2-0-to-move-into/content.md

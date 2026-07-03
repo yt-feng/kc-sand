@@ -16,11 +16,11 @@ NEW YORK: A UN refugee agency-contracted truck carrying humanitarian relief supp
 
 ## Video Or Embed URLs
 
-- https://85bcbac752fff2ff6d5c716ce15c8d70.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://e8627c2f2d816cdc97611ecd9eb0136e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649467%2Fmiddle-east
 
 ## Text

@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-03T07:48:02.469Z
+Fetched at: 2026-07-03T10:44:43.966Z
 Target date: 2026-07-03 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-07-03 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Powerful general in Iran emerges from hiding as Tehran prepares for Khamenei’s dayslong funeral](https://www.arabnews.com/node/2649510/middle-east) - archive: archive/latest/headlines/01-2649510-powerful-general-in-iran-emerges-from-hiding-as-tehran-prepares-for-kh/content.md
-2. [UN aid truck destroyed in Darfur drone strike as El-Obeid siege deepens](https://www.arabnews.com/node/2649467/middle-east) - archive: archive/latest/headlines/02-2649467-un-aid-truck-destroyed-in-darfur-drone-strike-as-el-obeid-siege-deepen/content.md
+2. [Human rights catastrophe unfolding in Al-Obeid, Sudan, says UN’s Turk](https://www.arabnews.com/node/2649528/middle-east) - archive: archive/latest/headlines/02-2649528-human-rights-catastrophe-unfolding-in-al-obeid-sudan-says-un-s-turk/content.md
 3. [Can Lebanon still prosecute Israel for war crimes under framework agreement?](https://www.arabnews.com/node/2649436/middle-east) - archive: archive/latest/headlines/03-2649436-can-lebanon-still-prosecute-israel-for-war-crimes-under-framework-agre/content.md
 4. [Arab teams at World Cup 2026: Switzerland beat Algeria 2-0 to move into World Cup last 16](https://www.arabnews.com/node/2649506/sport) - archive: archive/latest/headlines/04-2649506-arab-teams-at-world-cup-2026-switzerland-beat-algeria-2-0-to-move-into/content.md

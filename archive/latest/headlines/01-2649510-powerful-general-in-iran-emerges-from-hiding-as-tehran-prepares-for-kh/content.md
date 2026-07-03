@@ -16,11 +16,11 @@ DUBAI: A powerful general who leads Iran’s paramilitary Revolutionary Guard em
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/38af968d-89ab-4843-813f-49bea7ba2fe4
+- blob:https://www.arabnews.com/7e7506e9-26ba-457a-b8a9-eed52fd0100f
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://bd07d4bded3da6c000b22345889371c1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://e792cf4e706c054b89642851c1ca6c6f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649510%2Fmiddle-east

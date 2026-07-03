@@ -16,7 +16,7 @@ NEW YORK: Bahrain’s foreign minister flew to New York on Thursday to demand ac
 
 ## Video Or Embed URLs
 
-- https://9774a59f016450b1c19b8bf00d013cc1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://265c0ee308a1d3c2e6afa54629bdb65c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

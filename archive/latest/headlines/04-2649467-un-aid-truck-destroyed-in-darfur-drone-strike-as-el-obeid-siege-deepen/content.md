@@ -16,7 +16,7 @@ NEW YORK: A UN refugee agency-contracted truck carrying humanitarian relief supp
 
 ## Video Or Embed URLs
 
-- https://f6476171219f1e5ba15e0bd0350ba39a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://475c9f57020e556402fedc07eece458b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

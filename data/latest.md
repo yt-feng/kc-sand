@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-03T13:00:38.409Z
+Fetched at: 2026-07-03T15:35:04.093Z
 Target date: 2026-07-03 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-07-03 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Powerful general in Iran emerges from hiding as Tehran prepares for Khamenei’s dayslong funeral](https://www.arabnews.com/node/2649510/middle-east) - archive: archive/latest/headlines/01-2649510-powerful-general-in-iran-emerges-from-hiding-as-tehran-prepares-for-kh/content.md
-2. [Human rights catastrophe unfolding in Al-Obeid, Sudan, says UN’s Turk](https://www.arabnews.com/node/2649528/middle-east) - archive: archive/latest/headlines/02-2649528-human-rights-catastrophe-unfolding-in-al-obeid-sudan-says-un-s-turk/content.md
-3. [Can Lebanon still prosecute Israel for war crimes under framework agreement?](https://www.arabnews.com/node/2649436/middle-east) - archive: archive/latest/headlines/03-2649436-can-lebanon-still-prosecute-israel-for-war-crimes-under-framework-agre/content.md
-4. [Arab teams at World Cup 2026: Switzerland beat Algeria 2-0 to move into World Cup last 16](https://www.arabnews.com/node/2649506/sport) - archive: archive/latest/headlines/04-2649506-arab-teams-at-world-cup-2026-switzerland-beat-algeria-2-0-to-move-into/content.md
+2. [Israel military says struck Hezbollah positions in south Lebanon](https://www.arabnews.com/node/2649556/middle-east) - archive: archive/latest/headlines/02-2649556-israel-military-says-struck-hezbollah-positions-in-south-lebanon/content.md
+3. [Human rights catastrophe unfolding in Sudan’s Al-Obeid, says UN’s Turk](https://www.arabnews.com/node/2649528/middle-east) - archive: archive/latest/headlines/03-2649528-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un-s-turk/content.md
+4. [Saudi Arabia condemns bombing at Damascus cafe](https://www.arabnews.com/node/2649547/saudi-arabia) - archive: archive/latest/headlines/04-2649547-saudi-arabia-condemns-bombing-at-damascus-cafe/content.md

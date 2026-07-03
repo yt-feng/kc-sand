@@ -16,11 +16,12 @@ BEIRUT: Lebanese President Joseph Aoun defended on Thursday negotiations with Is
 
 ## Video Or Embed URLs
 
-- https://2e21bcc705a7026cb0df147934cbc41e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://817bd9f9406efd4a805b7ae503cfc2a6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
-- https://www.google.com/recaptcha/api2/aframe
+- about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://cm.g.doubleclick.net/partnerpixels?url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649443%2Fmiddle-east
+- https://www.google.com/recaptcha/api2/aframe
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649443%2Fmiddle-east
 
 ## Text
 

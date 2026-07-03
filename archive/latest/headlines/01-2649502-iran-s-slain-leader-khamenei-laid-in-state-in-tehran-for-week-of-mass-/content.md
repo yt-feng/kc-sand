@@ -16,11 +16,12 @@ DUBAI: The body of Ayatollah Ali Khamenei lay in state in a vast hall in Tehran 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/fdb0297b-a653-4d89-bc6a-dfb3caf1f3c3
+- https://e1f2168930db4eb1bd5e3962e5bfed7c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/d7a16774-03dd-423d-bfff-17821ed8755e
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://157b1f35693fcfd18f0b6d7467a36cb0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649502%2Fmiddle-east
 

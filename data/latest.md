@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-04T15:12:16.474Z
+Fetched at: 2026-07-04T16:33:07.662Z
 Target date: 2026-07-04 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-04 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Saudi leaders send condolences as Iran holds funeral for slain supreme leader](https://www.arabnews.com/node/2649603/saudi-arabia) - archive: archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/content.md
-2. [Houthi militia’s attempts to target Kingdom will be met by unprecedented force: Coalition](https://www.arabnews.com/node/2649604/saudi-arabia) - archive: archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/content.md
-3. [UN human rights investigators begin work in Lebanon in ‘first of its kind’ mission](https://www.arabnews.com/node/2649600/middle-east) - archive: archive/latest/headlines/03-2649600-un-human-rights-investigators-begin-work-in-lebanon-in-first-of-its-ki/content.md
-4. [Arab teams at World Cup 2026: Egypt overcome Australia to reach last 16 in 2026 World Cup](https://www.arabnews.com/node/2649602/sport) - archive: archive/latest/headlines/04-2649602-arab-teams-at-world-cup-2026-egypt-overcome-australia-to-reach-last-16/content.md
+1. [Lebanese president urges US to ‘keep standing’ by country](https://www.arabnews.com/node/2649641/middle-east) - archive: archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/content.md
+2. [Fate of Gaza Strip ‘eclipsed and forgotten’ amid Middle East war](https://www.arabnews.com/node/2649638/middle-east) - archive: archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/content.md
+3. [Egypt coach dedicates historic World Cup win to ‘good people’ of Palestine](https://www.arabnews.com/node/2649653/sport) - archive: archive/latest/headlines/03-2649653-egypt-coach-dedicates-historic-world-cup-win-to-good-people-of-palesti/content.md
+4. [Ukrainian drones hit St. Petersburg oil terminal in latest long-range attack on Russia](https://www.arabnews.com/node/2649643/world) - archive: archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/content.md

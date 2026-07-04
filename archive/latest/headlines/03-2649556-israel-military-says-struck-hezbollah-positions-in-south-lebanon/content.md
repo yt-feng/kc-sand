@@ -16,10 +16,11 @@ JERUSALEM: Israel’s military said Friday it had struck several Hezbollah sites
 
 ## Video Or Embed URLs
 
-- https://b0a5f9d806ec4636a0e46d1f0b76891b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://d6acf0269e1ec28fb0d1e2446f13b486.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649556%2Fmiddle-east
 

@@ -16,11 +16,11 @@ BEIRUT: Shortly after Egypt made history by reaching a World Cup 16th round for 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/0f5c7d8b-bdd6-412d-84b4-b2769bdc9140
+- blob:https://www.arabnews.com/1916df6b-61a9-4db6-aff7-7052771866e5
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://91553f687fc0d11b2beea169b41b63e6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://e63590e5845446a41938aac0fee218b4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://sync.teads.tv/wigo-no-slot
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe

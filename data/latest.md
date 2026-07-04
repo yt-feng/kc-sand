@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-04T00:12:11.108Z
+Fetched at: 2026-07-04T04:21:21.021Z
 Target date: 2026-07-04 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-04 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Saudi-led coalition in Yemen says it will respond firmly to any attempts to target the Kingdom](https://www.arabnews.com/node/2649604/middle-east) - archive: archive/latest/headlines/01-2649604-saudi-led-coalition-in-yemen-says-it-will-respond-firmly-to-any-attemp/content.md
-2. [Powerful general in Iran emerges from hiding as Tehran prepares for Khamenei’s dayslong funeral](https://www.arabnews.com/node/2649510/middle-east) - archive: archive/latest/headlines/02-2649510-powerful-general-in-iran-emerges-from-hiding-as-tehran-prepares-for-kh/content.md
-3. [Israel military says struck Hezbollah positions in south Lebanon](https://www.arabnews.com/node/2649556/middle-east) - archive: archive/latest/headlines/03-2649556-israel-military-says-struck-hezbollah-positions-in-south-lebanon/content.md
-4. [Human rights catastrophe unfolding in Sudan’s Al-Obeid, says UN’s Turk](https://www.arabnews.com/node/2649528/middle-east) - archive: archive/latest/headlines/04-2649528-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un-s-turk/content.md
+1. [Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war](https://www.arabnews.com/node/2649615/middle-east) - archive: archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/content.md
+2. [Saudi leaders send condolences as Iran holds funeral for slain supreme leader](https://www.arabnews.com/node/2649603/saudi-arabia) - archive: archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/content.md
+3. [UN human rights investigators begin work in Lebanon in ‘first of its kind’ mission](https://www.arabnews.com/node/2649600/middle-east) - archive: archive/latest/headlines/03-2649600-un-human-rights-investigators-begin-work-in-lebanon-in-first-of-its-ki/content.md
+4. [Arab teams at World Cup 2026: Egypt overcome Australia to reach last 16 in 2026 World Cup](https://www.arabnews.com/node/2649602/sport) - archive: archive/latest/headlines/04-2649602-arab-teams-at-world-cup-2026-egypt-overcome-australia-to-reach-last-16/content.md

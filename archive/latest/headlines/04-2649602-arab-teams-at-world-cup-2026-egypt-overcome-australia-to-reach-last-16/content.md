@@ -17,7 +17,7 @@ DUBAI: Egypt have beaten Australia in a penalty shootout at Dallas Stadium to re
 ## Video Or Embed URLs
 
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://f8b4b56744cbbf26900e74dc73e48706.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://56842538aae67ce228d034ae8d183f87.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

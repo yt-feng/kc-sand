@@ -16,11 +16,11 @@ RIYADH: Saudi Arabia’s King Salman and Crown Prince Mohammed bin Salman sent c
 
 ## Video Or Embed URLs
 
-- https://16b1969b40adb4a751331e6254f91f82.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://ef8e37d970434b905c482025024e0168.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649603%2Fsaudi-arabia
 

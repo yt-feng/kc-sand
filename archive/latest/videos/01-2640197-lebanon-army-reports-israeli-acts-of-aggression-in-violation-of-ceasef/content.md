@@ -16,9 +16,9 @@ BEIRUT: Lebanon’s army reported “acts of aggression” by Israel on Friday, 
 
 ## Video Or Embed URLs
 
-- https://19be52bc2de240faba81bc2f1a16d021.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/91be00f2-ad72-47d3-a99a-d09de8aac343
+- blob:https://www.arabnews.com/5ca7593f-06f4-4c76-8b76-c2e5ac23cd27
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://9738b15065f7bff132b2669cc7771a23.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html

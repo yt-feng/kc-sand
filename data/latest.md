@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-04T11:38:56.130Z
+Fetched at: 2026-07-04T13:48:08.142Z
 Target date: 2026-07-04 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-07-04 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Saudi leaders send condolences as Iran holds funeral for slain supreme leader](https://www.arabnews.com/node/2649603/saudi-arabia) - archive: archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/content.md
-2. [Houthi militia’s attempts to target Kingdom will be met by unprecedented force: Coalition](https://www.arabnews.com/node/2649604/middle-east) - archive: archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/content.md
+2. [Houthi militia’s attempts to target Kingdom will be met by unprecedented force: Coalition](https://www.arabnews.com/node/2649604/saudi-arabia) - archive: archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/content.md
 3. [UN human rights investigators begin work in Lebanon in ‘first of its kind’ mission](https://www.arabnews.com/node/2649600/middle-east) - archive: archive/latest/headlines/03-2649600-un-human-rights-investigators-begin-work-in-lebanon-in-first-of-its-ki/content.md
 4. [Arab teams at World Cup 2026: Egypt overcome Australia to reach last 16 in 2026 World Cup](https://www.arabnews.com/node/2649602/sport) - archive: archive/latest/headlines/04-2649602-arab-teams-at-world-cup-2026-egypt-overcome-australia-to-reach-last-16/content.md

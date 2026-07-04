@@ -1,9 +1,9 @@
 # Houthi militia’s attempts to target Kingdom will be met by unprecedented force: Coalition
 
-Source: https://www.arabnews.com/node/2649604/middle-east
-Captured source: https://www.arabnews.com/node/2649604/middle-east
+Source: https://www.arabnews.com/node/2649604/saudi-arabia
+Captured source: https://www.arabnews.com/node/2649604/saudi-arabia
 Published: 2026-07-04T02:05:09+03:00
-Modified: 2026-07-04T12:15:46+03:00
+Modified: 2026-07-04T15:49:29+03:00
 Author: Arab News
 
 ## Summary
@@ -16,16 +16,16 @@ RIYADH: Any attempts by Yemen’s Iran-backed Houthi militia to target the Kingd
 
 ## Video Or Embed URLs
 
-- https://3b2381001325dba931e6cf294bc467cb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://0ecf87083d333afe69db6c2ea92c9692.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649604%2Fmiddle-east
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649604%2Fsaudi-arabia
 
 ## Text
 
-https://arab.news/gxzp4
+https://arab.news/c5cws
 
 Militia had threatened to target ‘Saudi airports and vital ‌interests on ‌land and sea’
 

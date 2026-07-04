@@ -16,7 +16,7 @@ NEW YORK: A team of UN human rights investigators is on the ground in Lebanon co
 
 ## Video Or Embed URLs
 
-- https://7884178583f3db2d034ea081b7907f45.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://739fab6ada1e0d93873f5dd7c8e4a5df.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

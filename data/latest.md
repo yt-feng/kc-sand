@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-04T18:06:48.562Z
+Fetched at: 2026-07-04T19:46:17.859Z
 Target date: 2026-07-04 (Asia/Riyadh)
 
 ## Latest Videos
@@ -15,5 +15,5 @@ No parseable item-level dates were found, so the output is the current Top Headl
 
 1. [Lebanese president urges US to ‘keep standing’ by country](https://www.arabnews.com/node/2649641/middle-east) - archive: archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/content.md
 2. [Fate of Gaza Strip ‘eclipsed and forgotten’ amid Middle East war](https://www.arabnews.com/node/2649638/middle-east) - archive: archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/content.md
-3. [Egypt coach dedicates historic World Cup win to ‘good people’ of Palestine](https://www.arabnews.com/node/2649653/sport) - archive: archive/latest/headlines/03-2649653-egypt-coach-dedicates-historic-world-cup-win-to-good-people-of-palesti/content.md
+3. [Morocco beat co-hosts Canada to reach quarter-finals of World Cup](https://www.arabnews.com/node/2649676/sport) - archive: archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/content.md
 4. [Ukrainian drones hit St. Petersburg oil terminal in latest long-range attack on Russia](https://www.arabnews.com/node/2649643/world) - archive: archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/content.md

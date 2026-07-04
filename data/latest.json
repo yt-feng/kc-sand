@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T09:38:27.868Z",
+  "fetchedAt": "2026-07-04T11:38:56.130Z",
   "targetDate": {
     "iso": "2026-07-04",
     "timeZone": "Asia/Riyadh"
@@ -78,39 +78,17 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 88,
+    "itemCount": 93,
     "window": {
       "hours": 24,
-      "start": "2026-07-03T09:38:27.868Z",
-      "end": "2026-07-04T09:38:27.868Z",
+      "start": "2026-07-03T11:38:56.130Z",
+      "end": "2026-07-04T11:38:56.130Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
-      {
-        "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
-        "url": "https://www.arabnews.com/node/2649615/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/04/4727926-1018892890.jpg?itok=AZ2YejzH",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 0,
-        "archive": {
-          "directory": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/metadata.json",
-            "content": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/content.md",
-            "text": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/image.jpg",
-            "video": null
-          }
-        }
-      },
       {
         "title": "Saudi leaders send condolences as Iran holds funeral for slain supreme leader",
         "url": "https://www.arabnews.com/node/2649603/saudi-arabia",
@@ -119,16 +97,38 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 0,
         "archive": {
-          "directory": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme",
+          "directory": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/metadata.json",
-            "content": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/content.md",
-            "text": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/page-text.txt",
+            "metadata": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/metadata.json",
+            "content": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/content.md",
+            "text": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/image.jpg",
+            "image": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Houthi militia’s attempts to target Kingdom will be met by unprecedented force: Coalition",
+        "url": "https://www.arabnews.com/node/2649604/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/04/4727902-1733695129.jpeg?itok=NJkqWL33",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2,
+        "archive": {
+          "directory": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/metadata.json",
+            "content": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/content.md",
+            "text": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-04T09:43:42.791Z",
+    "capturedAt": "2026-07-04T11:44:20.438Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-04",
     "itemCount": 7,
@@ -221,10 +221,10 @@
           "video": "rendered-clips/2026-07-04/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179673/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/469CC53375B5FF1875138130EFE543833C519386.B64B6A76546306627298BDFCDB3B19630352B3B4/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179673/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/63260F5514F1BB28E8DD5E68CB96297EC8FE13E4.0EE90617E5F4E6A6892B4C68F660F86707C3612B/key/cms1/cms_redirect/yes/met/1783158080,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783157769/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186906/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/76FC4630C06DC580201483BDDF0D30233076DA7D.B664C234579C0EB2F6A79464BD3409AFD5EF267C/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186906/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/369F6872561D704EE50C85BDAD5C2FC78ABD1869.7DA2C37E38676C169D5078075DD5793C03737B43/key/cms1/cms_redirect/yes/met/1783165315,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783164760/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4980ab_13789e7217b218e04e3c2e3ede1bd80b65aa6bd9/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a499ccb_b439b14bbbe41e7786a92ff81c72180b57b69a9a/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -234,7 +234,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-04/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179673/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/469CC53375B5FF1875138130EFE543833C519386.B64B6A76546306627298BDFCDB3B19630352B3B4/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186906/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/76FC4630C06DC580201483BDDF0D30233076DA7D.B664C234579C0EB2F6A79464BD3409AFD5EF267C/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -256,10 +256,10 @@
           "video": "rendered-clips/2026-07-04/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179699/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/18A839178EB5A9711DBD01D270819E72DC146665.6978DD848EAE3F099928A1912986FD1C8507CD4B/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179699/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/44E9B3398A86C0F1A36C2D8E80300B8A34D54460.03D841DCE7F6EE13ED19D7F626BC1A11A1EDE84E/key/cms1/cms_redirect/yes/met/1783158108,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783157769/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186932/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3708AAB6D2E8F7D0C4F839EFD2124BADF9E21569.A2C60C4AF247BCFE654F9CB6D2C7F716F00A30DE/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186932/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1373E30EC4ADEBC48B5FF23AB2BBF4782CB4CF6A.468F920A4691832B0FAEAAFD2234EC95B8158F77/key/cms1/cms_redirect/yes/met/1783165342,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783164760/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a498003_a4256d71f9a0d508dffcd0a0161a0b4b20a5f715/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a499c23_db5b67a7559f7f7a6bb86f9a929796ad1a852144/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -269,7 +269,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-04/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179699/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/18A839178EB5A9711DBD01D270819E72DC146665.6978DD848EAE3F099928A1912986FD1C8507CD4B/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186932/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3708AAB6D2E8F7D0C4F839EFD2124BADF9E21569.A2C60C4AF247BCFE654F9CB6D2C7F716F00A30DE/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -291,10 +291,10 @@
           "video": "rendered-clips/2026-07-04/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179725/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/828610F4F0F71AA6BEA103BF18859BCC28FCCC76.56992F60D5744DB436DF291DC4424110A48D6C4D/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179725/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4DF6E76636D569B3E7764984A2490E8C98732ABE.311516CF8EF8CFF08164E8B26B390BD6184746CC/key/cms1/cms_redirect/yes/met/1783158133,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783157769/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186960/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AF1E6F96594ACA28CDB17CDD1B4EBA9C06BA499A.1F95E75055AD0388DCB62B4A5260CDC1AD020A5D/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186960/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5DD86A8B6262A7096B470C017BE2FBCCB1620E56.6DA0DCD83B38CC85B8704E92741E33F7D3F67AC4/key/cms1/cms_redirect/yes/met/1783165369,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783164760/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a497ec2_5db7de29b2d6cd94fe80bf68cc38c56b83d57486/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a499ae2_3a15e9162d8e205a7c52a36199850095e521b41f/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -304,7 +304,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-04/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179725/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/828610F4F0F71AA6BEA103BF18859BCC28FCCC76.56992F60D5744DB436DF291DC4424110A48D6C4D/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186960/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AF1E6F96594ACA28CDB17CDD1B4EBA9C06BA499A.1F95E75055AD0388DCB62B4A5260CDC1AD020A5D/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -313,54 +313,54 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
-        "url": "https://www.arabnews.com/node/2649615/middle-east",
-        "directory": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali",
+        "title": "Saudi leaders send condolences as Iran holds funeral for slain supreme leader",
+        "url": "https://www.arabnews.com/node/2649603/saudi-arabia",
+        "directory": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/metadata.json",
-          "content": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/content.md",
-          "text": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/metadata.json",
+          "content": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/content.md",
+          "text": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/image.jpg",
+          "image": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179746/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/58446EF839F886854DDF10DB42F586A35F41AD53.0F43D5BD9861AFB5568371ADEAD441B1CD8CD2D1/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179746/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/08D08DCF6BEC34C11A7E9639E86C8FF85DC39135.5D442A7D5A2D0BCAA1468BBC4223E2667979863D/key/cms1/cms_redirect/yes/met/1783158151,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783157769/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186984/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AD2B2C5FF292BA8F5B0FDA50191637740D480A98.B00842E239CB44324CE1BB54D1132EFF9A97DF8C/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783186984/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/72F266CD6E664B68AE1D4A206A88241B4975DD84.2B5077D012B09799C9ACD728440AF9C41B4B0F2D/key/cms1/cms_redirect/yes/met/1783165389,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783165210/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2649615-iran-begins-dayslong-funeral-for-the-late-supreme-leader-ayatollah-ali/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/04/4727926-1018892890.jpg?itok=lPtE40bs",
+          "path": "archive/latest/headlines/01-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/04/4727900-1527165881.jpeg?itok=w-D1yF77",
           "contentType": "image/jpeg",
-          "bytes": 28851
+          "bytes": 43502
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "Saudi leaders send condolences as Iran holds funeral for slain supreme leader",
-        "url": "https://www.arabnews.com/node/2649603/saudi-arabia",
-        "directory": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme",
+        "title": "Houthi militia’s attempts to target Kingdom will be met by unprecedented force: Coalition",
+        "url": "https://www.arabnews.com/node/2649604/middle-east",
+        "directory": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/metadata.json",
-          "content": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/content.md",
-          "text": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/metadata.json",
+          "content": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/content.md",
+          "text": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/image.jpg",
+          "image": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179766/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2618C176CFB1CA4FD58068E72580622C8AB980E6.89AE9A6E954FFEBEC083DABBF945992C094C4444/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179766/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/218E8F3192D3EA415B1ECC680B6C4BB8A3A46660.26F74CF14D9B020D6AF9F2CB722B14A257E96724/key/cms1/cms_redirect/yes/met/1783158171,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783157769/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783187005/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7986933FF239B4D33468799ECA91F226AEC81250.61C3A81D129A7EBFFD1C58988B1BF12EF8855EE8/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783187005/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/180139706E93EA483871A0BB1DDB0CD38384AECA.5CFABA2B2FBAC0173419330B6E785451FCC5CD14/key/cms1/cms_redirect/yes/met/1783165410,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783164760/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2649603-saudi-leaders-send-condolences-as-iran-holds-funeral-for-slain-supreme/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/04/4727900-1527165881.jpeg?itok=w-D1yF77",
+          "path": "archive/latest/headlines/02-2649604-houthi-militia-s-attempts-to-target-kingdom-will-be-met-by-unprecedent/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/04/4727902-1733695129.jpeg?itok=5oqF4WQP",
           "contentType": "image/jpeg",
-          "bytes": 43502
+          "bytes": 31329
         },
         "video": null
       },
@@ -380,8 +380,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179785/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A5CB1F0CE24FE5280141C6BAC6280DA6FF49021F.6D524BC3B54DC3F11937AB8EE1F6950CEF83FEC1/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179785/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/018169EA4B151A2A6808EE4DC735CA55E856DC03.1AB7BAF9EC33CBF72D6D97524BAA1AE44EAA41DF/key/cms1/cms_redirect/yes/met/1783158190,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783157810/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783187025/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/465329CD93A88256F86306B3EDF9D8D4A63BB279.242DC8B3A35A379185946F281650117718C7AA98/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783187025/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/565E80FB4DF3F7E790F60D65EB75E48BB046926B.8247A3C45416CAEF045272D825321EADE86515AE/key/cms1/cms_redirect/yes/met/1783165431,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783164972/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2649600-un-human-rights-investigators-begin-work-in-lebanon-in-first-of-its-ki/image.jpg",
@@ -407,8 +407,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179807/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3708A9D2BA1B4B55B8DA2EE6AB9068C31B0A8627.42314B91382754F1698AC6A4496DAAB8A5ADD6F4/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783179807/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/18FC91D9AD435B045BB36E966B1AF2BC8D452875.57F74BC4233C08604D9F3661FFD87256185B86F5/key/cms1/cms_redirect/yes/met/1783158212,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783157769/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783187046/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4ADE5477026BE594D0E4E51A6223AB6E067A9F2E.1D081176DF97B8CB8443F5D67AAE70659478E2DD/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783187046/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7041FB7123FFD545018E4D04C957232ACD7690F3.12ED1521B4C871A43F1FDBC2AB5E7618F0038520/key/cms1/cms_redirect/yes/met/1783165451,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783164972/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2649602-arab-teams-at-world-cup-2026-egypt-overcome-australia-to-reach-last-16/image.jpg",

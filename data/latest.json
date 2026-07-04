@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-07-04T19:46:17.859Z",
+  "fetchedAt": "2026-07-04T21:06:00.012Z",
   "targetDate": {
-    "iso": "2026-07-04",
+    "iso": "2026-07-05",
     "timeZone": "Asia/Riyadh"
   },
   "sources": {
@@ -27,7 +27,7 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-07-04/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-07-05/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         }
       }
     },
@@ -49,7 +49,7 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-07-04/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-07-05/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         }
       }
     },
@@ -71,24 +71,46 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-07-04/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-07-05/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         }
       }
     }
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 88,
+    "itemCount": 86,
     "window": {
       "hours": 24,
-      "start": "2026-07-03T19:46:17.859Z",
-      "end": "2026-07-04T19:46:17.859Z",
+      "start": "2026-07-03T21:06:00.012Z",
+      "end": "2026-07-04T21:06:00.012Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Israeli military says killed armed militant in south Lebanon",
+        "url": "https://www.arabnews.com/node/2649689/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/04/4728135-787303166.png?itok=CnLy305P",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/metadata.json",
+            "content": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/content.md",
+            "text": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/image.png",
+            "video": null
+          }
+        }
+      },
       {
         "title": "Lebanese president urges US to ‘keep standing’ by country",
         "url": "https://www.arabnews.com/node/2649641/middle-east",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country",
+          "directory": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/metadata.json",
-            "content": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/content.md",
-            "text": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/metadata.json",
+            "content": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/content.md",
+            "text": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/image.jpg",
+            "image": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/image.jpg",
             "video": null
           }
         }
@@ -119,16 +141,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war",
+          "directory": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/metadata.json",
-            "content": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/content.md",
-            "text": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/metadata.json",
+            "content": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/content.md",
+            "text": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/image.jpg",
+            "image": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/image.jpg",
             "video": null
           }
         }
@@ -141,38 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/metadata.json",
-            "content": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/content.md",
-            "text": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Ukrainian drones hit St. Petersburg oil terminal in latest long-range attack on Russia",
-        "url": "https://www.arabnews.com/node/2649643/world",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/04/4728007-640240483.jpg?itok=G9DbRgqV",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a",
+          "directory": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/metadata.json",
-            "content": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/content.md",
-            "text": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/metadata.json",
+            "content": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/content.md",
+            "text": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/image.jpg",
+            "image": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/image.jpg",
             "video": null
           }
         }
@@ -197,9 +197,9 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-04T19:51:39.023Z",
+    "capturedAt": "2026-07-04T21:11:51.275Z",
     "directory": "archive/latest",
-    "renderedClipsDirectory": "rendered-clips/2026-07-04",
+    "renderedClipsDirectory": "rendered-clips/2026-07-05",
     "itemCount": 7,
     "okCount": 7,
     "challengeCount": 0,
@@ -218,14 +218,14 @@
           "text": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
-          "video": "rendered-clips/2026-07-04/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
+          "video": "rendered-clips/2026-07-05/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216147/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B289A951516FE1EEA94C458F58A57016A7056F83.2472A3EFED04107146607F1A89753A7EA59F12A8/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216147/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7C31EE570961E344BE864BCA68F255D55971B680.7951D6994C02360D3E728DCD164791CF81096ECB/key/cms1/cms_redirect/yes/met/1783194554,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783194125/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783220939/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/201B20D266F14E2519A2DC69648B7094455CDCA2.6BFD7F88D15CCE77F4597D0F441FABCD5E1B7661/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783220939/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/774635B2EFFBE24427D65B0814A00E92F61E3612.12164A2C9E33AEEF76B7CE83320A8DD644D6D6BA/key/cms1/cms_redirect/yes/met/1783199349,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783198773/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4a0d4b_55eeaa7e37f522a894566636a52281f5b0be3fbe/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4a0d4b_55eeaa7e37f522a894566636a52281f5b0be3fbe/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4a2263_8f29ffed91bcf253080480dc89ca2ad2a9173b2c/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4a2263_8f29ffed91bcf253080480dc89ca2ad2a9173b2c/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -234,8 +234,8 @@
           "bytes": 27493
         },
         "video": {
-          "path": "rendered-clips/2026-07-04/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216147/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B289A951516FE1EEA94C458F58A57016A7056F83.2472A3EFED04107146607F1A89753A7EA59F12A8/key/ck2/file/file.mp4",
+          "path": "rendered-clips/2026-07-05/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783220939/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/201B20D266F14E2519A2DC69648B7094455CDCA2.6BFD7F88D15CCE77F4597D0F441FABCD5E1B7661/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -254,13 +254,10 @@
           "text": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
-          "video": "rendered-clips/2026-07-04/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
+          "video": "rendered-clips/2026-07-05/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216173/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8818F7212EFDAB72DE03AEDF864B5FC610368287.7E33ECA2F931449E25D5483AF5EC3A88016F3903/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216173/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/118D98FC7633798B51DE6D8305C8B140ECD27C.7445E1434DDEC956382B4FA7976A83CFA46FF741/key/cms1/cms_redirect/yes/met/1783194580,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783194125/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
-          "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4a0ca3_261e7bcb4ce389ba6e85269a24635e3d99d6d5de/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -269,10 +266,10 @@
           "bytes": 43576
         },
         "video": {
-          "path": "rendered-clips/2026-07-04/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216173/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8818F7212EFDAB72DE03AEDF864B5FC610368287.7E33ECA2F931449E25D5483AF5EC3A88016F3903/key/ck2/file/file.mp4",
+          "path": "rendered-clips/2026-07-05/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
+          "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
           "contentType": "video/mp4",
-          "bytes": 1384740,
+          "bytes": 8233121,
           "method": "direct"
         }
       },
@@ -289,13 +286,11 @@
           "text": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/page-text.txt",
           "html": null,
           "image": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
-          "video": "rendered-clips/2026-07-04/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
+          "video": "rendered-clips/2026-07-05/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216199/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/46CB230E4AE79F58BB586D607B17CFF7171D0F27.A647AE2FC745D0A34F6A0047941DBAFE4FF860B2/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216199/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0DD1E4B2ADCCA8BBEDE0FAB33669888CF71B58C1.050167399291C38E588E004C2FBFFD0653FFD03B/key/cms1/cms_redirect/yes/met/1783194606,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783194387/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4a0ee6_c06c7d1c0d6eea91ad154ca0b35fabc586e6c54f/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4a207a_fe57fbbc93905894d6c8239833aa2575de1a5b1c/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -304,34 +299,55 @@
           "bytes": 33206
         },
         "video": {
-          "path": "rendered-clips/2026-07-04/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216199/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/46CB230E4AE79F58BB586D607B17CFF7171D0F27.A647AE2FC745D0A34F6A0047941DBAFE4FF860B2/key/ck2/file/file.mp4",
+          "path": "rendered-clips/2026-07-05/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
+          "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
           "contentType": "video/mp4",
-          "bytes": 1384740,
+          "bytes": 7265426,
           "method": "direct"
         }
       },
       {
         "group": "headlines",
         "index": 0,
-        "title": "Lebanese president urges US to ‘keep standing’ by country",
-        "url": "https://www.arabnews.com/node/2649641/middle-east",
-        "directory": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country",
+        "title": "Israeli military says killed armed militant in south Lebanon",
+        "url": "https://www.arabnews.com/node/2649689/middle-east",
+        "directory": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/metadata.json",
-          "content": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/content.md",
-          "text": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/metadata.json",
+          "content": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/content.md",
+          "text": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/image.jpg",
+          "image": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/image.png",
           "video": null
         },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216221/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B8696101351EAA8DBA3EB4B4DB135EAAE4342FEC.1BEDD4724AD3E438F54AC1BB5F4882E584F866D0/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216221/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/37203B73D0A7AD4751FAB8D808264D6FA81B1D7F.1C8611229A067D147B750C52AE1C035A1349AF67/key/cms1/cms_redirect/yes/met/1783194626,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783194125/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
+        "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/01-2649641-lebanese-president-urges-us-to-keep-standing-by-country/image.jpg",
+          "path": "archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/image.png",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/04/4728135-787303166.png?itok=eb30Og8w",
+          "contentType": "image/png",
+          "bytes": 201432
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "Lebanese president urges US to ‘keep standing’ by country",
+        "url": "https://www.arabnews.com/node/2649641/middle-east",
+        "directory": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/metadata.json",
+          "content": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/content.md",
+          "text": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/image.jpg",
+          "video": null
+        },
+        "videoUrls": [],
+        "image": {
+          "path": "archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/04/4728003-1563613520.jpg?itok=kmhtIjUP",
           "contentType": "image/jpeg",
           "bytes": 15770
@@ -340,25 +356,22 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "Fate of Gaza Strip ‘eclipsed and forgotten’ amid Middle East war",
         "url": "https://www.arabnews.com/node/2649638/middle-east",
-        "directory": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war",
+        "directory": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/metadata.json",
-          "content": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/content.md",
-          "text": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/metadata.json",
+          "content": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/content.md",
+          "text": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/image.jpg",
+          "image": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/image.jpg",
           "video": null
         },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216242/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/75F30965628CD032B6A6F0CD2D296A44CA63D96D.5DF38A04CAC2D71078B4626ED0925E23C74EF7CF/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216242/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/573E773D9678E274D5E1FC90BFFC0837CC144EFB.485CA0AF7EF5635F4BF72B21B1192E31DEA67063/key/cms1/cms_redirect/yes/met/1783194646,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783194387/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
+        "videoUrls": [],
         "image": {
-          "path": "archive/latest/headlines/02-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/image.jpg",
+          "path": "archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/04/4727997-167290498.jpg?itok=Mp076C9W",
           "contentType": "image/jpeg",
           "bytes": 45629
@@ -367,64 +380,30 @@
       },
       {
         "group": "headlines",
-        "index": 2,
+        "index": 3,
         "title": "Morocco beat co-hosts Canada to reach quarter-finals of World Cup",
         "url": "https://www.arabnews.com/node/2649676/sport",
-        "directory": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup",
+        "directory": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/metadata.json",
-          "content": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/content.md",
-          "text": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/metadata.json",
+          "content": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/content.md",
+          "text": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/image.jpg",
+          "image": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216264/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3D4878658F407C55F2F3B81187F3733AE8CF1034.ADA002DA07325BBB7783905E297329C2237F69DB/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216264/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3BB44BCE1D15B83DA5721D0C801F19C6436AC1DA.42C7072A91B9453262832BDBF83575D59BD91361/key/cms1/cms_redirect/yes/met/1783194669,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783194387/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783221095/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6D9A5F2DFCF6B0CBDABFC13F868FF14D776D627E.89D71CFDEB0EA93ED0B4CDC3876FCFF38E1AC989/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783221095/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/01937FA203266A9A30999AC8E2299DCF31B6648A.755258A638AFAA53239D5397E491A405DF21CBF0/key/cms1/cms_redirect/yes/met/1783199503,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783198989/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/bYhHPPv7.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4a0f67_bf9ebbe5a01ffe8836538e31ea5880ae8b3c32f3/sites/wPTWN2YS/media/bYhHPPv7/versions/Y4heNDfb/manifest.ism/manifest-audio_0_BDdcuvNW_1D0TuArz=112061-video_0_BDdcuvNW_41kfRHEz=994799.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4a20fb_e8ab96a4f3bc74c8cfd96c35151733993b165830/sites/wPTWN2YS/media/bYhHPPv7/versions/Y4heNDfb/manifest.ism/manifest-audio_0_BDdcuvNW_1D0TuArz=112061-video_0_BDdcuvNW_41kfRHEz=994799.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/image.jpg",
+          "path": "archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/04/4728113-536918175.jpg?itok=SkUyxgCP",
           "contentType": "image/jpeg",
           "bytes": 52906
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
-        "index": 3,
-        "title": "Ukrainian drones hit St. Petersburg oil terminal in latest long-range attack on Russia",
-        "url": "https://www.arabnews.com/node/2649643/world",
-        "directory": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/metadata.json",
-          "content": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/content.md",
-          "text": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216284/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2B953FB2A64D5B2710F3AD780C3FA7ED9B041863.922D43C058850242D431DC4D969AC43A0F5DB5C0/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216284/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/36F580CB33232EB4907C3BDF18710D224378023A.5B06A20A2A50A1BC45739D6CC6437632118533/key/cms1/cms_redirect/yes/met/1783194689,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783194491/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216284/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/34087117FEB696E88D4AD40BCD082D3FE31B17DD.4A50503B015ED6C1F04FA1D86E60672FB213473B/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783216284/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/074CAB2B41CE93BF5B326BD9928D3F2C730D862B.20EDCCE98EA9A193A19E2B63E3657A9950A23F5E/key/cms1/cms_redirect/yes/met/1783194689,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783194387/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
-          "https://video.twimg.com/amplify_video/2073314144267231232/pl/G3enkg1_7u1m-AJ4.m3u8?v=cfc",
-          "https://video.twimg.com/amplify_video/2073314144267231232/pl/avc1/320x568/HJutB8g5CgleAZ0s.m3u8",
-          "https://video.twimg.com/amplify_video/2073314144267231232/pl/mp4a/32000/F2BiI4k-S0hmUTpB.m3u8",
-          "https://video.twimg.com/amplify_video/2073314144267231232/aud/mp4a/0/0/32000/N-GL92YS1wjLSUTP.mp4",
-          "https://video.twimg.com/amplify_video/2073314144267231232/vid/avc1/0/0/320x568/kSHkUyryMZ6wH3kw.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/04-2649643-ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-a/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/04/4728007-640240483.jpg?itok=i-550MIk",
-          "contentType": "image/jpeg",
-          "bytes": 22866
         },
         "video": null
       }

@@ -16,11 +16,11 @@ BEIRUT: Lebanese President Joseph Aoun on Saturday urged the United States to st
 
 ## Video Or Embed URLs
 
-- https://29681d4f171c280eb3c986ccb5aae4de.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2673805579fb4cf7141d8a9cbb335213.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649641%2Fmiddle-east
 

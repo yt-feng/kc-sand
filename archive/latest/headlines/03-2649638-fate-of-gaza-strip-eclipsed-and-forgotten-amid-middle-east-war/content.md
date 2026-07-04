@@ -16,7 +16,7 @@ GAZA CITY, Palestinian Territories: The Gaza war was the spark that touched off 
 
 ## Video Or Embed URLs
 
-- https://077a288fe5c501c22d83422ace1f7f40.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://78f89432e61692b5f20d4f3a2faf9a71.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

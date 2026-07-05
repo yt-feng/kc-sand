@@ -16,12 +16,11 @@ HOUSTON: Morocco produced a patient and professional performance to sweep past W
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/9fb05921-e1df-4078-9b70-ea89ddc1b10b
+- blob:https://www.arabnews.com/95828aba-625b-4aba-abcf-19399adf57ba
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://a8c8a51f375156e7f820bf7d1730c8e1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b4947d9c2d09389070af2dc210fba950.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649676%2Fsport
 

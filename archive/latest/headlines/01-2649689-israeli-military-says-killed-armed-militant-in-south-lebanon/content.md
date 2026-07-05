@@ -16,10 +16,9 @@ JERUSALEM: The Israeli military said on Saturday that it killed an armed militan
 
 ## Video Or Embed URLs
 
-- https://f86c63de3e1064895bd3d0118c667ea0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://eea5d9c8f2bc4dfacfe04ddafdf8a200.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot

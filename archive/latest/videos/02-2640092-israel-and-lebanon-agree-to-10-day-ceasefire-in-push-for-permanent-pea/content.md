@@ -16,20 +16,13 @@ BEIRUT: Israel and Lebanon agreed to a 10-day ceasefire on Thursday, Donald Trum
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/98681cd9-47aa-4dd1-a848-e5e28eee16a1
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://truthsocial.com/@realDonaldTrump/116415122630904602/embed
-- https://278372b6abd3c15f314b258e06f07443.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
-- https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.arabnews.com
-- about:blank
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
-- https://www.google.com/recaptcha/api2/aframe
-- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2640092%2Fmiddle-east
+- https://content.jwplatform.com/videos/tfVCFaJG-z057noEQ.mp4
+- https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8
 
 ## Downloaded Video
 
-- [02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4](../../../rendered-clips/2026-07-05/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4)
+- [02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4](../../../rendered-clips/2026-07-06/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4)
 
 ## Text
 

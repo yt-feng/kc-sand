@@ -1,7 +1,7 @@
 # Arab News Latest
 
-Fetched at: 2026-07-05T10:39:00.571Z
-Target date: 2026-07-05 (Asia/Riyadh)
+Fetched at: 2026-07-05T23:07:18.342Z
+Target date: 2026-07-06 (Asia/Riyadh)
 
 ## Latest Videos
 
@@ -13,7 +13,7 @@ Target date: 2026-07-05 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [British military says cargo ship reports being under attack in the Red Sea off the coast of Yemen](https://www.arabnews.com/node/2649726/middle-east) - archive: archive/latest/headlines/01-2649726-british-military-says-cargo-ship-reports-being-under-attack-in-the-red/content.md
-2. [Saudi diplomacy is key to ending Sudan war, EU special representative for the Horn of Africa tells Arab News](https://www.arabnews.com/node/2649687/middle-east) - archive: archive/latest/headlines/02-2649687-saudi-diplomacy-is-key-to-ending-sudan-war-eu-special-representative-f/content.md
-3. [Trump mixes patriotism with partisanship as he celebrates America’s ‘joyous’ 250th anniversary](https://www.arabnews.com/node/2649705/world) - archive: archive/latest/headlines/03-2649705-trump-mixes-patriotism-with-partisanship-as-he-celebrates-america-s-jo/content.md
-4. [Patient Morocco beat co-hosts Canada to set up quarterfinal against France](https://www.arabnews.com/node/2649716/sport) - archive: archive/latest/headlines/04-2649716-patient-morocco-beat-co-hosts-canada-to-set-up-quarterfinal-against-fr/content.md
+1. [In south Lebanon, Israel army chief vows to act ‘decisively’ against Hezbollah](https://www.arabnews.com/node/2649756/middle-east) - archive: archive/latest/headlines/01-2649756-in-south-lebanon-israel-army-chief-vows-to-act-decisively-against-hezb/content.md
+2. [ore of the Red Sea in Yemen's Khokha district, south of Hodeida on October 20, 2024. (AFP)](https://www.arabnews.com/node/2649726/middle-east) - archive: archive/latest/headlines/02-2649726-ore-of-the-red-sea-in-yemens-khokha-district-south-of-hodeida-on-octob/content.md
+3. [French President Emmanuel Macron and Syrian President Ahmad Al-Sharaa at the UN headquarters in Sept. 2025. (File/AFP)](https://www.arabnews.com/node/2649735/middle-east) - archive: archive/latest/headlines/03-2649735-french-president-emmanuel-macron-and-syrian-president-ahmad-al-sharaa-/content.md
+4. [Dr. Hussam Abu Safiya was seized by Israeli forces 18 months ago. (WAFA)](https://www.arabnews.com/node/2649742/middle-east) - archive: archive/latest/headlines/04-2649742-dr-hussam-abu-safiya-was-seized-by-israeli-forces-18-months-ago-wafa/content.md

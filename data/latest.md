@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-05T04:41:43.610Z
+Fetched at: 2026-07-05T10:39:00.571Z
 Target date: 2026-07-05 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-05 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Israeli military says killed armed militant in south Lebanon](https://www.arabnews.com/node/2649689/middle-east) - archive: archive/latest/headlines/01-2649689-israeli-military-says-killed-armed-militant-in-south-lebanon/content.md
-2. [Lebanese president urges US to ‘keep standing’ by country](https://www.arabnews.com/node/2649641/middle-east) - archive: archive/latest/headlines/02-2649641-lebanese-president-urges-us-to-keep-standing-by-country/content.md
-3. [Fate of Gaza Strip ‘eclipsed and forgotten’ amid Middle East war](https://www.arabnews.com/node/2649638/middle-east) - archive: archive/latest/headlines/03-2649638-fate-of-gaza-strip-eclipsed-and-forgotten-amid-middle-east-war/content.md
-4. [Morocco beat co-hosts Canada to reach quarter-finals of World Cup](https://www.arabnews.com/node/2649676/sport) - archive: archive/latest/headlines/04-2649676-morocco-beat-co-hosts-canada-to-reach-quarter-finals-of-world-cup/content.md
+1. [British military says cargo ship reports being under attack in the Red Sea off the coast of Yemen](https://www.arabnews.com/node/2649726/middle-east) - archive: archive/latest/headlines/01-2649726-british-military-says-cargo-ship-reports-being-under-attack-in-the-red/content.md
+2. [Saudi diplomacy is key to ending Sudan war, EU special representative for the Horn of Africa tells Arab News](https://www.arabnews.com/node/2649687/middle-east) - archive: archive/latest/headlines/02-2649687-saudi-diplomacy-is-key-to-ending-sudan-war-eu-special-representative-f/content.md
+3. [Trump mixes patriotism with partisanship as he celebrates America’s ‘joyous’ 250th anniversary](https://www.arabnews.com/node/2649705/world) - archive: archive/latest/headlines/03-2649705-trump-mixes-patriotism-with-partisanship-as-he-celebrates-america-s-jo/content.md
+4. [Patient Morocco beat co-hosts Canada to set up quarterfinal against France](https://www.arabnews.com/node/2649716/sport) - archive: archive/latest/headlines/04-2649716-patient-morocco-beat-co-hosts-canada-to-set-up-quarterfinal-against-fr/content.md

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T17:48:03.436Z",
+  "fetchedAt": "2026-07-06T20:07:09.651Z",
   "targetDate": {
     "iso": "2026-07-06",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 101,
+    "itemCount": 112,
     "window": {
       "hours": 24,
-      "start": "2026-07-05T17:48:03.436Z",
-      "end": "2026-07-06T17:48:03.436Z",
+      "start": "2026-07-05T20:07:09.651Z",
+      "end": "2026-07-06T20:07:09.651Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-06T17:53:44.654Z",
+    "capturedAt": "2026-07-06T20:13:22.194Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-06",
     "itemCount": 7,
@@ -221,11 +221,9 @@
           "video": "rendered-clips/2026-07-06/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381867/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/37B1CCF60DB73370A222CA8B6506C2A9BEDE3FC0.8088076B3BBD8C139A37063EAC2810DBBF90AFED/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381867/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4AE5A0EEAD44D115C723478C37D25E0510670691.393D3E992A8ED7040C3666FB073D815DA20D8078/key/cms1/cms_redirect/yes/met/1783360277,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783359973/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4c942b_2def42d25ad262644cf5fef137fd16cabcc28ffd/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4c942b_2def42d25ad262644cf5fef137fd16cabcc28ffd/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4cb753_7593f8e579a476ec1205dec2c99019b7fd2105bb/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4cb753_7593f8e579a476ec1205dec2c99019b7fd2105bb/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,9 +233,9 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-06/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381867/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/37B1CCF60DB73370A222CA8B6506C2A9BEDE3FC0.8088076B3BBD8C139A37063EAC2810DBBF90AFED/key/ck2/file/file.mp4",
+          "url": "https://content.jwplatform.com/videos/ngVuDIbE-C8cpcmty.mp4",
           "contentType": "video/mp4",
-          "bytes": 1384740,
+          "bytes": 14628051,
           "method": "direct"
         }
       },
@@ -257,10 +255,8 @@
           "video": "rendered-clips/2026-07-06/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381894/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3C2AB9E3F482992183F512B5EA6972C9F1DD7D90.63A2B00270D6DA7A4035DF8B6C62A21B08C8F3A5/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381894/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/8109A649FDB91066D36744B7D98A5FFD0DAD71C9.14AF436488D297D58D1AA637B5E38196846A1ED2/key/cms1/cms_redirect/yes/met/1783360304,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783359973/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4c9707_514710434f04660de4f64db9a49d95752e6b4a40/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4cb6ab_403722783909543ae462ae4c263d6391dca1cf0a/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,9 +266,9 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-06/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381894/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3C2AB9E3F482992183F512B5EA6972C9F1DD7D90.63A2B00270D6DA7A4035DF8B6C62A21B08C8F3A5/key/ck2/file/file.mp4",
+          "url": "https://content.jwplatform.com/videos/tfVCFaJG-C8cpcmty.mp4",
           "contentType": "video/mp4",
-          "bytes": 1384740,
+          "bytes": 8233121,
           "method": "direct"
         }
       },
@@ -292,10 +288,8 @@
           "video": "rendered-clips/2026-07-06/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381925/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/85CEABE4EA17C5FEF5408440C192C0CCEBCCC990.9888DADA2F64453164C34AA94AAAF74C01233165/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381925/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/60C1BA15F8876B761931DC8CD3D03242C9FB409E.6EB15DF6C706005C78E0C727C9A4364F4743B0E7/key/cms1/cms_redirect/yes/met/1783360332,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783359973/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4c95c6_2a14dc47eed119eb3ca61b193ecd8e9c5b094fbe/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4cb56a_663fb34cc13718302a4f41608dbb2914bad30047/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -305,9 +299,9 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-06/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381925/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/85CEABE4EA17C5FEF5408440C192C0CCEBCCC990.9888DADA2F64453164C34AA94AAAF74C01233165/key/ck2/file/file.mp4",
+          "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
           "contentType": "video/mp4",
-          "bytes": 1384740,
+          "bytes": 7265426,
           "method": "direct"
         }
       },
@@ -327,10 +321,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381946/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A66FE16E47A5671CD1B219BD7EE6D29E408AF7BC.61B13E6F86906791E0E7D15184966BE426D14282/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381946/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/408B9DB9235425854284A8C8C75B0C4613F67ECF.489D01AAAC4DC8F520526FC5E571801977BCF873/key/cms1/cms_redirect/yes/met/1783360352,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783359973/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/8nyr9Zxo.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4c9551_6b82f10a01459e115175ac9979043314be4f96de/sites/wPTWN2YS/media/8nyr9Zxo/versions/1H3lCAXh/manifest.ism/manifest-audio_0_qmdNIpS3_Vb9Nu5yT=112015-video_0_qmdNIpS3_KEqz4c0t=787332.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4cb4f5_164f3b9aab5477d1ed26d031778b90c17bafcfe2/sites/wPTWN2YS/media/8nyr9Zxo/versions/1H3lCAXh/manifest.ism/manifest-audio_0_qmdNIpS3_Vb9Nu5yT=112015-video_0_qmdNIpS3_KEqz4c0t=787332.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2649826-hamas-announces-dissolution-of-gaza-governing-body/image.jpg",
@@ -356,10 +348,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381966/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1A196A28A3154AE76BD5F3C1FB93FD7A5A461AF5.AEB9B501C665E79A6E6E646CCB5BBEF995184CB0/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381966/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/73D90EC2C66292C2AC35FD923B3D898B16E6EB07.19662B6C8369107AB5E27B582CDC2F21A113CAEB/key/cms1/cms_redirect/yes/met/1783360372,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783360211/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/9r9f0lnr.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4c968b_0d1816d274a93d19367e4c17a6ff37ab9825f60a/sites/wPTWN2YS/media/9r9f0lnr/versions/0rCUCiUE/manifest.ism/manifest-audio_0_zQT1PKhb_uMzQWu7i=112047-video_0_zQT1PKhb_Y2Yo219B=299955.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4cb62f_fd89b6c251f027b9a40b51f15895309523b3acf1/sites/wPTWN2YS/media/9r9f0lnr/versions/0rCUCiUE/manifest.ism/manifest-audio_0_zQT1PKhb_uMzQWu7i=112047-video_0_zQT1PKhb_Y2Yo219B=299955.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2649865-president-donald-trump-speaks-after-ringing-the-opening-bell-for-the-n/image.jpg",
@@ -385,10 +375,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381989/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/73F9E699A12FF0565633E025FF141E9C9C80227B.BB94F1E161C412CBF1FB408C75CD73B230D863E3/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783381989/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6AE31A2A5081FEBAB1ECB6103DCC409BF3B8ADB7.6921B18D55D1B9345F0C329030A7910AAD592916/key/cms1/cms_redirect/yes/met/1783360396,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783360211/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/59yO3Ckr.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4c947c_56b04ecfe96ae7cdf68c55b5d3cdddbebbce7d5f/sites/wPTWN2YS/media/59yO3Ckr/versions/6sDhr1h5/manifest.ism/manifest-audio_0_obJdOISY_L1oVM70e=112076-video_0_obJdOISY_sEvzlOSl=956192.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4cb7a4_d17782d8c2431798db9f5519d72cb25a2f3ebd8d/sites/wPTWN2YS/media/59yO3Ckr/versions/6sDhr1h5/manifest.ism/manifest-audio_0_obJdOISY_L1oVM70e=112076-video_0_obJdOISY_sEvzlOSl=956192.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/image.jpg",
@@ -413,10 +401,7 @@
           "image": "archive/latest/headlines/04-2649869-lebanese-christian-villages-reject-netanyahu-s-annexation-claim-in-ple/image.jpg",
           "video": null
         },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783382009/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/853BC7D73C5343846E3CD76FF2F2952F2B3DD1BA.23CDA66E9A4AF6AAB4DD3CB1A44D28AF84364E1F/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783382009/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2CC1678095A1D17659F5187D105731E4735630FC.7F9F871F8AFA5CF3B2D8A9319EFA367E388CD904/key/cms1/cms_redirect/yes/met/1783360413,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783360342/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
+        "videoUrls": [],
         "image": {
           "path": "archive/latest/headlines/04-2649869-lebanese-christian-villages-reject-netanyahu-s-annexation-claim-in-ple/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/06/4728611-1462812753.jpg?itok=HKIUk49L",

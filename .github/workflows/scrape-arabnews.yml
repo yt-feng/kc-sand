@@ -15,6 +15,7 @@ permissions:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+  RETENTION_DAYS: "3"
 
 jobs:
   scrape:
@@ -30,6 +31,11 @@ jobs:
         with:
           node-version: 22
           cache: npm
+
+      - name: Prune old rendered clips
+        run: npm run prune:retention
+        env:
+          TIME_ZONE: Asia/Riyadh
 
       - name: Install dependencies
         run: npm ci
@@ -92,3 +98,16 @@ jobs:
             git commit -m "Update Arab News scrape"
             git push
           fi
+
+      - name: Clean runner workspace
+        if: always()
+        run: |
+          echo "Disk before cleanup:"
+          df -h .
+          rm -rf node_modules artifacts
+          find rendered-clips -type f -delete 2>/dev/null || true
+          find rendered-clips -type d -empty -delete 2>/dev/null || true
+          find archive/latest -type f \( -name '*.jpg' -o -name '*.jpeg' -o -name '*.png' -o -name '*.webp' -o -name '*.gif' \) -delete 2>/dev/null || true
+          git gc --prune=now || true
+          echo "Disk after cleanup:"
+          df -h .

@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "prune:retention": "node scripts/prune-retention.mjs",
     "scrape": "node scripts/scrape-arabnews.mjs",
     "test": "node --test"
   },

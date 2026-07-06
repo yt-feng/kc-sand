@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T06:04:48.018Z",
+  "fetchedAt": "2026-07-06T11:13:36.023Z",
   "targetDate": {
     "iso": "2026-07-06",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,39 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 98,
+    "itemCount": 99,
     "window": {
       "hours": 24,
-      "start": "2026-07-05T06:04:48.018Z",
-      "end": "2026-07-06T06:04:48.018Z",
+      "start": "2026-07-05T11:13:36.023Z",
+      "end": "2026-07-06T11:13:36.023Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession",
+        "url": "https://www.arabnews.com/node/2649806/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/06/4728468-1991734036.jpg?itok=SG0RtLJ4",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/metadata.json",
+            "content": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/content.md",
+            "text": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "How Oxford Union’s first Palestinian president became Britain’s most scrutinized student leader",
         "url": "https://www.arabnews.com/node/2649784/world",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s",
+          "directory": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/metadata.json",
-            "content": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/content.md",
-            "text": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/metadata.json",
+            "content": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/content.md",
+            "text": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/image.jpg",
+            "image": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/image.jpg",
             "video": null
           }
         }
@@ -119,60 +141,38 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
-        "archive": {
-          "directory": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/metadata.json",
-            "content": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/content.md",
-            "text": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/image.png",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Israel government says it will defy Supreme Court ruling on media regulator",
-        "url": "https://www.arabnews.com/node/2649814/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/06/4728475-1426723110.jpg?itok=nCaEVDnG",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu",
+          "directory": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/metadata.json",
-            "content": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/content.md",
-            "text": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/metadata.json",
+            "content": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/content.md",
+            "text": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/image.jpg",
+            "image": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/image.png",
             "video": null
           }
         }
       },
       {
-        "title": "Syrian security forces foil assassination cell in Hama province",
-        "url": "https://www.arabnews.com/node/2649811/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/06/4728467-1372016659.jpg?itok=PguYGDp3",
+        "title": "UN rights council orders urgent inquiry into Sudan’s Al-Obeid",
+        "url": "https://www.arabnews.com/node/2649825/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/06/4728499-998963471.jpg?itok=F0V_Im77",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province",
+          "directory": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/metadata.json",
-            "content": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/content.md",
-            "text": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/metadata.json",
+            "content": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/content.md",
+            "text": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/image.jpg",
+            "image": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-06T06:10:22.607Z",
+    "capturedAt": "2026-07-06T11:19:08.601Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-06",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-06/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339669/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/78E1235A74D08CDD7C52945D49B6BECF5FE691C7.53DF0EC38711CF9AC1921A757772DF9BA34A7B09/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339669/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/81B71BADD98027E597EAEF93D0BD5F2BA9FB11C4.7BA691FF77FD8BE17AF625D57A9602EE78A6A2F8/key/cms1/cms_redirect/yes/met/1783318078,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783317619/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358197/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/ABFE294E3593BFDA4DF90FD2187BEE2A2868B6B4.2BB7E3F75F6562BE862302A9E4D19D36AE436BEF/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358197/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5DB79AA453024FA93B641463A2139B273E55D782.571B80F8CE8B4B3AD6D52603E68E325400246CE3/key/cms1/cms_redirect/yes/met/1783336605,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783336110/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/ngVuDIbE.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4bf273_eaeb535688a8dbf1646da3c85dfb79208b106e6c/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4bf273_eaeb535688a8dbf1646da3c85dfb79208b106e6c/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4c38c3_4972f5994e6b3532f9a2aa945be9bbe640fd5f6d/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=463059.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4c38c3_4972f5994e6b3532f9a2aa945be9bbe640fd5f6d/sites/wPTWN2YS/media/ngVuDIbE/versions/kC2m3JpD/manifest.ism/manifest-audio_0_D4jEZeFj_53YG8VZI=112013-video_0_D4jEZeFj_JQDvfP5J=658664.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2640197-lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-06/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339669/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/78E1235A74D08CDD7C52945D49B6BECF5FE691C7.53DF0EC38711CF9AC1921A757772DF9BA34A7B09/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358197/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/ABFE294E3593BFDA4DF90FD2187BEE2A2868B6B4.2BB7E3F75F6562BE862302A9E4D19D36AE436BEF/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-06/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339699/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7BFC7BAF9BB7DCEA58CBCBFE6234CA1E29D61423.6545080C9103232450AEF1D0D4B9927F6DAADAF6/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339699/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5A15BA092A205A7B1DBA134A75B1A3D445D9EEDF.2F43A4A9002DCA13056D9049CC4A50F057458557/key/cms1/cms_redirect/yes/met/1783318106,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783317619/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358224/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0847E611ECCF2801A328527F333FB79424AEB933.9DA9ED094034D6B43A7BB1017AF7359AE2C8439D/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358224/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/41C37211D5D87C804530557DBC4E37D049800485.556FB54EC8E7C6B984179E315B655E9AD9471868/key/cms1/cms_redirect/yes/met/1783336633,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783336110/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/tfVCFaJG.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4bf1cb_99a80c7d7712c11268513579be93ba35504be93c/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4c381b_9f58976271ae328a356f47374e5b159f16f3a9df/sites/wPTWN2YS/media/tfVCFaJG/versions/vSfzRte1/manifest.ism/manifest-audio_0_gByzunHP_PL1UWTvm=112115-video_0_gByzunHP_00dhgZf9=675284.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2640092-israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-06/02_israel-and-lebanon-agree-to-10-day-ceasefire-in-push-for-permanent-pea.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339699/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7BFC7BAF9BB7DCEA58CBCBFE6234CA1E29D61423.6545080C9103232450AEF1D0D4B9927F6DAADAF6/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358224/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0847E611ECCF2801A328527F333FB79424AEB933.9DA9ED094034D6B43A7BB1017AF7359AE2C8439D/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-06/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339723/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1AAC794AA2F7F42C5266740B4859B658A706E22B.2F0FCBFF85BB876BCD988D94E4963A64F31A1DB5/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339723/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/14431BA088C8D3223AE3FB08171D611E325ACDC3.77C4501A1E31C0268ACCDB3FF3B5CAD37BE0DA8D/key/cms1/cms_redirect/yes/met/1783318131,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783317862/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358250/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8ED04AC99EE6E5FA9A2536CAE9C9DAE2D5265749.7570D2FBE3C2F55EE5E31870DB2DA633718BF05E/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358250/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6381FBDFBFAE23F01907EC9602FD64071A8B0370.3C65E66C9BB8A878C3745C294E0010880DC9678D/key/cms1/cms_redirect/yes/met/1783336657,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783336110/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4bf08a_362278c59efd360c54cdef0c2cdec5452b211632/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4c3a5e_00c69d229c0204dd681c7109dd49e1c0db4d4bd1/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2640086-southern-lebanon-hezbollah-kill-zone-israel-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-06/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339723/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1AAC794AA2F7F42C5266740B4859B658A706E22B.2F0FCBFF85BB876BCD988D94E4963A64F31A1DB5/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358250/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8ED04AC99EE6E5FA9A2536CAE9C9DAE2D5265749.7570D2FBE3C2F55EE5E31870DB2DA633718BF05E/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -314,24 +314,53 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "How Oxford Union’s first Palestinian president became Britain’s most scrutinized student leader",
-        "url": "https://www.arabnews.com/node/2649784/world",
-        "directory": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s",
+        "title": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession",
+        "url": "https://www.arabnews.com/node/2649806/middle-east",
+        "directory": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/metadata.json",
-          "content": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/content.md",
-          "text": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/metadata.json",
+          "content": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/content.md",
+          "text": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/image.jpg",
+          "image": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339747/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/108D6F8BA5DB18C10BFB6F1BE239177EFCDB7ED7.9D2E63356B9473A1700710C0C65E54B088D5605C/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339747/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/07E6D69541DA30992DF3A76FA69CB232B0649441.14702CF860EC2A672949C94DF6A409337C15CF39/key/cms1/cms_redirect/yes/met/1783318151,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783318091/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358272/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/391B005FD7D7AB88E6DC81A7778F8DDF8FC006BD.913CD50F8A9B88B66A8DA29BD4A99BC3E2D99076/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358272/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/19E78368088AF4990B1F3908291665437B8B6D1B.4BE9B18012E5161EAA5907B620C37E7B62594352/key/cms1/cms_redirect/yes/met/1783336677,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783336528/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://cdn.jwplayer.com/manifests/sj9NsS2L.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4c38e5_eed7d69266cf51f8710533d3914263aab8f6a63e/sites/wPTWN2YS/media/sj9NsS2L/versions/O5p87cSL/manifest.ism/manifest-audio_0_EDYKNv0f_3XSyYkUr=112009-video_0_EDYKNv0f_a4EDowKu=989873.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/image.jpg",
+          "path": "archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/06/4728468-1991734036.jpg?itok=ccikIgx6",
+          "contentType": "image/jpeg",
+          "bytes": 62809
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "How Oxford Union’s first Palestinian president became Britain’s most scrutinized student leader",
+        "url": "https://www.arabnews.com/node/2649784/world",
+        "directory": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/metadata.json",
+          "content": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/content.md",
+          "text": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358293/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0D0F10E1C8982362EA197AAD4A2A1D2082D2CE66.5A0516EA23852189987D40D6B2582ED2820A0348/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358293/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/10D79003FEC66B703B414D0D30A164859F6E9DC0.6A47E52599E6C24CC77FF387F017CBC2EA32D310/key/cms1/cms_redirect/yes/met/1783336698,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783336110/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/05/4728374-1113268321.jpg?itok=K5wIeIcx",
           "contentType": "image/jpeg",
           "bytes": 52610
@@ -340,25 +369,25 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "What Hussam Abu Safiya’s case shows about the limits of international pressure",
         "url": "https://www.arabnews.com/node/2649781/middle-east",
-        "directory": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-",
+        "directory": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/metadata.json",
-          "content": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/content.md",
-          "text": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/metadata.json",
+          "content": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/content.md",
+          "text": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/image.png",
+          "image": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/image.png",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339768/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3110D25D434571BDF7345270D15792045C6084EA.372A6D47344487334D2A4552F124DC605CC3B56F/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339768/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6F7BB4FB8FC58B8C056C15E4F21683A0C2BE7808.30F058BF9B605645580A8B49AEADE0252388E791/key/cms1/cms_redirect/yes/met/1783318173,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783317619/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358313/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8B86DB9D6413CF48955A50BC60C5F81F9280697F.6505E1935AEAC5C3AEB036B3591AE341396CBE7F/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358313/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2F7615472EDC5E3B8404954CF78619BE2893F46C.26657347AB5D87054DE0D43C2D6228FC7B72189D/key/cms1/cms_redirect/yes/met/1783336719,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783336110/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/image.png",
+          "path": "archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/image.png",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/05/4728380-613263905.png?itok=L3rZab6O",
           "contentType": "image/png",
           "bytes": 210062
@@ -367,55 +396,28 @@
       },
       {
         "group": "headlines",
-        "index": 2,
-        "title": "Israel government says it will defy Supreme Court ruling on media regulator",
-        "url": "https://www.arabnews.com/node/2649814/middle-east",
-        "directory": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/metadata.json",
-          "content": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/content.md",
-          "text": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339787/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/98CD44368B8C426B76C1A6FD70485D469DBAD28A.64F766142365323831F1E6C57FD81AA0F80C7703/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339787/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1FAAC076DEBD22EC404C334E43551BF6F3EB8C0D.729164E5C8732FF3D3559704BACE893853BEE128/key/cms1/cms_redirect/yes/met/1783318192,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783317862/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/06/4728475-1426723110.jpg?itok=kq8nEaJq",
-          "contentType": "image/jpeg",
-          "bytes": 25999
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
         "index": 3,
-        "title": "Syrian security forces foil assassination cell in Hama province",
-        "url": "https://www.arabnews.com/node/2649811/middle-east",
-        "directory": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province",
+        "title": "UN rights council orders urgent inquiry into Sudan’s Al-Obeid",
+        "url": "https://www.arabnews.com/node/2649825/middle-east",
+        "directory": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/metadata.json",
-          "content": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/content.md",
-          "text": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/metadata.json",
+          "content": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/content.md",
+          "text": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/image.jpg",
+          "image": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339808/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/340A251DD908FC545E19030C99FCD8C5CD6292CA.4E0398A7A28C48DAEB5CD38BB99B54FB0C7178B4/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783339808/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/146B65915DC62D38978AEF342DD72EC5FD70A1E3.02FCD3115C832027E6D2ABB10B4A2436F6DD1DB1/key/cms1/cms_redirect/yes/met/1783318213,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783317862/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358332/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5C0418BEBF4F97ECB1177AE441C280B703C201EE.9A132AA283F41871261B45A6E886512450395E35/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783358332/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0E8BF1529A9C4661D6269CA4CA33179DCCA681AD.6DA21DD48C1FAFE7B9D3AF9BAFF8B6125BF5B919/key/cms1/cms_redirect/yes/met/1783336738,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783336110/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/06/4728467-1372016659.jpg?itok=TW804Ayr",
+          "path": "archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/06/4728499-998963471.jpg?itok=KMj1ZaCG",
           "contentType": "image/jpeg",
-          "bytes": 35911
+          "bytes": 63280
         },
         "video": null
       }

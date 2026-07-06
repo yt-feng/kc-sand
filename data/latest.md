@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-06T06:04:48.018Z
+Fetched at: 2026-07-06T11:13:36.023Z
 Target date: 2026-07-06 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-06 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [How Oxford Union’s first Palestinian president became Britain’s most scrutinized student leader](https://www.arabnews.com/node/2649784/world) - archive: archive/latest/headlines/01-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/content.md
-2. [What Hussam Abu Safiya’s case shows about the limits of international pressure](https://www.arabnews.com/node/2649781/middle-east) - archive: archive/latest/headlines/02-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/content.md
-3. [Israel government says it will defy Supreme Court ruling on media regulator](https://www.arabnews.com/node/2649814/middle-east) - archive: archive/latest/headlines/03-2649814-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regu/content.md
-4. [Syrian security forces foil assassination cell in Hama province](https://www.arabnews.com/node/2649811/middle-east) - archive: archive/latest/headlines/04-2649811-syrian-security-forces-foil-assassination-cell-in-hama-province/content.md
+1. [Iranian mourners call for vengeance on Trump during Khamenei funeral procession](https://www.arabnews.com/node/2649806/middle-east) - archive: archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/content.md
+2. [How Oxford Union’s first Palestinian president became Britain’s most scrutinized student leader](https://www.arabnews.com/node/2649784/world) - archive: archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/content.md
+3. [What Hussam Abu Safiya’s case shows about the limits of international pressure](https://www.arabnews.com/node/2649781/middle-east) - archive: archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/content.md
+4. [UN rights council orders urgent inquiry into Sudan’s Al-Obeid](https://www.arabnews.com/node/2649825/middle-east) - archive: archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/content.md

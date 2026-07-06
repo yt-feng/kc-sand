@@ -16,6 +16,7 @@ BEIRUT: Christian leaders in southern Lebanon have firmly rejected Israeli Prime
 
 ## Video Or Embed URLs
 
+- https://f777e1d93b39b2da674dd26acc5dad71.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

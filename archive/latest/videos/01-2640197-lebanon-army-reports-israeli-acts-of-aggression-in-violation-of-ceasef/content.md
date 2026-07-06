@@ -16,8 +16,9 @@ BEIRUT: Lebanon’s army reported “acts of aggression” by Israel on Friday, 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/2ad64d8d-e7c7-489c-87f7-58ae1c5d1ee7
+- blob:https://www.arabnews.com/b59e9e7c-87c6-4e47-84f9-027c0cdfc926
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://94d326dfc3cfadafe99b19b91b9e8a2d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
@@ -26,7 +27,7 @@ BEIRUT: Lebanon’s army reported “acts of aggression” by Israel on Friday, 
 
 ## Downloaded Video
 
-- [01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4](../../../rendered-clips/2026-07-06/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4)
+- [01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4](../../../rendered-clips/2026-07-07/01_lebanon-army-reports-israeli-acts-of-aggression-in-violation-of-ceasef.mp4)
 
 ## Text
 

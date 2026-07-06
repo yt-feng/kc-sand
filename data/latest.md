@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-06T11:13:36.023Z
+Fetched at: 2026-07-06T14:43:47.969Z
 Target date: 2026-07-06 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-07-06 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Iranian mourners call for vengeance on Trump during Khamenei funeral procession](https://www.arabnews.com/node/2649806/middle-east) - archive: archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/content.md
-2. [How Oxford Union’s first Palestinian president became Britain’s most scrutinized student leader](https://www.arabnews.com/node/2649784/world) - archive: archive/latest/headlines/02-2649784-how-oxford-union-s-first-palestinian-president-became-britain-s-most-s/content.md
-3. [What Hussam Abu Safiya’s case shows about the limits of international pressure](https://www.arabnews.com/node/2649781/middle-east) - archive: archive/latest/headlines/03-2649781-what-hussam-abu-safiya-s-case-shows-about-the-limits-of-international-/content.md
+2. [First responders inspect the wreckage of a car reportedly targeted by an Israeli strike in Nabatieh on July 6, 2026. (AFP)](https://www.arabnews.com/node/2649837/middle-east) - archive: archive/latest/headlines/02-2649837-first-responders-inspect-the-wreckage-of-a-car-reportedly-targeted-by-/content.md
+3. [‘We want to know he’s safe’ — family awaits Israeli response on detained Gaza doctor after court order](https://www.arabnews.com/node/2649850/middle-east) - archive: archive/latest/headlines/03-2649850-we-want-to-know-he-s-safe-family-awaits-israeli-response-on-detained-g/content.md
 4. [UN rights council orders urgent inquiry into Sudan’s Al-Obeid](https://www.arabnews.com/node/2649825/middle-east) - archive: archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/content.md

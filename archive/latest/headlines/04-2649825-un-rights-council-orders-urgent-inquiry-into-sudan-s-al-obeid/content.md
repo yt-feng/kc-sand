@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2649825/middle-east
 Captured source: https://www.arabnews.com/node/2649825/middle-east
 Published: 2026-07-06T11:56:55+03:00
-Modified: 2026-07-06T12:56:39+03:00
+Modified: 2026-07-06T17:46:33+03:00
 Author: Reuters
 
 ## Summary
@@ -16,11 +16,11 @@ GENEVA: The UN Human Rights Council on Monday passed a motion condemning ​the 
 
 ## Video Or Embed URLs
 
-- https://3b9edb72e6253a8df3ed0b1f4e514e2d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://3e8607d8099dfd91f21d2e958175c653.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649825%2Fmiddle-east
 

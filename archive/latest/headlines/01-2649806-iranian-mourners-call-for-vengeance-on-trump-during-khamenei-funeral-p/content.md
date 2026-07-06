@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2649806/middle-east
 Captured source: https://www.arabnews.com/node/2649806/middle-east
 Published: 2026-07-06T12:29:13+03:00
-Modified: 2026-07-06T12:48:57+03:00
+Modified: 2026-07-06T14:52:58+03:00
 Author: Agencies
 
 ## Summary
@@ -16,11 +16,12 @@ TEHRAN: Crowds of Iranians marched through the streets of Tehran on Monday in a 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/eb2384d7-cb19-491b-9679-6930549a7dea
+- blob:https://www.arabnews.com/4eaa1855-58a6-420c-b7ef-4580a67b7ae5
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://8076734bbaf12894691c6f9db9cf888d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://119c5cb5f549cb3b0fe619e234ca7b1d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649806%2Fmiddle-east
 

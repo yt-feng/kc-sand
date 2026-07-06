@@ -1,13 +1,115 @@
 {
-  "fetchedAt": "2026-07-06T21:56:12.548Z",
+  "fetchedAt": "2026-07-06T23:16:27.274Z",
   "window": {
     "hours": 24,
-    "start": "2026-07-05T21:56:12.548Z",
-    "end": "2026-07-06T21:56:12.548Z",
+    "start": "2026-07-05T23:16:27.274Z",
+    "end": "2026-07-06T23:16:27.274Z",
     "futureLeewayMinutes": 15
   },
-  "itemCount": 114,
+  "itemCount": 113,
   "items": [
+    {
+      "title": "Marine Le Pen’s presidential hopes rest on French court verdict",
+      "url": "https://www.arabnews.com/node/2649913/world",
+      "section": "world",
+      "publishedAt": "2026-07-06T22:44:46.000Z",
+      "publishedRaw": "2026-07-07T01:44:46+03:00",
+      "modifiedAt": "2026-07-06T22:49:16.000Z",
+      "modifiedRaw": "2026-07-07T01:49:16+03:00",
+      "description": "PARIS: After months of uncertainty, French far-right leader Marine ​Le Pen will learn on Tuesday from a Paris appeal court whether an electoral ban for illicit party financing will prevent her running in next year’s presidential election. Le Pen’s presidential hopes have been in limbo since March 2025, when she received a five-year ban from public office for embezzling more",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/07/4728733-2077417853.jpg?itok=coR4ud2p",
+      "author": "Reuters",
+      "nodeId": 2649913,
+      "candidateUrl": "https://www.arabnews.com/node/2649913/world",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-07-06T22:44:46+00:00",
+          "order": 0
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 36
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 10
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 22
+        }
+      ]
+    },
+    {
+      "title": "Charlie Kirk widow comes face-to-face with alleged killer",
+      "url": "https://www.arabnews.com/node/2649912/world",
+      "section": "world",
+      "publishedAt": "2026-07-06T22:21:44.000Z",
+      "publishedRaw": "2026-07-07T01:21:44+03:00",
+      "modifiedAt": "2026-07-06T22:21:44.000Z",
+      "modifiedRaw": "2026-07-07T01:21:44+03:00",
+      "description": "LOS ANGELES, United States: The widow of assassinated right-wing activist Charlie Kirk came face-to-face Monday with the man alleged to have killed him, during a court hearing in the western United States. Erika Kirk was among those attending a preliminary hearing that will determine if there is enough evidence for 23-year-old Tyler Robinson to face trial over the September",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/07/4728730-1590359065.jpg?itok=dGxH_4MM",
+      "author": "AFP",
+      "nodeId": 2649912,
+      "candidateUrl": "https://www.arabnews.com/node/2649912/world",
+      "sources": [
+        {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-07-06T22:21:44+00:00",
+          "order": 1
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 0
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 0
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "title": "Photos of Cristiano Ronaldo at 6 World Cups, from 2006 debut to 2026 finale",
+      "url": "https://www.arabnews.com/node/2649911/photos-cristiano-ronaldo-6-world-cups-2006-debut-2026-finale",
+      "section": "",
+      "publishedAt": "2026-07-06T22:12:11.000Z",
+      "publishedRaw": "2026-07-07T01:12:11+03:00",
+      "modifiedAt": "2026-07-06T22:28:28.000Z",
+      "modifiedRaw": "2026-07-07T01:28:28+03:00",
+      "description": "Portugal captain Cristiano Ronaldo made his World Cup debut in 2006 in Germany. He and Lionel Messi of Argentina are the only players to appear in six World Cups.",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/gallery/main-image/2026/07/07/4728731-1788041702.jpg?itok=2vF9NzW5",
+      "author": "AP",
+      "nodeId": 2649911,
+      "candidateUrl": "https://www.arabnews.com/node/2649911/photos-cristiano-ronaldo-6-world-cups-2006-debut-2026-finale",
+      "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 54
+        }
+      ]
+    },
     {
       "title": "Spain win it late to bid farewell to Ronaldo at World Cup",
       "url": "https://www.arabnews.com/node/2649910/sport",
@@ -23,8 +125,44 @@
       "candidateUrl": "https://www.arabnews.com/node/2649910/sport",
       "sources": [
         {
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-07-06T21:33:47+00:00",
+          "order": 2
+        },
+        {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 1
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 0
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 0
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world",
+          "datePublished": null,
+          "order": 1
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 1
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
           "order": 0
         },
@@ -37,6 +175,12 @@
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 0
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
           "order": 0
         }
@@ -60,13 +204,19 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T21:07:16+00:00",
-          "order": 0
+          "order": 3
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
           "order": 37
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
+          "datePublished": null,
+          "order": 23
         },
         {
           "source": "dom",
@@ -84,7 +234,19 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 10
+          "order": 11
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
+          "datePublished": null,
+          "order": 23
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
+          "datePublished": null,
+          "order": 25
         }
       ]
     },
@@ -106,11 +268,17 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T21:02:45+00:00",
-          "order": 1
+          "order": 4
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
           "order": 1
         },
@@ -118,7 +286,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 0
+          "order": 1
         },
         {
           "source": "dom",
@@ -130,13 +298,19 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 0
+          "order": 2
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 0
+          "order": 2
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/economy",
+          "datePublished": null,
+          "order": 1
         },
         {
           "source": "dom",
@@ -147,6 +321,12 @@
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 1
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
           "order": 1
         }
@@ -170,25 +350,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T20:33:30+00:00",
-          "order": 2
+          "order": 5
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 2
+          "order": 3
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
-          "order": 0
+          "order": 2
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 1
+          "order": 2
         },
         {
           "source": "dom",
@@ -200,19 +380,19 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 1
+          "order": 3
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 1
+          "order": 3
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 0
+          "order": 2
         },
         {
           "source": "dom",
@@ -230,7 +410,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 0
+          "order": 2
         }
       ]
     },
@@ -252,25 +432,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T20:29:43+00:00",
-          "order": 3
+          "order": 6
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 3
+          "order": 4
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
-          "order": 1
+          "order": 3
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 2
+          "order": 3
         },
         {
           "source": "dom",
@@ -282,19 +462,19 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 2
+          "order": 4
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 2
+          "order": 4
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 1
+          "order": 3
         },
         {
           "source": "dom",
@@ -312,7 +492,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 1
+          "order": 3
         }
       ]
     },
@@ -334,25 +514,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T20:18:08+00:00",
-          "order": 4
+          "order": 7
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 4
+          "order": 5
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
-          "order": 2
+          "order": 4
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 3
+          "order": 4
         },
         {
           "source": "dom",
@@ -364,19 +544,19 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 3
+          "order": 5
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 3
+          "order": 5
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 2
+          "order": 4
         },
         {
           "source": "dom",
@@ -394,7 +574,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 2
+          "order": 4
         }
       ]
     },
@@ -416,25 +596,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T20:07:26+00:00",
-          "order": 5
+          "order": 8
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 5
+          "order": 6
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
-          "order": 3
+          "order": 5
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 4
+          "order": 5
         },
         {
           "source": "dom",
@@ -446,19 +626,19 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 4
+          "order": 6
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 4
+          "order": 6
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 3
+          "order": 5
         },
         {
           "source": "dom",
@@ -476,7 +656,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 3
+          "order": 5
         }
       ]
     },
@@ -498,25 +678,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:58:22+00:00",
-          "order": 6
+          "order": 9
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 6
+          "order": 7
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
-          "order": 4
+          "order": 6
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 5
+          "order": 6
         },
         {
           "source": "dom",
@@ -528,19 +708,19 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 5
+          "order": 7
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 5
+          "order": 7
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 4
+          "order": 6
         },
         {
           "source": "dom",
@@ -558,7 +738,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 4
+          "order": 6
         }
       ]
     },
@@ -580,7 +760,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:44:53+00:00",
-          "order": 7
+          "order": 10
         },
         {
           "source": "dom",
@@ -620,25 +800,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:44:47+00:00",
-          "order": 8
+          "order": 11
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 7
+          "order": 8
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
-          "order": 5
+          "order": 7
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 6
+          "order": 7
         },
         {
           "source": "dom",
@@ -650,19 +830,19 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 6
+          "order": 8
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 6
+          "order": 8
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 5
+          "order": 7
         },
         {
           "source": "dom",
@@ -680,7 +860,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 5
+          "order": 7
         },
         {
           "source": "dom",
@@ -708,25 +888,25 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:36:55+00:00",
-          "order": 9
+          "order": 12
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 8
+          "order": 9
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
-          "order": 6
+          "order": 8
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 7
+          "order": 8
         },
         {
           "source": "dom",
@@ -738,19 +918,19 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 7
+          "order": 9
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 7
+          "order": 9
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 6
+          "order": 8
         },
         {
           "source": "dom",
@@ -768,7 +948,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 6
+          "order": 8
         },
         {
           "source": "dom",
@@ -796,25 +976,19 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:21:04+00:00",
-          "order": 10
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 9
+          "order": 13
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
-          "order": 7
+          "order": 9
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 8
+          "order": 9
         },
         {
           "source": "dom",
@@ -824,21 +998,9 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/economy",
           "datePublished": null,
-          "order": 7
+          "order": 9
         },
         {
           "source": "dom",
@@ -856,7 +1018,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
-          "order": 7
+          "order": 9
         }
       ]
     },
@@ -878,7 +1040,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:19:26+00:00",
-          "order": 11
+          "order": 14
         },
         {
           "source": "dom",
@@ -888,39 +1050,9 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
-          "datePublished": null,
-          "order": 9
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
           "order": 9
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
-          "datePublished": null,
-          "order": 9
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 9
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 8
         },
         {
           "source": "dom",
@@ -933,12 +1065,6 @@
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
           "order": 27
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 8
         },
         {
           "source": "dom",
@@ -966,19 +1092,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:17:47+00:00",
-          "order": 12
+          "order": 15
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
           "order": 17
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/saudiarabia",
-          "datePublished": null,
-          "order": 9
         },
         {
           "source": "dom",
@@ -991,18 +1111,6 @@
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
           "order": 10
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/economy",
-          "datePublished": null,
-          "order": 9
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/lifestyle",
-          "datePublished": null,
-          "order": 9
         },
         {
           "source": "dom",
@@ -1030,7 +1138,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:15:09+00:00",
-          "order": 13
+          "order": 16
         }
       ]
     },
@@ -1052,7 +1160,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:14:47+00:00",
-          "order": 14
+          "order": 17
         },
         {
           "source": "dom",
@@ -1064,7 +1172,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 11
+          "order": 12
         },
         {
           "source": "dom",
@@ -1092,7 +1200,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:14:01+00:00",
-          "order": 15
+          "order": 18
         },
         {
           "source": "dom",
@@ -1132,7 +1240,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 25
+          "order": 24
         },
         {
           "source": "dom",
@@ -1166,7 +1274,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:03:58+00:00",
-          "order": 16
+          "order": 19
         },
         {
           "source": "dom",
@@ -1212,7 +1320,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T19:01:05+00:00",
-          "order": 17
+          "order": 20
         },
         {
           "source": "dom",
@@ -1224,7 +1332,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 12
+          "order": 13
         },
         {
           "source": "dom",
@@ -1258,7 +1366,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T18:46:24+00:00",
-          "order": 18
+          "order": 21
         }
       ]
     },
@@ -1280,7 +1388,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T18:41:56+00:00",
-          "order": 19
+          "order": 22
         },
         {
           "source": "dom",
@@ -1326,7 +1434,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T18:41:48+00:00",
-          "order": 20
+          "order": 23
         },
         {
           "source": "dom",
@@ -1378,7 +1486,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T18:27:31+00:00",
-          "order": 21
+          "order": 24
         }
       ]
     },
@@ -1434,13 +1542,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T18:25:43+00:00",
-          "order": 22
+          "order": 25
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 33
+          "order": 32
         },
         {
           "source": "dom",
@@ -1480,7 +1588,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T18:25:21+00:00",
-          "order": 23
+          "order": 26
         },
         {
           "source": "dom",
@@ -1514,7 +1622,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T18:25:03+00:00",
-          "order": 24
+          "order": 27
         },
         {
           "source": "dom",
@@ -1554,7 +1662,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T17:49:35+00:00",
-          "order": 25
+          "order": 28
         },
         {
           "source": "dom",
@@ -1600,7 +1708,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T17:47:54+00:00",
-          "order": 26
+          "order": 29
         }
       ]
     },
@@ -1622,13 +1730,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T17:37:40+00:00",
-          "order": 27
+          "order": 30
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 34
+          "order": 33
         },
         {
           "source": "dom",
@@ -1668,7 +1776,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 26
+          "order": 25
         },
         {
           "source": "dom",
@@ -1702,13 +1810,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T17:36:06+00:00",
-          "order": 28
+          "order": 31
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 13
+          "order": 14
         },
         {
           "source": "dom",
@@ -1742,13 +1850,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T17:25:16+00:00",
-          "order": 29
+          "order": 32
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 35
+          "order": 34
         },
         {
           "source": "dom",
@@ -1776,7 +1884,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 27
+          "order": 26
         },
         {
           "source": "dom",
@@ -1810,7 +1918,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 28
+          "order": 27
         },
         {
           "source": "dom",
@@ -1844,7 +1952,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T17:01:57+00:00",
-          "order": 30
+          "order": 33
         },
         {
           "source": "dom",
@@ -1884,7 +1992,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T16:59:57+00:00",
-          "order": 31
+          "order": 34
         },
         {
           "source": "dom",
@@ -1918,7 +2026,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T16:43:59+00:00",
-          "order": 32
+          "order": 35
         }
       ]
     },
@@ -1940,7 +2048,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T16:14:44+00:00",
-          "order": 33
+          "order": 36
         },
         {
           "source": "dom",
@@ -1980,7 +2088,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T16:14:12+00:00",
-          "order": 34
+          "order": 37
         }
       ]
     },
@@ -2002,7 +2110,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T16:13:33+00:00",
-          "order": 35
+          "order": 38
         },
         {
           "source": "dom",
@@ -2036,7 +2144,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T16:07:43+00:00",
-          "order": 36
+          "order": 39
         },
         {
           "source": "dom",
@@ -2070,7 +2178,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T15:58:59+00:00",
-          "order": 37
+          "order": 40
         },
         {
           "source": "dom",
@@ -2116,13 +2224,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T15:55:21+00:00",
-          "order": 38
+          "order": 41
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 14
+          "order": 15
         },
         {
           "source": "dom",
@@ -2150,7 +2258,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T15:44:57+00:00",
-          "order": 39
+          "order": 42
         },
         {
           "source": "dom",
@@ -2178,7 +2286,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T15:36:10+00:00",
-          "order": 40
+          "order": 43
         },
         {
           "source": "dom",
@@ -2218,13 +2326,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T15:35:03+00:00",
-          "order": 41
+          "order": 44
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 15
+          "order": 16
         }
       ]
     },
@@ -2246,13 +2354,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T15:05:32+00:00",
-          "order": 42
+          "order": 45
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 36
+          "order": 35
         },
         {
           "source": "dom",
@@ -2280,7 +2388,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T14:59:54+00:00",
-          "order": 43
+          "order": 46
         },
         {
           "source": "dom",
@@ -2308,7 +2416,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T14:44:59+00:00",
-          "order": 44
+          "order": 47
         },
         {
           "source": "dom",
@@ -2336,7 +2444,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T14:39:48+00:00",
-          "order": 45
+          "order": 48
         },
         {
           "source": "dom",
@@ -2376,7 +2484,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T14:39:08+00:00",
-          "order": 46
+          "order": 49
         }
       ]
     },
@@ -2398,7 +2506,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T14:37:26+00:00",
-          "order": 47
+          "order": 50
         },
         {
           "source": "dom",
@@ -2426,7 +2534,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T14:27:53+00:00",
-          "order": 48
+          "order": 51
         },
         {
           "source": "dom",
@@ -2454,7 +2562,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T14:19:37+00:00",
-          "order": 49
+          "order": 52
         },
         {
           "source": "dom",
@@ -2482,7 +2590,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T14:06:55+00:00",
-          "order": 50
+          "order": 53
         },
         {
           "source": "dom",
@@ -2510,7 +2618,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T13:52:28+00:00",
-          "order": 51
+          "order": 54
         },
         {
           "source": "dom",
@@ -2550,7 +2658,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T13:41:00+00:00",
-          "order": 52
+          "order": 55
         },
         {
           "source": "dom",
@@ -2596,13 +2704,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T13:22:10+00:00",
-          "order": 53
+          "order": 56
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world",
           "datePublished": null,
-          "order": 16
+          "order": 17
         },
         {
           "source": "dom",
@@ -2636,7 +2744,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T13:22:07+00:00",
-          "order": 54
+          "order": 57
         }
       ]
     },
@@ -2658,7 +2766,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T13:06:41+00:00",
-          "order": 55
+          "order": 58
         },
         {
           "source": "dom",
@@ -2710,7 +2818,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T13:06:07+00:00",
-          "order": 56
+          "order": 59
         },
         {
           "source": "dom",
@@ -2778,7 +2886,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T12:38:41+00:00",
-          "order": 57
+          "order": 60
         },
         {
           "source": "dom",
@@ -2830,7 +2938,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T12:27:42+00:00",
-          "order": 58
+          "order": 61
         },
         {
           "source": "dom",
@@ -2876,7 +2984,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T12:18:21+00:00",
-          "order": 59
+          "order": 62
         }
       ]
     },
@@ -2898,7 +3006,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T12:16:46+00:00",
-          "order": 60
+          "order": 63
         },
         {
           "source": "dom",
@@ -2944,7 +3052,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T11:54:52+00:00",
-          "order": 61
+          "order": 64
         },
         {
           "source": "dom",
@@ -2990,7 +3098,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T11:27:40+00:00",
-          "order": 62
+          "order": 65
         },
         {
           "source": "dom",
@@ -3030,13 +3138,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T11:26:25+00:00",
-          "order": 63
+          "order": 66
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 17
+          "order": 10
         },
         {
           "source": "dom",
@@ -3076,13 +3184,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T11:11:32+00:00",
-          "order": 64
+          "order": 67
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world",
+          "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 18
+          "order": 11
         },
         {
           "source": "dom",
@@ -3116,7 +3224,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T11:08:07+00:00",
-          "order": 65
+          "order": 68
         },
         {
           "source": "dom",
@@ -3156,7 +3264,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T10:51:14+00:00",
-          "order": 66
+          "order": 69
         }
       ]
     },
@@ -3178,7 +3286,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T10:46:43+00:00",
-          "order": 67
+          "order": 70
         },
         {
           "source": "dom",
@@ -3212,7 +3320,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T10:38:08+00:00",
-          "order": 68
+          "order": 71
         },
         {
           "source": "dom",
@@ -3224,7 +3332,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 10
+          "order": 12
         },
         {
           "source": "dom",
@@ -3252,7 +3360,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T10:37:16+00:00",
-          "order": 69
+          "order": 72
         },
         {
           "source": "dom",
@@ -3286,7 +3394,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T10:23:34+00:00",
-          "order": 70
+          "order": 73
         },
         {
           "source": "dom",
@@ -3314,7 +3422,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T10:18:39+00:00",
-          "order": 71
+          "order": 74
         },
         {
           "source": "dom",
@@ -3348,7 +3456,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T10:15:03+00:00",
-          "order": 72
+          "order": 75
         },
         {
           "source": "dom",
@@ -3376,7 +3484,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T10:11:10+00:00",
-          "order": 73
+          "order": 76
         },
         {
           "source": "dom",
@@ -3416,13 +3524,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T10:07:29+00:00",
-          "order": 74
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 21
+          "order": 77
         },
         {
           "source": "dom",
@@ -3450,7 +3552,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T09:29:13+00:00",
-          "order": 75
+          "order": 78
         },
         {
           "source": "dom",
@@ -3490,7 +3592,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T09:04:22+00:00",
-          "order": 76
+          "order": 79
         }
       ]
     },
@@ -3512,7 +3614,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T09:00:23+00:00",
-          "order": 77
+          "order": 80
         },
         {
           "source": "dom",
@@ -3546,7 +3648,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T08:56:55+00:00",
-          "order": 78
+          "order": 81
         },
         {
           "source": "dom",
@@ -3574,7 +3676,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T08:22:46+00:00",
-          "order": 79
+          "order": 82
         }
       ]
     },
@@ -3596,7 +3698,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T08:08:22+00:00",
-          "order": 80
+          "order": 83
         }
       ]
     },
@@ -3618,7 +3720,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T07:58:47+00:00",
-          "order": 81
+          "order": 84
         },
         {
           "source": "dom",
@@ -3646,13 +3748,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T07:37:09+00:00",
-          "order": 82
+          "order": 85
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 11
+          "order": 13
         }
       ]
     },
@@ -3674,13 +3776,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T07:31:41+00:00",
-          "order": 83
+          "order": 86
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 12
+          "order": 14
         }
       ]
     },
@@ -3702,7 +3804,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T07:27:37+00:00",
-          "order": 84
+          "order": 87
         },
         {
           "source": "dom",
@@ -3730,13 +3832,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T07:03:55+00:00",
-          "order": 85
+          "order": 88
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 13
+          "order": 15
         }
       ]
     },
@@ -3758,13 +3860,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T06:38:42+00:00",
-          "order": 86
+          "order": 89
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 14
+          "order": 16
         }
       ]
     },
@@ -3786,13 +3888,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T06:34:42+00:00",
-          "order": 87
+          "order": 90
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 31
+          "order": 30
         },
         {
           "source": "dom",
@@ -3826,7 +3928,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T05:24:46+00:00",
-          "order": 88
+          "order": 91
         }
       ]
     },
@@ -3848,7 +3950,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T04:51:34+00:00",
-          "order": 89
+          "order": 92
         }
       ]
     },
@@ -3870,7 +3972,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T04:50:17+00:00",
-          "order": 90
+          "order": 93
         }
       ]
     },
@@ -3892,13 +3994,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T04:06:46+00:00",
-          "order": 91
+          "order": 94
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 15
+          "order": 17
         }
       ]
     },
@@ -3920,7 +4022,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T03:50:12+00:00",
-          "order": 92
+          "order": 95
         }
       ]
     },
@@ -3942,7 +4044,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T03:44:09+00:00",
-          "order": 93
+          "order": 96
         }
       ]
     },
@@ -3964,7 +4066,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T03:36:06+00:00",
-          "order": 94
+          "order": 97
         }
       ]
     },
@@ -3986,7 +4088,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T03:23:05+00:00",
-          "order": 95
+          "order": 98
         }
       ]
     },
@@ -4008,7 +4110,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T03:16:01+00:00",
-          "order": 96
+          "order": 99
         },
         {
           "source": "dom",
@@ -4021,28 +4123,6 @@
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
           "order": 23
-        }
-      ]
-    },
-    {
-      "title": "Maaloula: The Syrian town where the ancient Aramaic language still lives",
-      "url": "https://www.arabnews.com/node/2649805/maaloula-syrian-town-where-ancient-aramaic-language-still-lives",
-      "section": "",
-      "publishedAt": "2026-07-06T02:59:57.000Z",
-      "publishedRaw": "2026-07-06T05:59:57+03:00",
-      "modifiedAt": "2026-07-06T03:05:42.000Z",
-      "modifiedRaw": "2026-07-06T06:05:42+03:00",
-      "description": "Nestled among the rugged cliffs of the Qalamoun Mountains, about 56 kilometers north of Damascus, the Syrian town of Maaloula is one of the country’s most distinctive cultural and religious landmarks.",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/gallery/main-image/2026/07/06/4728447-1459596143.jpg?itok=zL1RrwKR",
-      "author": "SANA",
-      "nodeId": 2649805,
-      "candidateUrl": "https://www.arabnews.com/node/2649805/maaloula-syrian-town-where-ancient-aramaic-language-still-lives",
-      "sources": [
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 54
         }
       ]
     },
@@ -4064,7 +4144,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T02:18:05+00:00",
-          "order": 97
+          "order": 100
         },
         {
           "source": "dom",
@@ -4092,13 +4172,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T01:50:45+00:00",
-          "order": 98
+          "order": 101
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 16
+          "order": 18
         }
       ]
     },
@@ -4120,13 +4200,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T01:35:57+00:00",
-          "order": 99
+          "order": 102
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 17
+          "order": 19
         }
       ]
     },
@@ -4148,13 +4228,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T00:21:59+00:00",
-          "order": 100
+          "order": 103
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 18
+          "order": 20
         }
       ]
     },
@@ -4176,13 +4256,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-06T00:20:14+00:00",
-          "order": 101
+          "order": 104
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
-          "order": 19
+          "order": 21
         }
       ]
     },
@@ -4204,97 +4284,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-05T23:17:07+00:00",
-          "order": 102
+          "order": 105
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
           "order": 18
-        }
-      ]
-    },
-    {
-      "title": "Haaland knocks Brazil out of World Cup as Norway reach quarters",
-      "url": "https://www.arabnews.com/node/2649791/sport",
-      "section": "sport",
-      "publishedAt": "2026-07-05T22:34:27.000Z",
-      "publishedRaw": "2026-07-06T01:34:27+03:00",
-      "modifiedAt": "2026-07-06T08:04:35.000Z",
-      "modifiedRaw": "2026-07-06T11:04:35+03:00",
-      "description": "EAST RUTHERFORD, United States: Erling Haaland scored two late goals to send Norway through to a first World Cup quarter-final with a stunning 2-1 win over Brazil that condemned the five-time champions to their earliest exit since 1990. Norway goalkeeper Orlan Nyland produced a sensational display and saved a first-half penalty from Bruno Guimaraes before Haaland struck twice",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/06/4728418-1643880280.jpg?itok=kFrE1651",
-      "author": "AFP",
-      "nodeId": 2649791,
-      "candidateUrl": "https://www.arabnews.com/node/2649791/sport",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-07-05T22:34:27+00:00",
-          "order": 103
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
-          "datePublished": null,
-          "order": 19
-        }
-      ]
-    },
-    {
-      "title": "Venezuela leader vows ‘no social unrest here’ after quakes",
-      "url": "https://www.arabnews.com/node/2649790/world",
-      "section": "world",
-      "publishedAt": "2026-07-05T22:17:55.000Z",
-      "publishedRaw": "2026-07-06T01:17:55+03:00",
-      "modifiedAt": "2026-07-05T22:17:55.000Z",
-      "modifiedRaw": "2026-07-06T01:17:55+03:00",
-      "description": "CARACAS: Venezuela’s interim president said Sunday the country would not descend into social unrest after the twin earthquakes which killed nearly 3,000 and left thousands more missing. One of Latin America’s worst earthquake disasters, the June 24 shocks collapsed scores of buildings, leaving thousands homeless, especially in the coastal La Guaira area north of the capital",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/06/4728415-663777169.jpg?itok=kpyBAT0Y",
-      "author": "AFP",
-      "nodeId": 2649790,
-      "candidateUrl": "https://www.arabnews.com/node/2649790/world",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-07-05T22:17:55+00:00",
-          "order": 104
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 20
-        }
-      ]
-    },
-    {
-      "title": "Israel appoints first-ever resident ambassador to Slovenia",
-      "url": "https://www.arabnews.com/node/2649789/world",
-      "section": "world",
-      "publishedAt": "2026-07-05T21:57:40.000Z",
-      "publishedRaw": "2026-07-06T00:57:40+03:00",
-      "modifiedAt": "2026-07-05T22:07:57.000Z",
-      "modifiedRaw": "2026-07-06T01:07:57+03:00",
-      "description": "JERUSALEM: Israel said on Sunday it has named its first-ever resident ambassador to Slovenia, signalling a diplomatic reset after Ljubljana’s change of government. Ties between Israel and Slovenia had soured under the previous center-left government of prime minister Robert Golob, which had characterised Israel’s military offensive in Gaza as “genocide.” But ties have warmed",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/06/4728414-436812463.png?itok=e8du1gRK",
-      "author": "AFP",
-      "nodeId": 2649789,
-      "candidateUrl": "https://www.arabnews.com/node/2649789/world",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-07-05T21:57:40+00:00",
-          "order": 105
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/world?page=1",
-          "datePublished": null,
-          "order": 21
         }
       ]
     }
@@ -4326,7 +4322,7 @@
       },
       {
         "sourceUrl": "https://www.arabnews.com/saudiarabia",
-        "itemCount": 28,
+        "itemCount": 29,
         "challengeDetected": false
       },
       {
@@ -4346,12 +4342,12 @@
       },
       {
         "sourceUrl": "https://www.arabnews.com/world",
-        "itemCount": 24,
+        "itemCount": 23,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/world?page=1",
-        "itemCount": 27,
+        "itemCount": 29,
         "challengeDetected": false
       },
       {
@@ -4376,7 +4372,7 @@
       },
       {
         "sourceUrl": "https://www.arabnews.com/lifestyle",
-        "itemCount": 30,
+        "itemCount": 31,
         "challengeDetected": false
       },
       {
@@ -4455,12 +4451,12 @@
     "sourceErrors": [],
     "skipped": {
       "source-date-older-than-window": 83,
-      "article-older-than-window": 23
+      "article-older-than-window": 24
     },
     "articleErrors": [],
-    "candidateCountBeforeLimit": 905,
+    "candidateCountBeforeLimit": 908,
     "candidateCountAfterLimit": 220,
-    "verifiedCount": 114,
-    "uniqueCandidateCount": 474
+    "verifiedCount": 113,
+    "uniqueCandidateCount": 473
   }
 }

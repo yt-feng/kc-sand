@@ -7,7 +7,7 @@
   "dateText": "",
   "source": "video-page",
   "order": 5,
-  "capturedAt": "2026-07-05T23:11:36.744Z",
+  "capturedAt": "2026-07-06T02:00:48.607Z",
   "responseStatus": 200,
   "responseUrl": "https://www.arabnews.com/node/2640086/middle-east",
   "challengeDetected": false,
@@ -22,16 +22,18 @@
     "canonical": "https://www.arabnews.com/node/2640086/middle-east",
     "textLength": 1509,
     "videoUrls": [
+      "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783324830/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8D03E270CDB79A6EA45DBB93C7EFAA5777D4797D.5656973F3032107FBBFC3D47AC9AAC64CF99053E/key/ck2/file/file.mp4",
+      "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783324830/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6B7262F26B5C9B371E1D6643D65B3E2D582C9DA1.4A5E35CF52C2C150049300B374EDB81A65748000/key/cms1/cms_redirect/yes/met/1783303237,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783302872/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
       "https://cdn.jwplayer.com/manifests/mjQnyIZc.m3u8",
-      "https://videos-cloudfront-usp.jwpsrv.com/6a4b8e1a_f11fa5dca49710289f5271cf9bc0e278ed4bb89b/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
+      "https://videos-cloudfront-usp.jwpsrv.com/6a4bb84a_a1a1d007e61c1e087fdd123d184505907c5ef1b0/sites/wPTWN2YS/media/mjQnyIZc/versions/tpFF7D9H/manifest.ism/manifest-audio_0_qs7sFyJl_W9XE6kEl=112057-video_0_qs7sFyJl_MKVq0Cme=336535.m3u8"
     ],
     "pageTitle": "Southern Lebanon ‘Hezbollah kill zone,’ Israel says | Arab News"
   },
   "videoDownload": {
     "path": "rendered-clips/2026-07-06/03_southern-lebanon-hezbollah-kill-zone-israel-says.mp4",
-    "url": "https://content.jwplatform.com/videos/mjQnyIZc-C8cpcmty.mp4",
+    "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783324830/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8D03E270CDB79A6EA45DBB93C7EFAA5777D4797D.5656973F3032107FBBFC3D47AC9AAC64CF99053E/key/ck2/file/file.mp4",
     "contentType": "video/mp4",
-    "bytes": 7265426,
+    "bytes": 1384740,
     "method": "direct"
   },
   "files": {

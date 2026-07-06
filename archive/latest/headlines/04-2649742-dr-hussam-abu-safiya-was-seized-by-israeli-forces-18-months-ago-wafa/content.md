@@ -16,11 +16,11 @@ TEL AVIV: The lawyer for a prominent Palestinian doctor who was seized by Israel
 
 ## Video Or Embed URLs
 
-- https://70ce4d5ff4e53e17bb4972769e394e32.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://44086a48705fe4cc8d1daecbe4cd77f5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649742%2Fmiddle-east
 

@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-06T14:43:47.969Z
+Fetched at: 2026-07-06T17:48:03.436Z
 Target date: 2026-07-06 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-06 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iranian mourners call for vengeance on Trump during Khamenei funeral procession](https://www.arabnews.com/node/2649806/middle-east) - archive: archive/latest/headlines/01-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/content.md
-2. [First responders inspect the wreckage of a car reportedly targeted by an Israeli strike in Nabatieh on July 6, 2026. (AFP)](https://www.arabnews.com/node/2649837/middle-east) - archive: archive/latest/headlines/02-2649837-first-responders-inspect-the-wreckage-of-a-car-reportedly-targeted-by-/content.md
-3. [‘We want to know he’s safe’ — family awaits Israeli response on detained Gaza doctor after court order](https://www.arabnews.com/node/2649850/middle-east) - archive: archive/latest/headlines/03-2649850-we-want-to-know-he-s-safe-family-awaits-israeli-response-on-detained-g/content.md
-4. [UN rights council orders urgent inquiry into Sudan’s Al-Obeid](https://www.arabnews.com/node/2649825/middle-east) - archive: archive/latest/headlines/04-2649825-un-rights-council-orders-urgent-inquiry-into-sudan-s-al-obeid/content.md
+1. [Hamas announces dissolution of Gaza governing body](https://www.arabnews.com/node/2649826/middle-east) - archive: archive/latest/headlines/01-2649826-hamas-announces-dissolution-of-gaza-governing-body/content.md
+2. [President Donald Trump speaks after ringing the opening bell for the New York Stock Exchange and the Nasdaq in the Oval Office.](https://www.arabnews.com/node/2649865/middle-east) - archive: archive/latest/headlines/02-2649865-president-donald-trump-speaks-after-ringing-the-opening-bell-for-the-n/content.md
+3. [Iranian mourners call for vengeance on Trump during Khamenei funeral procession](https://www.arabnews.com/node/2649806/middle-east) - archive: archive/latest/headlines/03-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/content.md
+4. [Lebanese Christian villages reject Netanyahu’s annexation claim in plea for state’s return](https://www.arabnews.com/node/2649869/middle-east) - archive: archive/latest/headlines/04-2649869-lebanese-christian-villages-reject-netanyahu-s-annexation-claim-in-ple/content.md

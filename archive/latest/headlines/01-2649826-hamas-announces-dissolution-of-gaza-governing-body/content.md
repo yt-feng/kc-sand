@@ -1,0 +1,39 @@
+# Hamas announces dissolution of Gaza governing body
+
+Source: https://www.arabnews.com/node/2649826/middle-east
+Captured source: https://www.arabnews.com/node/2649826/middle-east
+Published: 2026-07-06T12:00:23+03:00
+Modified: 2026-07-06T18:59:12+03:00
+Author: AFP
+
+## Summary
+
+GAZA CITY: Palestinian Islamist movement Hamas announced Monday the dissolution of the body that has governed the Gaza Strip for nearly two decades, clearing the way for a technocratic committee to implement civilian rule. The move marks a significant political shift by Hamas, which has run Gaza since its fighters seized control from rival Palestinian movement Fatah in 2007
+
+## Image
+
+![main image](./image.jpg)
+
+## Video Or Embed URLs
+
+- blob:https://www.arabnews.com/6b9223b3-262e-4ab7-9cb0-d4b3129bb77a
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://c6593b2580d728308f8ce30b55e48bc2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://www.google.com/recaptcha/api2/aframe
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649826%2Fmiddle-east
+
+## Text
+
+https://arab.news/gwvuh
+
+The step clears the way for a Palestinian technocratic committee to implement civilian rule
+
+GAZA CITY: Palestinian Islamist movement Hamas announced Monday the dissolution of the body that has governed the Gaza Strip for nearly two decades, clearing the way for a technocratic committee to implement civilian rule. The move marks a significant political shift by Hamas, which has run Gaza since its fighters seized control from rival Palestinian movement Fatah in 2007 after winning legislative elections the previous year. Since a ceasefire took effect in Gaza last October between Hamas and Israel, the group has repeatedly said it is prepared to step aside from day-to-day governance, but the thorny issue of its disarmament remains unresolved. “The head of the government’s emergency committee Mohammed Al-Farra has officially submitted his resignation,” Ismail Al-Thawabta, head of Hamas’ government media office told AFP. “He has also decided to dissolve the committee to facilitate the administrative and governmental transition to the National Committee for the Administration of Gaza (NCAG),” it added. The NCAG, currently based in Cairo, was created by the Board of Peace that US President Donald Trump established when he brokered the ceasefire in October 2025. “Hamas has taken a new step in that it will no longer be in charge of the Gaza Strip, in order to remove any pretexts for the occupation, which continues its aggression and war of extermination,” Hamas spokesman Hazem Qassem told AFP. “We hope for the swift entry of the National Committee for the Administration of Gaza, and Hamas affirms its readiness to hand over governmental responsibilities to the committee to ensure its success.” A Hamas official earlier told AFP that the group had already informed other Palestinian factions about its decision at a recent meeting in Cairo. “The factions welcomed Hamas’s decision, describing it as a serious step toward enabling the National Committee to take up its governing role,” the official said.
+
+The dissolution of the 15-member Hamas body paves the way for the NCAG, headed by Palestinian technocrat Ali Shaath, to assume administrative responsibilities in the territory.
+
+“We affirm that the National Committee for the Administration of Gaza is fully prepared to assume its national responsibilities as soon as the necessary resources and capabilities are available,” Ali Shaath, head of the committee, wrote on X. The NCAG has remained based in Cairo for months, reportedly due to Israeli objections to its entry into the war-devastated territory of 2.1 million people. Mkhaimar Abusada, a political expert from Gaza, told AFP that Hamas’s move was still a “symbolic gesture.” “The problem is not with dissolving their governmental committee, but with agreeing to disarmament,” he said. “Hamas has not agreed to disarming itself and that is still the sticking point.” Hamas and other Palestinian factions have held several rounds of talks in Cairo with mediators to narrow differences, particularly over the second phase of the Gaza ceasefire that includes the group’s disarmament. “From Hamas’s perspective, this checks a few boxes,” said a diplomatic source referring to Monday’s announcement. “It shows they are moving the process forward, puts the spotlight on what they portray as Israel’s failure to follow through on its commitments,” said the source, who attended some of the talks in Cairo. The first phase of the Gaza ceasefire involved the release of the last Israeli hostages held by Hamas in exchange for Palestinians detained by Israel. The transition to the second phase, which was to involve Hamas’s disarmament and a gradual withdrawal of Israeli forces from Gaza, has been stalled for months. Israeli forces have actually expanded their presence in the territory in recent months, taking control of nearly 70 percent. Meanwhile Hamas is demanding the establishment of a Palestinian administration before it will consider handing over any part of its arsenal. The question of Gaza’s post-war governance also remains one of the main sticking points in negotiations on implementing phase two of the truce. Israel rejects any return of Hamas to power, but also rejects a direct takeover by the Ramallah-based Palestinian Authority at this stage. Both Hamas and Israel accuse each other of violating the ceasefire. At least 1,072 Palestinians have been killed in Gaza since the ceasefire took effect, according to the territory’s health ministry, which operates under Hamas authority and whose figures are considered reliable by the United Nations. The Israeli military says it has lost five soldiers in Gaza over the same period, as well as one contractor.

@@ -3,12 +3,12 @@
 Source: https://www.arabnews.com/node/2650010/sport
 Captured source: https://www.arabnews.com/node/2650010/sport
 Published: 2026-07-07T21:59:56+03:00
-Modified: 2026-07-07T22:54:56+03:00
-Author: Ali Khaled
+Modified: 2026-07-08T00:15:51+03:00
+Author: Arab News
 
 ## Summary
 
-DUBAI: Argentina pulled off one of their greatest ever comebacks to beat Egypt 3-2 in Atlanta and reach the quarterfinals of the 2026 World Cup in the most dramatic of circumstances. A match that was going to be the last World Cup appearance of either Lionel Messi or Mohamed Salah would end with the 2022 champions proving that they could never be written off even when they are
+RIYADH: Arab fans reviled French referee Francois Letexier as the most hated man in football on Tuesday after his bizarre decisions cost Egypt the historic opportunity to knock champions Argentina out of the World Cup. Mo Salah’s heroes came within an agonizing seven minutes of causing the biggest upset in football history, but were denied by the man with the whistle. With
 
 ## Image
 
@@ -16,7 +16,7 @@ DUBAI: Argentina pulled off one of their greatest ever comebacks to beat Egypt 3
 
 ## Video Or Embed URLs
 
-- https://4956a3e67e98b8fc4bb5af12075540f3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://66764771af39925ea58f1fb2c41498f4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -27,17 +27,25 @@ DUBAI: Argentina pulled off one of their greatest ever comebacks to beat Egypt 3
 
 https://arab.news/2ruwe
 
+Questions over French official as Pharaohs denied chance to KO Argentina
+
 Lionel Messi inspires 3-2 win after the Pharaohs were only 11 minutes away from pulling off the result of the 2026 World Cup
 
-Enzo Fernandez brilliantly headed Lautaro Martinez’s cross beyond a shell-shocked Shobeir for Argentina’s third goal
-
-DUBAI: Argentina pulled off one of their greatest ever comebacks to beat Egypt 3-2 in Atlanta and reach the quarterfinals of the 2026 World Cup in the most dramatic of circumstances.
+RIYADH: Arab fans reviled French referee Francois Letexier as the most hated man in football on Tuesday after his bizarre decisions cost Egypt the historic opportunity to knock champions Argentina out of the World Cup.
 
 For the latest updates, follow us @ArabNewsSport
 
-A match that was going to be the last World Cup appearance of either Lionel Messi or Mohamed Salah would end with the 2022 champions proving that they could never be written off even when they are not at their best.
+Mo Salah’s heroes came within an agonizing seven minutes of causing the biggest upset in football history, but were denied by the man with the whistle.
 
-Egypt’s win over Australia on penalties in the round of 32 was their first ever in the knockout stages of the World Cup, and they were looking to extend their unbeaten run to five matches against the reigning champions.
+With Egypt already 1-0 up, Letexier ruled out a second Egyptian goal because of what he said was a foul minutes before, all the way back on Egypt’s touchline.
+
+Letexier awarded every 50-50 decision to Argentina, and capped it by denying Egypt a clear penalty for a foul on Salah by Alexis Mac Allister seconds before Argentina raced up to the other end and scored their decisive third goal.
+
+Egypt erupted in fury. Hamdi Fathy, Mostafa Shobeir and head coach Hossam Hassan were all shown yellow cards, and assistant coach Mohamed Abdel Wahed was shown red.
+
+Egyptian fans were also enraged. Vash said on social media: “Egypt were absolutely robbed. The referee didn’t even VAR check this and allowed the Argentina goal, but Egypt were disallowed a goal because the referee VAR checked a foul on Argentina.
+
+Another fan, Nuel, said: “The referee keeps helping Lionel Messi and Argentina.”
 
 It was a dream start for the Pharaohs. Having started the match in fearless fashion by taking the game to Argentina, Egypt broke the deadlock on 111 minutes when their first corner of the match was worked back to Marwan Attia, whose pinpoint cross was powered past Eli Martinez by Yasser Ibrahim.
 

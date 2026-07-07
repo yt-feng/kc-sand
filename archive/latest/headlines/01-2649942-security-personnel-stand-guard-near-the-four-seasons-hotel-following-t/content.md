@@ -16,9 +16,9 @@ DAMASCUS: Two bombs exploded on Tuesday near ​a hotel in Damascus where French
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/2a918f62-4095-4fc7-b240-167dc66a8319
+- blob:https://www.arabnews.com/bb32b8f6-fb95-4254-89cd-4416bff5936d
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://0fe2376c91f4d33aa364dd992febf451.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c6c18490d88361213343a4a2badca9d9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html

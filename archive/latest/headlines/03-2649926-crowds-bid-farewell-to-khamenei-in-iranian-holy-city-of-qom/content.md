@@ -16,9 +16,9 @@ Tehran: Thousands of people took to the streets on Tuesday in the Iranian holy c
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/97ad2521-6308-458e-9572-828df0db9b63
+- blob:https://www.arabnews.com/4dcfa47e-ba89-4c0c-be27-b5bf1c1264db
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://b7e58d7b861debcae97f7e45327bf528.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://d493ed6183d3bd13930e413820a30f76.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot

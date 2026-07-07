@@ -3,12 +3,12 @@
 Source: https://www.arabnews.com/node/2649917/middle-east
 Captured source: https://www.arabnews.com/node/2649917/middle-east
 Published: 2026-07-07T14:28:50+03:00
-Modified: 2026-07-07T14:56:49+03:00
+Modified: 2026-07-07T16:55:33+03:00
 Author: Reuters
 
 ## Summary
 
-The Qatari LNG tanker Al-Rekayyat that was earlier hit by Iranian missiles is at risk of exploding due to a fire in its engine room, a source briefed on the incident told Reuters. Al-Rekayyat suffered significant damage after the vessel was hit as it traveled through the Omani side of the Strait of Hormuz, four sources with knowledge of the matter said on Tuesday, after
+DUBAI: The Qatari LNG tanker Al-Rekayyat that was earlier hit by Iranian missiles is at risk of exploding due to a fire in its engine room, a source briefed on the incident told Reuters. Al-Rekayyat suffered significant damage after the vessel was hit as it traveled through the Omani side of the Strait of Hormuz, four sources with knowledge of the matter said on Tuesday, after
 
 ## Image
 
@@ -16,7 +16,7 @@ The Qatari LNG tanker Al-Rekayyat that was earlier hit by Iranian missiles is at
 
 ## Video Or Embed URLs
 
-- https://3c6f4851ea293523444c995b73ffde67.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://025aee6019015de6b69097c594ba3903.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
@@ -29,13 +29,15 @@ https://arab.news/mrzgj
 
 Two commercial ships suffered significant damage but no casualties, Axios reports
 
-UKMTO says tanker hit by unidentified projectile east of Oman’s Limah, fire reported
+Qatar on Tuesday condemned Iran for the attack
 
-The Qatari LNG tanker Al-Rekayyat that was earlier hit by Iranian missiles is at risk of exploding due to a fire in its engine room, a source briefed on the incident told Reuters.
+DUBAI: The Qatari LNG tanker Al-Rekayyat that was earlier hit by Iranian missiles is at risk of exploding due to a fire in its engine room, a source briefed on the incident told Reuters.
 
 Al-Rekayyat suffered significant damage after the vessel was hit as it traveled through the Omani side of the Strait of Hormuz, four sources with knowledge of the matter said on Tuesday, after reports that Iran’s Revolutionary Guards fired missiles at ships transiting the waterway overnight.
 
 It is the first time an LNG ship from Qatar, which is a mediator in the talks between Washington and Tehran, has been struck since the start of the Iran war at the end of February.
+
+Qatar on Tuesday condemned Iran for the attack. “The targeting of the Qatari vessel ‘Al-Rekayyat’ while transiting near the Strait of Hormuz constitutes an unacceptable attack on the security & safety of international maritime navigation,” foreign ministry spokesman Majed Al Ansari wrote on X adding Qatar holds Iran “fully legally responsible for this attack & for any resulting damages & consequences.”
 
 Al-Rekayyat was loaded with liquefied natural gas and sent out distress signals seeking assistance after it was hit on its port side, one of the sources said, adding the crew were safe. ‌The engine room ‌was on fire and filled with smoke and the crew was unable to ​assess ‌further ⁠damage, they added.
 

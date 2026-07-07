@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-07T18:05:41.755Z
+Fetched at: 2026-07-07T20:26:50.445Z
 Target date: 2026-07-07 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-07 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Security personnel stand guard near the Four Seasons Hotel following two blasts nearby in Damascus on July 7, 2026. (AFP)](https://www.arabnews.com/node/2649942/middle-east) - archive: archive/latest/headlines/01-2649942-security-personnel-stand-guard-near-the-four-seasons-hotel-following-t/content.md
-2. [Attacked Qatari LNG tanker Al-Rekayyat is at risk of exploding: Reuters](https://www.arabnews.com/node/2649917/middle-east) - archive: archive/latest/headlines/02-2649917-attacked-qatari-lng-tanker-al-rekayyat-is-at-risk-of-exploding-reuters/content.md
-3. [Crowds bid farewell to Khamenei in Iranian holy city of Qom](https://www.arabnews.com/node/2649926/middle-east) - archive: archive/latest/headlines/03-2649926-crowds-bid-farewell-to-khamenei-in-iranian-holy-city-of-qom/content.md
-4. [Messi v Salah in World Cup last-16 showdown](https://www.arabnews.com/node/2649971/sport) - archive: archive/latest/headlines/04-2649971-messi-v-salah-in-world-cup-last-16-showdown/content.md
+1. [US revokes temporary sanctions waiver on Iranian oil](https://www.arabnews.com/node/2650024/middle-east) - archive: archive/latest/headlines/01-2650024-us-revokes-temporary-sanctions-waiver-on-iranian-oil/content.md
+2. [Syrian President Ahmed Al-Sharaa shakes hands with France's President Emmanuel Macron following press conference in Damascus.](https://www.arabnews.com/node/2649961/middle-east) - archive: archive/latest/headlines/02-2649961-syrian-president-ahmed-al-sharaa-shakes-hands-with-frances-president-e/content.md
+3. [Security personnel stand guard near the Four Seasons Hotel following two blasts nearby in Damascus on July 7, 2026. (AFP)](https://www.arabnews.com/node/2649942/middle-east) - archive: archive/latest/headlines/03-2649942-security-personnel-stand-guard-near-the-four-seasons-hotel-following-t/content.md
+4. [Robbed by the Referee: Egypt ‘denied’ historic win over Argentina](https://www.arabnews.com/node/2650010/sport) - archive: archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/content.md

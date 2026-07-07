@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-07T01:18:41.382Z
+Fetched at: 2026-07-07T05:45:22.698Z
 Target date: 2026-07-07 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-07 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Hamas announces dissolution of Gaza governing body](https://www.arabnews.com/node/2649826/middle-east) - archive: archive/latest/headlines/01-2649826-hamas-announces-dissolution-of-gaza-governing-body/content.md
-2. [President Donald Trump speaks after ringing the opening bell for the New York Stock Exchange and the Nasdaq in the Oval Office.](https://www.arabnews.com/node/2649865/middle-east) - archive: archive/latest/headlines/02-2649865-president-donald-trump-speaks-after-ringing-the-opening-bell-for-the-n/content.md
-3. [Iranian mourners call for vengeance on Trump during Khamenei funeral procession](https://www.arabnews.com/node/2649806/middle-east) - archive: archive/latest/headlines/03-2649806-iranian-mourners-call-for-vengeance-on-trump-during-khamenei-funeral-p/content.md
-4. [Lebanese Christian villages reject Netanyahu’s annexation claim in plea for state’s return](https://www.arabnews.com/node/2649869/middle-east) - archive: archive/latest/headlines/04-2649869-lebanese-christian-villages-reject-netanyahu-s-annexation-claim-in-ple/content.md
+1. [Iran fires missiles at commercial ships in Strait of Hormuz, Axios reports](https://www.arabnews.com/node/2649917/middle-east) - archive: archive/latest/headlines/01-2649917-iran-fires-missiles-at-commercial-ships-in-strait-of-hormuz-axios-repo/content.md
+2. [Israel parliament advances bill for inquiry into Oct 7 failures](https://www.arabnews.com/node/2649901/middle-east) - archive: archive/latest/headlines/02-2649901-israel-parliament-advances-bill-for-inquiry-into-oct-7-failures/content.md
+3. [French President Emmanuel Macron landed in Syria ​on Monday. (AFP)](https://www.arabnews.com/node/2649872/middle-east) - archive: archive/latest/headlines/03-2649872-french-president-emmanuel-macron-landed-in-syria-on-monday-afp/content.md
+4. [UN deems Israel’s detention of Gaza doctor ‘arbitrary’ as health fears mount](https://www.arabnews.com/node/2649930/middle-east) - archive: archive/latest/headlines/04-2649930-un-deems-israel-s-detention-of-gaza-doctor-arbitrary-as-health-fears-m/content.md

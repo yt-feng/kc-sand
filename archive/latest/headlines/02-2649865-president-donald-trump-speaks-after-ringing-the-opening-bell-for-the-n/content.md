@@ -16,10 +16,13 @@ WASHINGTON: President Donald Trump said on Monday the United States would either
 
 ## Video Or Embed URLs
 
-- https://07d625ea30fe77e3caa441ac6d598e0c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/3087187c-cf30-46c9-9f7b-83e64458804c
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- about:blank
+- https://d54132ca9d4685e43eb179c8f8612dce.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649865%2Fmiddle-east
 
 ## Text

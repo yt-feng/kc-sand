@@ -16,11 +16,14 @@ GAZA CITY: Palestinian Islamist movement Hamas announced Monday the dissolution 
 
 ## Video Or Embed URLs
 
-- https://f32623c0f5cc2fb2466eb53eed8a94fa.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- blob:https://www.arabnews.com/8b14350c-b56e-4f60-8a7e-807875fe99a7
+- blob:https://www.arabnews.com/8327be4f-62b5-44b2-9a1e-01efbf821269
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://744dbbc2e15609c5fd8c7e2d8151eaab.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649826%2Fmiddle-east
 
 ## Text

@@ -16,10 +16,13 @@ TEHRAN: Crowds of Iranians marched through the streets of Tehran on Monday in a 
 
 ## Video Or Embed URLs
 
-- https://cbf602bd9ab2b328919bb72eca874b16.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/47993568-1715-4ede-ade2-b8ba682fc8eb
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://6ad7b3550021e3e71a5cbffd713ccdd9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649806%2Fmiddle-east
 
 ## Text

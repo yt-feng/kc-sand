@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650010/sport
 Captured source: https://www.arabnews.com/node/2650010/sport
 Published: 2026-07-07T21:59:56+03:00
-Modified: 2026-07-08T05:09:38+03:00
+Modified: 2026-07-08T12:16:40+03:00
 Author: Arab News
 
 ## Summary
@@ -16,11 +16,12 @@ RIYADH: Arab fans reviled French referee Francois Letexier as the most hated man
 
 ## Video Or Embed URLs
 
-- https://c3f305b0789f45946b5f9f3f08987162.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/6c48738d-b230-4a0a-a83e-34cd412d0cf5
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://4830bfdddaf41bbf917f67a95f41f1e0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650010%2Fsport
 
 ## Text

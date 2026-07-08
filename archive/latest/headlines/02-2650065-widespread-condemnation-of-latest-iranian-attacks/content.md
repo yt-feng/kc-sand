@@ -1,9 +1,9 @@
-# Gulf, Arab states condemn latest Iranian attacks
+# Widespread condemnation of latest Iranian attacks
 
 Source: https://www.arabnews.com/node/2650065/middle-east
 Captured source: https://www.arabnews.com/node/2650065/middle-east
 Published: 2026-07-08T10:20:11+03:00
-Modified: 2026-07-08T10:29:29+03:00
+Modified: 2026-07-08T12:17:33+03:00
 Author: Arab News
 
 ## Summary
@@ -16,7 +16,7 @@ DUBAI: Kuwati on Wednesday condemned the latest Iranian attack, describing Tehra
 
 ## Video Or Embed URLs
 
-- https://39ebb387aa824dd72ec0c010d3e04332.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://d7dfa64f17352fb8b23e9c0b92edf476.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
@@ -43,6 +43,8 @@ Egypt has also condemned the repeated Iranian attacks on Kuwait, Bahrain and oth
 
 “Egypt emphasizes its full rejection of all actions that infringe upon the security and sovereignty of sisterly nations or threaten the security and stability of the region,” its foreign affairs ministry said in a statement, and renewed its call for restraint and de-escalation in order to preserve regional security and safeguard peace and stability.
 
+The Sultanate of Oman also condemned the Iranian attacks on the oil tankers in the Strait of Hormuz, saying “the military escalation in the region threatens its security and martime safety” adding they reject any actions that endanger civilian and commercial vessels. The Sultanate also called for full implementation of the agreements signed between the parties and a de-escalation of tensions.
+
 The Islamic Revolutionary Guard ​Corps said it carried out a joint missile and drone operation against Ali Al Salem Air Base in Kuwait, and other key US military sites in Bahrain in retaliation for US military strikes in Iran.
 
 US early on Wednesday launched a wave of airstrikes on Iran in response to attacks on tankers in the Strait of Hormuz.
@@ -50,3 +52,7 @@ US early on Wednesday launched a wave of airstrikes on Iran in response to attac
 Anwar Gargash, the diplomatic adviser to the UAE president, have commented that “Iran’s attacks on Qatari and Saudi commercial tankers in the Strait of Hormuz, and the repeated aggression against our sisterly Bahrain and Kuwait, are a clear indicator that Tehran remains incapable of committing to the requirements of de-escalation and turning the page on war.”
 
 “The Gulf Arab states cannot remain a target for Iran’s wavering between the logic of escalation and the path of rationality, stability, and peace,” Gargash posted on social media.
+
+China warns US, Iran against ‘reigniting’ war, urges dialogue
+
+Meanwhile China denounced on Wednesday a sharp escalation in hostilies in the Middle East after the United States struck dozens of targets in Iran, with Beijing’s foreign ministry warning both sides against “reigniting” the war in the Middle East. “Reigniting the war is not in the interests of either side, and military means cannot solve the fundamental problems,” foreign spokesperson Mao Ning told a news conference, when asked about the strikes.

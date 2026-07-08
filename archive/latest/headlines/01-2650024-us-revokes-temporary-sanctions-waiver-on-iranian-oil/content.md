@@ -16,7 +16,7 @@ WASHINGTON: The US Treasury Department on Tuesday revoked a license that tempora
 
 ## Video Or Embed URLs
 
-- https://20f8d0fd0282e42edb9e18089f2c4430.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c7ee4eb0ee5ba8d1f49743e4b201d174.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

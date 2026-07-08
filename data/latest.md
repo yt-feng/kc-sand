@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-08T16:45:39.815Z
+Fetched at: 2026-07-08T18:22:26.320Z
 Target date: 2026-07-08 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-08 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran targets sites in Bahrain, Kuwait after wave of US strikes](https://www.arabnews.com/node/2650053/middle-east) - archive: archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/content.md
-2. [Saudi Arabia joins other nations in condemning Iranian attacks on Kuwait and Bahrain](https://www.arabnews.com/node/2650065/middle-east) - archive: archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/content.md
-3. [White House invites Lebanon’s Aoun to visit US on July 21, official says](https://www.arabnews.com/node/2650057/middle-east) - archive: archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/content.md
-4. [Robbed by the Referee: Egypt ‘denied’ historic win over Argentina](https://www.arabnews.com/node/2650010/sport) - archive: archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/content.md
+1. [Qatari LNG tanker awaits salvage off Oman after projectile strike](https://www.arabnews.com/node/2650142/middle-east) - archive: archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/content.md
+2. [EU aviation agency tells operators to avoid Iran, Iraq and Lebanon airspaces until August 31](https://www.arabnews.com/node/2650103/middle-east) - archive: archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/content.md
+3. [Saudi Arabia joins other nations in condemning Iranian attacks on Kuwait and Bahrain](https://www.arabnews.com/node/2650065/middle-east) - archive: archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/content.md
+4. [What France’s repatriation of Syrian artifacts means after years of rupture](https://www.arabnews.com/node/2650132/middle-east) - archive: archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/content.md

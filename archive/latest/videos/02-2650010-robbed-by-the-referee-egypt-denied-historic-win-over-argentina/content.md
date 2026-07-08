@@ -16,9 +16,9 @@ RIYADH: Arab fans reviled French referee Francois Letexier as the most hated man
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/42354633-cfdb-48f8-8332-33a5b0d85975
+- blob:https://www.arabnews.com/14a70a76-2c55-45cb-b09d-8b6023c6a609
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://3f384207bce4438fd556cd53518c89ff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://8a042afd01e3ed05b9596dfe5bc1ad11.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html

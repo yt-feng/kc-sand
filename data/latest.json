@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T16:45:39.815Z",
+  "fetchedAt": "2026-07-08T18:22:26.320Z",
   "targetDate": {
     "iso": "2026-07-08",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 130,
+    "itemCount": 137,
     "window": {
       "hours": 24,
-      "start": "2026-07-07T16:45:39.815Z",
-      "end": "2026-07-08T16:45:39.815Z",
+      "start": "2026-07-07T18:22:26.320Z",
+      "end": "2026-07-08T18:22:26.320Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -90,23 +90,45 @@
     "mode": "current-homepage-top-headlines",
     "items": [
       {
-        "title": "Iran targets sites in Bahrain, Kuwait after wave of US strikes",
-        "url": "https://www.arabnews.com/node/2650053/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/08/4729089-1850589658.jpeg?itok=wGX45agV",
+        "title": "Qatari LNG tanker awaits salvage off Oman after projectile strike",
+        "url": "https://www.arabnews.com/node/2650142/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/08/4729316-641112212.jpg?itok=wLrQIlA6",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 0,
         "archive": {
-          "directory": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes",
+          "directory": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/metadata.json",
-            "content": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/content.md",
-            "text": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/page-text.txt",
+            "metadata": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/metadata.json",
+            "content": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/content.md",
+            "text": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/image.jpg",
+            "image": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "EU aviation agency tells operators to avoid Iran, Iraq and Lebanon airspaces until August 31",
+        "url": "https://www.arabnews.com/node/2650103/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/08/4729196-494503007.jpg?itok=6Q53zaVg",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2,
+        "archive": {
+          "directory": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/metadata.json",
+            "content": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/content.md",
+            "text": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/image.jpg",
             "video": null
           }
         }
@@ -119,60 +141,38 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
-        "archive": {
-          "directory": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/metadata.json",
-            "content": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/content.md",
-            "text": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "White House invites Lebanon’s Aoun to visit US on July 21, official says",
-        "url": "https://www.arabnews.com/node/2650057/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/08/4729100-208027481.jpg?itok=YS9hvlyl",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say",
+          "directory": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/metadata.json",
-            "content": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/content.md",
-            "text": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/metadata.json",
+            "content": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/content.md",
+            "text": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/image.jpg",
+            "image": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "Robbed by the Referee: Egypt ‘denied’ historic win over Argentina",
-        "url": "https://www.arabnews.com/node/2650010/sport",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/07/4729081-682162021.jpg?itok=WsAuT0NX",
+        "title": "What France’s repatriation of Syrian artifacts means after years of rupture",
+        "url": "https://www.arabnews.com/node/2650132/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/08/4729295-1602970258.jpg?itok=JHEEon_K",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina",
+          "directory": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/metadata.json",
-            "content": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/content.md",
-            "text": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/metadata.json",
+            "content": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/content.md",
+            "text": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/image.jpg",
+            "image": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-08T16:51:06.705Z",
+    "capturedAt": "2026-07-08T18:27:52.927Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-08",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-08/01_us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550920/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5DC27B95673C44E27869FBE2AE81793619996DFC.A48CED1278397F6DC2C925EC06D7B9E793F83781/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550920/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/69E8F5B3F48BC38157BBB89069DA353E01F73D91.65B563C3383124D1CB3DDD19CA1F63878BA6A038/key/cms1/cms_redirect/yes/met/1783529327,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556729/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7126511CC6BD65D3AA9334255BD46A01805A0B5D.5B4C3D881CA4B17A3BB979C7F3C27FD2601F17C3/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556729/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/59B519A675F65F9F519F74632261ABC2BDD16302.82DA8A84AA46ECFF9BA30CBB4BF260E7F5CF70CF/key/cms1/cms_redirect/yes/met/1783535136,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783534816/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/N0qmtVVj.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f293e_e1a9582d07294af0e8a463ad6cd2872e41849c3d/sites/wPTWN2YS/media/N0qmtVVj/versions/sfxCeP6e/manifest.ism/manifest-audio_0_ymHYEhPy_FxgMcvvF=112110-video_0_ymHYEhPy_VJ9WNhlu=393110.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f293e_e1a9582d07294af0e8a463ad6cd2872e41849c3d/sites/wPTWN2YS/media/N0qmtVVj/versions/sfxCeP6e/manifest.ism/manifest-audio_0_ymHYEhPy_FxgMcvvF=112110-video_0_ymHYEhPy_VJ9WNhlu=474229.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f41da_5106a807e6ef24f2a8f3ed3c4b5fa381f2d8973b/sites/wPTWN2YS/media/N0qmtVVj/versions/sfxCeP6e/manifest.ism/manifest-audio_0_ymHYEhPy_FxgMcvvF=112110-video_0_ymHYEhPy_VJ9WNhlu=393110.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f41da_5106a807e6ef24f2a8f3ed3c4b5fa381f2d8973b/sites/wPTWN2YS/media/N0qmtVVj/versions/sfxCeP6e/manifest.ism/manifest-audio_0_ymHYEhPy_FxgMcvvF=112110-video_0_ymHYEhPy_VJ9WNhlu=474229.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2650076-us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-08/01_us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550920/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5DC27B95673C44E27869FBE2AE81793619996DFC.A48CED1278397F6DC2C925EC06D7B9E793F83781/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556729/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7126511CC6BD65D3AA9334255BD46A01805A0B5D.5B4C3D881CA4B17A3BB979C7F3C27FD2601F17C3/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-08/02_robbed-by-the-referee-egypt-denied-historic-win-over-argentina.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550946/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A854DE34FA30732CE005F3667B067A9FA391EA9A.AD3EA1C79BF53DB351D8E712F1ED38924FC0B2A8/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550946/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5366D679E3219FB896CAC7B61FA2A0BB4E35B32B.4CC8AD9498A3B73FA604C87D0C3FA82EBE0C4C6C/key/cms1/cms_redirect/yes/met/1783529352,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556753/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8567BA736B216E7CE52A9CE91A73068297E2AF15.80E2C01FD890F90107089145733A0355800029D8/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556753/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2E1F5702ECF395427F1BF4F8F1E3EFD91D5435B9.6549D33ED0B36971BC033678073B3EF91B6CD772/key/cms1/cms_redirect/yes/met/1783535159,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783534816/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/NGnp8CB9.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f2bb4_81607f6ce9d3553867c1b680ec86da0fff122ab9/sites/wPTWN2YS/media/NGnp8CB9/versions/76hz3m62/manifest.ism/manifest-audio_0_UgUODXVT_S61r6qNa=112017-video_0_UgUODXVT_iOuyRIfd=459663.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f40cc_2395ee565a9ccbab2e18f6a15ca20446dd4e4ad3/sites/wPTWN2YS/media/NGnp8CB9/versions/76hz3m62/manifest.ism/manifest-audio_0_UgUODXVT_S61r6qNa=112017-video_0_UgUODXVT_iOuyRIfd=459663.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-08/02_robbed-by-the-referee-egypt-denied-historic-win-over-argentina.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550946/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A854DE34FA30732CE005F3667B067A9FA391EA9A.AD3EA1C79BF53DB351D8E712F1ED38924FC0B2A8/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556753/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8567BA736B216E7CE52A9CE91A73068297E2AF15.80E2C01FD890F90107089145733A0355800029D8/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-08/03_new-attacks-on-iran-were-absolutely-necessary-nato-chief-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550968/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1DE7080E661262B0D8CA2BE9838DCD2C74F09DA7.67EAD3ED3FF0CAE123807BD071E240A30607D011/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550968/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7CC5A52CE853B907523711F9FEE08DE326CA620A.5CAAA67192DFA4E6DCA115F619D35C3BB27947FF/key/cms1/cms_redirect/yes/met/1783529373,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556776/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/268060602E93C51A9F35B55A68C2970892A92E1B.99303C7FA89B8CCE43EF5EC1002591FF37D6A52B/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556776/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6F1D07FC7C78CB6C7E3699D66B8FD854328AF088.5138E0D26AA946C5DD064F99D182763B3C0F343A/key/cms1/cms_redirect/yes/met/1783535181,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783534816/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/6slxDRSX.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f2b02_f8e314f70a6598bf641158523a6b47fb2ddd4f4c/sites/wPTWN2YS/media/6slxDRSX/versions/Kg2cMT9m/manifest.ism/manifest-audio_0_eYfR48qy_7l5CNk9n=112091-video_0_eYfR48qy_OdyLUTgo=337020.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f401a_9c18b07989777eece4426f991f9dcb0a6ed005e2/sites/wPTWN2YS/media/6slxDRSX/versions/Kg2cMT9m/manifest.ism/manifest-audio_0_eYfR48qy_7l5CNk9n=112091-video_0_eYfR48qy_OdyLUTgo=337020.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2650061-new-attacks-on-iran-were-absolutely-necessary-nato-chief-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-08/03_new-attacks-on-iran-were-absolutely-necessary-nato-chief-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550968/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1DE7080E661262B0D8CA2BE9838DCD2C74F09DA7.67EAD3ED3FF0CAE123807BD071E240A30607D011/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556776/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/268060602E93C51A9F35B55A68C2970892A92E1B.99303C7FA89B8CCE43EF5EC1002591FF37D6A52B/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -314,53 +314,78 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Iran targets sites in Bahrain, Kuwait after wave of US strikes",
-        "url": "https://www.arabnews.com/node/2650053/middle-east",
-        "directory": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes",
+        "title": "Qatari LNG tanker awaits salvage off Oman after projectile strike",
+        "url": "https://www.arabnews.com/node/2650142/middle-east",
+        "directory": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/metadata.json",
-          "content": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/content.md",
-          "text": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/metadata.json",
+          "content": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/content.md",
+          "text": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/image.jpg",
+          "image": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550990/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/693288D489F9D3C56E098F711E66F824B29AE857.83698BB14600AEDB1A9A0EB10AB4D7DBA3BE57C6/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550990/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5C9BBF41E914C2C201245B72B404C98B9CB8B167.23257CC9AFFE572115DD616A836BDC2245459847/key/cms1/cms_redirect/yes/met/1783529396,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
-          "https://cdn.jwplayer.com/manifests/lAnxfwBB.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f290d_7b424ac8dedd9ee64912bed886fa1dd91fe1d7a3/sites/wPTWN2YS/media/lAnxfwBB/versions/QbW1O7jl/manifest.ism/manifest-audio_0_bOyTVbPP_avnVF285=112043-video_0_bOyTVbPP_5bgs49s4=484372.m3u8"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556798/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A5FD1D33C57995C2DDAD1B9BCF165A860DE773FE.61D2EA9CAA9B248D62E1EF30E50B543068BC13ED/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556798/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6E11C6085D542AFE5918E2B69DEC89C23C8D69EC.1A21595397A9794B1F8017D78EC177D2DE09876B/key/cms1/cms_redirect/yes/met/1783535202,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783534816/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729089-1850589658.jpeg?itok=_xETqJ2S",
+          "path": "archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729316-641112212.jpg?itok=hKM3jzz8",
           "contentType": "image/jpeg",
-          "bytes": 25779
+          "bytes": 35644
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 1,
-        "title": "Saudi Arabia joins other nations in condemning Iranian attacks on Kuwait and Bahrain",
-        "url": "https://www.arabnews.com/node/2650065/middle-east",
-        "directory": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa",
+        "title": "EU aviation agency tells operators to avoid Iran, Iraq and Lebanon airspaces until August 31",
+        "url": "https://www.arabnews.com/node/2650103/middle-east",
+        "directory": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/metadata.json",
-          "content": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/content.md",
-          "text": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/metadata.json",
+          "content": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/content.md",
+          "text": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/image.jpg",
+          "image": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551009/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9E4E9D67BD415B8D6F2AFE38F0E5C55574D372EC.1241C201F7C868AF41F3A17F3D4A608ABA80E0BC/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551009/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/53EACCAD25FC3E3E0BD3F2C3D6FC43F509FBD5CA.5DAAC90B6453319DFF87CAD5DE613EF6C74A0622/key/cms1/cms_redirect/yes/met/1783529414,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783529281/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556817/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/61B50760624EBF9E808B1F58818E0A08BD305B23.7A4BA905F7F26442482324A875CFDAB8179627F5/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556817/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/40DB4DB7C431E74D435025F6B9E49472C757E62D.071C21ADBA633305C61E5268D10136862505D16D/key/cms1/cms_redirect/yes/met/1783535222,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783534816/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/image.jpg",
+          "path": "archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729196-494503007.jpg?itok=a2_A1BOC",
+          "contentType": "image/jpeg",
+          "bytes": 39337
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 2,
+        "title": "Saudi Arabia joins other nations in condemning Iranian attacks on Kuwait and Bahrain",
+        "url": "https://www.arabnews.com/node/2650065/middle-east",
+        "directory": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/metadata.json",
+          "content": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/content.md",
+          "text": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556837/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B685932FB71DED06F13C7121DA2FC2BC93FFA93C.1F3642ABE3B843DCEF6506D687643E56CC52F860/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556837/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7D032ABC0A340E802734330B1C47ADB123F174B8.7517FEEEDD33AD7D02D9E72BCDCA699CBF5FAD33/key/cms1/cms_redirect/yes/met/1783535241,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783535082/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729253-755216158.jpg?itok=YjRJylkU",
           "contentType": "image/jpeg",
           "bytes": 40657
@@ -369,57 +394,30 @@
       },
       {
         "group": "headlines",
-        "index": 2,
-        "title": "White House invites Lebanon’s Aoun to visit US on July 21, official says",
-        "url": "https://www.arabnews.com/node/2650057/middle-east",
-        "directory": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/metadata.json",
-          "content": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/content.md",
-          "text": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551031/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8F4674C54EDAE21E8905E1486BF5F23FC1D26D9E.3234AFE9D324A9D791DBA1629918B6950D02E69A/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551031/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5A4A2F2153014C456CB94EA430924E01827BA880.47259119D03F71A11C08A8E2C2F04362C6ADA01F/key/cms1/cms_redirect/yes/met/1783529436,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729100-208027481.jpg?itok=nFuLMe4P",
-          "contentType": "image/jpeg",
-          "bytes": 22668
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
         "index": 3,
-        "title": "Robbed by the Referee: Egypt ‘denied’ historic win over Argentina",
-        "url": "https://www.arabnews.com/node/2650010/sport",
-        "directory": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina",
+        "title": "What France’s repatriation of Syrian artifacts means after years of rupture",
+        "url": "https://www.arabnews.com/node/2650132/middle-east",
+        "directory": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/metadata.json",
-          "content": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/content.md",
-          "text": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/metadata.json",
+          "content": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/content.md",
+          "text": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/image.jpg",
+          "image": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551052/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/60E62809B17D38D58C8F42DFB0F590DAFD50B652.674B9A99002CAB82C44A45E98ED0588B49AA2D9B/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551052/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/78D5325C636831E9466CCA3CEEB0679C5240E479.7873AAD835F15A7E41CD7A3AA50F203248100191/key/cms1/cms_redirect/yes/met/1783529457,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
-          "https://cdn.jwplayer.com/manifests/NGnp8CB9.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f2bb4_81607f6ce9d3553867c1b680ec86da0fff122ab9/sites/wPTWN2YS/media/NGnp8CB9/versions/76hz3m62/manifest.ism/manifest-audio_0_UgUODXVT_S61r6qNa=112017-video_0_UgUODXVT_iOuyRIfd=459663.m3u8"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556857/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/68C8C43D41B81848308F17EBBF6317F4A8B607DF.A9D167812960AA77FE9970C97769CD87250E70BB/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783556857/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/63EB12FCAF4DF387A28E12BD74725110AABF60B8.4AE3009CA514047481EFBE7B0DBE61F6AE9D4038/key/cms1/cms_redirect/yes/met/1783535262,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783535082/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://cdn.jwplayer.com/manifests/NEog4nKH.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f41ae_90395201d786eaefa1e91d4fc4ea02927ebe4159/sites/wPTWN2YS/media/NEog4nKH/versions/yFjxUEpG/manifest.ism/manifest-audio_0_TikmHTJ1_UBWpWxGZ=112192-video_0_TikmHTJ1_Oqq9uV1k=692980.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/07/4729081-682162021.jpg?itok=qf_exwu6",
+          "path": "archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729295-1602970258.jpg?itok=IJaU6uy_",
           "contentType": "image/jpeg",
-          "bytes": 45828
+          "bytes": 28867
         },
         "video": null
       }

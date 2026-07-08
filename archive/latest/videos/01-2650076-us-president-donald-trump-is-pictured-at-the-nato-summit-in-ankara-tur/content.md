@@ -16,9 +16,9 @@ ANKARA/DUBAI: President Donald Trump said an interim agreement to end the war wi
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/cab464bb-3337-43ac-9a0c-6ec089701fa4
+- blob:https://www.arabnews.com/12ec849d-57cd-4bb7-933a-e8b76581286e
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://953ff57e850b85445337afa5016a63da.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://4af49b7bb3f1dc030674e410a3a9183a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot

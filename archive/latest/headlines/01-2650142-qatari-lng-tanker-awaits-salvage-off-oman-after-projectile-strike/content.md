@@ -16,7 +16,7 @@ LONDON/DOHA: A Qatari LNG tanker remained stranded off Oman on Wednesday after â
 
 ## Video Or Embed URLs
 
-- https://a4ea5ba97061556d5f12e835b962ac4c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://8943ddecd2b420d0497b0548222b1285.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

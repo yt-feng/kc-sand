@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-08T18:22:26.320Z
+Fetched at: 2026-07-08T20:04:59.342Z
 Target date: 2026-07-08 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-07-08 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [Qatari LNG tanker awaits salvage off Oman after projectile strike](https://www.arabnews.com/node/2650142/middle-east) - archive: archive/latest/headlines/01-2650142-qatari-lng-tanker-awaits-salvage-off-oman-after-projectile-strike/content.md
-2. [EU aviation agency tells operators to avoid Iran, Iraq and Lebanon airspaces until August 31](https://www.arabnews.com/node/2650103/middle-east) - archive: archive/latest/headlines/02-2650103-eu-aviation-agency-tells-operators-to-avoid-iran-iraq-and-lebanon-airs/content.md
-3. [Saudi Arabia joins other nations in condemning Iranian attacks on Kuwait and Bahrain](https://www.arabnews.com/node/2650065/middle-east) - archive: archive/latest/headlines/03-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/content.md
-4. [What France’s repatriation of Syrian artifacts means after years of rupture](https://www.arabnews.com/node/2650132/middle-east) - archive: archive/latest/headlines/04-2650132-what-france-s-repatriation-of-syrian-artifacts-means-after-years-of-ru/content.md
+2. [Saudi Arabia joins other nations in condemning Iranian attacks on Kuwait and Bahrain](https://www.arabnews.com/node/2650065/middle-east) - archive: archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/content.md
+3. [US to remove Syria from terror blacklist, in boost for Al-Sharaa](https://www.arabnews.com/node/2650141/middle-east) - archive: archive/latest/headlines/03-2650141-us-to-remove-syria-from-terror-blacklist-in-boost-for-al-sharaa/content.md
+4. [UN launches urgent inquiry into Sudan’s El-Obeid after finding ‘hallmarks of genocide’ by RSF in El-Fasher](https://www.arabnews.com/node/2650162/middle-east) - archive: archive/latest/headlines/04-2650162-un-launches-urgent-inquiry-into-sudan-s-el-obeid-after-finding-hallmar/content.md

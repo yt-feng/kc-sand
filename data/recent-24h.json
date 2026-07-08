@@ -1,38 +1,78 @@
 {
-  "fetchedAt": "2026-07-07T23:08:46.888Z",
+  "fetchedAt": "2026-07-08T01:02:36.082Z",
   "window": {
     "hours": 24,
-    "start": "2026-07-06T23:08:46.888Z",
-    "end": "2026-07-07T23:08:46.888Z",
+    "start": "2026-07-07T01:02:36.082Z",
+    "end": "2026-07-08T01:02:36.082Z",
     "futureLeewayMinutes": 15
   },
-  "itemCount": 124,
+  "itemCount": 123,
   "items": [
+    {
+      "title": "Switzerland beat Colombia on penalties to reach World Cup quarter-finals",
+      "url": "https://www.arabnews.com/node/2650045/sport",
+      "section": "sport",
+      "publishedAt": "2026-07-08T00:36:33.000Z",
+      "publishedRaw": "2026-07-08T03:36:33+03:00",
+      "modifiedAt": "2026-07-08T00:36:33.000Z",
+      "modifiedRaw": "2026-07-08T03:36:33+03:00",
+      "description": "VANCOUVER: Switzerland beat Colombia 4-3 on penalties after a goalless draw on Tuesday to set up a World Cup quarter-final with defending champions Argentina. The two teams canceled each other out in the final game of the last 16 — the game in Vancouver was also the last at the 2026 tournament to be played outside the United States. Colombia’s Davinson Sanchez hit the bar in a",
+      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729066-408178829.jpg?itok=eht4CRK-",
+      "author": "AFP",
+      "nodeId": 2650045,
+      "candidateUrl": "https://www.arabnews.com/node/2650045/sport",
+      "sources": [
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 10
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 0
+        }
+      ]
+    },
     {
       "title": "UN rights council adopts Saudi-backed resolution on women in cybersecurity",
       "url": "https://www.arabnews.com/node/2650044/saudi-arabia",
       "section": "saudi arabia",
       "publishedAt": "2026-07-07T23:08:00.000Z",
       "publishedRaw": "2026-07-08T02:08:00+03:00",
-      "modifiedAt": "2026-07-07T23:08:00.000Z",
-      "modifiedRaw": "2026-07-08T02:08:00+03:00",
-      "description": "RIYADH: The UN Human Rights Council unanimously adopted a resolution submitted by Saudi Arabia on empowering women in cybersecurity during its 62nd session, drawing praise from the Muslim World League and other Islamic organizations. The resolution builds on the “Women Empowerment in Cybersecurity” initiative launched by Crown Prince Mohammed bin Salman in 2020.",
+      "modifiedAt": "2026-07-07T23:09:51.000Z",
+      "modifiedRaw": "2026-07-08T02:09:51+03:00",
+      "description": "RIYADH: The UN Human Rights Council unanimously adopted a resolution submitted by Saudi Arabia on empowering women in cybersecurity during its 62nd session on Tuesday, drawing praise from the Muslim World League and other Islamic organizations. The resolution builds on the “Women Empowerment in Cybersecurity” initiative launched by Crown Prince Mohammed bin Salman in 2020.",
       "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729063-126280351.jpg?itok=VMPLzCuq",
       "author": "Arab News",
       "nodeId": 2650044,
       "candidateUrl": "https://www.arabnews.com/node/2650044/saudi-arabia",
       "sources": [
         {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 32
+          "source": "xml-urlset",
+          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
+          "datePublished": "2026-07-07T23:08:00+00:00",
+          "order": 0
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
           "order": 10
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast",
+          "datePublished": null,
+          "order": 19
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
+          "datePublished": null,
+          "order": 23
         }
       ]
     },
@@ -54,13 +94,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T22:27:17+00:00",
-          "order": 0
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 0
+          "order": 1
         },
         {
           "source": "dom",
@@ -85,6 +119,18 @@
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
           "order": 0
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport",
+          "datePublished": null,
+          "order": 0
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/sport?page=1",
+          "datePublished": null,
+          "order": 1
         }
       ]
     },
@@ -106,13 +152,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T22:20:15+00:00",
-          "order": 1
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/",
-          "datePublished": null,
-          "order": 1
+          "order": 2
         },
         {
           "source": "dom",
@@ -142,13 +182,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 10
+          "order": 1
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 27
+          "order": 2
         }
       ]
     },
@@ -158,8 +198,8 @@
       "section": "middle east",
       "publishedAt": "2026-07-07T21:47:50.000Z",
       "publishedRaw": "2026-07-08T00:47:50+03:00",
-      "modifiedAt": "2026-07-07T21:57:46.000Z",
-      "modifiedRaw": "2026-07-08T00:57:46+03:00",
+      "modifiedAt": "2026-07-07T23:34:43.000Z",
+      "modifiedRaw": "2026-07-08T02:34:43+03:00",
       "description": "DUBAI, United Arab Emirates: The US military launched new strikes against Iran early Wednesday, hours after three merchant ships were struck in the Strait of Hormuz, in the latest exchange of fire to threaten the interim deal to end the fighting between the two countries. The renewed attacks were sure to add to the difficulty of the negotiations aimed at fully reopening the",
       "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729057-1426002936.jpg?itok=oX--8i18",
       "author": "AP",
@@ -170,13 +210,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T21:47:50+00:00",
-          "order": 2
+          "order": 3
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 2
+          "order": 0
         },
         {
           "source": "dom",
@@ -212,13 +252,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 0
+          "order": 2
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 0
+          "order": 3
         }
       ]
     },
@@ -240,13 +280,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T21:45:01+00:00",
-          "order": 3
+          "order": 4
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 34
+          "order": 35
         },
         {
           "source": "dom",
@@ -258,13 +298,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast",
           "datePublished": null,
-          "order": 19
+          "order": 20
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
           "datePublished": null,
-          "order": 23
+          "order": 24
         },
         {
           "source": "dom",
@@ -298,31 +338,19 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T21:35:56+00:00",
-          "order": 4
+          "order": 5
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 35
+          "order": 36
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/saudiarabia",
           "datePublished": null,
           "order": 23
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast",
-          "datePublished": null,
-          "order": 20
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/middleeast?page=1",
-          "datePublished": null,
-          "order": 24
         },
         {
           "source": "dom",
@@ -356,13 +384,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T21:23:19+00:00",
-          "order": 5
+          "order": 6
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 36
+          "order": 37
         },
         {
           "source": "dom",
@@ -396,7 +424,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T21:15:58+00:00",
-          "order": 6
+          "order": 7
         },
         {
           "source": "dom",
@@ -430,7 +458,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T20:56:35+00:00",
-          "order": 7
+          "order": 8
         },
         {
           "source": "dom",
@@ -458,13 +486,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T20:56:02+00:00",
-          "order": 8
+          "order": 9
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 3
+          "order": 1
         },
         {
           "source": "dom",
@@ -506,13 +534,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 1
+          "order": 3
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 1
+          "order": 4
         }
       ]
     },
@@ -534,7 +562,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T20:43:59+00:00",
-          "order": 9
+          "order": 10
         },
         {
           "source": "dom",
@@ -568,13 +596,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T20:18:12+00:00",
-          "order": 10
+          "order": 11
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 4
+          "order": 2
         },
         {
           "source": "dom",
@@ -622,13 +650,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 2
+          "order": 4
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 2
+          "order": 5
         },
         {
           "source": "dom",
@@ -656,13 +684,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T20:12:05+00:00",
-          "order": 11
+          "order": 12
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 5
+          "order": 3
         },
         {
           "source": "dom",
@@ -710,13 +738,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 3
+          "order": 5
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 3
+          "order": 6
         },
         {
           "source": "dom",
@@ -744,13 +772,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T20:08:45+00:00",
-          "order": 12
+          "order": 13
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 6
+          "order": 4
         },
         {
           "source": "dom",
@@ -798,13 +826,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 4
+          "order": 6
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 4
+          "order": 7
         },
         {
           "source": "dom",
@@ -832,13 +860,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T20:01:24+00:00",
-          "order": 13
+          "order": 14
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 7
+          "order": 5
         },
         {
           "source": "dom",
@@ -886,13 +914,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 5
+          "order": 7
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 5
+          "order": 8
         },
         {
           "source": "dom",
@@ -920,13 +948,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:59:09+00:00",
-          "order": 14
+          "order": 15
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 8
+          "order": 6
         },
         {
           "source": "dom",
@@ -974,13 +1002,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 6
+          "order": 8
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 6
+          "order": 9
         },
         {
           "source": "dom",
@@ -1008,13 +1036,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:51:45+00:00",
-          "order": 15
+          "order": 16
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 9
+          "order": 7
         },
         {
           "source": "dom",
@@ -1062,13 +1090,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 7
+          "order": 9
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 7
+          "order": 26
         },
         {
           "source": "dom",
@@ -1096,7 +1124,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:42:03+00:00",
-          "order": 16
+          "order": 17
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 8
         },
         {
           "source": "dom",
@@ -1124,18 +1158,6 @@
         },
         {
           "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
-          "datePublished": null,
-          "order": 8
-        },
-        {
-          "source": "dom",
           "sourceUrl": "https://www.arabnews.com/lifestyle",
           "datePublished": null,
           "order": 6
@@ -1160,7 +1182,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:40:51+00:00",
-          "order": 17
+          "order": 18
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 9
         },
         {
           "source": "dom",
@@ -1184,13 +1212,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 9
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
-          "datePublished": null,
-          "order": 9
+          "order": 11
         },
         {
           "source": "dom",
@@ -1218,7 +1240,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:38:07+00:00",
-          "order": 18
+          "order": 19
         },
         {
           "source": "dom",
@@ -1276,7 +1298,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:37:52+00:00",
-          "order": 19
+          "order": 20
         }
       ]
     },
@@ -1298,7 +1320,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:36:22+00:00",
-          "order": 20
+          "order": 21
         },
         {
           "source": "dom",
@@ -1338,7 +1360,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:33:44+00:00",
-          "order": 21
+          "order": 22
         },
         {
           "source": "dom",
@@ -1366,13 +1388,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:29:49+00:00",
-          "order": 22
+          "order": 23
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 11
+          "order": 12
         }
       ]
     },
@@ -1394,7 +1416,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:17:27+00:00",
-          "order": 23
+          "order": 24
         },
         {
           "source": "dom",
@@ -1434,13 +1456,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:07:51+00:00",
-          "order": 24
+          "order": 25
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 12
+          "order": 13
         }
       ]
     },
@@ -1462,7 +1484,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:07:42+00:00",
-          "order": 25
+          "order": 26
         },
         {
           "source": "dom",
@@ -1496,7 +1518,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:07:38+00:00",
-          "order": 26
+          "order": 27
         }
       ]
     },
@@ -1518,7 +1540,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 41
+          "order": 42
         }
       ]
     },
@@ -1562,7 +1584,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:04:24+00:00",
-          "order": 27
+          "order": 28
         },
         {
           "source": "dom",
@@ -1590,7 +1612,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:04:04+00:00",
-          "order": 28
+          "order": 29
         },
         {
           "source": "dom",
@@ -1618,7 +1640,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T19:02:02+00:00",
-          "order": 29
+          "order": 30
         }
       ]
     },
@@ -1640,7 +1662,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T18:59:56+00:00",
-          "order": 30
+          "order": 31
         },
         {
           "source": "dom",
@@ -1652,7 +1674,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 13
+          "order": 14
         }
       ]
     },
@@ -1674,13 +1696,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T18:57:45+00:00",
-          "order": 31
+          "order": 32
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 14
+          "order": 15
         }
       ]
     },
@@ -1746,7 +1768,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T18:35:14+00:00",
-          "order": 32
+          "order": 33
         },
         {
           "source": "dom",
@@ -1796,7 +1818,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T18:02:06+00:00",
-          "order": 33
+          "order": 34
         }
       ]
     },
@@ -1818,7 +1840,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T16:21:48+00:00",
-          "order": 34
+          "order": 35
         },
         {
           "source": "dom",
@@ -1846,7 +1868,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T16:16:41+00:00",
-          "order": 35
+          "order": 36
         },
         {
           "source": "dom",
@@ -1880,7 +1902,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T16:07:50+00:00",
-          "order": 36
+          "order": 37
         },
         {
           "source": "dom",
@@ -1908,7 +1930,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T16:02:42+00:00",
-          "order": 37
+          "order": 38
         },
         {
           "source": "dom",
@@ -1936,7 +1958,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:59:18+00:00",
-          "order": 38
+          "order": 39
         }
       ]
     },
@@ -1958,13 +1980,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:47:09+00:00",
-          "order": 39
+          "order": 40
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 45
+          "order": 46
         },
         {
           "source": "dom",
@@ -1998,13 +2020,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:43:22+00:00",
-          "order": 40
+          "order": 41
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 37
+          "order": 38
         },
         {
           "source": "dom",
@@ -2044,13 +2066,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:31:41+00:00",
-          "order": 41
+          "order": 42
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 38
+          "order": 39
         },
         {
           "source": "dom",
@@ -2090,13 +2112,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:27:08+00:00",
-          "order": 42
+          "order": 43
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 46
+          "order": 47
         },
         {
           "source": "dom",
@@ -2136,7 +2158,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:25:58+00:00",
-          "order": 43
+          "order": 44
         },
         {
           "source": "dom",
@@ -2182,7 +2204,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:19:02+00:00",
-          "order": 44
+          "order": 45
         },
         {
           "source": "dom",
@@ -2228,13 +2250,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:10:14+00:00",
-          "order": 45
+          "order": 46
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 48
+          "order": 49
         },
         {
           "source": "dom",
@@ -2280,7 +2302,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:08:56+00:00",
-          "order": 46
+          "order": 47
         },
         {
           "source": "dom",
@@ -2332,7 +2354,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:08:19+00:00",
-          "order": 47
+          "order": 48
         },
         {
           "source": "dom",
@@ -2344,7 +2366,7 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 15
+          "order": 16
         },
         {
           "source": "dom",
@@ -2372,7 +2394,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T15:02:53+00:00",
-          "order": 48
+          "order": 49
         },
         {
           "source": "dom",
@@ -2424,7 +2446,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T14:35:01+00:00",
-          "order": 49
+          "order": 50
         },
         {
           "source": "dom",
@@ -2464,7 +2486,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T14:27:58+00:00",
-          "order": 50
+          "order": 51
         },
         {
           "source": "dom",
@@ -2504,7 +2526,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T14:20:41+00:00",
-          "order": 51
+          "order": 52
         },
         {
           "source": "dom",
@@ -2544,7 +2566,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T14:03:23+00:00",
-          "order": 52
+          "order": 53
         },
         {
           "source": "dom",
@@ -2584,7 +2606,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T14:02:49+00:00",
-          "order": 53
+          "order": 54
         },
         {
           "source": "dom",
@@ -2624,7 +2646,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:58:14+00:00",
-          "order": 54
+          "order": 55
         },
         {
           "source": "dom",
@@ -2664,7 +2686,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:43:46+00:00",
-          "order": 55
+          "order": 56
         },
         {
           "source": "dom",
@@ -2716,13 +2738,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:39:55+00:00",
-          "order": 56
+          "order": 57
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 47
+          "order": 48
         },
         {
           "source": "dom",
@@ -2756,13 +2778,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:39:42+00:00",
-          "order": 57
+          "order": 58
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 39
+          "order": 40
         },
         {
           "source": "dom",
@@ -2842,7 +2864,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:23:15+00:00",
-          "order": 58
+          "order": 59
         },
         {
           "source": "dom",
@@ -2882,7 +2904,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:14:38+00:00",
-          "order": 59
+          "order": 60
         },
         {
           "source": "dom",
@@ -2928,7 +2950,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:10:13+00:00",
-          "order": 60
+          "order": 61
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 34
         },
         {
           "source": "dom",
@@ -2968,7 +2996,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:01:49+00:00",
-          "order": 61
+          "order": 62
         }
       ]
     },
@@ -2990,7 +3018,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:00:45+00:00",
-          "order": 62
+          "order": 63
         },
         {
           "source": "dom",
@@ -3030,13 +3058,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:00:29+00:00",
-          "order": 63
+          "order": 64
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 16
+          "order": 17
         },
         {
           "source": "dom",
@@ -3070,13 +3098,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T13:00:12+00:00",
-          "order": 64
+          "order": 65
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 49
+          "order": 50
         },
         {
           "source": "dom",
@@ -3116,7 +3144,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T12:47:00+00:00",
-          "order": 65
+          "order": 66
         },
         {
           "source": "dom",
@@ -3156,7 +3184,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T12:37:13+00:00",
-          "order": 66
+          "order": 67
         },
         {
           "source": "dom",
@@ -3196,7 +3224,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T12:26:23+00:00",
-          "order": 67
+          "order": 68
         },
         {
           "source": "dom",
@@ -3230,7 +3258,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T12:24:22+00:00",
-          "order": 68
+          "order": 69
         },
         {
           "source": "dom",
@@ -3264,7 +3292,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T12:15:18+00:00",
-          "order": 69
+          "order": 70
         },
         {
           "source": "dom",
@@ -3298,7 +3326,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T12:13:35+00:00",
-          "order": 70
+          "order": 71
         },
         {
           "source": "dom",
@@ -3326,7 +3354,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T12:08:48+00:00",
-          "order": 71
+          "order": 72
         },
         {
           "source": "dom",
@@ -3354,13 +3382,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T12:02:17+00:00",
-          "order": 72
+          "order": 73
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 40
+          "order": 41
         },
         {
           "source": "dom",
@@ -3394,7 +3422,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T11:38:10+00:00",
-          "order": 73
+          "order": 74
         },
         {
           "source": "dom",
@@ -3428,7 +3456,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T11:28:50+00:00",
-          "order": 74
+          "order": 75
+        },
+        {
+          "source": "dom",
+          "sourceUrl": "https://www.arabnews.com/",
+          "datePublished": null,
+          "order": 32
         },
         {
           "source": "dom",
@@ -3456,7 +3490,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T11:25:42+00:00",
-          "order": 75
+          "order": 76
         }
       ]
     },
@@ -3478,7 +3512,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T11:15:51+00:00",
-          "order": 76
+          "order": 77
         },
         {
           "source": "dom",
@@ -3506,7 +3540,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T11:12:59+00:00",
-          "order": 77
+          "order": 78
         }
       ]
     },
@@ -3528,7 +3562,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T11:10:30+00:00",
-          "order": 78
+          "order": 79
         }
       ]
     },
@@ -3550,7 +3584,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T11:08:11+00:00",
-          "order": 79
+          "order": 80
         },
         {
           "source": "dom",
@@ -3584,13 +3618,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T11:02:05+00:00",
-          "order": 80
+          "order": 81
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 42
+          "order": 43
         },
         {
           "source": "dom",
@@ -3618,7 +3652,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T10:47:52+00:00",
-          "order": 81
+          "order": 82
         },
         {
           "source": "dom",
@@ -3652,7 +3686,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T10:32:42+00:00",
-          "order": 82
+          "order": 83
         }
       ]
     },
@@ -3674,7 +3708,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T10:30:28+00:00",
-          "order": 83
+          "order": 84
         },
         {
           "source": "dom",
@@ -3702,7 +3736,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T09:56:48+00:00",
-          "order": 84
+          "order": 85
         },
         {
           "source": "dom",
@@ -3730,7 +3764,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T09:49:54+00:00",
-          "order": 85
+          "order": 86
         },
         {
           "source": "dom",
@@ -3758,7 +3792,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T09:48:53+00:00",
-          "order": 86
+          "order": 87
         }
       ]
     },
@@ -3780,13 +3814,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T09:44:43+00:00",
-          "order": 87
+          "order": 88
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 43
+          "order": 44
         },
         {
           "source": "dom",
@@ -3814,7 +3848,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T09:40:59+00:00",
-          "order": 88
+          "order": 89
         }
       ]
     },
@@ -3836,7 +3870,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T09:26:29+00:00",
-          "order": 89
+          "order": 90
         },
         {
           "source": "dom",
@@ -3864,7 +3898,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T09:20:22+00:00",
-          "order": 90
+          "order": 91
         },
         {
           "source": "dom",
@@ -3892,7 +3926,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T08:33:18+00:00",
-          "order": 91
+          "order": 92
         },
         {
           "source": "dom",
@@ -3920,19 +3954,19 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T07:59:47+00:00",
-          "order": 92
+          "order": 93
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/",
           "datePublished": null,
-          "order": 44
+          "order": 45
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 17
+          "order": 18
         },
         {
           "source": "dom",
@@ -3960,7 +3994,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T07:59:26+00:00",
-          "order": 93
+          "order": 94
         }
       ]
     },
@@ -3982,7 +4016,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T07:57:25+00:00",
-          "order": 94
+          "order": 95
         },
         {
           "source": "dom",
@@ -4010,7 +4044,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T07:29:39+00:00",
-          "order": 95
+          "order": 96
         }
       ]
     },
@@ -4032,7 +4066,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T07:28:59+00:00",
-          "order": 96
+          "order": 97
         },
         {
           "source": "dom",
@@ -4066,7 +4100,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T07:12:22+00:00",
-          "order": 97
+          "order": 98
         },
         {
           "source": "dom",
@@ -4094,7 +4128,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T07:08:37+00:00",
-          "order": 98
+          "order": 99
         },
         {
           "source": "dom",
@@ -4122,7 +4156,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T07:07:02+00:00",
-          "order": 99
+          "order": 100
         },
         {
           "source": "dom",
@@ -4150,7 +4184,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T06:37:35+00:00",
-          "order": 100
+          "order": 101
         }
       ]
     },
@@ -4172,7 +4206,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T05:53:55+00:00",
-          "order": 101
+          "order": 102
         },
         {
           "source": "dom",
@@ -4200,7 +4234,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T05:35:30+00:00",
-          "order": 102
+          "order": 103
         }
       ]
     },
@@ -4222,7 +4256,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T05:04:47+00:00",
-          "order": 103
+          "order": 104
         }
       ]
     },
@@ -4244,7 +4278,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T05:00:49+00:00",
-          "order": 104
+          "order": 105
         },
         {
           "source": "dom",
@@ -4272,7 +4306,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T04:30:39+00:00",
-          "order": 105
+          "order": 106
         }
       ]
     },
@@ -4294,7 +4328,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T04:28:42+00:00",
-          "order": 106
+          "order": 107
         },
         {
           "source": "dom",
@@ -4322,7 +4356,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T03:38:44+00:00",
-          "order": 107
+          "order": 108
         },
         {
           "source": "dom",
@@ -4350,7 +4384,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T03:34:06+00:00",
-          "order": 108
+          "order": 109
         }
       ]
     },
@@ -4372,7 +4406,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T03:21:40+00:00",
-          "order": 109
+          "order": 110
         },
         {
           "source": "dom",
@@ -4400,7 +4434,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T03:10:27+00:00",
-          "order": 110
+          "order": 111
         },
         {
           "source": "dom",
@@ -4428,7 +4462,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T02:29:40+00:00",
-          "order": 111
+          "order": 112
         },
         {
           "source": "dom",
@@ -4456,7 +4490,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T02:18:32+00:00",
-          "order": 112
+          "order": 113
         },
         {
           "source": "dom",
@@ -4468,13 +4502,13 @@
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport",
           "datePublished": null,
-          "order": 18
+          "order": 19
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/sport?page=1",
           "datePublished": null,
-          "order": 23
+          "order": 10
         }
       ]
     },
@@ -4496,7 +4530,7 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T01:19:28+00:00",
-          "order": 113
+          "order": 114
         },
         {
           "source": "dom",
@@ -4524,63 +4558,13 @@
           "source": "xml-urlset",
           "sourceUrl": "https://www.arabnews.com/googlenews.xml",
           "datePublished": "2026-07-07T01:05:10+00:00",
-          "order": 114
+          "order": 115
         },
         {
           "source": "dom",
           "sourceUrl": "https://www.arabnews.com/world?page=1",
           "datePublished": null,
           "order": 21
-        }
-      ]
-    },
-    {
-      "title": "Trump says a resolution to Ukraine war is ‘getting closer’ after talks with Putin and Zelensky",
-      "url": "https://www.arabnews.com/node/2649916/world",
-      "section": "world",
-      "publishedAt": "2026-07-07T00:12:53.000Z",
-      "publishedRaw": "2026-07-07T03:12:53+03:00",
-      "modifiedAt": "2026-07-07T00:12:53.000Z",
-      "modifiedRaw": "2026-07-07T03:12:53+03:00",
-      "description": "WASHINGTON: US President Donald Trump said on Monday that a resolution to the more than four-year-old war in Ukraine is “getting closer than people realize” and that he will talk about Ukraine during talks in Turkiye this week at a NATO summit. Trump made his remarks after speaking at the weekend with both Russian President Vladimir Putin and his Ukrainian counterpart,",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/07/4728745-1498858079.jpg?itok=T343TPno",
-      "author": "Reuters",
-      "nodeId": 2649916,
-      "candidateUrl": "https://www.arabnews.com/node/2649916/world",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-07-07T00:12:53+00:00",
-          "order": 115
-        }
-      ]
-    },
-    {
-      "title": "Egypt coach Hassan says Palestinian suffering ‘a shame on the world’",
-      "url": "https://www.arabnews.com/node/2649914/sport",
-      "section": "sport",
-      "publishedAt": "2026-07-06T23:52:51.000Z",
-      "publishedRaw": "2026-07-07T02:52:51+03:00",
-      "modifiedAt": "2026-07-07T07:45:02.000Z",
-      "modifiedRaw": "2026-07-07T10:45:02+03:00",
-      "description": "ATLANTA: Egypt coach Hossam Hassan said at the World Cup on Monday that the suffering of the Palestinian people was a “shame on the world” as he called on football to do more to come to their aid. Hassan waved a Palestine flag after the Pharaohs beat Australia on penalties to reach the World Cup last 16, where they will meet defending champions Argentina on Tuesday. “If there",
-      "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/07/4728742-1211969791.jpg?itok=mJ0PVQVt",
-      "author": "AFP",
-      "nodeId": 2649914,
-      "candidateUrl": "https://www.arabnews.com/node/2649914/sport",
-      "sources": [
-        {
-          "source": "xml-urlset",
-          "sourceUrl": "https://www.arabnews.com/googlenews.xml",
-          "datePublished": "2026-07-06T23:52:51+00:00",
-          "order": 116
-        },
-        {
-          "source": "dom",
-          "sourceUrl": "https://www.arabnews.com/sport?page=1",
-          "datePublished": null,
-          "order": 10
         }
       ]
     }
@@ -4592,7 +4576,7 @@
     "listingSources": [
       {
         "sourceUrl": "https://www.arabnews.com/",
-        "itemCount": 57,
+        "itemCount": 58,
         "challengeDetected": false
       },
       {
@@ -4652,12 +4636,12 @@
       },
       {
         "sourceUrl": "https://www.arabnews.com/sport",
-        "itemCount": 25,
+        "itemCount": 26,
         "challengeDetected": false
       },
       {
         "sourceUrl": "https://www.arabnews.com/sport?page=1",
-        "itemCount": 31,
+        "itemCount": 30,
         "challengeDetected": false
       },
       {
@@ -4740,13 +4724,13 @@
     ],
     "sourceErrors": [],
     "skipped": {
-      "source-date-older-than-window": 88,
+      "source-date-older-than-window": 89,
       "article-older-than-window": 7
     },
     "articleErrors": [],
-    "candidateCountBeforeLimit": 950,
+    "candidateCountBeforeLimit": 951,
     "candidateCountAfterLimit": 220,
-    "verifiedCount": 125,
+    "verifiedCount": 124,
     "uniqueCandidateCount": 493
   }
 }

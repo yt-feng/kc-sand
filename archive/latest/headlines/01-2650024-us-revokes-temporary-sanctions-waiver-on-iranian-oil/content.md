@@ -16,11 +16,11 @@ WASHINGTON: The US Treasury Department on Tuesday revoked a license that tempora
 
 ## Video Or Embed URLs
 
-- https://5f1e056196d695cc777ec365befe8c64.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://e60b275518776068efb477509deec72e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650024%2Fmiddle-east
 

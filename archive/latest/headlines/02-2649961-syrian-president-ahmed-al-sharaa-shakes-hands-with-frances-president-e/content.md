@@ -16,14 +16,14 @@ DAMASCUS: Syria’s President Ahmed Al-Sharaa said Tuesday that he is counting o
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/bc0844ce-5868-4eb1-999b-2f93ae537788
+- blob:https://www.arabnews.com/ff26a23e-6f9d-4566-82bf-626ff528904b
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://6459a7362243af685ce286bfa3a7776f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a34a5a9c73c355190ddba7d8e4a8cc99.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://sync.teads.tv/wigo-no-slot
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2649961%2Fmiddle-east
 
 ## Text

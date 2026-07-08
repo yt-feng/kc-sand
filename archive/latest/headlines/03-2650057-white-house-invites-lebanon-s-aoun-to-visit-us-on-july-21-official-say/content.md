@@ -1,0 +1,35 @@
+# White House invites Lebanon’s Aoun to visit US on July 21, official says
+
+Source: https://www.arabnews.com/node/2650057/middle-east
+Captured source: https://www.arabnews.com/node/2650057/middle-east
+Published: 2026-07-08T07:22:49+03:00
+Modified: 2026-07-08T07:38:00+03:00
+Author: ReutersAFP
+
+## Summary
+
+WASHINGTON: The White ​House has invited Lebanese President Joseph Aoun to visit ‌the ‌United ​States ‌on July ⁠21, ​a White House ⁠official told Reuters on Wednesday, ⁠after Israel and ‌Lebanon signed ‌a ​framework ‌agreement ‌in Washington last month following several days ‌of US-mediated talks aimed at ⁠ending ⁠fighting between Israel and Iran-backed Hezbollah militants.
+
+## Image
+
+![main image](./image.jpg)
+
+## Video Or Embed URLs
+
+- https://f76a6386fcdb5cf439117007efa0f787.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
+- https://sync.teads.tv/wigo-no-slot
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650057%2Fmiddle-east
+
+## Text
+
+https://arab.news/p9gx5
+
+Invitation comes after Israel and ‌Lebanon signed ‌a ​framework ‌agreement ‌in Washington last month
+
+WASHINGTON: The White ​House has invited Lebanese President Joseph Aoun to visit ‌the ‌United ​States ‌on July ⁠21, ​a White House ⁠official told Reuters on Wednesday, ⁠after Israel and ‌Lebanon signed ‌a ​framework ‌agreement ‌in Washington last month following several days ‌of US-mediated talks aimed at ⁠ending ⁠fighting between Israel and Iran-backed Hezbollah militants.
+
+Israeli Foreign Minister Gideon Saar confirmed on Tuesday that the next round of talks with Lebanon will take place in Rome, as the two countries work to build on a framework agreement reached last month with US backing.

@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-08T01:02:36.082Z
+Fetched at: 2026-07-08T04:49:17.769Z
 Target date: 2026-07-08 (Asia/Riyadh)
 
 ## Latest Videos
@@ -14,6 +14,6 @@ Target date: 2026-07-08 (Asia/Riyadh)
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
 1. [US revokes temporary sanctions waiver on Iranian oil](https://www.arabnews.com/node/2650024/middle-east) - archive: archive/latest/headlines/01-2650024-us-revokes-temporary-sanctions-waiver-on-iranian-oil/content.md
-2. [Syrian President Ahmed Al-Sharaa shakes hands with France's President Emmanuel Macron following press conference in Damascus.](https://www.arabnews.com/node/2649961/middle-east) - archive: archive/latest/headlines/02-2649961-syrian-president-ahmed-al-sharaa-shakes-hands-with-frances-president-e/content.md
-3. [Security personnel stand guard near the Four Seasons Hotel following two blasts nearby in Damascus on July 7, 2026. (AFP)](https://www.arabnews.com/node/2649942/middle-east) - archive: archive/latest/headlines/03-2649942-security-personnel-stand-guard-near-the-four-seasons-hotel-following-t/content.md
+2. [Coffin of slain Iranian supreme leader arrives in Iraq’s Najaf, Iraqi state TV says](https://www.arabnews.com/node/2650031/middle-east) - archive: archive/latest/headlines/02-2650031-coffin-of-slain-iranian-supreme-leader-arrives-in-iraq-s-najaf-iraqi-s/content.md
+3. [White House invites Lebanon’s Aoun to visit US on July 21, official says](https://www.arabnews.com/node/2650057/middle-east) - archive: archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/content.md
 4. [Robbed by the Referee: Egypt ‘denied’ historic win over Argentina](https://www.arabnews.com/node/2650010/sport) - archive: archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/content.md

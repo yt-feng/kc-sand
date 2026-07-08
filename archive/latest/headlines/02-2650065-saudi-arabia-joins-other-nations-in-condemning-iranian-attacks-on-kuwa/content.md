@@ -16,11 +16,11 @@ DUBAI: Iranian missile and drone attacks against Kuwait and Bahrain were condemn
 
 ## Video Or Embed URLs
 
-- https://7402c720f0c6aa0e4445d7e686e2de7a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://aebfead9b4345828d7f0d5774967526f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650065%2Fmiddle-east
 
 ## Text

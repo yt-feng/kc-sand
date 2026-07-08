@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T14:56:55.062Z",
+  "fetchedAt": "2026-07-08T16:45:39.815Z",
   "targetDate": {
     "iso": "2026-07-08",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 131,
+    "itemCount": 130,
     "window": {
       "hours": 24,
-      "start": "2026-07-07T14:56:55.062Z",
-      "end": "2026-07-08T14:56:55.062Z",
+      "start": "2026-07-07T16:45:39.815Z",
+      "end": "2026-07-08T16:45:39.815Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-08T15:02:27.731Z",
+    "capturedAt": "2026-07-08T16:51:06.705Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-08",
     "itemCount": 7,
@@ -221,21 +221,21 @@
           "video": "rendered-clips/2026-07-08/01_us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544393/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/29230A0423D703999B482DC849234AFF632B0AE9.1B23DE1613457A9B77E234BF54CE7FAC2C4C3A98/key/ck2/file/file.mp4",
-          "https://r1---sn-qxo7rne7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544393/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/53AFC9F646F721C25EBB7B6091CC881ADE185EDA.3CCBF84E797272547F871367F24907717DEB6375/key/cms1/cms_redirect/yes/met/1783522800,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-qxo7rne7/ms/nvh/mt/1783522299/mv/u/mvi/1/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550920/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5DC27B95673C44E27869FBE2AE81793619996DFC.A48CED1278397F6DC2C925EC06D7B9E793F83781/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550920/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/69E8F5B3F48BC38157BBB89069DA353E01F73D91.65B563C3383124D1CB3DDD19CA1F63878BA6A038/key/cms1/cms_redirect/yes/met/1783529327,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/N0qmtVVj.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f10a2_4de421a09d3fe8663321cbae2b0330c29876c4e7/sites/wPTWN2YS/media/N0qmtVVj/versions/sfxCeP6e/manifest.ism/manifest-audio_0_ymHYEhPy_FxgMcvvF=112110-video_0_ymHYEhPy_VJ9WNhlu=393110.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f10a2_4de421a09d3fe8663321cbae2b0330c29876c4e7/sites/wPTWN2YS/media/N0qmtVVj/versions/sfxCeP6e/manifest.ism/manifest-audio_0_ymHYEhPy_FxgMcvvF=112110-video_0_ymHYEhPy_VJ9WNhlu=474229.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f293e_e1a9582d07294af0e8a463ad6cd2872e41849c3d/sites/wPTWN2YS/media/N0qmtVVj/versions/sfxCeP6e/manifest.ism/manifest-audio_0_ymHYEhPy_FxgMcvvF=112110-video_0_ymHYEhPy_VJ9WNhlu=393110.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f293e_e1a9582d07294af0e8a463ad6cd2872e41849c3d/sites/wPTWN2YS/media/N0qmtVVj/versions/sfxCeP6e/manifest.ism/manifest-audio_0_ymHYEhPy_FxgMcvvF=112110-video_0_ymHYEhPy_VJ9WNhlu=474229.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2650076-us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/08/4729266-137704411.jpg?itok=jrOutgMq",
           "contentType": "image/jpeg",
-          "bytes": 32197
+          "bytes": 27136
         },
         "video": {
           "path": "rendered-clips/2026-07-08/01_us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544393/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/29230A0423D703999B482DC849234AFF632B0AE9.1B23DE1613457A9B77E234BF54CE7FAC2C4C3A98/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550920/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5DC27B95673C44E27869FBE2AE81793619996DFC.A48CED1278397F6DC2C925EC06D7B9E793F83781/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-08/02_robbed-by-the-referee-egypt-denied-historic-win-over-argentina.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544419/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/404FC32BF48FD626E02EC7ED4453E381D72BD201.056413BBCFF0A70CC1CEB01ACC95AE9E1DE7AE13/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544419/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/42B0F1052C88D3E103F666955373B712C1790610.67EBAD37AA84AC3AF3D3E5BAB9DEC2E522004D45/key/cms1/cms_redirect/yes/met/1783522825,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1783522579/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550946/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A854DE34FA30732CE005F3667B067A9FA391EA9A.AD3EA1C79BF53DB351D8E712F1ED38924FC0B2A8/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550946/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5366D679E3219FB896CAC7B61FA2A0BB4E35B32B.4CC8AD9498A3B73FA604C87D0C3FA82EBE0C4C6C/key/cms1/cms_redirect/yes/met/1783529352,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/NGnp8CB9.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f0f94_a8e03f6cf245c72ba10ddbee51556092e31f83ed/sites/wPTWN2YS/media/NGnp8CB9/versions/76hz3m62/manifest.ism/manifest-audio_0_UgUODXVT_S61r6qNa=112017-video_0_UgUODXVT_iOuyRIfd=459663.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f2bb4_81607f6ce9d3553867c1b680ec86da0fff122ab9/sites/wPTWN2YS/media/NGnp8CB9/versions/76hz3m62/manifest.ism/manifest-audio_0_UgUODXVT_S61r6qNa=112017-video_0_UgUODXVT_iOuyRIfd=459663.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-08/02_robbed-by-the-referee-egypt-denied-historic-win-over-argentina.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544419/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/404FC32BF48FD626E02EC7ED4453E381D72BD201.056413BBCFF0A70CC1CEB01ACC95AE9E1DE7AE13/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550946/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A854DE34FA30732CE005F3667B067A9FA391EA9A.AD3EA1C79BF53DB351D8E712F1ED38924FC0B2A8/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-08/03_new-attacks-on-iran-were-absolutely-necessary-nato-chief-says.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544443/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/59133A0B57816F284319A02BFCFE3864070249C2.97EBE22971D723B83940579FAD101C162E72458C/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544443/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/21596DB93D98380DD09A498011AA02F2D28654CF.52A4B239212BFA9AD58B41AB19CAB5046E404E5B/key/cms1/cms_redirect/yes/met/1783522849,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783522666/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550968/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1DE7080E661262B0D8CA2BE9838DCD2C74F09DA7.67EAD3ED3FF0CAE123807BD071E240A30607D011/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550968/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7CC5A52CE853B907523711F9FEE08DE326CA620A.5CAAA67192DFA4E6DCA115F619D35C3BB27947FF/key/cms1/cms_redirect/yes/met/1783529373,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/6slxDRSX.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f1266_9ebd3018c06896c804778c29e158081fd67dc713/sites/wPTWN2YS/media/6slxDRSX/versions/Kg2cMT9m/manifest.ism/manifest-audio_0_eYfR48qy_7l5CNk9n=112091-video_0_eYfR48qy_OdyLUTgo=337020.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f2b02_f8e314f70a6598bf641158523a6b47fb2ddd4f4c/sites/wPTWN2YS/media/6slxDRSX/versions/Kg2cMT9m/manifest.ism/manifest-audio_0_eYfR48qy_7l5CNk9n=112091-video_0_eYfR48qy_OdyLUTgo=337020.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2650061-new-attacks-on-iran-were-absolutely-necessary-nato-chief-says/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-08/03_new-attacks-on-iran-were-absolutely-necessary-nato-chief-says.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544443/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/59133A0B57816F284319A02BFCFE3864070249C2.97EBE22971D723B83940579FAD101C162E72458C/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550968/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1DE7080E661262B0D8CA2BE9838DCD2C74F09DA7.67EAD3ED3FF0CAE123807BD071E240A30607D011/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -327,10 +327,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544466/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3D9B28DC05859362BBC49C95341815B5A4B713AD.7DB59CAE69AEAC290DCF640CF0D7C786BFC7FB4E/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544466/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/18BD22E47480B0A7A481B0620EAF2A45E791EBA0.09DA0C0B1CC058902895C55167051EED7221F43D/key/cms1/cms_redirect/yes/met/1783522874,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783522666/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550990/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/693288D489F9D3C56E098F711E66F824B29AE857.83698BB14600AEDB1A9A0EB10AB4D7DBA3BE57C6/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783550990/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5C9BBF41E914C2C201245B72B404C98B9CB8B167.23257CC9AFFE572115DD616A836BDC2245459847/key/cms1/cms_redirect/yes/met/1783529396,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/lAnxfwBB.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f1071_927da63207d400b777f8baba39f3b04ae3fc9c33/sites/wPTWN2YS/media/lAnxfwBB/versions/QbW1O7jl/manifest.ism/manifest-audio_0_bOyTVbPP_avnVF285=112043-video_0_bOyTVbPP_5bgs49s4=484372.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f290d_7b424ac8dedd9ee64912bed886fa1dd91fe1d7a3/sites/wPTWN2YS/media/lAnxfwBB/versions/QbW1O7jl/manifest.ism/manifest-audio_0_bOyTVbPP_avnVF285=112043-video_0_bOyTVbPP_5bgs49s4=484372.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2650053-iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/image.jpg",
@@ -356,8 +356,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544489/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7F19CB8035D52F11533E61278EEC31AA3972AEB5.AF3CA21927D2C7DD73E9C09F4BF44D3E6E3DF12F/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544489/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/11A464A34BD3AD9703E4D3610BACEFD48AEC0EE7.71DE34DBC536AB28CAF484E1B1C6DB19859DA289/key/cms1/cms_redirect/yes/met/1783522893,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783522666/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551009/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9E4E9D67BD415B8D6F2AFE38F0E5C55574D372EC.1241C201F7C868AF41F3A17F3D4A608ABA80E0BC/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551009/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/53EACCAD25FC3E3E0BD3F2C3D6FC43F509FBD5CA.5DAAC90B6453319DFF87CAD5DE613EF6C74A0622/key/cms1/cms_redirect/yes/met/1783529414,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783529281/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2650065-saudi-arabia-joins-other-nations-in-condemning-iranian-attacks-on-kuwa/image.jpg",
@@ -383,8 +383,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544509/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/668F7220FEBE13BD5FF61E84F77E0E5BE9E8C878.A206040B1E06FC04D91645C7087885DD909BB496/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544509/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4B3D2F3F78401BEE38F27F32607392DEC5C50D4B.30BAA808FCD7A32193E8C05E184FA692FD771B07/key/cms1/cms_redirect/yes/met/1783522914,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1783522579/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551031/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8F4674C54EDAE21E8905E1486BF5F23FC1D26D9E.3234AFE9D324A9D791DBA1629918B6950D02E69A/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551031/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5A4A2F2153014C456CB94EA430924E01827BA880.47259119D03F71A11C08A8E2C2F04362C6ADA01F/key/cms1/cms_redirect/yes/met/1783529436,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2650057-white-house-invites-lebanon-s-aoun-to-visit-us-on-july-21-official-say/image.jpg",
@@ -410,10 +410,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544531/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/98C9F92860734F7C1042F3E669D0E51CAD872293.37C6C0A5AB8DA201A3640686D857143C274AFA79/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783544531/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/535B058F7DAEF898DED46846EA87E7CF2FD07D38.2B620BC222C2A6ED5DF437CACB4256A199D2C04C/key/cms1/cms_redirect/yes/met/1783522937,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783522666/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551052/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/60E62809B17D38D58C8F42DFB0F590DAFD50B652.674B9A99002CAB82C44A45E98ED0588B49AA2D9B/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783551052/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/78D5325C636831E9466CCA3CEEB0679C5240E479.7873AAD835F15A7E41CD7A3AA50F203248100191/key/cms1/cms_redirect/yes/met/1783529457,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783528850/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/NGnp8CB9.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a4f0f94_a8e03f6cf245c72ba10ddbee51556092e31f83ed/sites/wPTWN2YS/media/NGnp8CB9/versions/76hz3m62/manifest.ism/manifest-audio_0_UgUODXVT_S61r6qNa=112017-video_0_UgUODXVT_iOuyRIfd=459663.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a4f2bb4_81607f6ce9d3553867c1b680ec86da0fff122ab9/sites/wPTWN2YS/media/NGnp8CB9/versions/76hz3m62/manifest.ism/manifest-audio_0_UgUODXVT_S61r6qNa=112017-video_0_UgUODXVT_iOuyRIfd=459663.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2650010-robbed-by-the-referee-egypt-denied-historic-win-over-argentina/image.jpg",

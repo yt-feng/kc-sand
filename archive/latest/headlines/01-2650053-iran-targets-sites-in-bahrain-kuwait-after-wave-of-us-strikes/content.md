@@ -16,11 +16,11 @@ Iran’s Revolutionary Guards said they targeted US military sites in Bahrain an
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/99c06fe5-b43e-4cb0-9c38-06955cdec632
+- blob:https://www.arabnews.com/d6534322-c5c3-4370-8084-43df8e755f6f
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://953a2c79cafb7f17e8831000f82ef1a0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://1feff3268a1ad926b4f8d5e16291cd39.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650053%2Fmiddle-east

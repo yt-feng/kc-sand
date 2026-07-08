@@ -16,9 +16,9 @@ ANKARA: The new attacks by the US on Iran were “absolutely necessary,” NATO 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/e6f92983-4b88-4539-86de-18efbdc58cb6
+- blob:https://www.arabnews.com/1515dd25-0ccb-49fe-8dd4-faa2b1f6bedf
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://2d2e144a11febcfb2bb4a4089d02c1e5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://ef9db6901aa9e7c2a4de650d1a2e6fa8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

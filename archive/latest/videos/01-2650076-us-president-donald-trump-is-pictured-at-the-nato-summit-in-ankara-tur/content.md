@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650076/middle-east
 Captured source: https://www.arabnews.com/node/2650076/middle-east
 Published: 2026-07-08T11:24:50+03:00
-Modified: 2026-07-08T17:27:58+03:00
+Modified: 2026-07-09T01:09:21+03:00
 Author: Reuters
 
 ## Summary
@@ -16,11 +16,12 @@ ANKARA/DUBAI: President Donald Trump said an interim agreement to end the war wi
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/e40d247e-0260-45bd-8923-66ff9a5f8419
+- blob:https://www.arabnews.com/641c8570-29e6-4a7f-ab78-205ac4cd9a12
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://ca6cea8dea0183a97067f0b66d50d7ec.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://d4f831119d2d41c378f39d1519ed8634.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
+- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
 - https://sync.teads.tv/wigo-no-slot
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
@@ -44,4 +45,4 @@ Oil prices rise, stocks fall Asked before a NATO summit in Turkiye whether the m
 
 Iran and US trade blame Iran’s Revolutionary Guards (IRGC) said they had targeted US military sites in Bahrain ‌and Kuwait and that they had shot down a US MQ-9 drone attempting to interfere in the operation. Bahrain’s army later said it had thwarted Iranian attacks. The US had earlier unleashed new military strikes and revoked a license allowing Iran to sell oil in response to attacks on three tankers in the strait. The US Central Command said more than 60 small boats used by the IRGC were among the targets hit in an operation it said was intended to impose a heavy cost on Iran for strikes on shipping in violation of the ‌ceasefire. Trump said the US had “knocked out 28 boats last night” and would probably hit more later. NATO Secretary General Mark Rutte told reporters before the NATO summit that the new attacks by the US on Iran were “absolutely necessary.” EU foreign ⁠policy chief Kaja Kallas later said ⁠on X the exchanges of fire “complicate already fraught talks to end the war. Iran’s attacks on Bahrain and Kuwait are unacceptable.” Iran’s top joint military command, Khatam Al-Anbiya Central Headquarters, called the US strikes a “blatant act of aggression,” threatened a “crushing response,” and warned that Tehran would not allow US interference in the management of the strait. A top Iranian negotiator, parliament speaker Mohammad Baqer Qalibaf, accused the US of breaching the ceasefire agreement. “The era of bullying and extortion is over,” Qalibaf said in a post on X. “We don’t fold.” Iranian media earlier reported explosions in Iran’s main oil hub of Kharg Island, on Qeshm Island and in the southern port cities of Sirik and Bandar Abbas. CENTCOM made no mention of Kharg Island, from which Iran exports 90 percent of its crude oil. A US official told Reuters that strikes targeted Iranian air defense systems, coastal surveillance systems, surface-to-air missiles, anti-ship cruise missiles and drone launch sites. No civilian deaths were reported in Iran.
 
-Iran seeks to leverage control of the strait Control of the Strait of Hormuz has given Tehran immense leverage, effectively allowing it to force a stalemate with the world’s most powerful military. Analysts say Tehran uses attacks on ships to underscore that leverage as it negotiates a long-term peace deal with the US Under the interim US-Iran agreement, the US Treasury issued a June 22 general license to allow the sale of crude ​oil and petrochemical and petroleum products of Iranian origin through August 21. In revoking ​that license on Tuesday, it gave Iran until July 17 to wind down any transactions. Iran’s foreign ministry condemned the move as a breach of the framework agreement to end the war. The ministry said Iran would take any measure it deemed necessary to safeguard its interests and national security.
+Iran seeks to leverage control of the strait Control of the Strait of Hormuz has given Tehran immense leverage, effectively allowing it to force a stalemate with the world’s most powerful military. Analysts say Tehran uses attacks on ships to underscore that leverage as it negotiates a long-term peace deal with the US. Under the interim US-Iran agreement, the US Treasury issued a June 22 general license to allow the sale of crude ​oil and petrochemical and petroleum products of Iranian origin through August 21. In revoking ​that license on Tuesday, it gave Iran until July 17 to wind down any transactions. Iran’s foreign ministry condemned the move as a breach of the framework agreement to end the war. The ministry said Iran would take any measure it deemed necessary to safeguard its interests and national security.

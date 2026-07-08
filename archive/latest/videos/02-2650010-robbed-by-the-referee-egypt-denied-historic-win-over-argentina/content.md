@@ -16,13 +16,18 @@ RIYADH: Arab fans reviled French referee Francois Letexier as the most hated man
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/552be0eb-ccf6-4d17-94d6-4436db1219b6
+- blob:https://www.arabnews.com/7fe0c429-344d-4591-8ffb-197987f32d92
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://aa71a7b0411d619e00080716ce85b4ce.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://d36eb0cfd9a2b4b6361c2380d635e946.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650010%2Fsport
+
+## Downloaded Video
+
+- [02_robbed-by-the-referee-egypt-denied-historic-win-over-argentina.mp4](../../../rendered-clips/2026-07-08/02_robbed-by-the-referee-egypt-denied-historic-win-over-argentina.mp4)
 
 ## Text
 

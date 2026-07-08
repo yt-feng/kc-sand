@@ -3,12 +3,12 @@
 Source: https://www.arabnews.com/node/2650065/middle-east
 Captured source: https://www.arabnews.com/node/2650065/middle-east
 Published: 2026-07-08T10:20:11+03:00
-Modified: 2026-07-08T12:17:33+03:00
+Modified: 2026-07-08T14:51:14+03:00
 Author: Arab News
 
 ## Summary
 
-DUBAI: Kuwati on Wednesday condemned the latest Iranian attack, describing Tehran’s military actions a continuation of “brazen aggressions at a time when regional and international efforts aimed at de-escalation are underway” which “undermined efforts to reduce tensions.” The security of the State of Kuwait, its sovereignty, and the safety of its citizens and residents on its
+DUBAI: The Bahraini Defence Force on Wednesday said it intercepted and destroyed several Iranian missiles and drones targeting civilian areas, accusing Tehran of continuing hostile attacks against the kingdom. It urged the public to avoid and report any suspicious debris from the strikes, saying specialized military engineering teams are handling unexploded remnants. The force
 
 ## Image
 
@@ -16,10 +16,10 @@ DUBAI: Kuwati on Wednesday condemned the latest Iranian attack, describing Tehra
 
 ## Video Or Embed URLs
 
-- https://d7dfa64f17352fb8b23e9c0b92edf476.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://260012ab7a54707cd93004165e04cc2f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650065%2Fmiddle-east
 
@@ -29,7 +29,9 @@ https://arab.news/bsnwe
 
 Doha emphasizes necessity of “continuing on the path of dialogue and diplomacy, de-escalation’
 
-DUBAI: Kuwati on Wednesday condemned the latest Iranian attack, describing Tehran’s military actions a continuation of “brazen aggressions at a time when regional and international efforts aimed at de-escalation are underway” which “undermined efforts to reduce tensions.”
+DUBAI: The Bahraini Defence Force on Wednesday said it intercepted and destroyed several Iranian missiles and drones targeting civilian areas, accusing Tehran of continuing hostile attacks against the kingdom. It urged the public to avoid and report any suspicious debris from the strikes, saying specialized military engineering teams are handling unexploded remnants. The force added that all units remain on high alert and condemned the attacks as a violation of international humanitarian law.
+
+Kuwati condemned the latest Iranian attack, describing Tehran’s military actions a continuation of “brazen aggressions at a time when regional and international efforts aimed at de-escalation are underway” which “undermined efforts to reduce tensions.”
 
 The security of the State of Kuwait, its sovereignty, and the safety of its citizens and residents on its soil are a red line that cannot be crossed, statement from the country’s foreign ministry said.
 
@@ -43,7 +45,9 @@ Egypt has also condemned the repeated Iranian attacks on Kuwait, Bahrain and oth
 
 “Egypt emphasizes its full rejection of all actions that infringe upon the security and sovereignty of sisterly nations or threaten the security and stability of the region,” its foreign affairs ministry said in a statement, and renewed its call for restraint and de-escalation in order to preserve regional security and safeguard peace and stability.
 
-The Sultanate of Oman also condemned the Iranian attacks on the oil tankers in the Strait of Hormuz, saying “the military escalation in the region threatens its security and martime safety” adding they reject any actions that endanger civilian and commercial vessels. The Sultanate also called for full implementation of the agreements signed between the parties and a de-escalation of tensions.
+Oman also condemned the Iranian attacks on the oil tankers in the Strait of Hormuz, saying “the military escalation in the region threatens its security and martime safety” adding they reject any actions that endanger civilian and commercial vessels. The Sultanate also called for full implementation of the agreements signed between the parties and a de-escalation of tensions.
+
+Lebanese president Joseph Aoun also condemned the attacks against Bahrain and Kuwait, renewed his call for restraint, de-escalation and “for prioritizing the language of dialogue and diplomacy, out of concern for the security of the region, its stability, and the safety of its peoples.”
 
 The Islamic Revolutionary Guard ​Corps said it carried out a joint missile and drone operation against Ali Al Salem Air Base in Kuwait, and other key US military sites in Bahrain in retaliation for US military strikes in Iran.
 

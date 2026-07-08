@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650076/middle-east
 Captured source: https://www.arabnews.com/node/2650076/middle-east
 Published: 2026-07-08T11:24:50+03:00
-Modified: 2026-07-08T12:38:00+03:00
+Modified: 2026-07-08T14:56:31+03:00
 Author: Arab News
 
 ## Summary
@@ -16,11 +16,12 @@ ANKARA: US President Donald Trump said on Wednesday that the memorandum of under
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/af797853-e63b-4519-bd93-95cbc3ed6d79
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://2980e04803daf1034c5c47163e7e9c12.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/c96bc47d-049e-4e2d-aafe-04e9e3aa4cc0
+- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
+- https://f56974393130484f64efcffb7ecb3b29.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650076%2Fmiddle-east
 
@@ -47,6 +48,8 @@ The interim ceasefire agreement signed between Washington and Tehran - under the
 “As far as I'm concerned, it’s just a waste of time dealing with them.”
 
 The US on Tuesday also revoked a license allowing Iran to sell oil after three tankers were hit by projectiles in the Strait of Hormuz.
+
+But later Trump did not repeat his comments on the termination of interim deal with iran during the Nato summit, according to a source familiar with the talks said.
 
 Under the interim US-Iran agreement, the US Treasury issued a June 22 general license to allow the sale of crude oil and petrochemical and petroleum products of Iranian origin through Aug. 21. In revoking that license on Tuesday, it gave Iran until July 17 to wind down any transactions.
 

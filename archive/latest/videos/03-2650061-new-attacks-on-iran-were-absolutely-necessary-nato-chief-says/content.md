@@ -16,17 +16,17 @@ ANKARA: The new attacks by the US on Iran were “absolutely necessary,” NATO 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/a9ee4f52-4e4f-46f9-9a4b-faa67480c139
+- blob:https://www.arabnews.com/e6f92983-4b88-4539-86de-18efbdc58cb6
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://b9b447be4f759027c2cfe73675135939.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://2d2e144a11febcfb2bb4a4089d02c1e5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650061%2Fmiddle-east
 
 ## Downloaded Video
 
-- [03_new-attacks-on-iran-were-absolutely-necessary-nato-chief-says.mp4](../../../rendered-clips/2026-07-08/03_new-attacks-on-iran-were-absolutely-necessary-nato-chief-says.mp4)
+- [03_new-attacks-on-iran-were-absolutely-necessary-nato-chief-says.mp4](../../../rendered-clips/2026-07-09/03_new-attacks-on-iran-were-absolutely-necessary-nato-chief-says.mp4)
 
 ## Text
 

@@ -16,18 +16,19 @@ ANKARA/DUBAI: President Donald Trump said an interim agreement to end the war wi
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/eb2b4947-c1f1-46d8-8ff8-c6a25cdd78ea
+- blob:https://www.arabnews.com/e40d247e-0260-45bd-8923-66ff9a5f8419
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://8cc79e053eff3f8eba994fb419f9f79c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://ca6cea8dea0183a97067f0b66d50d7ec.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650076%2Fmiddle-east
 
 ## Downloaded Video
 
-- [01_us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur.mp4](../../../rendered-clips/2026-07-08/01_us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur.mp4)
+- [01_us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur.mp4](../../../rendered-clips/2026-07-09/01_us-president-donald-trump-is-pictured-at-the-nato-summit-in-ankara-tur.mp4)
 
 ## Text
 

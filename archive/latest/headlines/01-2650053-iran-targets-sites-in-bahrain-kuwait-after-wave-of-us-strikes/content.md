@@ -3,12 +3,12 @@
 Source: https://www.arabnews.com/node/2650053/middle-east
 Captured source: https://www.arabnews.com/node/2650053/middle-east
 Published: 2026-07-08T08:19:45+03:00
-Modified: 2026-07-08T10:30:28+03:00
+Modified: 2026-07-08T17:24:41+03:00
 Author: Reuters
 
 ## Summary
 
-Iran’s Revolutionary Guards said they targeted US military sites in Bahrain and Kuwait on Wednesday after the US launched a wave of military strikes on Iran in response to attacks on tankers in the Strait of Hormuz. In the latest blow to the fragile ceasefire agreement, the Islamic Revolutionary Guard ​Corps said it carried out a joint missile and drone operation against key
+Iran’s Revolutionary Guards said they targeted US military sites in Bahrain and Kuwait on Wednesday after Washington launched a wave of military strikes on Iran in response to attacks on tankers in the Strait of Hormuz. In the latest blow to the fragile ceasefire agreement, the Islamic Revolutionary Guard ​Corps said it carried out a joint missile and drone operation against
 
 ## Image
 
@@ -16,11 +16,11 @@ Iran’s Revolutionary Guards said they targeted US military sites in Bahrain an
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/c0943863-d4b6-4916-b13e-a1a19f739dc7
-- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://01f9f3ba5ad7c914c8b5a4afaa2273ab.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- blob:https://www.arabnews.com/99c06fe5-b43e-4cb0-9c38-06955cdec632
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://953a2c79cafb7f17e8831000f82ef1a0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650053%2Fmiddle-east
@@ -35,11 +35,17 @@ US sites in Bandar Salman, Bahrain’s Fifth Naval District and Ali Al Salem Air
 
 At least four oil and gas tankers turn back from Hormuz strait after vessel attacks
 
-Iran’s Revolutionary Guards said they targeted US military sites in Bahrain and Kuwait on Wednesday after the US launched a wave of military strikes on Iran in response to attacks on tankers in the Strait of Hormuz.
+Iran’s Revolutionary Guards said they targeted US military sites in Bahrain and Kuwait on Wednesday after Washington launched a wave of military strikes on Iran in response to attacks on tankers in the Strait of Hormuz.
 
 In the latest blow to the fragile ceasefire agreement, the Islamic Revolutionary Guard ​Corps said it carried out a joint missile and drone operation against key US military sites in Bandar Salman, Bahrain’s Fifth Naval District and Ali Al Salem Air Base in Kuwait, and shot down a US MQ9 drone attempting to interfere in the operation. Air raid sirens sounded in Bahrain and Kuwait, officials said.
 
-The Kuwaiti army said air defenses were confronting “hostile” missile and drone attacks. The US earlier unleashed fresh military strikes and revoked a license allowing Iran to sell oil in response to attacks on three tankers in the strait.
+The Kuwaiti army said air defenses were confronting “hostile” missile and drone attacks.
+
+The Bahraini Defense Force said it intercepted and destroyed several Iranian missiles and drones targeting civilian areas, accusing Tehran of continuing hostile attacks against the kingdom.
+
+It urged the public to avoid and report any suspicious debris from the strikes, saying specialized military engineering teams are handling unexploded remnants.
+
+The US earlier unleashed fresh military strikes and revoked a license allowing Iran to sell oil in response to attacks on three tankers in the strait.
 
 The US Central Command said more than 60 small boats of the Islamic Revolutionary Guard Corps were among the targets hit, in a bid to impose a heavy cost on Iran for strikes on shipping in violation of the ceasefire.
 

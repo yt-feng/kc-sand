@@ -16,13 +16,14 @@ WASHINGTON: The United States said Wednesday it will delist Syria as a state spo
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/458730a4-d305-4b14-9426-915234b66b50
+- blob:https://www.arabnews.com/dfd8e107-89f7-4cf0-9b7e-548bb3020417
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://7668f121d243d4a832a91980c191d970.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://de5fefd5711a733a1576dd722144e164.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650141%2Fmiddle-east
 
 ## Text

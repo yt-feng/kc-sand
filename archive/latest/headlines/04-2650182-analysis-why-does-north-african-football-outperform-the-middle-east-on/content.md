@@ -16,7 +16,7 @@ DUBAI: Four years ago, Morocco smashed the glass ceiling for Arab teams at the W
 
 ## Video Or Embed URLs
 
-- https://62e6bc63a209ea24cc8968fe31b732c0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://351049853beef88ac6b0c3831f5ab859.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

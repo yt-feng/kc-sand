@@ -16,7 +16,7 @@ BEIRUT, Lebanon: Lebanon demands Israel’s withdrawal from two “pilot zones�
 
 ## Video Or Embed URLs
 
-- https://6e832b06f5cd4abb086aba3179cca63a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c5f2dbe1ffc77328f57503d56dc8eed0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

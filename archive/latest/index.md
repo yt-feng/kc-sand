@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-07-09T16:10:23.598Z
+Captured at: 2026-07-09T18:23:37.933Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -12,4 +12,4 @@ Errors: 0
 - [Saudi Arabia, Arab states condemn Iran’s attacks on Bahrain, Kuwait and Jordan](https://www.arabnews.com/node/2650194/middle-east) - ok - `archive/latest/headlines/01-2650194-saudi-arabia-arab-states-condemn-iran-s-attacks-on-bahrain-kuwait-and-/content.md`
 - [Saudi Arabia’s Crown Prince Mohammed bin Salman welcomes Canada’s Prime Minister Mark Carney to Al\-Salam Palace in Jeddah\.](https://www.arabnews.com/node/2650261/saudi-arabia) - ok - `archive/latest/headlines/02-2650261-saudi-arabia-s-crown-prince-mohammed-bin-salman-welcomes-canada-s-prim/content.md`
 - [Abbas declares Nov\. 28 for Palestinian legislative elections](https://www.arabnews.com/node/2650267/middle-east) - ok - `archive/latest/headlines/03-2650267-abbas-declares-nov-28-for-palestinian-legislative-elections/content.md`
-- [ICC official says breakthrough made in Darfur investigations](https://www.arabnews.com/node/2650257/middle-east) - ok - `archive/latest/headlines/04-2650257-icc-official-says-breakthrough-made-in-darfur-investigations/content.md`
+- [Saudi Arabia welcomes US decision US to remove Syria from terror blacklist](https://www.arabnews.com/node/2650288/saudi-arabia) - ok - `archive/latest/headlines/04-2650288-saudi-arabia-welcomes-us-decision-us-to-remove-syria-from-terror-black/content.md`

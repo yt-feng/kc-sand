@@ -16,9 +16,9 @@ KHAN YOUNIS, Gaza Strip: Tens of thousands of Palestinians in Gaza now live with
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/ed4e9ec6-b654-431e-a686-7c18afe46835
+- blob:https://www.arabnews.com/c40b75ae-fdae-4524-8346-f908f590ef4c
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://cec00d3f1350928f753a6a9f3a19a274.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://efdca56a2f1b5e1e105b73d995fd85a3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

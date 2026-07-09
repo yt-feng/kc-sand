@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-09T16:05:13.720Z
+Fetched at: 2026-07-09T18:18:33.308Z
 Target date: 2026-07-09 (Asia/Riyadh)
 
 ## Latest Videos
@@ -16,4 +16,4 @@ No parseable item-level dates were found, so the output is the current Top Headl
 1. [Saudi Arabia, Arab states condemn Iran’s attacks on Bahrain, Kuwait and Jordan](https://www.arabnews.com/node/2650194/middle-east) - archive: archive/latest/headlines/01-2650194-saudi-arabia-arab-states-condemn-iran-s-attacks-on-bahrain-kuwait-and-/content.md
 2. [Saudi Arabia’s Crown Prince Mohammed bin Salman welcomes Canada’s Prime Minister Mark Carney to Al-Salam Palace in Jeddah.](https://www.arabnews.com/node/2650261/saudi-arabia) - archive: archive/latest/headlines/02-2650261-saudi-arabia-s-crown-prince-mohammed-bin-salman-welcomes-canada-s-prim/content.md
 3. [Abbas declares Nov. 28 for Palestinian legislative elections](https://www.arabnews.com/node/2650267/middle-east) - archive: archive/latest/headlines/03-2650267-abbas-declares-nov-28-for-palestinian-legislative-elections/content.md
-4. [ICC official says breakthrough made in Darfur investigations](https://www.arabnews.com/node/2650257/middle-east) - archive: archive/latest/headlines/04-2650257-icc-official-says-breakthrough-made-in-darfur-investigations/content.md
+4. [Saudi Arabia welcomes US decision US to remove Syria from terror blacklist](https://www.arabnews.com/node/2650288/saudi-arabia) - archive: archive/latest/headlines/04-2650288-saudi-arabia-welcomes-us-decision-us-to-remove-syria-from-terror-black/content.md

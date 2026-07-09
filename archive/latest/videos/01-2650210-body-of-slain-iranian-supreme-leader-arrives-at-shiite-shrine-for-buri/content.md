@@ -16,9 +16,9 @@ DUBAI: The funeral procession of Iran’s slain Supreme Leader Ayatollah Ali Kha
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/c7d4ea71-916f-4975-9487-0eb9f989a05b
+- blob:https://www.arabnews.com/ecfa41d7-5e40-4650-9f1f-4ed88e34959c
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://8d967453f29615df18b45f426ccbed09.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://4dcd4065977806646a78f6b270b8ac69.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ DUBAI: The funeral procession of Iran’s slain Supreme Leader Ayatollah Ali Kha
 
 ## Downloaded Video
 
-- [01_body-of-slain-iranian-supreme-leader-arrives-at-shiite-shrine-for-buri.mp4](../../../rendered-clips/2026-07-09/01_body-of-slain-iranian-supreme-leader-arrives-at-shiite-shrine-for-buri.mp4)
+- [01_body-of-slain-iranian-supreme-leader-arrives-at-shiite-shrine-for-buri.mp4](../../../rendered-clips/2026-07-10/01_body-of-slain-iranian-supreme-leader-arrives-at-shiite-shrine-for-buri.mp4)
 
 ## Text
 

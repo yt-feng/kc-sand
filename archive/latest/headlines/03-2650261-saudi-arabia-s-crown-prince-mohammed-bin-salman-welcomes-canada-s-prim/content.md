@@ -16,11 +16,10 @@ RIYADH: Saudi Arabia’s Crown Prince Mohammed bin Salman received Canada’s Pr
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/575805ad-7dc4-489e-a72f-b1489b9ed56c
+- blob:https://www.arabnews.com/249a9247-a0ad-46c3-ae56-f45d22fc7ac1
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://dab232d34d2b2d6c4307dace163039cf.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650261%2Fsaudi-arabia
 

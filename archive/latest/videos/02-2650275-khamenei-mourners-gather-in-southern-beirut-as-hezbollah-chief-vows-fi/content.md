@@ -16,18 +16,18 @@ LONDON: People gathered on Wednesday night in Beirut’s southern suburbs to mou
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/e6b413be-ee22-4e4f-8bf9-1a14f1d47939
+- blob:https://www.arabnews.com/0491bd70-2205-46a2-9ef2-78511540eaac
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://31c27103ca21fb2d0e7cdcd33d8358c5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://674912e90d24a30473f8b683e66ae724.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650275%2Fmiddle-east
 
 ## Downloaded Video
 
-- [02_khamenei-mourners-gather-in-southern-beirut-as-hezbollah-chief-vows-fi.mp4](../../../rendered-clips/2026-07-09/02_khamenei-mourners-gather-in-southern-beirut-as-hezbollah-chief-vows-fi.mp4)
+- [02_khamenei-mourners-gather-in-southern-beirut-as-hezbollah-chief-vows-fi.mp4](../../../rendered-clips/2026-07-10/02_khamenei-mourners-gather-in-southern-beirut-as-hezbollah-chief-vows-fi.mp4)
 
 ## Text
 

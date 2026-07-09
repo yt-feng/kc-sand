@@ -16,7 +16,6 @@ RIYADH: Saudi Arabia on Thursday welcomed the announcement by the US that it had
 
 ## Video Or Embed URLs
 
-- https://c616581eb0879c37e703023affe002b9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

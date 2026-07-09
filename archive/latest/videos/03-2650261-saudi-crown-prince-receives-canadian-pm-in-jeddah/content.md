@@ -16,9 +16,9 @@ RIYADH: Saudi Arabia’s Crown Prince Mohammed bin Salman received Canada’s Pr
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/7dd5f04c-b954-4ef5-bea3-31f0720f1d64
+- blob:https://www.arabnews.com/f5ed0157-a01a-4ae9-aca4-faddf0fa175a
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://acb81f3c39d3ae2428e93bf59faeed93.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f836e5fb884ef2c63965af8fd46b840d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ RIYADH: Saudi Arabia’s Crown Prince Mohammed bin Salman received Canada’s Pr
 
 ## Downloaded Video
 
-- [03_saudi-crown-prince-receives-canadian-pm-in-jeddah.mp4](../../../rendered-clips/2026-07-09/03_saudi-crown-prince-receives-canadian-pm-in-jeddah.mp4)
+- [03_saudi-crown-prince-receives-canadian-pm-in-jeddah.mp4](../../../rendered-clips/2026-07-10/03_saudi-crown-prince-receives-canadian-pm-in-jeddah.mp4)
 
 ## Text
 

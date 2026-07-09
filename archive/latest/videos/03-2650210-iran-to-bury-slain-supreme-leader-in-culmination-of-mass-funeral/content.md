@@ -2,8 +2,8 @@
 
 Source: https://www.arabnews.com/node/2650210/middle-east
 Captured source: https://www.arabnews.com/node/2650210/middle-east
-Published: 2026-07-09T11:39:49+03:00
-Modified: 2026-07-09T12:43:36+03:00
+Published: 2026-07-09T13:20:49+03:00
+Modified: 2026-07-09T14:04:41+03:00
 Author: Reuters
 
 ## Summary
@@ -16,11 +16,11 @@ DUBAI: Iran buries its slain Supreme Leader Ayatollah Ali Khamenei on Thursday a
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/e11f66eb-b5ab-4f06-87e4-bf48b24bd29a
+- blob:https://www.arabnews.com/d899329a-83a5-4177-8d47-ab955bc96882
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://f50913a1c22ae4c102bbef013779542c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://1f05d493ee18c3abe9aa89259235ada6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650210%2Fmiddle-east
 
@@ -36,7 +36,9 @@ Mojtaba Khamenei not seen in public since his father’s death
 
 Critical moment for Iran, months after anti-government protests
 
-DUBAI: Iran buries its slain Supreme Leader Ayatollah Ali Khamenei on Thursday at the country’s holiest shrine, with ​his son and successor Mojtaba Khamenei still hidden from public view after being disfigured in the strike that killed his father. The burial in Mashhad in northeast Iran follows a week of mass funeral processions, rallies and mourning ceremonies that has coincided with a renewed burst of conflict with the United States following weeks of truce.
+DUBAI: Iran buries its slain Supreme Leader Ayatollah Ali Khamenei on Thursday at the country’s holiest shrine, with ​his son and successor Mojtaba Khamenei still hidden from public view after being disfigured in the strike that killed his father.
+
+The burial in Mashhad in northeast Iran follows a week of mass funeral processions, rallies and mourning ceremonies that has coincided with a renewed burst of conflict with the United States following weeks of truce.
 
 Crowds marched through Mashhad on Thursday morning, the golden onion dome and minarets of the Shrine of Imam Reza glinting in the morning sun, as they waved Iranian flags, photographs of the late Khamenei and placards with revolutionary slogans.
 

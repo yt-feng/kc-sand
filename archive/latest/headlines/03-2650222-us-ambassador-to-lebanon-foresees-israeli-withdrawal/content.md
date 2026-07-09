@@ -16,18 +16,13 @@ DUBAI: Lebanon’s President Joseph Aoun met with US Ambassador to Beirut Michel
 
 ## Video Or Embed URLs
 
-- https://efad6a8bb7e34e58c14ca65b9bf2ff75.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://f94f65b67f9c9b4873213be20dbb322f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
-- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
+- about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
+- https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650222%2Fmiddle-east
-
-## Downloaded Video
-
-- [01_us-ambassador-to-lebanon-foresees-israeli-withdrawal.mp4](../../../rendered-clips/2026-07-09/01_us-ambassador-to-lebanon-foresees-israeli-withdrawal.mp4)
 
 ## Text
 

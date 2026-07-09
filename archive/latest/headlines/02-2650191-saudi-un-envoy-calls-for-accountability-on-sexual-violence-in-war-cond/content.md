@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650191/middle-east
 Captured source: https://www.arabnews.com/node/2650191/middle-east
 Published: 2026-07-09T02:57:31+03:00
-Modified: 2026-07-09T12:13:36+03:00
+Modified: 2026-07-09T13:29:45+03:00
 Author: Ephrem Kossaify
 
 ## Summary
@@ -16,11 +16,11 @@ NEW YORK: Saudi Arabia’s Permanent Representative to the UN Abdulaziz Alwasil 
 
 ## Video Or Embed URLs
 
-- https://0dfd6a6406887397ff47622dfbb4f116.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2aab808ba20d8bbf88b755434b9b519c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650191%2Fmiddle-east
 
 ## Text

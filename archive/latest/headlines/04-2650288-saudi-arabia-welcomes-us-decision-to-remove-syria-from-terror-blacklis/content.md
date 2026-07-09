@@ -1,9 +1,9 @@
-# Saudi Arabia welcomes US decision US to remove Syria from terror blacklist
+# Saudi Arabia welcomes US decision to remove Syria from terror blacklist
 
 Source: https://www.arabnews.com/node/2650288/saudi-arabia
 Captured source: https://www.arabnews.com/node/2650288/saudi-arabia
 Published: 2026-07-09T20:11:16+03:00
-Modified: 2026-07-09T20:13:13+03:00
+Modified: 2026-07-09T22:01:48+03:00
 Author: Arab News
 
 ## Summary
@@ -16,11 +16,11 @@ RIYADH: Saudi Arabia on Thursday welcomed the announcement by the US that it had
 
 ## Video Or Embed URLs
 
-- https://3bb70cc0a3fb07e1fd81b75eb6a4987c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c616581eb0879c37e703023affe002b9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650288%2Fsaudi-arabia
 
 ## Text

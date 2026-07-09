@@ -16,9 +16,9 @@ DUBAI: Gulf states on Thursday condemned the latest Iranian missile and drone at
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/8ce96975-b272-4ecd-989c-f6fcddbba7ad
+- blob:https://www.arabnews.com/15dd737a-18c3-4f49-bc53-de692b6b9386
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://1653a4722c1e6982d484ea29cab70ddd.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f856211a6cc8f11b1beebe843156f7b0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

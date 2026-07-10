@@ -23,6 +23,18 @@ jobs:
     timeout-minutes: 20
 
     steps:
+      - name: Runner bootstrap diagnostics
+        run: |
+          echo "::group::Runner bootstrap"
+          echo "Timestamp: $(date -Iseconds)"
+          echo "Runner: ${RUNNER_NAME:-unknown} (${RUNNER_OS:-unknown}/${RUNNER_ARCH:-unknown})"
+          echo "Workspace: ${GITHUB_WORKSPACE}"
+          uname -a
+          uptime || true
+          free -h || true
+          df -h "${GITHUB_WORKSPACE}" /tmp || true
+          echo "::endgroup::"
+
       - name: Checkout
         uses: actions/checkout@v4
 
@@ -50,16 +62,25 @@ jobs:
         id: scrape
         run: |
           for attempt in 1 2 3; do
-            echo "Scrape attempt ${attempt}/3"
+            echo "::group::Scrape attempt ${attempt}/3"
+            echo "Started at: $(date -Iseconds)"
             if npm run scrape; then
+              status=0
+            else
+              status=$?
+            fi
+            echo "Finished at: $(date -Iseconds)"
+            echo "Exit code: ${status}"
+            echo "::endgroup::"
+            if [ "${status}" -eq 0 ]; then
               exit 0
             fi
-            echo "Scrape attempt ${attempt} failed."
+            echo "Scrape attempt ${attempt} failed with exit code ${status}."
             if [ "$attempt" -lt 3 ]; then
               sleep $((attempt * 45))
             fi
           done
-          exit 1
+          exit "${status}"
         env:
           TIME_ZONE: Asia/Riyadh
           VIDEO_LIMIT: "3"
@@ -79,14 +100,6 @@ jobs:
           PLAYWRIGHT_PROXY_USERNAME: ${{ secrets.PLAYWRIGHT_PROXY_USERNAME }}
           PLAYWRIGHT_PROXY_PASSWORD: ${{ secrets.PLAYWRIGHT_PROXY_PASSWORD }}
 
-      - name: Upload debug artifacts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: arabnews-debug
-          path: artifacts/
-          if-no-files-found: ignore
-
       - name: Commit scraped data
         run: |
           git config user.name "github-actions[bot]"
@@ -98,6 +111,73 @@ jobs:
             git commit -m "Update Arab News scrape"
             git push
           fi
+
+      - name: Write runner diagnostics
+        if: always()
+        run: |
+          mkdir -p artifacts
+          {
+            echo "# Runner diagnostics"
+            echo "Generated: $(date -Iseconds)"
+            echo
+            echo "## Runner"
+            echo "Name: ${RUNNER_NAME:-unknown}"
+            echo "OS: ${RUNNER_OS:-unknown}"
+            echo "Arch: ${RUNNER_ARCH:-unknown}"
+            echo "Workspace: ${GITHUB_WORKSPACE}"
+            echo
+            echo "## System"
+            uname -a || true
+            uptime || true
+            free -h || true
+            echo
+            echo "## Disk"
+            df -h "${GITHUB_WORKSPACE}" /tmp || true
+            echo
+            echo "## Workspace size"
+            du -sh "${GITHUB_WORKSPACE}" "${GITHUB_WORKSPACE}/node_modules" "${GITHUB_WORKSPACE}/artifacts" "${GITHUB_WORKSPACE}/rendered-clips" 2>/dev/null || true
+            echo
+            echo "## Git"
+            git status --short || true
+            git log -1 --oneline || true
+            echo
+            echo "## Tool versions"
+            node --version || true
+            npm --version || true
+            if [ -x node_modules/.bin/playwright ]; then
+              node_modules/.bin/playwright --version || true
+            else
+              echo "playwright: not installed"
+            fi
+            ffmpeg -version 2>/dev/null | head -n 1 || true
+            echo
+            echo "## Artifact files"
+            find artifacts -maxdepth 2 -type f -print 2>/dev/null | sort || true
+            echo
+            echo "## Largest workspace files"
+            find "${GITHUB_WORKSPACE}" -type f -printf '%s %p\n' 2>/dev/null | sort -nr | head -n 40 || true
+            echo
+            echo "## Top memory processes"
+            ps -eo pid,ppid,pcpu,pmem,comm --sort=-pmem 2>/dev/null | head -n 25 || true
+          } | tee artifacts/runner-diagnostics.txt
+          {
+            echo "## Runner diagnostics"
+            echo
+            echo "- Generated: $(date -Iseconds)"
+            echo "- Disk:"
+            df -h "${GITHUB_WORKSPACE}" /tmp 2>/dev/null | sed 's/^/  /' || true
+            echo "- Git:"
+            git status --short 2>/dev/null | sed 's/^/  /' || true
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload debug artifacts
+        if: ${{ failure() || (github.event_name == 'workflow_dispatch' && inputs.save_artifacts == 'true') }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: arabnews-debug
+          path: artifacts/
+          if-no-files-found: ignore
+          retention-days: 3
 
       - name: Clean runner workspace
         if: always()

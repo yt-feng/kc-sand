@@ -1,9 +1,9 @@
-# UN nuclear watchdog has lost all knowledge of Iran’s nuclear program: UN political chief
+# IAEA has lost all knowledge on Iran’s nuclear program: UN political chief
 
 Source: https://www.arabnews.com/node/2650417/middle-east
 Captured source: https://www.arabnews.com/node/2650417/middle-east
 Published: 2026-07-10T18:19:19+03:00
-Modified: 2026-07-10T18:19:19+03:00
+Modified: 2026-07-10T20:50:40+03:00
 Author: Ephrem Kossaify
 
 ## Summary
@@ -16,7 +16,7 @@ NEW YORK: The International Atomic Energy Agency lost continuity of knowledge ac
 
 ## Video Or Embed URLs
 
-- https://75dbf535cd40ac11a9492f8ac970f40b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c930326d7c1ab0e7a57d8b54078b1ef7.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

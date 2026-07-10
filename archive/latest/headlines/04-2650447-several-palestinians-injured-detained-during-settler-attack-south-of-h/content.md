@@ -16,7 +16,7 @@ HEBRON: Several Palestinians, including women and children, sustained bruises an
 
 ## Video Or Embed URLs
 
-- https://4fae85c04a8220996524350e98248170.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://ac87534797bae01f1a79f799745f032e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

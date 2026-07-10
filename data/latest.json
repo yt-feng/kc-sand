@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T21:12:37.524Z",
+  "fetchedAt": "2026-07-10T22:34:09.196Z",
   "targetDate": {
     "iso": "2026-07-11",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 100,
+    "itemCount": 105,
     "window": {
       "hours": 24,
-      "start": "2026-07-09T21:12:37.524Z",
-      "end": "2026-07-10T21:12:37.524Z",
+      "start": "2026-07-09T22:34:09.196Z",
+      "end": "2026-07-10T22:34:09.196Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-10T21:17:56.228Z",
+    "capturedAt": "2026-07-10T22:39:24.102Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-11",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-11/01_hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739734/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2341990830294B0D2375B6F5F17D07294BEC45EF.713721C79DB68BB90FA0C5A63E46A75127190425/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739734/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/335EE0DB9F13AB721039365BE7AA04447703AB19.2ED676899A41749451D931F8B264FAB6F0761109/key/cms1/cms_redirect/yes/met/1783718140,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783717637/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744619/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/084BF0BDB37392FEC60D9A94EE4B0C3B2DBBBECF.56DC6FB8630A9CA6331FDDF87CDDD57074B9FAB8/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744619/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5769BEBB57405990D29CA083A4F71A4C70D86AA3.34C58805D6CA1B542AD0491BCD88D5153BAADFA2/key/cms1/cms_redirect/yes/met/1783723027,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783722410/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/Ja3JCkjS.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a520cb7_0e0957e5b82bd64a99ac3fcfc85f7a983a8185b4/sites/wPTWN2YS/media/Ja3JCkjS/versions/CRV3qPP3/manifest.ism/manifest-audio_0_J54TgUtm_GlymKP6o=112031-video_0_J54TgUtm_w41Es4YM=629767.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a520cb7_0e0957e5b82bd64a99ac3fcfc85f7a983a8185b4/sites/wPTWN2YS/media/Ja3JCkjS/versions/CRV3qPP3/manifest.ism/manifest-audio_0_J54TgUtm_GlymKP6o=112031-video_0_J54TgUtm_w41Es4YM=957290.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a521e4b_f9b896b991abefee8c4aaea335392f1829313c26/sites/wPTWN2YS/media/Ja3JCkjS/versions/CRV3qPP3/manifest.ism/manifest-audio_0_J54TgUtm_GlymKP6o=112031-video_0_J54TgUtm_w41Es4YM=629767.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a521e4b_f9b896b991abefee8c4aaea335392f1829313c26/sites/wPTWN2YS/media/Ja3JCkjS/versions/CRV3qPP3/manifest.ism/manifest-audio_0_J54TgUtm_GlymKP6o=112031-video_0_J54TgUtm_w41Es4YM=957290.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2650403-hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-11/01_hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739734/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2341990830294B0D2375B6F5F17D07294BEC45EF.713721C79DB68BB90FA0C5A63E46A75127190425/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744619/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/084BF0BDB37392FEC60D9A94EE4B0C3B2DBBBECF.56DC6FB8630A9CA6331FDDF87CDDD57074B9FAB8/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-11/02_major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739759/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AFFE11E8C711DBA488A8E75427C95CC0182CD2DB.0ED19095C7929C8F94B28F74D16F263ED38B3FF4/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739759/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6C75EA6643D28A036B1D140F635EA4115A3AD29B.2C35F6BC52A46F3BA72923D9817A48E970CF42DC/key/cms1/cms_redirect/yes/met/1783718164,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783717637/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744644/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A0C09CD0F5519D073D9AE3552AAD7B75DFC7A5F4.08F8387A0A3ED1757DC0DDBBCA67FBD1D5D9F086/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744644/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7EF96918B971E93786458231734A7C52E5AA9467.37F53B370CDC9AA151B8FC238E5F4DD16B551015/key/cms1/cms_redirect/yes/met/1783723050,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783722773/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/jcRgda7a.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a520a6f_e8fbdc6504c8bd35efdeb4271dedb199d8c0c6ab/sites/wPTWN2YS/media/jcRgda7a/versions/do1f0uJ5/manifest.ism/manifest-audio_0_CDQwdfoD_SZNGlQYh=112017-video_0_CDQwdfoD_4BdFYOjD=968571.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a521f87_eb60e14915d3919af51bf21b094aebb81709ba92/sites/wPTWN2YS/media/jcRgda7a/versions/do1f0uJ5/manifest.ism/manifest-audio_0_CDQwdfoD_SZNGlQYh=112017-video_0_CDQwdfoD_4BdFYOjD=968571.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2650372-major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-11/02_major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739759/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AFFE11E8C711DBA488A8E75427C95CC0182CD2DB.0ED19095C7929C8F94B28F74D16F263ED38B3FF4/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744644/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A0C09CD0F5519D073D9AE3552AAD7B75DFC7A5F4.08F8387A0A3ED1757DC0DDBBCA67FBD1D5D9F086/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-11/03_modi-visits-new-zealand-as-trade-deal-sparks-india-pushback.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739780/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/99B848A32367A46D900A1D7AEF474AA62EB50785.7DC0F4B7A734A1EFF5A2A30F3E3293EE56921601/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739780/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5466F852768F1DF61ABDCF917747F26BB05930A2.7346450CD25094E350E709DCB8B38B6D2E8CBE44/key/cms1/cms_redirect/yes/met/1783718186,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783717637/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744666/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AF4CFB01630221CA9DA5FDA75149766D94FA0E8D.68361FDB5CA882CF5337781E270A5C3BFED6EFBA/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744666/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/77990B28F06CA3739C4069A404274B2121CDDB6C.73642487FD36AC08B231B684791947DCA6620E2A/key/cms1/cms_redirect/yes/met/1783723070,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783722773/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/FsPN6ihU.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a520b43_71dbdad8e6420e0dd710ed96216b8045d2886934/sites/wPTWN2YS/media/FsPN6ihU/versions/J51H5HKd/manifest.ism/manifest-audio_0_Nd80QVQO_d49TfLXN=112013-video_0_Nd80QVQO_rBicMQiW=612903.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a52205b_2349d08be6d5ee7843292b624204b3cc1c10b6af/sites/wPTWN2YS/media/FsPN6ihU/versions/J51H5HKd/manifest.ism/manifest-audio_0_Nd80QVQO_d49TfLXN=112013-video_0_Nd80QVQO_rBicMQiW=612903.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2650352-modi-visits-new-zealand-as-trade-deal-sparks-india-pushback/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-11/03_modi-visits-new-zealand-as-trade-deal-sparks-india-pushback.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739780/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/99B848A32367A46D900A1D7AEF474AA62EB50785.7DC0F4B7A734A1EFF5A2A30F3E3293EE56921601/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744666/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AF4CFB01630221CA9DA5FDA75149766D94FA0E8D.68361FDB5CA882CF5337781E270A5C3BFED6EFBA/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -327,8 +327,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739801/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8AB043C65D90C2758F25875604E5AAC47D4E1D5A.87A19BCBDFBEE2B2D272E6FD78B3974A5504F11D/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739801/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/462A4378702072D1304D4D657BF85885AE2DA532.68FE178972A8658CCD1609BB3B90984863674A65/key/cms1/cms_redirect/yes/met/1783718205,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783717637/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744688/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4F9B302DEA87FAA2936C3FD3CC2E7DD9332D96F0.503A703167AE14C6DE8B951F26BAFE5696FA6268/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744688/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0D9830D3398269769DC2E6056AD5B8F7A9F3C4FD.0EFF25E1436F2EAAAF7DB2193ACC30C51385A175/key/cms1/cms_redirect/yes/met/1783723092,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783722773/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2650400-security-official-iran-will-respond-against-israel-if-infrastructure-a/image.jpg",
@@ -354,8 +354,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739821/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5A9C984D2103E0D8AB85ACCD4CDF0BB50BBFEEAB.8316637BE366D3E712756386153665F25E87F9A5/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739821/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/35EE16880035864B4AEE31EEA3B1D2B47222C718.161DB4CB0B451C8D5349D365D05C8284881F9E26/key/cms1/cms_redirect/yes/met/1783718225,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1783717936/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744707/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B9DB852693784DA724E5C5622CF51C937AD20B3E.2E26FBADB326E54E0272443A97C97D75A5882752/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744707/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/589B6B8009B0AE55889988F0FE21DB024ECFFEE9.5C8E5F2DB8C35F174729826D8A282D1243AD4B16/key/cms1/cms_redirect/yes/met/1783723111,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783722773/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2650404-tanker-traffic-slows-in-strait-of-hormuz-after-us-and-iran-clashes/image.jpg",
@@ -381,8 +381,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739841/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8FFFC1D7172079275374797657922A3E86A0DDB8.711DDAEE4F256EC2E1459EC43698FAE07E735C21/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739841/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7148F3F98252C6DF049F2F46A307531DDCB77630.1F7B432D1BD06870D474660C43F582410F38180B/key/cms1/cms_redirect/yes/met/1783718244,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1783717936/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744727/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5F5B45BBE03AC26037C738D9E8B64F2CEF4B033A.428918CAD6F151D4447C661CCDB4B4B8A21904C0/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744727/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/119BB0C283EF7FB8B2FE4F911E1EA0BDBE0FDC1E.1ED34271DEC2560AD217B631F4F79CABC2AB59B8/key/cms1/cms_redirect/yes/met/1783723131,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783722773/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2650417-iaea-has-lost-all-knowledge-on-iran-s-nuclear-program-un-political-chi/image.jpg",
@@ -408,8 +408,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739860/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B1A5BA378191E0DA5EE11E08E712DC54965A9CA6.6BAD6B8957D1AA4C73B06A0A6F3E667417F98EA5/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783739860/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2FE0718CD1921E03A56BEED1FB6E8C71371BA49E.7E1546189FC4426AAC447F29D4B2117103408184/key/cms1/cms_redirect/yes/met/1783718264,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1783717936/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744748/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2488F5C8F397DC1A27CB4696378D011388C4E20D.0DA8350D89CE465E25974CC2F43B02B6678A7FCE/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783744748/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/285C328CA8CA33F904ACEC913B87B528909C8A53.46E110DDDF9EC6301989EBA4A7D61AFF590DFD8B/key/cms1/cms_redirect/yes/met/1783723152,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783722896/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2650447-several-palestinians-injured-detained-during-settler-attack-south-of-h/image.jpg",

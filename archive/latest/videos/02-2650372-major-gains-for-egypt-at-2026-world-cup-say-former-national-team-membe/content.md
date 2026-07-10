@@ -16,9 +16,9 @@ CAIRO: Egypt have made major gains at 2026 World Cup despite their elimination i
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/c1be91fe-6e4c-4bee-b8ce-7c06158c24f1
+- blob:https://www.arabnews.com/9c606f7d-0248-4f29-884c-c8333dbb7af4
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://d698c03d490eebc2518a218721e9d588.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://0823fa9b357e1c2e3f961a6289f49ba1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ CAIRO: Egypt have made major gains at 2026 World Cup despite their elimination i
 
 ## Downloaded Video
 
-- [02_major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe.mp4](../../../rendered-clips/2026-07-10/02_major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe.mp4)
+- [02_major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe.mp4](../../../rendered-clips/2026-07-11/02_major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe.mp4)
 
 ## Text
 

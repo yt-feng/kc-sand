@@ -16,7 +16,7 @@ NEW YORK: The International Atomic Energy Agency lost continuity of knowledge ac
 
 ## Video Or Embed URLs
 
-- https://4a137acea0aa4583ae6c18c40f900e3d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://ba2175e5f02705924b63248b3de1f6fc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

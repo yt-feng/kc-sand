@@ -1,7 +1,7 @@
 # Arab News Latest
 
-Fetched at: 2026-07-10T19:46:17.040Z
-Target date: 2026-07-10 (Asia/Riyadh)
+Fetched at: 2026-07-10T21:12:37.524Z
+Target date: 2026-07-11 (Asia/Riyadh)
 
 ## Latest Videos
 
@@ -16,4 +16,4 @@ No parseable item-level dates were found, so the output is the current Top Headl
 1. [Security official: Iran will respond against Israel if infrastructure attacked](https://www.arabnews.com/node/2650400/middle-east) - archive: archive/latest/headlines/01-2650400-security-official-iran-will-respond-against-israel-if-infrastructure-a/content.md
 2. [Tanker traffic slows in Strait of Hormuz after US and Iran clashes](https://www.arabnews.com/node/2650404/middle-east) - archive: archive/latest/headlines/02-2650404-tanker-traffic-slows-in-strait-of-hormuz-after-us-and-iran-clashes/content.md
 3. [IAEA has lost all knowledge on Iran’s nuclear program: UN political chief](https://www.arabnews.com/node/2650417/middle-east) - archive: archive/latest/headlines/03-2650417-iaea-has-lost-all-knowledge-on-iran-s-nuclear-program-un-political-chi/content.md
-4. [Hundreds welcome Salah’s Egypt home after best World Cup run](https://www.arabnews.com/node/2650403/sport) - archive: archive/latest/headlines/04-2650403-hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run/content.md
+4. [Several Palestinians injured, detained during settler attack south of Hebron](https://www.arabnews.com/node/2650447/middle-east) - archive: archive/latest/headlines/04-2650447-several-palestinians-injured-detained-during-settler-attack-south-of-h/content.md

@@ -16,7 +16,7 @@ DUBAI: Daily tanker traffic in the Strait of Hormuz appeared to have ​slowed o
 
 ## Video Or Embed URLs
 
-- https://96f13d11df3a80cd7015ac46e3dfbe67.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://e523006e518679ce0cb950d8d82ad014.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

@@ -16,12 +16,11 @@ RIYADH: Alas, it was not to be for the Atlas Lions. A repeat of their heroic sem
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/600ebd13-f0bd-4061-ad73-f370509b46ae
+- blob:https://www.arabnews.com/58adb6af-7a29-4be3-a0be-8067f86a10d4
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://d91b768ba3e9bbcbb98c4af6c774f069.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://cb6c89f2dcd80b5e6eb8255d91ed33b0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650334%2Fsport
 

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T11:12:28.582Z",
+  "fetchedAt": "2026-07-10T13:29:29.119Z",
   "targetDate": {
     "iso": "2026-07-10",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 110,
+    "itemCount": 111,
     "window": {
       "hours": 24,
-      "start": "2026-07-09T11:12:28.582Z",
-      "end": "2026-07-10T11:12:28.582Z",
+      "start": "2026-07-09T13:29:29.119Z",
+      "end": "2026-07-10T13:29:29.119Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-10T11:17:52.886Z",
+    "capturedAt": "2026-07-10T13:34:42.002Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-10",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-10/01_major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703726/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/93FF88E7F9DB56A4794FC130AA7B10520E5A66B6.90ED7EA82BAF10568224354C4F5C650D94DA4319/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703726/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/838B9CA2C64FA367C81FC019AB19CE3D314A2C64.559B11ED1CFE60EBAFF59AC3530CF62A92CA867A/key/cms1/cms_redirect/yes/met/1783682132,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1783681695/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783711939/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A67425FD30B7DD2433695B5179ED9CABDAF13860.6821E5F43347A695CBDA0228F6955E140BFB66D0/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783711939/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5BF2FC0D713F1860256EA2AA29A5C406D434DCDF.4671EC5C077396CA69B99A11D74790EAE77EAF7F/key/cms1/cms_redirect/yes/met/1783690345,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783689934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/jcRgda7a.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a517dcf_9a8d9b0f8764f12b0799be8171c6b9d648d8abcb/sites/wPTWN2YS/media/jcRgda7a/versions/do1f0uJ5/manifest.ism/manifest-audio_0_CDQwdfoD_SZNGlQYh=112017-video_0_CDQwdfoD_4BdFYOjD=621783.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a517dcf_9a8d9b0f8764f12b0799be8171c6b9d648d8abcb/sites/wPTWN2YS/media/jcRgda7a/versions/do1f0uJ5/manifest.ism/manifest-audio_0_CDQwdfoD_SZNGlQYh=112017-video_0_CDQwdfoD_4BdFYOjD=968571.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a519d73_e728a7153e4f55da7db3f4f1b14cfed2c3114973/sites/wPTWN2YS/media/jcRgda7a/versions/do1f0uJ5/manifest.ism/manifest-audio_0_CDQwdfoD_SZNGlQYh=112017-video_0_CDQwdfoD_4BdFYOjD=621783.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a519d73_e728a7153e4f55da7db3f4f1b14cfed2c3114973/sites/wPTWN2YS/media/jcRgda7a/versions/do1f0uJ5/manifest.ism/manifest-audio_0_CDQwdfoD_SZNGlQYh=112017-video_0_CDQwdfoD_4BdFYOjD=968571.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2650372-major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-10/01_major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703726/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/93FF88E7F9DB56A4794FC130AA7B10520E5A66B6.90ED7EA82BAF10568224354C4F5C650D94DA4319/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783711939/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A67425FD30B7DD2433695B5179ED9CABDAF13860.6821E5F43347A695CBDA0228F6955E140BFB66D0/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-10/02_modi-visits-new-zealand-as-trade-deal-sparks-india-pushback.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703750/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/66F5629AE645DFDEF3E98564E78A5F8CB207E8C3.85DEBE8A074A0B06FDA2F146EF8A925E13212F19/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703750/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/057BCF29B7A1A6CF8EB714EF9B53D32679A6530A.526699ECC549387BA3CD8162DCDB5303D2A650E5/key/cms1/cms_redirect/yes/met/1783682155,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783681767/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783711962/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/23BB6E3550C66097C9A5F48021C31CFA082A9446.0CBBD029A6E122FED7A1C548B24E52A31BBF3EEC/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783711962/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/55FC82692BB77AEAB55F97908C675A1FC6C01DD1.1BCBF023181184231F8246B12A3CD2B2B9992D52/key/cms1/cms_redirect/yes/met/1783690367,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783690270/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/FsPN6ihU.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a517ea3_b5a141b0cb5c26be055ad22e989c381ef41de30d/sites/wPTWN2YS/media/FsPN6ihU/versions/J51H5HKd/manifest.ism/manifest-audio_0_Nd80QVQO_d49TfLXN=112013-video_0_Nd80QVQO_rBicMQiW=612903.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a519e47_f7bc19ba70780e8f0e8a6be8de6572b94d790fbb/sites/wPTWN2YS/media/FsPN6ihU/versions/J51H5HKd/manifest.ism/manifest-audio_0_Nd80QVQO_d49TfLXN=112013-video_0_Nd80QVQO_rBicMQiW=612903.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2650352-modi-visits-new-zealand-as-trade-deal-sparks-india-pushback/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-10/02_modi-visits-new-zealand-as-trade-deal-sparks-india-pushback.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703750/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/66F5629AE645DFDEF3E98564E78A5F8CB207E8C3.85DEBE8A074A0B06FDA2F146EF8A925E13212F19/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783711962/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/23BB6E3550C66097C9A5F48021C31CFA082A9446.0CBBD029A6E122FED7A1C548B24E52A31BBF3EEC/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-10/03_world-cup-dreams-over-but-egypt-and-morocco-have-made-arab-fans-proud.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703772/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/649CF35A4F872B9F9A53EBE84CB121AD17508781.59FA325DC89BA4D572A8835DEF941F1ED3B427CD/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703772/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/55FC9BEA98CA88850F8F1394007D3BF3E8EDDAC5.5C62C7AF2DD6C3CC3007C012B2B00C041D14780E/key/cms1/cms_redirect/yes/met/1783682177,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783681767/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783711983/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AA41A936E0698623C1B0F315B9E330771CF5407F.14F2FBEDB0BE56D27CB972599F810CE5E7E668BA/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783711983/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2533219735078C39382891CB03B96E46BB0C98E9.53AA0182CF1AC2F0825F42CED0269EA48181DF17/key/cms1/cms_redirect/yes/met/1783690388,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783689934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/iSLEJ26v.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a51808f_b7e64deb695bb6c9c30290bd4d6998b85f7a02fd/sites/wPTWN2YS/media/iSLEJ26v/versions/pVGa4dDd/manifest.ism/manifest-audio_0_DuXxRksR_dGTWvaV9=112038-video_0_DuXxRksR_O284nAFm=976525.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a51a033_c58a560b06d420ebc589748c1b73ea637878be04/sites/wPTWN2YS/media/iSLEJ26v/versions/pVGa4dDd/manifest.ism/manifest-audio_0_DuXxRksR_dGTWvaV9=112038-video_0_DuXxRksR_O284nAFm=976525.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2650373-world-cup-dreams-over-but-egypt-and-morocco-have-made-arab-fans-proud/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-10/03_world-cup-dreams-over-but-egypt-and-morocco-have-made-arab-fans-proud.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703772/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/649CF35A4F872B9F9A53EBE84CB121AD17508781.59FA325DC89BA4D572A8835DEF941F1ED3B427CD/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783711983/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AA41A936E0698623C1B0F315B9E330771CF5407F.14F2FBEDB0BE56D27CB972599F810CE5E7E668BA/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -327,8 +327,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703792/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/34EDFBEEDECDD8A8EDEB59F2F3C310D8AF0747EB.82D473EDA9FECCC734A579BE0780E1243334C89D/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703792/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0F88FC87AAC2766337EA2F9C12E102A15F01D58D.71BA0BD5AB3204AC9DBF0C2ACAC28374F8292AE6/key/cms1/cms_redirect/yes/met/1783682196,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1783681695/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783712004/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B48DF0351D882FE40088A90A7311626A7E25F2DF.3535828EDFECF5FCC047972E482A20CA48E5642C/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783712004/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6D57C31817DC61E9399C6842984A6D0A7574AE.62959F9803A232E032A40E36BEFB87BA6A88CD12/key/cms1/cms_redirect/yes/met/1783690408,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783689934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2650309-syria-authorities-say-all-members-of-daesh-linked-cell-behind-blasts-a/image.jpg",
@@ -354,10 +354,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703814/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/618DA11C12E4AB8CA632D4FDC74EA24CD4918A46.BA9B04CE512465DB55654F7DE7B9CC5D0A740AC8/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703814/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/047B0126E19120349A04A22CCD1578EF67DF1F82.6784A29AD3E6C8D68DEC371F5EE5F47279B70912/key/cms1/cms_redirect/yes/met/1783682222,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783682072/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783712023/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1568280FF44FB9C26D5323EF6BDA01985A726875.9C925763DDA6373B3CDFC8B8E315A19982B2437C/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783712023/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7AD67190F655D83AD532908BC760ED7312257320.691ABF6C0DC7096F246DFF9A40D6C616A53DFA95/key/cms1/cms_redirect/yes/met/1783690431,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783689934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/VbZW1hf9.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a517f92_59bc38d2febc0a41be850573c454a0e47e0a5a78/sites/wPTWN2YS/media/VbZW1hf9/versions/1RSozm0i/manifest.ism/manifest-audio_0_rt2prsJ3_Fc3iNER0=112012-video_0_rt2prsJ3_E3W08aBD=879390.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a519f36_3de338331d9ff2fa7876aa1e532cee8173484231/sites/wPTWN2YS/media/VbZW1hf9/versions/1RSozm0i/manifest.ism/manifest-audio_0_rt2prsJ3_Fc3iNER0=112012-video_0_rt2prsJ3_E3W08aBD=879390.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2650210-body-of-slain-iranian-supreme-leader-buried-at-shiite-shrine/image.jpg",
@@ -383,10 +383,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703839/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/46882039BA680A709D7B2B32519CBDDDAC425EF1.02DF23A7678D0D14E062E17CDB3F1A5B0193FC65/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703839/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/178A1DD64315F1AAB4043C796B0EC67A117189DF.2A7E261BA78923D2BF7972D78B3F456CC5E4AC60/key/cms1/cms_redirect/yes/met/1783682245,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783681767/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783712048/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/08FB16F406A99778A397C5C8557B337F5B8DA9AD.180C13E8D32B58F06CF62CBA42F447EF825DE10C/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783712048/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/68E6A24EFA42DAECAD3DAF97BA7DC580E190DAD9.5528533FA0B5EA979A8FDB50A66E3790CE211007/key/cms1/cms_redirect/yes/met/1783690454,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783690270/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/kjMmPRC5.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a51806a_94160dcbff00628d2f1760c86eff5aa2c1959437/sites/wPTWN2YS/media/kjMmPRC5/versions/hopi3hOV/manifest.ism/manifest-audio_0_GI2SQ0OZ_wIC4NmUJ=112055-video_0_GI2SQ0OZ_pIs5ffX4=842484.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a51a00e_4b99dac112fe014236708a3362c5c820ee4c673a/sites/wPTWN2YS/media/kjMmPRC5/versions/hopi3hOV/manifest.ism/manifest-audio_0_GI2SQ0OZ_wIC4NmUJ=112055-video_0_GI2SQ0OZ_pIs5ffX4=842484.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2650334-mbappe-and-dembele-too-much-for-morocco-as-atlas-lions-bow-out-of-worl/image.jpg",
@@ -412,8 +412,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703859/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/37B8896D3D059EEE0E39D0A3BD69B86A8F31E254.B32D7A19D3110D5579F2B941C40CB1199280F85F/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783703859/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/017AFFB597DC90825DA82009F8206853206D9A15.12D5832EE44404D0CA43FD6BC287FA85FB4CF550/key/cms1/cms_redirect/yes/met/1783682262,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783681891/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783712068/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7253181DC890343F993821D6652141739E01C943.737D044319F7CB0E30A35C2A4C10D3340AF8FC08/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783712068/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/69726999430A324824013002A4F8A57AEA725F1E.493C42B9FA5CA2DD626C5FB65B056756F4A3391B/key/cms1/cms_redirect/yes/met/1783690471,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783689934/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2650243-analysis-has-fifa-abandoned-fair-play/image.jpg",

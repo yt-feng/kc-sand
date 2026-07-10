@@ -16,9 +16,9 @@ LONDON: The Arab challenge at the 2026 World Cup ended this week but what a mome
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/c8af1738-6f51-4a7a-a34c-6d1edecab450
+- blob:https://www.arabnews.com/e59e6c56-5d4c-4b38-8dbc-f8939843bdac
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://7132ac45ce498bda946fe405f420dcf5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://22186d03aebb66353b374caee7e9a12b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

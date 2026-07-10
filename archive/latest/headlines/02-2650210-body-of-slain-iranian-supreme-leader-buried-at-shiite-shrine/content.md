@@ -16,12 +16,11 @@ DUBAI: Former Iranian supreme leader Ali Khamenei was buried Friday in his home 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/264c443c-3c7f-40c4-b922-410b02d88c68
+- blob:https://www.arabnews.com/aa8915ef-0f72-4e7b-a5aa-9be976a19a6f
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://e9cb174c970116b28e7443af0d5e41a5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://cb8355d77538041f6d92de025ffebc7a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650210%2Fmiddle-east
 

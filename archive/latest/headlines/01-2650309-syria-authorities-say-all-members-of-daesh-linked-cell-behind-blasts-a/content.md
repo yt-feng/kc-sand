@@ -1,9 +1,9 @@
-# Syria authorities say captured Daesh-linked cell behind blasts
+# Syria authorities say all members of Daesh-linked cell behind blasts arrested
 
 Source: https://www.arabnews.com/node/2650309/middle-east
 Captured source: https://www.arabnews.com/node/2650309/middle-east
 Published: 2026-07-09T22:06:43+03:00
-Modified: 2026-07-10T06:45:51+03:00
+Modified: 2026-07-10T11:52:21+03:00
 Author: AFP
 
 ## Summary
@@ -16,12 +16,12 @@ DAMASCUS: ‌Syrian officials on Thursday said the country had captured a Daesh-
 
 ## Video Or Embed URLs
 
-- https://7b7eae7cba7afff81f4844b638d06e35.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://15c8d7ef8371fd653834fb1c8dbb13f1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650309%2Fmiddle-east
 
 ## Text

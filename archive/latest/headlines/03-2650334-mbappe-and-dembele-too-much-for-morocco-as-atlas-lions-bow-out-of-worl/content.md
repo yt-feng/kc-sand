@@ -2,8 +2,8 @@
 
 Source: https://www.arabnews.com/node/2650334/sport
 Captured source: https://www.arabnews.com/node/2650334/sport
-Published: 2026-07-10T01:09:04+03:00
-Modified: 2026-07-10T08:49:42+03:00
+Published: 2026-07-10T07:08:04+03:00
+Modified: 2026-07-10T11:53:37+03:00
 Author: Mohammed Fayad
 
 ## Summary
@@ -16,11 +16,12 @@ RIYADH: Alas, it was not to be for the Atlas Lions. A repeat of their heroic sem
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/c9c74ac7-9042-4217-bb38-c5ff4e8426ca
+- blob:https://www.arabnews.com/600ebd13-f0bd-4061-ad73-f370509b46ae
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://f16694b507583911284d89b1914b1e41.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://d91b768ba3e9bbcbb98c4af6c774f069.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650334%2Fsport
 

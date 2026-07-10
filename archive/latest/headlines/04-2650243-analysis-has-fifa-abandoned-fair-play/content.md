@@ -16,11 +16,11 @@ DUBAI: For a few joyous weeks, those nagging concerns were put to bed. The FIFA 
 
 ## Video Or Embed URLs
 
-- https://716c73ea536eca35f237fafc095cef3a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://99a1564a879561181f2f744111494104.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650243%2Fsport
 
 ## Text

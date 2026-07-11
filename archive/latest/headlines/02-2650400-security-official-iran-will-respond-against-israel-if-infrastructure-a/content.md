@@ -17,9 +17,9 @@ TEHRAN: Iran will respond to any attack against its infrastructure, including by
 ## Video Or Embed URLs
 
 - https://truthsocial.com/@realDonaldTrump/116896167446779964/embed
-- https://22193329b8655d877ed79d685ff15341.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://73c308ae38bd745de7469e39d5fab1ce.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650400%2Fmiddle-east

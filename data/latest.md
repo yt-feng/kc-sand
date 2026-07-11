@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-10T22:34:09.196Z
+Fetched at: 2026-07-11T00:04:32.824Z
 Target date: 2026-07-11 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-11 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Security official: Iran will respond against Israel if infrastructure attacked](https://www.arabnews.com/node/2650400/middle-east) - archive: archive/latest/headlines/01-2650400-security-official-iran-will-respond-against-israel-if-infrastructure-a/content.md
-2. [Tanker traffic slows in Strait of Hormuz after US and Iran clashes](https://www.arabnews.com/node/2650404/middle-east) - archive: archive/latest/headlines/02-2650404-tanker-traffic-slows-in-strait-of-hormuz-after-us-and-iran-clashes/content.md
-3. [IAEA has lost all knowledge on Iran’s nuclear program: UN political chief](https://www.arabnews.com/node/2650417/middle-east) - archive: archive/latest/headlines/03-2650417-iaea-has-lost-all-knowledge-on-iran-s-nuclear-program-un-political-chi/content.md
-4. [Several Palestinians injured, detained during settler attack south of Hebron](https://www.arabnews.com/node/2650447/middle-east) - archive: archive/latest/headlines/04-2650447-several-palestinians-injured-detained-during-settler-attack-south-of-h/content.md
+1. [International pressure grows on US and Iran to resume negotiations](https://www.arabnews.com/node/2650415/middle-east) - archive: archive/latest/headlines/01-2650415-international-pressure-grows-on-us-and-iran-to-resume-negotiations/content.md
+2. [Security official: Iran will respond against Israel if infrastructure attacked](https://www.arabnews.com/node/2650400/middle-east) - archive: archive/latest/headlines/02-2650400-security-official-iran-will-respond-against-israel-if-infrastructure-a/content.md
+3. [Tanker traffic slows in Strait of Hormuz after US and Iran clashes](https://www.arabnews.com/node/2650404/middle-east) - archive: archive/latest/headlines/03-2650404-tanker-traffic-slows-in-strait-of-hormuz-after-us-and-iran-clashes/content.md
+4. [IAEA has lost all knowledge on Iran’s nuclear program: UN political chief](https://www.arabnews.com/node/2650417/middle-east) - archive: archive/latest/headlines/04-2650417-iaea-has-lost-all-knowledge-on-iran-s-nuclear-program-un-political-chi/content.md

@@ -1,0 +1,50 @@
+# International pressure grows on US and Iran to resume negotiations
+
+Source: https://www.arabnews.com/node/2650415/middle-east
+Captured source: https://www.arabnews.com/node/2650415/middle-east
+Published: 2026-07-10T18:14:25+03:00
+Modified: 2026-07-10T22:35:28+03:00
+Author: Agencies
+
+## Summary
+
+CAIRO: Egypt and Qatar on Friday called on the United States and Iran to resume negotiations, while mediator Pakistan urged Tehran to safeguard the "hard-earned peace" as pressure grew for the two sides to get talks to end the conflict back on track. US President Donald Trump said Washington had agreed to continue talks with Tehran but repeated that the ceasefire between the
+
+## Image
+
+![main image](./image.jpg)
+
+## Video Or Embed URLs
+
+- https://d8ced6435464fee27d347a1a09195321.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650415%2Fmiddle-east
+
+## Text
+
+https://arab.news/g7khf
+
+Foreign ministers of Egypt and Qatar call for a restart of US-Iran talks, while Pakistan's PM urges Iran's president to safeguard the "hard-earned peace"
+
+Qatari delegation arrives in Iran in what ​is believed to be an effort by Doha to consolidate its role as a mediator, Iranian media reports
+
+CAIRO: Egypt and Qatar on Friday called on the United States and Iran to resume negotiations, while mediator Pakistan urged Tehran to safeguard the "hard-earned peace" as pressure grew for the two sides to get talks to end the conflict back on track.
+
+US President Donald Trump said Washington had agreed to continue talks with Tehran but repeated that the ceasefire between the two countries was over.
+
+A flare-up in hostilities this week, sparked by attacks on shipping in the Strait of Hormuz, led to a fresh wave of US airstrikes on Iran, and retaliatory attacks on Gulf Arab states.
+
+The escalation threatened to derail progress made since Iran and the US signed an agreement to push for an end to the conflict.
+
+Egypt's Foreign Minister Badr Abdelatty and Qatari Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al-Thani "urged all parties to give priority to the language of diplomacy and dialogue and to return to the negotiating table", Egypt's foreign ministry said in a statement.
+
+They also called for "implementing the Memorandum of Understanding signed between the US and Iranian sides, as a prelude to reaching a final agreement between the two sides, in a manner that contributes to de-escalation and to enhancing regional security and stability", the statement added. In a separate statement, Qatar's foreign ministry said Sheikh Mohammed stressed "the need for all parties to commit to dialogue and diplomacy" and to implement what had been agreed under the US-Iran memorandum of understanding, including "ensuring freedom of navigation in the Strait of Hormuz" to preserve regional security and stability.
+
+Later, Pakistan's Prime Minister Shehbaz Sharif urged Iran's president to safeguard the "hard-earned peace" after Tehran and Washington exchanged strikes this week. "We discussed the evolving regional situation and underscored the imperative of restraint, dialogue and diplomacy to safeguard the hard-earned peace gains of recent months," Sharif posted on X of his conversation with Iranian President Masoud Pezeshkian. Sharif added that Pakistan remained ready to continue "as an honest and sincere mediator for lasting regional peace." Meanwhile, a Qatari delegation visited Iran on Friday in what ​is believed to be an effort by Doha to consolidate its role as a mediator after a ‌recent escalation ‌in hostilities in ​the ‌Gulf, ⁠Iran’s ​semi-official Tasnim ⁠news agency reported. Tasnim said the visit followed what it described as Qatari accusations against Iran ⁠over an alleged ‌incident ‌in the Strait of ​Hormuz ‌and subsequent US ‌attacks on Iranian military and civilian targets. A source with knowledge of the ‌situation told Reuters on Friday that Qatari ⁠negotiators ⁠were meeting Iranian officials in an effort to de-escalate tensions and create conditions for broader negotiations, adding that the talks were being conducted in coordination ​with the ​United States.
+
+On his Truth Social platform on Friday, Trump said Iran had asked the United States to continue talks. "We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the Cease Fire is OVER!" he added. Iran's top negotiator Mohammad Baqer Qalibaf said ​on Friday that Tehran was ready for "all-out defence" if Washington betrayed the memorandum of ‌understanding, and the ‌war ​would ‌never ⁠end ​with Iran's ⁠surrender. Qalibaf ‌said he had ​told ‌the US ‌vice president during negotiations that Tehran did not trust ‌Washington and that, in his view, ⁠only ⁠those prepared for war could negotiate with the United States. The remarks were posted on Qalibaf's Telegram account.
+
+*With AFP and Reuters

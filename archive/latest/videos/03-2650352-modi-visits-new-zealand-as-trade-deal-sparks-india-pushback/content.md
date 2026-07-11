@@ -16,9 +16,9 @@ WELLINGTON: India’s Prime Minister Narendra Modi lands in New Zealand on Frida
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/a2a5d945-8efe-4651-bb00-eea7bfb4a542
+- blob:https://www.arabnews.com/379e247b-f3a6-4152-9137-d1a780155fa8
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://571699dda42811cfc105ddc23285e347.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://fab5945aaacfb7221cef42532f09a6fc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot

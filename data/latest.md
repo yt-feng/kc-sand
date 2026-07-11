@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-11T10:01:47.919Z
+Fetched at: 2026-07-11T13:41:31.516Z
 Target date: 2026-07-11 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-11 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [International pressure grows on US and Iran to resume negotiations](https://www.arabnews.com/node/2650415/middle-east) - archive: archive/latest/headlines/01-2650415-international-pressure-grows-on-us-and-iran-to-resume-negotiations/content.md
-2. [US demands Iran publicly state that Strait of Hormuz is open and Tehran won’t attack ships anymore](https://www.arabnews.com/node/2650470/middle-east) - archive: archive/latest/headlines/02-2650470-us-demands-iran-publicly-state-that-strait-of-hormuz-is-open-and-tehra/content.md
-3. [Syria reports renewed Israeli military incursion in Quneitra](https://www.arabnews.com/node/2650480/middle-east) - archive: archive/latest/headlines/03-2650480-syria-reports-renewed-israeli-military-incursion-in-quneitra/content.md
+1. [Syria reports renewed Israeli military incursion in Quneitra](https://www.arabnews.com/node/2650480/middle-east) - archive: archive/latest/headlines/01-2650480-syria-reports-renewed-israeli-military-incursion-in-quneitra/content.md
+2. [Saudi crown prince, Trump discuss US-Iran talks, Gulf security](https://www.arabnews.com/node/2650475/saudi-arabia) - archive: archive/latest/headlines/02-2650475-saudi-crown-prince-trump-discuss-us-iran-talks-gulf-security/content.md
+3. [US demands Iran publicly state that Strait of Hormuz is open and Tehran won’t attack ships anymore](https://www.arabnews.com/node/2650470/middle-east) - archive: archive/latest/headlines/03-2650470-us-demands-iran-publicly-state-that-strait-of-hormuz-is-open-and-tehra/content.md
 4. [Merino’s late strike sends Spain past Belgium into World Cup semis](https://www.arabnews.com/node/2650469/sport) - archive: archive/latest/headlines/04-2650469-merino-s-late-strike-sends-spain-past-belgium-into-world-cup-semis/content.md

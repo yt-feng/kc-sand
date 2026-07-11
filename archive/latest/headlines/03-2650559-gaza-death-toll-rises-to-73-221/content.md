@@ -16,11 +16,11 @@ GAZA: The death toll from the ongoing Israeli aggression on the Gaza Strip has r
 
 ## Video Or Embed URLs
 
-- https://c69c0e427b7a8bfae887f2b8caee52ed.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://678680b5d6b9f1e82e074532919a3b6a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650559%2Fmiddle-east
 

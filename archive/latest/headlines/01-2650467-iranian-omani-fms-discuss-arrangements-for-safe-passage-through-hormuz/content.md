@@ -16,7 +16,7 @@ WASHINGTON/DUBAI: Iran’s Foreign Minister Abbas Araghchi and his Omani counter
 
 ## Video Or Embed URLs
 
-- https://0c8b1d03f6dfbe67c43f0eaffdd742bd.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://abdbf4647db79768d13b48b13cc6971f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

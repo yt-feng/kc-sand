@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-07-11T03:59:45.320Z
+Captured at: 2026-07-11T06:26:02.193Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -10,6 +10,6 @@ Errors: 0
 - [Major gains for Egypt at 2026 World Cup, say former national team members](https://www.arabnews.com/node/2650372/sport) - ok - `archive/latest/videos/02-2650372-major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe/content.md` - video: `rendered-clips/2026-07-11/02_major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe.mp4`
 - [Modi visits New Zealand as trade deal sparks India pushback](https://www.arabnews.com/node/2650352/world) - ok - `archive/latest/videos/03-2650352-modi-visits-new-zealand-as-trade-deal-sparks-india-pushback/content.md` - video: `rendered-clips/2026-07-11/03_modi-visits-new-zealand-as-trade-deal-sparks-india-pushback.mp4`
 - [International pressure grows on US and Iran to resume negotiations](https://www.arabnews.com/node/2650415/middle-east) - ok - `archive/latest/headlines/01-2650415-international-pressure-grows-on-us-and-iran-to-resume-negotiations/content.md`
-- [Security official: Iran will respond against Israel if infrastructure attacked](https://www.arabnews.com/node/2650400/middle-east) - ok - `archive/latest/headlines/02-2650400-security-official-iran-will-respond-against-israel-if-infrastructure-a/content.md`
-- [Tanker traffic slows in Strait of Hormuz after US and Iran clashes](https://www.arabnews.com/node/2650404/middle-east) - ok - `archive/latest/headlines/03-2650404-tanker-traffic-slows-in-strait-of-hormuz-after-us-and-iran-clashes/content.md`
-- [IAEA has lost all knowledge on Iran’s nuclear program: UN political chief](https://www.arabnews.com/node/2650417/middle-east) - ok - `archive/latest/headlines/04-2650417-iaea-has-lost-all-knowledge-on-iran-s-nuclear-program-un-political-chi/content.md`
+- [US demands Iran publicly state that Strait of Hormuz is open and Tehran won’t attack ships anymore](https://www.arabnews.com/node/2650470/middle-east) - ok - `archive/latest/headlines/02-2650470-us-demands-iran-publicly-state-that-strait-of-hormuz-is-open-and-tehra/content.md`
+- [Syria reports renewed Israeli military incursion in Quneitra](https://www.arabnews.com/node/2650480/middle-east) - ok - `archive/latest/headlines/03-2650480-syria-reports-renewed-israeli-military-incursion-in-quneitra/content.md`
+- [Merino’s late strike sends Spain past Belgium into World Cup semis](https://www.arabnews.com/node/2650469/sport) - ok - `archive/latest/headlines/04-2650469-merino-s-late-strike-sends-spain-past-belgium-into-world-cup-semis/content.md`

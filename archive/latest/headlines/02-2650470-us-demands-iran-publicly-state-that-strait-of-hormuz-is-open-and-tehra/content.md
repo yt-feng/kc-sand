@@ -16,7 +16,7 @@ WASHINGTON: The US is demanding that Iran make a public statement saying the Str
 
 ## Video Or Embed URLs
 
-- https://fc6f7eaca399644fbe43daaf7749a544.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://38492cc74baf2597a5797c3ecf68ec19.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

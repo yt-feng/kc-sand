@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-11T19:14:11.268Z
+Fetched at: 2026-07-11T20:25:03.549Z
 Target date: 2026-07-11 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-11 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran's foreign minister in Oman for talks on Strait of Hormuz](https://www.arabnews.com/node/2650467/middle-east) - archive: archive/latest/headlines/01-2650467-irans-foreign-minister-in-oman-for-talks-on-strait-of-hormuz/content.md
+1. [Iran's foreign minister holds talks in Oman on Strait of Hormuz](https://www.arabnews.com/node/2650467/middle-east) - archive: archive/latest/headlines/01-2650467-irans-foreign-minister-holds-talks-in-oman-on-strait-of-hormuz/content.md
 2. [US delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal](https://www.arabnews.com/node/2650517/middle-east) - archive: archive/latest/headlines/02-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/content.md
-3. [Iran state media says explosion in eastern Tehran province was controlled ammunition disposal](https://www.arabnews.com/node/2650489/middle-east) - archive: archive/latest/headlines/03-2650489-iran-state-media-says-explosion-in-eastern-tehran-province-was-control/content.md
+3. [Gaza death toll rises to 73,221](https://www.arabnews.com/node/2650559/middle-east) - archive: archive/latest/headlines/03-2650559-gaza-death-toll-rises-to-73-221/content.md
 4. [King Salman issues royal decrees, appoints Prince Abdulaziz bin Salman as industry minister](https://www.arabnews.com/node/2650516/saudi-arabia) - archive: archive/latest/headlines/04-2650516-king-salman-issues-royal-decrees-appoints-prince-abdulaziz-bin-salman-/content.md

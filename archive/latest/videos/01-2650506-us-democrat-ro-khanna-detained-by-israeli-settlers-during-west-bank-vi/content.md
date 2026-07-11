@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650506/world
 Captured source: https://www.arabnews.com/node/2650506/world
 Published: 2026-07-11T14:29:44+03:00
-Modified: 2026-07-11T22:03:14+03:00
+Modified: 2026-07-11T22:37:53+03:00
 Author: Reuters
 
 ## Summary
@@ -16,13 +16,12 @@ TURMUS AYYA: US Democratic lawmaker Ro Khanna said he was detained by Israeli se
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/9a4dc9be-6f6e-4daa-8d5f-1378313278ff
+- blob:https://www.arabnews.com/43433936-812a-4b11-9895-f5328ecdaffd
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://4540c6879d0575e2a405eb192e26916b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://be0bc94152d9fe41f906c213a75a13e2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650506%2Fworld
 

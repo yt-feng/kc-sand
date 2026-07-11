@@ -16,7 +16,7 @@ Iranian state ​media reported on Saturday that an explosion ‌was ‌heard �
 
 ## Video Or Embed URLs
 
-- https://67bcad73171792832105edf1aa9bc17c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://d73d1c636b84a757f28de74d44052c9d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

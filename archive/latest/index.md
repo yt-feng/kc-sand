@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-07-11T16:33:20.610Z
+Captured at: 2026-07-11T17:39:36.615Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -12,4 +12,4 @@ Errors: 0
 - [Iran's foreign minister in Oman for talks on Strait of Hormuz](https://www.arabnews.com/node/2650467/middle-east) - ok - `archive/latest/headlines/01-2650467-irans-foreign-minister-in-oman-for-talks-on-strait-of-hormuz/content.md`
 - [US delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal](https://www.arabnews.com/node/2650517/middle-east) - ok - `archive/latest/headlines/02-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/content.md`
 - [Iran state media says explosion in eastern Tehran province was controlled ammunition disposal](https://www.arabnews.com/node/2650489/middle-east) - ok - `archive/latest/headlines/03-2650489-iran-state-media-says-explosion-in-eastern-tehran-province-was-control/content.md`
-- [Syria reports renewed Israeli military incursion in Quneitra](https://www.arabnews.com/node/2650480/middle-east) - ok - `archive/latest/headlines/04-2650480-syria-reports-renewed-israeli-military-incursion-in-quneitra/content.md`
+- [King Salman issues royal decrees, appoints Prince Abdulaziz bin Salman as industry minister](https://www.arabnews.com/node/2650516/saudi-arabia) - ok - `archive/latest/headlines/04-2650516-king-salman-issues-royal-decrees-appoints-prince-abdulaziz-bin-salman-/content.md`

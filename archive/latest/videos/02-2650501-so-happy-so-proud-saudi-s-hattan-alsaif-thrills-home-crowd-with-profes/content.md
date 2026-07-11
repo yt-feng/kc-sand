@@ -16,9 +16,9 @@ RIYADH: Saudi Arabia’s rising MMA star Hattan Alsaif delighted her home crowd 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/8098eaa1-956e-4b1a-ad00-c8cccb70c619
+- blob:https://www.arabnews.com/3966d9b3-9709-4700-895e-e72c3144eae2
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://175646f903043d33d9720a03ffd65b61.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://48e90f98f75ecfab066d26c6d4d4e113.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ RIYADH: Saudi Arabia’s rising MMA star Hattan Alsaif delighted her home crowd 
 
 ## Downloaded Video
 
-- [01_so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes.mp4](../../../rendered-clips/2026-07-11/01_so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes.mp4)
+- [02_so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes.mp4](../../../rendered-clips/2026-07-11/02_so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes.mp4)
 
 ## Text
 

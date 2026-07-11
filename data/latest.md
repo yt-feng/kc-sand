@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-11T17:33:52.558Z
+Fetched at: 2026-07-11T19:14:11.268Z
 Target date: 2026-07-11 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [‘So happy, so proud’: Saudi’s Hattan Alsaif thrills home crowd with professional debut win at PFL MENA: Riyadh](https://www.arabnews.com/node/2650501/sport) - archive: archive/latest/videos/01-2650501-so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes/content.md
-2. [Hundreds welcome Salah’s Egypt home after best World Cup run](https://www.arabnews.com/node/2650403/sport) - archive: archive/latest/videos/02-2650403-hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run/content.md
-3. [Major gains for Egypt at 2026 World Cup, say former national team members](https://www.arabnews.com/node/2650372/sport) - archive: archive/latest/videos/03-2650372-major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe/content.md
+1. [US Democrat Ro Khanna detained by Israeli settlers during West Bank visit](https://www.arabnews.com/node/2650506/world) - archive: archive/latest/videos/01-2650506-us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi/content.md
+2. [‘So happy, so proud’: Saudi’s Hattan Alsaif thrills home crowd with professional debut win at PFL MENA: Riyadh](https://www.arabnews.com/node/2650501/sport) - archive: archive/latest/videos/02-2650501-so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes/content.md
+3. [Hundreds welcome Salah’s Egypt home after best World Cup run](https://www.arabnews.com/node/2650403/sport) - archive: archive/latest/videos/03-2650403-hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run/content.md
 
 ## Homepage Top Headlines
 

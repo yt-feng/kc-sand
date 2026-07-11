@@ -16,11 +16,11 @@ WASHINGTON/CAIRO: Iran’s foreign minister arrived in Oman on Saturday to discu
 
 ## Video Or Embed URLs
 
-- https://f97051dd71da7d7fe4a4ff22b6bcae1a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b4223bd6192f05e984b73cd8d47bb220.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650467%2Fmiddle-east
 

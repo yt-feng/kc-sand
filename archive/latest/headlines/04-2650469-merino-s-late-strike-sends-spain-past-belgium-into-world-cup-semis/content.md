@@ -16,7 +16,7 @@ INGLEWOOD, California: Spain ‌substitute Mikel Merino fired home from close ra
 
 ## Video Or Embed URLs
 
-- https://1ef67bffc4ad1737a014c317af036f3d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://d1b27cf4db31bc3e1adcf613b3b61d1b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

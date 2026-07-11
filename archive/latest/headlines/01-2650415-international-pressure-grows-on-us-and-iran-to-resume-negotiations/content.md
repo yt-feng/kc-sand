@@ -16,11 +16,11 @@ CAIRO: Egypt and Qatar on Friday called on the United States and Iran to resume 
 
 ## Video Or Embed URLs
 
-- https://7c4f26155607a51438a89e0bbc6bf90a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://e9dcd2c79eba17637b4ec4cf154aeba2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650415%2Fmiddle-east
 
 ## Text

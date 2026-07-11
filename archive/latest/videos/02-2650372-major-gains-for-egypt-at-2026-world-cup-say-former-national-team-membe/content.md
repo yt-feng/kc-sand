@@ -16,12 +16,11 @@ CAIRO: Egypt have made major gains at 2026 World Cup despite their elimination i
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/4d6c0ed5-a860-4f33-a972-954adf1e70fd
+- blob:https://www.arabnews.com/f4aed840-c8fd-4df5-a661-3bf1d3f45e9c
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://00a2a1077c4bbfb855c05071e87ac19c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://82d7aab8e4196ef50d005950175eddf2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650372%2Fsport
 

@@ -16,7 +16,7 @@ DAMASCUS: Israeli forces raided a village in Syria’s southern Quneitra provinc
 
 ## Video Or Embed URLs
 
-- https://6ea114e83e355a5afbbef7c08a6f4df1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://04f2e98ef2efb1a4a2ecf3eb654da98b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

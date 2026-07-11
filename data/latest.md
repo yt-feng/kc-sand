@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-11T15:01:29.154Z
+Fetched at: 2026-07-11T16:27:42.689Z
 Target date: 2026-07-11 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [Hundreds welcome Salah’s Egypt home after best World Cup run](https://www.arabnews.com/node/2650403/sport) - section: Hundreds welcome Salah’s Egypt home after best World Cup run 10 July 2026 - archive: archive/latest/videos/01-2650403-hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run/content.md
-2. [Major gains for Egypt at 2026 World Cup, say former national team members](https://www.arabnews.com/node/2650372/sport) - archive: archive/latest/videos/02-2650372-major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe/content.md
-3. [Modi visits New Zealand as trade deal sparks India pushback](https://www.arabnews.com/node/2650352/world) - archive: archive/latest/videos/03-2650352-modi-visits-new-zealand-as-trade-deal-sparks-india-pushback/content.md
+1. [‘So happy, so proud’: Saudi’s Hattan Alsaif thrills home crowd with professional debut win at PFL MENA: Riyadh](https://www.arabnews.com/node/2650501/sport) - archive: archive/latest/videos/01-2650501-so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes/content.md
+2. [Hundreds welcome Salah’s Egypt home after best World Cup run](https://www.arabnews.com/node/2650403/sport) - archive: archive/latest/videos/02-2650403-hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run/content.md
+3. [Major gains for Egypt at 2026 World Cup, say former national team members](https://www.arabnews.com/node/2650372/sport) - archive: archive/latest/videos/03-2650372-major-gains-for-egypt-at-2026-world-cup-say-former-national-team-membe/content.md
 
 ## Homepage Top Headlines
 

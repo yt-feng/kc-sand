@@ -16,18 +16,18 @@ El Alamein, Egypt: Hundreds of euphoric supporters welcomed home Egypt’s natio
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/8641042f-9b5e-465a-8288-23d75e53466d
+- blob:https://www.arabnews.com/6ad53e4b-021b-45a1-98fe-2e1e58219649
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://d449c87bfc35ebb0b87bb74576ef6087.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://111308d017e94840b176f74215ecce1f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650403%2Fsport
 
 ## Downloaded Video
 
-- [01_hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run.mp4](../../../rendered-clips/2026-07-11/01_hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run.mp4)
+- [02_hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run.mp4](../../../rendered-clips/2026-07-11/02_hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run.mp4)
 
 ## Text
 

@@ -16,11 +16,11 @@ El Alamein, Egypt: Hundreds of euphoric supporters welcomed home Egypt’s natio
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/3505e13e-7ced-49a8-9a43-f2f4678a439f
+- blob:https://www.arabnews.com/8641042f-9b5e-465a-8288-23d75e53466d
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://af46b65db3052689c7a7053f52049f2a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://d449c87bfc35ebb0b87bb74576ef6087.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650403%2Fsport

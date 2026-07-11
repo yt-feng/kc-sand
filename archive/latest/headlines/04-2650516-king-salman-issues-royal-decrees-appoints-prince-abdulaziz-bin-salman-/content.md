@@ -16,7 +16,7 @@ RIYADH: Saudi Arabia’s King Salman on Saturday issued a series of royal decree
 
 ## Video Or Embed URLs
 
-- https://9e3e456fc27507ce47727fa53da1c023.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://7e810da7d0b9eacfae5f11d001deda02.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

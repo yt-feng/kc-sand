@@ -16,9 +16,9 @@ RIYADH: Saudi Arabia’s rising MMA star Hattan Alsaif delighted her home crowd 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/2dd9f956-bd4f-4bb4-b7eb-16b3f6cb8553
+- blob:https://www.arabnews.com/3d3ec485-a503-4f1c-87af-65aefdea9874
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://1acf852cf48cfdd3ed3878bc8f218ec0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://5f04ba9c52e111e0443a0695028ebae3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

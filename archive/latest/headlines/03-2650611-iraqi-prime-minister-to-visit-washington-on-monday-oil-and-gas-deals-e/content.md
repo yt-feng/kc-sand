@@ -17,7 +17,7 @@ Baghdad: Iraqi Prime Minister Ali Al-Zaidi ​will travel to Washington on Monda
 ## Video Or Embed URLs
 
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://1c652bcf6ec3f747afae6da33f4d1f5b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a7451dfee5c2cf2dc85d1ba929183399.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

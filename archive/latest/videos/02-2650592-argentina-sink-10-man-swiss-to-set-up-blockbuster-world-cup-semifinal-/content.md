@@ -16,9 +16,9 @@ KANSAS CITY: Julian Alvarez scored a breathtaking goal as Argentina battled past
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/b44abeaa-308c-4040-8375-6632043166a7
+- blob:https://www.arabnews.com/ea552ea8-9bae-4002-a938-efd3f85a1f5f
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://e5a15c52fccbe3beda67ee61a07cf2ba.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f4a4796edae6d0a144b09c5ee4890668.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot
@@ -27,7 +27,7 @@ KANSAS CITY: Julian Alvarez scored a breathtaking goal as Argentina battled past
 
 ## Downloaded Video
 
-- [01_argentina-sink-10-man-swiss-to-set-up-blockbuster-world-cup-semifinal-.mp4](../../../rendered-clips/2026-07-12/01_argentina-sink-10-man-swiss-to-set-up-blockbuster-world-cup-semifinal-.mp4)
+- [02_argentina-sink-10-man-swiss-to-set-up-blockbuster-world-cup-semifinal-.mp4](../../../rendered-clips/2026-07-12/02_argentina-sink-10-man-swiss-to-set-up-blockbuster-world-cup-semifinal-.mp4)
 
 ## Text
 

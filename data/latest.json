@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T09:57:28.050Z",
+  "fetchedAt": "2026-07-12T11:19:12.919Z",
   "targetDate": {
     "iso": "2026-07-12",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 84,
+    "itemCount": 87,
     "window": {
       "hours": 24,
-      "start": "2026-07-11T09:57:28.050Z",
-      "end": "2026-07-12T09:57:28.050Z",
+      "start": "2026-07-11T11:19:12.919Z",
+      "end": "2026-07-12T11:19:12.919Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-12T10:03:31.434Z",
+    "capturedAt": "2026-07-12T11:25:11.423Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-12",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-12/01_argentina-sink-10-man-swiss-to-set-up-blockbuster-world-cup-semifinal-.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872035/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/48F345B034E9A71BDF3EF1C59AB0FEB11C78A2F6.40B232DABA437F6C7807408A337796D1B1BC389F/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872035/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/64F82283CF924A649865C6880ACB7093A5587E6D.4352A4FAAA35FFC3BFA0A1B67003CD4D0723E3DE/key/cms1/cms_redirect/yes/met/1783850440,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783850166/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783876932/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/48E7DFAA525E2E67BE38FFE1E3ADB81D38A13726.1F221BC1D070D246904C067C89BF394F957EC677/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783876932/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/33D903B4691A926E5FBD01B1490A06FA4EF1840D.813BAD4116B6588D52B30D2BD6653D882E4E790A/key/cms1/cms_redirect/yes/met/1783855336,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783854974/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/GH5pwZnR.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a540fed_8b33b4d14f8afab1cf4b9bb88915a707c2c0f457/sites/wPTWN2YS/media/GH5pwZnR/versions/9pzuzaGg/manifest.ism/manifest-audio_0_qKHXsmiD_Sntdz4zl=112008-video_0_qKHXsmiD_S55c48Tq=532051.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a540fed_8b33b4d14f8afab1cf4b9bb88915a707c2c0f457/sites/wPTWN2YS/media/GH5pwZnR/versions/9pzuzaGg/manifest.ism/manifest-audio_0_qKHXsmiD_Sntdz4zl=112008-video_0_qKHXsmiD_S55c48Tq=667878.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a542505_6172836bf78d54f6559b1296e52cb7fb34afc2f0/sites/wPTWN2YS/media/GH5pwZnR/versions/9pzuzaGg/manifest.ism/manifest-audio_0_qKHXsmiD_Sntdz4zl=112008-video_0_qKHXsmiD_S55c48Tq=532051.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a542505_6172836bf78d54f6559b1296e52cb7fb34afc2f0/sites/wPTWN2YS/media/GH5pwZnR/versions/9pzuzaGg/manifest.ism/manifest-audio_0_qKHXsmiD_Sntdz4zl=112008-video_0_qKHXsmiD_S55c48Tq=667878.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2650592-argentina-sink-10-man-swiss-to-set-up-blockbuster-world-cup-semifinal-/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-12/01_argentina-sink-10-man-swiss-to-set-up-blockbuster-world-cup-semifinal-.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872035/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/48F345B034E9A71BDF3EF1C59AB0FEB11C78A2F6.40B232DABA437F6C7807408A337796D1B1BC389F/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783876932/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/48E7DFAA525E2E67BE38FFE1E3ADB81D38A13726.1F221BC1D070D246904C067C89BF394F957EC677/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-12/02_iran-attacks-qatar-bahrain-kuwait-oman-jordan-and-uae-after-fresh-us-s.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872076/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/934B4A0B4522391BB233993143588340DDF6620C.784DACADBE556AF3F91F8742ECB1FCC8952FB5C2/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872076/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5AD2CF760A557277E0F931F161EC5157120FA68B.6C7D20D023FBC7AD8F99C20DBE36E1965664E9F5/key/cms1/cms_redirect/yes/met/1783850482,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783850166/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783876975/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9DDC40C4258CFC23CB7C6B5A73124B6E3553CFD2.570BC19C01CEB2ACD17AFE418494193AD9DC7C66/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783876975/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/701D6475F60D2B3E86E8B3184B697FBF895D0A83.042BFBB946F981BDD4614C05EB2C133C81F0AF9B/key/cms1/cms_redirect/yes/met/1783855381,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783855233/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/gUX49Q6K.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5410b8_3154d8aa4db91902cfa43fef0c9a4a9621a27acd/sites/wPTWN2YS/media/gUX49Q6K/versions/xMLPgTb2/manifest.ism/manifest-audio_0_H6QZS83U_UkHtHmgB=112027-video_0_H6QZS83U_UdUsJmEf=165709.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a54224c_0d967f36724379b3ae7daa6239269a53af3e18ce/sites/wPTWN2YS/media/gUX49Q6K/versions/xMLPgTb2/manifest.ism/manifest-audio_0_H6QZS83U_UkHtHmgB=112027-video_0_H6QZS83U_UdUsJmEf=165709.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2650589-iran-attacks-qatar-bahrain-kuwait-oman-jordan-and-uae-after-fresh-us-s/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-12/02_iran-attacks-qatar-bahrain-kuwait-oman-jordan-and-uae-after-fresh-us-s.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872076/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/934B4A0B4522391BB233993143588340DDF6620C.784DACADBE556AF3F91F8742ECB1FCC8952FB5C2/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783876975/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9DDC40C4258CFC23CB7C6B5A73124B6E3553CFD2.570BC19C01CEB2ACD17AFE418494193AD9DC7C66/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-12/03_us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872097/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1ACA790397A2D7FF3D345886A00ED33BA125E005.062A7279703170AFB6BB0216BC4BF30269801ABF/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872097/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/02F4E2D5D5E9CD57BF28B8906F5DB71086E78B84.0AA64E7E69ACE6C750FB1F5D3CD8899E05D4FC21/key/cms1/cms_redirect/yes/met/1783850503,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783850166/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783876997/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/070200734664629CC3C1EF1F70BF92135571250A.26ED3AEFDD365DA2D4D20F46526B445E7E1ABD62/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783876997/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3D54E3AD07FBF92D45BBE039B061B2DB2CFD2603.54A03AFFB54ABEB5FAF35E2F641A3C6B33354751/key/cms1/cms_redirect/yes/met/1783855402,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783854974/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/lZeN3gqK.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a541219_0986756b77d2974a2c3f25c7f971ea765d36347f/sites/wPTWN2YS/media/lZeN3gqK/versions/DJChNdMr/manifest.ism/manifest-audio_0_P0NAIRnU_8hA2cIdr=112016-video_0_P0NAIRnU_IhqnLYaD=483760.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5423ad_8b1cd877519dc45c2ff15ed1bb44ed54a851b5d1/sites/wPTWN2YS/media/lZeN3gqK/versions/DJChNdMr/manifest.ism/manifest-audio_0_P0NAIRnU_8hA2cIdr=112016-video_0_P0NAIRnU_IhqnLYaD=483760.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2650506-us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-12/03_us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872097/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1ACA790397A2D7FF3D345886A00ED33BA125E005.062A7279703170AFB6BB0216BC4BF30269801ABF/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783876997/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/070200734664629CC3C1EF1F70BF92135571250A.26ED3AEFDD365DA2D4D20F46526B445E7E1ABD62/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -327,8 +327,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872118/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8FF56DC4E0E90ED1CA87D26FD8B7D3A91C84FB2A.79564C041DCB48385EDDA97E58FD7DD92A5FB018/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872118/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/22717ADC2ABE77AE268835587B77DBAADD13FB18.1638CE2A82EF7A08B99830D52269D24F8C73F65E/key/cms1/cms_redirect/yes/met/1783850522,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783850166/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783877018/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6E798ED84AB36914F529BA03F830E1D3ECE36A93.5D99A55DAE7EAEBA570D43AB71B9F15E48FBEA62/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783877018/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5AC85CD30711551B70C45FC921AAF64A3915BE7F.6801CC118E88B540DD5870237AC776C2D83AABC3/key/cms1/cms_redirect/yes/met/1783855421,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783855233/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/image.jpg",
@@ -354,8 +354,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872137/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4305CBBAAF4D086175BDC9713B3D8959267F0443.37D365A1FF2FD7CEBC33E7A9CC9B86DD23B207DD/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872137/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5CB4078632BB069EC9EB835B32FCB5793BD459F5.37FD0B3BA932908F340DA285A824AA9AA280FD3C/key/cms1/cms_redirect/yes/met/1783850542,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783850166/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783877037/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2058707D4C25BB10DBD8EF34F9436E01216CA2AE.57AD287F81D1FADB797248F2FE535A8C8F1A24E4/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783877037/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/852099D924C22DA246B3C155B8D33D78EF5498BD.5867525F50672997A607544428A06019F1878995/key/cms1/cms_redirect/yes/met/1783855441,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783855233/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/image.jpg",
@@ -381,8 +381,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872157/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/50545CAFD5B9ACD0B02203BE06F46EB1FA1FA244.A9A51459396A5546CDDB8E254F86CD741E0CB90B/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872157/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/44F181EF8CE3F7FCF14592F075D15024A236824C.426016F22A2FD88CD37DF9554F2FAE51988ADA5C/key/cms1/cms_redirect/yes/met/1783850561,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783850233/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783877058/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1BB54D096DF502914D034F7AC752F004378539A0.1674E7602346C83E8B59F51E5EF576EEB46CF30B/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783877058/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/20F72473EAB7DD7A5123D6C34861BD91646D88CD.7686C77398456FAB1157FAE86C49A1685F861532/key/cms1/cms_redirect/yes/met/1783855462,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783855233/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2650598-former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74/image.jpg",
@@ -408,10 +408,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872179/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0BD8533EC677B2E9B4B61425C2F43F7A68CEFDF1.21E415B99D8BB34A36E0357239C58456C9913BCF/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783872179/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7A8EE8E1C450C3565871325EB8928B87AEF5F7EB.40A9F47103353897B53CFBA25D7ED712015EA2CB/key/cms1/cms_redirect/yes/met/1783850583,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783850166/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783877078/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2F75B6E96CDF4010B3BE4EB55896940AF110D8D4.0301E9C6F79768E50C50F5D67B7CF3F857424324/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783877078/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/55E8F99293144BE8272F9391FF339FAD59757CF8.6EADA6EC0E23360FC09C9C025132CA0C48C94567/key/cms1/cms_redirect/yes/met/1783855483,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783855233/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/GH5pwZnR.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a540fed_8b33b4d14f8afab1cf4b9bb88915a707c2c0f457/sites/wPTWN2YS/media/GH5pwZnR/versions/9pzuzaGg/manifest.ism/manifest-audio_0_qKHXsmiD_Sntdz4zl=112008-video_0_qKHXsmiD_S55c48Tq=667878.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a542505_6172836bf78d54f6559b1296e52cb7fb34afc2f0/sites/wPTWN2YS/media/GH5pwZnR/versions/9pzuzaGg/manifest.ism/manifest-audio_0_qKHXsmiD_Sntdz4zl=112008-video_0_qKHXsmiD_S55c48Tq=667878.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2650592-argentina-sink-10-man-swiss-to-set-up-blockbuster-world-cup-semifinal-/image.jpg",

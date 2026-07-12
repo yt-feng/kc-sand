@@ -16,9 +16,9 @@ KANSAS CITY: Julian Alvarez scored a breathtaking goal as Argentina battled past
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/16c746eb-73b2-4a9e-8e2c-a764bf4dac7b
+- blob:https://www.arabnews.com/6694d76b-8237-41aa-b496-1fd515037845
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://57fce8ddd3ff45f7c8e9814cd4970218.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f0e17932ab27b28131262bf266c4069b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot

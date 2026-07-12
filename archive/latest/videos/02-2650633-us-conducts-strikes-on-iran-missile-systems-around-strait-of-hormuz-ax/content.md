@@ -16,11 +16,11 @@ TEHRAN: The US carried out several ‌strikes ‌on Iranian ​missile ‌and �
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/a24d99db-d7ce-47c7-b5d3-66fb2aff09e2
+- blob:https://www.arabnews.com/9ae98e92-20db-47f5-a859-8f8e7e99c4e2
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://fec93a267480873e0ffb229c10809542.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://ff63e61649b4d688e661f92aab2b010c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650633%2Fmiddle-east

@@ -16,11 +16,11 @@ DAMASCUS: Syria’s new parliament convened for the first time on Sunday, 19 mon
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/cad0841f-731a-49f3-b834-a16e6cafe73e
+- blob:https://www.arabnews.com/487f6216-5e84-4a90-9486-4fe2cbf0953c
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://636e7e920e99adb2da89b38f010d42de.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://b97427b67d99abb7baabd35195645f92.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650631%2Fmiddle-east

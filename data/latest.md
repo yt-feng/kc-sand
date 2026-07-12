@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-12T18:29:46.589Z
+Fetched at: 2026-07-12T19:44:46.414Z
 Target date: 2026-07-12 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-12 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Kuwait says three border posts, offshore oil platform attacked](https://www.arabnews.com/node/2650645/middle-east) - archive: archive/latest/headlines/01-2650645-kuwait-says-three-border-posts-offshore-oil-platform-attacked/content.md
+1. [Video grab taken from UGC images posted on social media on July 12, 2026, shows heavy smoke billowing in Abdali.](https://www.arabnews.com/node/2650645/middle-east) - archive: archive/latest/headlines/01-2650645-video-grab-taken-from-ugc-images-posted-on-social-media-on-july-12-202/content.md
 2. [Oman says 23 rescued, one missing after vessel attacked off coast](https://www.arabnews.com/node/2650630/middle-east) - archive: archive/latest/headlines/02-2650630-oman-says-23-rescued-one-missing-after-vessel-attacked-off-coast/content.md
 3. [Iraqi prime minister to visit Washington on Monday; oil and gas deals expected](https://www.arabnews.com/node/2650611/middle-east) - archive: archive/latest/headlines/03-2650611-iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-e/content.md
 4. [President Al-Sharaa walks through the chamber after addressing the inaugural session of Syria's newly formed People's Assembly.](https://www.arabnews.com/node/2650631/middle-east) - archive: archive/latest/headlines/04-2650631-president-al-sharaa-walks-through-the-chamber-after-addressing-the-ina/content.md

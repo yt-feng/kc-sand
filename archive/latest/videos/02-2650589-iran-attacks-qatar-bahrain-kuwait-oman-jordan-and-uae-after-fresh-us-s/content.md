@@ -16,11 +16,11 @@ DUBAI: Iran launched missile and drone attacks against Bahrain, Qatar, Kuwait, O
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/1320f07c-c1bd-4d5c-8871-4f34f0686357
+- blob:https://www.arabnews.com/10f0fd42-4ba0-437a-b148-06549bbc7b92
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://6ab55b68db73795d855900d6fbef6472.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://cb9673a89c05df1fca42a06aaf7aa28f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650589%2Fmiddle-east
 

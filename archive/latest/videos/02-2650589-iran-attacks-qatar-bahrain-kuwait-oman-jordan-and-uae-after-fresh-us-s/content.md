@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650589/middle-east
 Captured source: https://www.arabnews.com/node/2650589/middle-east
 Published: 2026-07-12T06:33:13+03:00
-Modified: 2026-07-12T11:38:01+03:00
+Modified: 2026-07-12T15:31:07+03:00
 Author: Arab News
 
 ## Summary
@@ -16,9 +16,9 @@ DUBAI: Iran launched missile and drone attacks against Bahrain, Qatar, Kuwait, O
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/42fc18b9-1656-4125-9b9c-f3143829f290
+- blob:https://www.arabnews.com/1320f07c-c1bd-4d5c-8871-4f34f0686357
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://66febb1a4690a43f45d3c98cfd0c4e25.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://6ab55b68db73795d855900d6fbef6472.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
@@ -46,7 +46,11 @@ The ⁠United Arab Emirates said its defense systems engaged missiles and drones
 
 A Omani security source reported that drones have targeted sites in the governorate of Musandam. The sultanate condemned the attacks and vowed to take all measures that safeguard the country’s security and residents.
 
-The Oman News Agency said on X that “the Sultanate of Oman affirms its condemnation and denunciation of this attack”, which came just hours after the country hosted Iran's foreign minister to address security issues in the Strait of Hormuz.
+The Oman News Agency said on X that “the Sultanate of Oman affirms its condemnation and denunciation of this attack,” which came just hours after the country hosted Iran's foreign minister to address security issues in the Strait of Hormuz.
+
+The sultanate also summoned the Iranian ambassador to hand him a formal note of protest, in a rare instance of it publicly accusing Tehran of targeting its territory.
+
+“Oman expresses its profound dismay at these irresponsible acts, and underscores the imperative of adhering to the provisions of state sovereignty, good neighborliness, non-interference in internal affairs,” ONA said in a post on X.
 
 In Jordan, three Iranian missiles fell early Sunday morning across several locations inside the Kingdom. No casualties were reported, and the impact resulted only in minor material damage.
 

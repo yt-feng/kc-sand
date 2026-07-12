@@ -16,11 +16,11 @@ DUBAI: ​Qatari former Emir Sheikh ‌Hamad bin ‌Khalifa ​Al ‌Thani ⁠ha
 
 ## Video Or Embed URLs
 
-- https://be86163ecde1bec1395f679500c366a0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://82ccf73995ea40432f02c3628452c795.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650598%2Fmiddle-east
 
 ## Text

@@ -16,11 +16,11 @@ TEHRAN: Fresh attacks rocked Iran on Sunday evening as Tehran and Washington squ
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/60857f8e-9180-4d94-971d-c0ff03df6a36
-- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://8b8b0115fab55ab1eb74f11c18357394.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- blob:https://www.arabnews.com/f1e51255-d1bd-4333-9816-20a0a594c9bb
+- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://d622a12eef5a0e07e86755500e47c500.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650633%2Fmiddle-east

@@ -16,7 +16,7 @@ WASHINGTON: The US military said ​on Saturday it launched a new round of strik
 
 ## Video Or Embed URLs
 
-- https://eb8e1870787ee28a87b266174ebc3922.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b094d2aa6d3becf441b84b49221e2ccc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

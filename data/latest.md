@@ -1,12 +1,12 @@
 # Arab News Latest
 
-Fetched at: 2026-07-12T19:44:46.414Z
+Fetched at: 2026-07-12T20:58:50.440Z
 Target date: 2026-07-12 (Asia/Riyadh)
 
 ## Latest Videos
 
 1. [People search through volumes of secondhand books at Sunday’s market in Mahila Haat, Delhi, July 5, 2026. (AN photo)](https://www.arabnews.com/node/2650637/world) - section: How decades-old Sunday book market shapes Delhi’s reading habits 12 July 2026 - archive: archive/latest/videos/01-2650637-people-search-through-volumes-of-secondhand-books-at-sunday-s-market-i/content.md
-2. [US conducts strikes on Iran missile systems around Strait of Hormuz: Axios](https://www.arabnews.com/node/2650633/middle-east) - archive: archive/latest/videos/02-2650633-us-conducts-strikes-on-iran-missile-systems-around-strait-of-hormuz-ax/content.md
+2. [Fresh attacks hit Iran as Tehran and US square off over Hormuz](https://www.arabnews.com/node/2650633/middle-east) - archive: archive/latest/videos/02-2650633-fresh-attacks-hit-iran-as-tehran-and-us-square-off-over-hormuz/content.md
 3. [New Syrian parliament meets for first time in Damascus](https://www.arabnews.com/node/2650631/middle-east) - archive: archive/latest/videos/03-2650631-new-syrian-parliament-meets-for-first-time-in-damascus/content.md
 
 ## Homepage Top Headlines

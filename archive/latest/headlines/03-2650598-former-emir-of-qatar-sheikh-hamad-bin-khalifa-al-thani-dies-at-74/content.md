@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650598/middle-east
 Captured source: https://www.arabnews.com/node/2650598/middle-east
 Published: 2026-07-12T08:15:11+03:00
-Modified: 2026-07-12T09:55:49+03:00
+Modified: 2026-07-12T11:12:50+03:00
 Author: Agencies
 
 ## Summary
@@ -16,9 +16,9 @@ DUBAI: ​Qatari former Emir Sheikh ‌Hamad bin ‌Khalifa ​Al ‌Thani ⁠ha
 
 ## Video Or Embed URLs
 
-- https://b4cc36d01685218b20e9ed49b5041fb3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://ab292bd149de46e88d201e654d4aecc7.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650598%2Fmiddle-east
@@ -38,5 +38,9 @@ Sheikh Hamad attended Britain’s military academy, Sandhurst, and became comman
 Sheikh Hamad was responsibe for overseeing the rapid transformation of Qatar into a modern state open to the world.
 
 He pushed Qatar Airways to expand into a major international carrier, trying to rival neighboring carrier Emirates. The country’s international airport in Doha, Qatar’s capital, which cost at least $15 billion to construct, also bears his name.
+
+Sheikh Hamad was the architect of Qatar’s effort to develop its liquefied natural gas (LNG) infrastructure that allowed ‌it to get its ‌vast gas reserves to global markets, turning the state into one of ​the ‌world’s ⁠largest exporters ​and ⁠laying the foundations for its vast wealth.
+
+He established media network Al Jazeera, which gave Qatar an outsized voice in Arab politics. He also oversaw the successful bid to host the 2022 soccer World Cup, a move that firmly put Qatar on the global stage and accelerated a decade of infrastructure building that remade the capital Doha.
 
 Sheikh Hamad had wide-ranging visions for Qatar’s role as a diplomatic broker. Over the years, its mediation was brought to bear on the conflict in Sudan’s western Darfur region, Lebanese factional feuding and the rift between the Palestinians’ Hamas and Fatah factions.

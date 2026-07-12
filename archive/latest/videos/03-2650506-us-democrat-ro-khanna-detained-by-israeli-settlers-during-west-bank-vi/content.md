@@ -16,9 +16,9 @@ TURMUS AYYA: US Democratic lawmaker Ro Khanna said he was detained by Israeli se
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/ed05ed06-dd78-4691-b8f5-4b51972049ee
+- blob:https://www.arabnews.com/d56903e5-5494-4e9e-94d4-d1c9fd85961d
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://b46d2f9f138b66c930461f978d0b0448.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://ce2e3fe22baf8947fc995ed2f4834c05.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ TURMUS AYYA: US Democratic lawmaker Ro Khanna said he was detained by Israeli se
 
 ## Downloaded Video
 
-- [01_us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi.mp4](../../../rendered-clips/2026-07-12/01_us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi.mp4)
+- [03_us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi.mp4](../../../rendered-clips/2026-07-12/03_us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi.mp4)
 
 ## Text
 

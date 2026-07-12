@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-12T07:33:59.581Z
+Fetched at: 2026-07-12T09:57:28.050Z
 Target date: 2026-07-12 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [US Democrat Ro Khanna detained by Israeli settlers during West Bank visit](https://www.arabnews.com/node/2650506/world) - archive: archive/latest/videos/01-2650506-us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi/content.md
-2. [‘So happy, so proud’: Saudi’s Hattan Alsaif thrills home crowd with professional debut win at PFL MENA: Riyadh](https://www.arabnews.com/node/2650501/sport) - archive: archive/latest/videos/02-2650501-so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes/content.md
-3. [Hundreds welcome Salah’s Egypt home after best World Cup run](https://www.arabnews.com/node/2650403/sport) - archive: archive/latest/videos/03-2650403-hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run/content.md
+1. [Argentina sink 10-man Swiss to set up blockbuster World Cup semifinal with England](https://www.arabnews.com/node/2650592/football) - archive: archive/latest/videos/01-2650592-argentina-sink-10-man-swiss-to-set-up-blockbuster-world-cup-semifinal-/content.md
+2. [Iran attacks Qatar, Bahrain, Kuwait, Oman, Jordan and UAE after fresh US strikes over Hormuz](https://www.arabnews.com/node/2650589/middle-east) - archive: archive/latest/videos/02-2650589-iran-attacks-qatar-bahrain-kuwait-oman-jordan-and-uae-after-fresh-us-s/content.md
+3. [US Democrat Ro Khanna detained by Israeli settlers during West Bank visit](https://www.arabnews.com/node/2650506/world) - archive: archive/latest/videos/03-2650506-us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi/content.md
 
 ## Homepage Top Headlines
 

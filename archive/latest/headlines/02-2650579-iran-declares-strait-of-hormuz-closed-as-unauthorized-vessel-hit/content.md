@@ -16,7 +16,7 @@ DUBAI/WASHINGTON: Iran on Sunday said it closed the Strait of Hormuz after a ves
 
 ## Video Or Embed URLs
 
-- https://207f3f4294102b17bbae316f8fb75092.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://7abba52b4292fc19c03944d48e8f42c4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

@@ -16,18 +16,19 @@ NEW DELHI: Every Sunday morning, a one-of-a-kind colorful maze takes shape near 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/dd223534-4fe5-406f-bfde-172b1205c6b7
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://c5869346cb2a16a879d1f6e630f0f588.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/0d6bb520-2a98-4ae3-b2d9-97a4049e5a62
+- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
+- https://9d86fdc5d736457ed5cc2eb16cad154f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650637%2Fworld
 
 ## Downloaded Video
 
-- [01_people-search-through-volumes-of-secondhand-books-at-sunday-s-market-i.mp4](../../../rendered-clips/2026-07-12/01_people-search-through-volumes-of-secondhand-books-at-sunday-s-market-i.mp4)
+- [01_people-search-through-volumes-of-secondhand-books-at-sunday-s-market-i.mp4](../../../rendered-clips/2026-07-13/01_people-search-through-volumes-of-secondhand-books-at-sunday-s-market-i.mp4)
 
 ## Text
 

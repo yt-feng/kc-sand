@@ -16,9 +16,9 @@ NEW DELHI: Every Sunday morning, a one-of-a-kind colorful maze takes shape near 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/370a747d-3296-4f62-83f4-0916382d86ef
+- blob:https://www.arabnews.com/a1103d76-4b80-48fc-b530-70f4a14fa438
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://4afa7a2d2835bc38a27b479d4c22597e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a12a8a6650f1f020c1b5eb2563330981.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

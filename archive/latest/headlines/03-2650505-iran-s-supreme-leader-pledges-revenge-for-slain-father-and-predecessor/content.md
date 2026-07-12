@@ -16,7 +16,7 @@ TEHRAN: Iran’s Supreme Leader Ayatollah Mojtaba Khamenei threatened vengeance 
 
 ## Video Or Embed URLs
 
-- https://c20993a23f4e93114d940ed952c1aeeb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://ba0c1e891063801f6aa383caeca77983.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

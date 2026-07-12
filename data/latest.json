@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T01:10:24.140Z",
+  "fetchedAt": "2026-07-12T04:56:54.617Z",
   "targetDate": {
     "iso": "2026-07-12",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,39 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 86,
+    "itemCount": 89,
     "window": {
       "hours": 24,
-      "start": "2026-07-11T01:10:24.140Z",
-      "end": "2026-07-12T01:10:24.140Z",
+      "start": "2026-07-11T04:56:54.617Z",
+      "end": "2026-07-12T04:56:54.617Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "US launches new round of strikes on Iran after IRGC attacks civilian vessel in Strait of Hormuz",
+        "url": "https://www.arabnews.com/node/2650581/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/12/4730448-1364662933.jpg?itok=BYebeYPE",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/metadata.json",
+            "content": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/content.md",
+            "text": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit",
         "url": "https://www.arabnews.com/node/2650579/middle-east",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit",
+          "directory": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/metadata.json",
-            "content": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/content.md",
-            "text": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/metadata.json",
+            "content": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/content.md",
+            "text": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/image.jpg",
+            "image": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/image.jpg",
             "video": null
           }
         }
@@ -119,16 +141,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor",
+          "directory": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/metadata.json",
-            "content": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/content.md",
-            "text": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/metadata.json",
+            "content": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/content.md",
+            "text": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/image.jpg",
+            "image": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/image.jpg",
             "video": null
           }
         }
@@ -141,38 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/metadata.json",
-            "content": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/content.md",
-            "text": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "US delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal",
-        "url": "https://www.arabnews.com/node/2650517/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/11/4730270-1215902051.jpg?itok=QtGjUpJz",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal",
+          "directory": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/metadata.json",
-            "content": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/content.md",
-            "text": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/metadata.json",
+            "content": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/content.md",
+            "text": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/image.jpg",
+            "image": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-12T01:16:19.811Z",
+    "capturedAt": "2026-07-12T05:02:44.216Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-12",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-12/01_us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840405/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/16A60EE5F7E69CE20576C567D260F969E8CD8DD3.B14E0951EDB8A4D00257B58219E60C0D3BA56987/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840405/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/41F7DC9456C9F38B9CD8B5AEA9BC00B726F06FA2.25B9F229217733C337BD0DD93748F4CF7CCF1261/key/cms1/cms_redirect/yes/met/1783818811,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783818260/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854005/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/38838A845E17CC16C99C2D598656CF0C11D502C9.7CB0A76B4D07B57129C6EDBEA228296AA50A512C/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854005/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/44A6833AE0AA7928CA2DDD33A32721094733A50F.4D770DAA089D088FD2332C90DD1E9CD9F84C3F43/key/cms1/cms_redirect/yes/met/1783832411,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783832087/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/lZeN3gqK.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a539389_257fd93746f0b201d7340a663301392268ac42f6/sites/wPTWN2YS/media/lZeN3gqK/versions/DJChNdMr/manifest.ism/manifest-audio_0_P0NAIRnU_8hA2cIdr=112016-video_0_P0NAIRnU_IhqnLYaD=321939.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a539389_257fd93746f0b201d7340a663301392268ac42f6/sites/wPTWN2YS/media/lZeN3gqK/versions/DJChNdMr/manifest.ism/manifest-audio_0_P0NAIRnU_8hA2cIdr=112016-video_0_P0NAIRnU_IhqnLYaD=483760.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a53c845_89f85d1c399a252f5a677e20cce864b99a446baa/sites/wPTWN2YS/media/lZeN3gqK/versions/DJChNdMr/manifest.ism/manifest-audio_0_P0NAIRnU_8hA2cIdr=112016-video_0_P0NAIRnU_IhqnLYaD=321939.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a53c845_89f85d1c399a252f5a677e20cce864b99a446baa/sites/wPTWN2YS/media/lZeN3gqK/versions/DJChNdMr/manifest.ism/manifest-audio_0_P0NAIRnU_8hA2cIdr=112016-video_0_P0NAIRnU_IhqnLYaD=483760.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2650506-us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-12/01_us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-vi.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840405/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/16A60EE5F7E69CE20576C567D260F969E8CD8DD3.B14E0951EDB8A4D00257B58219E60C0D3BA56987/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854005/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/38838A845E17CC16C99C2D598656CF0C11D502C9.7CB0A76B4D07B57129C6EDBEA228296AA50A512C/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-12/02_so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840428/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/24DB1A6A4CFB82F21DA808F014C8F43437003F36.50ABD8BB27334F43D4E052E7B80C9DF316F7A4D9/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840428/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7BD432C7471700CC9F836BEB9DB57653A4CFF016.66F5422309BB74A68D76D05461F95543914BDBD0/key/cms1/cms_redirect/yes/met/1783818832,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783818260/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854028/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8D6502129721869375A37DD2BB185473E47DEDE6.2D62B1FC4D41F7C8EA690ECC5633D42FB9485798/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854028/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/30C9C390DAB68C2ED0D22B0154B2095121696936.72E75D43E8A08D694DEC45ADCDB2FD5A2558DB2C/key/cms1/cms_redirect/yes/met/1783832433,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783832087/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/08foPRdM.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5394b1_71d5663ba1146dfa2fd9bb63bde83df688b4527b/sites/wPTWN2YS/media/08foPRdM/versions/t4WRkGhZ/manifest.ism/manifest-audio_0_VsirgFrN_Acgz6CI8=112017-video_0_VsirgFrN_G1oEEiFN=787107.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a53c96d_40d3764086ab735646e0cb9cada2212b8a5f6fd2/sites/wPTWN2YS/media/08foPRdM/versions/t4WRkGhZ/manifest.ism/manifest-audio_0_VsirgFrN_Acgz6CI8=112017-video_0_VsirgFrN_G1oEEiFN=787107.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2650501-so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-12/02_so-happy-so-proud-saudi-s-hattan-alsaif-thrills-home-crowd-with-profes.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840428/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/24DB1A6A4CFB82F21DA808F014C8F43437003F36.50ABD8BB27334F43D4E052E7B80C9DF316F7A4D9/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854028/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8D6502129721869375A37DD2BB185473E47DEDE6.2D62B1FC4D41F7C8EA690ECC5633D42FB9485798/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-12/03_hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840467/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/68FC62194FE57301DAAD44F02D4B52B18768A8AC.77885027208754B2E53DDBD901CEA068B4F0B148/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840467/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/33DBC0A630892C0AE4E92E2A8D5B3C91E23913EC.20BD6221B878315D8B1CE0B273D623309A7BCD07/key/cms1/cms_redirect/yes/met/1783818871,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783818598/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854068/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B45202C279BCB82B680E6BB9481388909054E674.0883B04767D378E9E9F5C44809A416068F9A5A05/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854068/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3078C03F94B962E9629E1FB74AE4DA931F1E8B95.091DD8D85FC76BA3EA5F01079285726967E570D8/key/cms1/cms_redirect/yes/met/1783832474,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783831926/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/Ja3JCkjS.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a539677_c0ec4f436ed86afa4e1de9f7e69808cf89fca681/sites/wPTWN2YS/media/Ja3JCkjS/versions/CRV3qPP3/manifest.ism/manifest-audio_0_J54TgUtm_GlymKP6o=112031-video_0_J54TgUtm_w41Es4YM=957290.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a53cb33_92ed13af45b5ebe203828ce04f8ddd245d170f2b/sites/wPTWN2YS/media/Ja3JCkjS/versions/CRV3qPP3/manifest.ism/manifest-audio_0_J54TgUtm_GlymKP6o=112031-video_0_J54TgUtm_w41Es4YM=957290.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2650403-hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-12/03_hundreds-welcome-salah-s-egypt-home-after-best-world-cup-run.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840467/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/68FC62194FE57301DAAD44F02D4B52B18768A8AC.77885027208754B2E53DDBD901CEA068B4F0B148/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854068/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B45202C279BCB82B680E6BB9481388909054E674.0883B04767D378E9E9F5C44809A416068F9A5A05/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -314,24 +314,51 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit",
-        "url": "https://www.arabnews.com/node/2650579/middle-east",
-        "directory": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit",
+        "title": "US launches new round of strikes on Iran after IRGC attacks civilian vessel in Strait of Hormuz",
+        "url": "https://www.arabnews.com/node/2650581/middle-east",
+        "directory": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/metadata.json",
-          "content": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/content.md",
-          "text": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/metadata.json",
+          "content": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/content.md",
+          "text": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/image.jpg",
+          "image": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840506/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0EBAA34F26678098300F451B516CF376D1609D69.5A6C4A721166AECE5696C085071950F45C3444FD/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840506/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/251FEFAF7A94766B4F304B6CFFA33ECAF285663C.2B75C508174BC2308D4069E66F5C8B122B61C457/key/cms1/cms_redirect/yes/met/1783818910,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783818598/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854090/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8CDAB546141EA7D4CBCA6A7DE524D5B42692468E.861DDAFB98C5088F5366500FD4E459ED9022D8EF/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854090/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/097AF3D4249FEDCC2C7F35D071A329E080152680.2ABC166EE7C153D320170B9A8F66BC754CC9FC1A/key/cms1/cms_redirect/yes/met/1783832494,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783832087/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/image.jpg",
+          "path": "archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/12/4730448-1364662933.jpg?itok=UimF4qJr",
+          "contentType": "image/jpeg",
+          "bytes": 17333
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit",
+        "url": "https://www.arabnews.com/node/2650579/middle-east",
+        "directory": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/metadata.json",
+          "content": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/content.md",
+          "text": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854110/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1682699790FC9FE1DAD335092094C2ECA8495324.37EA7EE2133C2E75A4CED80655E552F9D1CA61A3/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854110/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5F7AB6C97A071E103E0F602AC399BAC83F100864.0F2EBF0D513F9EE293E2696C9314A66F0D78F050/key/cms1/cms_redirect/yes/met/1783832514,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783832087/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/12/4730444-1882378524.jpg?itok=NqcsZhDL",
           "contentType": "image/jpeg",
           "bytes": 25933
@@ -340,25 +367,25 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "Iran’s supreme leader pledges revenge for slain father and predecessor",
         "url": "https://www.arabnews.com/node/2650505/middle-east",
-        "directory": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor",
+        "directory": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/metadata.json",
-          "content": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/content.md",
-          "text": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/metadata.json",
+          "content": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/content.md",
+          "text": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/image.jpg",
+          "image": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840525/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9B191A0F7CCBA9F4D6D7DE1A1944D33ACF693BDC.9D48A13F236BB2FA8BDC17829ADE95C828443457/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840525/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/805D12298E23C5AC8AF4D0C0BBF423F56E66DB07.46A94DCC945C26D86AC937F8F4D91464734F7AA8/key/cms1/cms_redirect/yes/met/1783818929,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783818598/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854128/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4BD3DFA3713E3DB5DD3D352C026DE2D14C147FCF.7410DAB161211135405972909C8A82240C3CBA2A/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854128/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4C08C8A97CD7DAD72FE3C358A0DFFB56B6AED7B6.295F6AB98B1F8AB5C09F0F3F9B4014B24B37A989/key/cms1/cms_redirect/yes/met/1783832533,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783832391/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/image.jpg",
+          "path": "archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/11/4730240-2022013688.jpg?itok=onrSc5ID",
           "contentType": "image/jpeg",
           "bytes": 31697
@@ -367,55 +394,28 @@
       },
       {
         "group": "headlines",
-        "index": 2,
+        "index": 3,
         "title": "Iranian, Omani FMs discuss arrangements for safe passage ​through Hormuz Strait",
         "url": "https://www.arabnews.com/node/2650467/middle-east",
-        "directory": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz",
+        "directory": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/metadata.json",
-          "content": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/content.md",
-          "text": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/metadata.json",
+          "content": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/content.md",
+          "text": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/image.jpg",
+          "image": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840544/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/58B8876612C289F77179500974505815F7BB20FB.A8E9F4014BAA225D29FE9309157762DB1317C310/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840544/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/77A23096C52630CF24E518ED9E301DBB59AFA3CF.5C4200E0DA4678246D9251C310147B0FF0F59296/key/cms1/cms_redirect/yes/met/1783818948,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783818598/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854149/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/71B4A75B6640EDBCC0DACAE37B160C5B7A43425C.32D392CAEBA199BBB96EA45372FA083CDDE37813/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783854149/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1E925BCA593FDE116B3CDA927A4CDC55D5D6319B.51901DB853E07D179B95DED8BD06C6B6D39C43B8/key/cms1/cms_redirect/yes/met/1783832553,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783832087/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/image.jpg",
+          "path": "archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/11/4730284-1036857996.jpg?itok=LHlY8mwq",
           "contentType": "image/jpeg",
           "bytes": 29416
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
-        "index": 3,
-        "title": "US delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal",
-        "url": "https://www.arabnews.com/node/2650517/middle-east",
-        "directory": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/metadata.json",
-          "content": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/content.md",
-          "text": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840564/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4611B9F7798C9EF02BE97ACF946AD568849366FF.39D02AD1B3628D2D017D2599EA74CEBCF187B616/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783840564/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/82A344611F5972C20E5C7C715CEB4D1810EED88B.193AD401F2866124DA1250F29A9AB52E4FB75A19/key/cms1/cms_redirect/yes/met/1783818969,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783818598/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/11/4730270-1215902051.jpg?itok=J6U0yKPU",
-          "contentType": "image/jpeg",
-          "bytes": 55161
         },
         "video": null
       }

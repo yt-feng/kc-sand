@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-12T01:10:24.140Z
+Fetched at: 2026-07-12T04:56:54.617Z
 Target date: 2026-07-12 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-12 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit](https://www.arabnews.com/node/2650579/middle-east) - archive: archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/content.md
-2. [Iran’s supreme leader pledges revenge for slain father and predecessor](https://www.arabnews.com/node/2650505/middle-east) - archive: archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/content.md
-3. [Iranian, Omani FMs discuss arrangements for safe passage ​through Hormuz Strait](https://www.arabnews.com/node/2650467/middle-east) - archive: archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/content.md
-4. [US delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal](https://www.arabnews.com/node/2650517/middle-east) - archive: archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/content.md
+1. [US launches new round of strikes on Iran after IRGC attacks civilian vessel in Strait of Hormuz](https://www.arabnews.com/node/2650581/middle-east) - archive: archive/latest/headlines/01-2650581-us-launches-new-round-of-strikes-on-iran-after-irgc-attacks-civilian-v/content.md
+2. [Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit](https://www.arabnews.com/node/2650579/middle-east) - archive: archive/latest/headlines/02-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/content.md
+3. [Iran’s supreme leader pledges revenge for slain father and predecessor](https://www.arabnews.com/node/2650505/middle-east) - archive: archive/latest/headlines/03-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/content.md
+4. [Iranian, Omani FMs discuss arrangements for safe passage ​through Hormuz Strait](https://www.arabnews.com/node/2650467/middle-east) - archive: archive/latest/headlines/04-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/content.md

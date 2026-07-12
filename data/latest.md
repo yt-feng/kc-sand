@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-11T23:31:20.857Z
+Fetched at: 2026-07-12T01:10:24.140Z
 Target date: 2026-07-12 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-12 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iranian, Omani FMs discuss arrangements for safe passage ​through Hormuz Strait](https://www.arabnews.com/node/2650467/middle-east) - archive: archive/latest/headlines/01-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/content.md
-2. [US delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal](https://www.arabnews.com/node/2650517/middle-east) - archive: archive/latest/headlines/02-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/content.md
-3. [Gaza death toll rises to 73,221](https://www.arabnews.com/node/2650559/middle-east) - archive: archive/latest/headlines/03-2650559-gaza-death-toll-rises-to-73-221/content.md
-4. [King Salman issues royal decrees, appoints Prince Abdulaziz bin Salman as industry minister](https://www.arabnews.com/node/2650516/saudi-arabia) - archive: archive/latest/headlines/04-2650516-king-salman-issues-royal-decrees-appoints-prince-abdulaziz-bin-salman-/content.md
+1. [Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit](https://www.arabnews.com/node/2650579/middle-east) - archive: archive/latest/headlines/01-2650579-iran-declares-strait-of-hormuz-closed-as-unauthorized-vessel-hit/content.md
+2. [Iran’s supreme leader pledges revenge for slain father and predecessor](https://www.arabnews.com/node/2650505/middle-east) - archive: archive/latest/headlines/02-2650505-iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/content.md
+3. [Iranian, Omani FMs discuss arrangements for safe passage ​through Hormuz Strait](https://www.arabnews.com/node/2650467/middle-east) - archive: archive/latest/headlines/03-2650467-iranian-omani-fms-discuss-arrangements-for-safe-passage-through-hormuz/content.md
+4. [US delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal](https://www.arabnews.com/node/2650517/middle-east) - archive: archive/latest/headlines/04-2650517-us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal/content.md

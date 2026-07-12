@@ -16,8 +16,9 @@ TURMUS AYYA: US Democratic lawmaker Ro Khanna said he was detained by Israeli se
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/42c94844-c9bb-4f3a-a8b7-42037d030fce
+- blob:https://www.arabnews.com/a066f3bf-69a7-4094-b029-76138da33b06
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://982f3f03f2b5bf1117ccfdce342d3252.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe

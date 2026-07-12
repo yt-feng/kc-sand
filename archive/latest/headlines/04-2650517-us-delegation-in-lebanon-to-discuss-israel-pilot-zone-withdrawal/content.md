@@ -16,7 +16,7 @@ BEIRUT: A US military delegation met with Lebanon’s army in Beirut to discuss 
 
 ## Video Or Embed URLs
 
-- https://8345c30c52955e2746ece3c0f7f81902.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c6e1b35ac09b6b01aa89f1c5f935db9c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

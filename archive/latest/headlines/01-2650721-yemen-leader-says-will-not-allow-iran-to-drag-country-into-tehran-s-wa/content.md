@@ -16,9 +16,9 @@ RIYADH: The chairman of Yemen’s presidential leadership council vowed on Monda
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/adbd519a-3225-47ce-9a89-b96ec88f9633
+- blob:https://www.arabnews.com/f4e97bad-3642-4831-9df3-73c34e8f8b76
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://cb38eafdb17ddeb521177a6263bb480b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://8b70a0b7cd15bd1194419bbb96edfe50.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot

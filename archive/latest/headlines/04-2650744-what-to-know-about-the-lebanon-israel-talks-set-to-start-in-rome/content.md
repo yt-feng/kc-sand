@@ -16,7 +16,7 @@ BEIRUT: Lebanese negotiators are set to meet their Israeli counterparts in Rome 
 
 ## Video Or Embed URLs
 
-- https://675643b6be354fc1e61735d9f092b0bc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://be47faab34117f779b7d2825c101f601.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

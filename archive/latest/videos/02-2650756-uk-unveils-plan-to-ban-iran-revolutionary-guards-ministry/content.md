@@ -16,9 +16,9 @@ LONDON: The UK government announced plans on Monday to ban Iran’s Islamic Revo
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/45704602-857d-410d-b60d-223a5601bf87
+- blob:https://www.arabnews.com/cf7e6d0b-d4ef-4dd3-99cd-e529bc1dc6e5
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://e1c061da9c4da1c91b31291a0fbb86b0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://e6c51fce5f9dc9736ce285ccc63c1976.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot

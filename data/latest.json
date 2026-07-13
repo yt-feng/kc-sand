@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T21:03:52.942Z",
+  "fetchedAt": "2026-07-13T22:30:25.682Z",
   "targetDate": {
     "iso": "2026-07-14",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 101,
+    "itemCount": 100,
     "window": {
       "hours": 24,
-      "start": "2026-07-12T21:03:52.942Z",
-      "end": "2026-07-13T21:03:52.942Z",
+      "start": "2026-07-12T22:30:25.682Z",
+      "end": "2026-07-13T22:30:25.682Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-13T21:08:56.668Z",
+    "capturedAt": "2026-07-13T22:35:27.118Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-14",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-14/01_us-releases-video-of-first-sea-drone-strike-on-iran-port-facility.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998393/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/440CFE1E7032E03129377B7698206EC0C990DA3A.40259B24A15927B08D5E06EFAD8D5657343DAFA0/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998393/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/52C439BA90D4DBFA4CA36BD54607895819277673.18E8CD1D3019118A8E5025693D2A48866BF8F47B/key/cms1/cms_redirect/yes/met/1783976798,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783976469/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003581/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B36D09A6BC2CD469357D240EF636E55834CEAD8F.5786656BC4DBBEEE7339ED1E78E82D59B04BAC03/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003581/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/67D4037255BB67D658266FC128D12954557D70EC.5AEB2ED07F99D1EF1F51EC15B279055B8C990E61/key/cms1/cms_redirect/yes/met/1783981987,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783981698/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/soMZfYmD.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a55fcce_8afa11db88dafcb4b36883d52ae8281f46ed613c/sites/wPTWN2YS/media/soMZfYmD/versions/BGHf2jE8/manifest.ism/manifest-audio_0_QSHSRwN7_2myaPVbk=112011-video_0_QSHSRwN7_qasL2EH6=430995.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a55fcce_8afa11db88dafcb4b36883d52ae8281f46ed613c/sites/wPTWN2YS/media/soMZfYmD/versions/BGHf2jE8/manifest.ism/manifest-audio_0_QSHSRwN7_2myaPVbk=112011-video_0_QSHSRwN7_qasL2EH6=606955.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5611e6_aaa5a61daa0ccb55fb1650bb00d4c1111cafa59a/sites/wPTWN2YS/media/soMZfYmD/versions/BGHf2jE8/manifest.ism/manifest-audio_0_QSHSRwN7_2myaPVbk=112011-video_0_QSHSRwN7_qasL2EH6=430995.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5611e6_aaa5a61daa0ccb55fb1650bb00d4c1111cafa59a/sites/wPTWN2YS/media/soMZfYmD/versions/BGHf2jE8/manifest.ism/manifest-audio_0_QSHSRwN7_2myaPVbk=112011-video_0_QSHSRwN7_qasL2EH6=606955.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2650771-us-releases-video-of-first-sea-drone-strike-on-iran-port-facility/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-14/01_us-releases-video-of-first-sea-drone-strike-on-iran-port-facility.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998393/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/440CFE1E7032E03129377B7698206EC0C990DA3A.40259B24A15927B08D5E06EFAD8D5657343DAFA0/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003581/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B36D09A6BC2CD469357D240EF636E55834CEAD8F.5786656BC4DBBEEE7339ED1E78E82D59B04BAC03/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-14/02_uk-unveils-plan-to-ban-iran-revolutionary-guards-ministry.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998415/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1D704B12BD5469DCDC981A24981E7E57305A6434.5057B8D9E322E99964AAF5E6CF1FAAF0271E4FE3/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998415/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0BEFBF00DB6B651981CB6B500A8E2314E6FDA3C9.8288509B25A87965C73A5148AD3FEBA72C153CC8/key/cms1/cms_redirect/yes/met/1783976820,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783976469/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003605/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A675CA79664A82D7E826EC2198F29802A2737B52.1650735802880CAF29D1816475638CF634DE9272/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003605/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0CA03A2E2CCECB82CF8AD750F7CB966385B9B33E.06529E9697948C1673CE38EF4B0801FBC44A11DD/key/cms1/cms_redirect/yes/met/1783982011,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783981698/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/M9mhvdQz.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a55fcd2_a1e9d448d6fab5b48886e4aa7c8570c0d2151902/sites/wPTWN2YS/media/M9mhvdQz/versions/awyhbZJd/manifest.ism/manifest-audio_0_IQHsmXIR_GGzfyZ2E=112002-video_0_IQHsmXIR_UiC2lX3U=362994.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5611ea_8af6ad5b262ee6db016489c77e8f3f4aee458583/sites/wPTWN2YS/media/M9mhvdQz/versions/awyhbZJd/manifest.ism/manifest-audio_0_IQHsmXIR_GGzfyZ2E=112002-video_0_IQHsmXIR_UiC2lX3U=362994.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2650756-uk-unveils-plan-to-ban-iran-revolutionary-guards-ministry/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-14/02_uk-unveils-plan-to-ban-iran-revolutionary-guards-ministry.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998415/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1D704B12BD5469DCDC981A24981E7E57305A6434.5057B8D9E322E99964AAF5E6CF1FAAF0271E4FE3/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003605/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A675CA79664A82D7E826EC2198F29802A2737B52.1650735802880CAF29D1816475638CF634DE9272/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-14/03_eu-partners-launch-1-billion-scheme-to-help-gaza-recover-from-war.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998436/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/58641D06BB147B4D15F6D6C9879F50DC44354E3D.ACF8049BF3C6FFDAC7C21224722D3DB9791ED197/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998436/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/551C8627B752056BD3537FFF1BDD47294FD7B54C.224B18559D07C0A13BBFA7A5E997CFE686393C26/key/cms1/cms_redirect/yes/met/1783976841,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783976469/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003626/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/258CA68A70F411690813E475CB47D53B83EABA8B.714EE706A1BAE3177403260DD5A22DC9C64C3C7F/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003626/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/16B136DB1798DAA3A5C7ED07AA10424DC49689E7.51A7A157F653FBF9C941D32AAEF6825731BBC631/key/cms1/cms_redirect/yes/met/1783982031,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783981698/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/h25sRsAz.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a55fd27_0a4f77953087d1a4398482340fbe9b90eeded7a2/sites/wPTWN2YS/media/h25sRsAz/versions/f7s8ZYvQ/manifest.ism/manifest-audio_0_Nyl1RPth_T3bvMoK6=112006-video_0_Nyl1RPth_wrmIuHYy=423656.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a56123f_5590d1eb4d4eaaf99553d2fa59178951ab90e452/sites/wPTWN2YS/media/h25sRsAz/versions/f7s8ZYvQ/manifest.ism/manifest-audio_0_Nyl1RPth_T3bvMoK6=112006-video_0_Nyl1RPth_wrmIuHYy=423656.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2650716-eu-partners-launch-1-billion-scheme-to-help-gaza-recover-from-war/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-14/03_eu-partners-launch-1-billion-scheme-to-help-gaza-recover-from-war.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998436/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/58641D06BB147B4D15F6D6C9879F50DC44354E3D.ACF8049BF3C6FFDAC7C21224722D3DB9791ED197/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003626/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/258CA68A70F411690813E475CB47D53B83EABA8B.714EE706A1BAE3177403260DD5A22DC9C64C3C7F/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -327,10 +327,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998459/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0989B8ED2E719736287B2FA3DE0B5BD4D22DE3EE.01C995F424D9397AD465DAFDFA2269EC1DB7C09B/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998459/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1FFB12D216B730CB466162FA3D8D168E2329F130.3EFF16F6D6962AF809253208B5714EA17F7E94E8/key/cms1/cms_redirect/yes/met/1783976864,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783976469/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003649/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A823531C007D7BF16AC6580C7EE93EF0EF51977D.3BBBA2633B3649552081CDE44C862917585DDEC8/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003649/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/214FB9C2B32CE9958AB07C9DE69C38362A3143FF.5081A2C435776E789BE2A6A79449978E80E88E70/key/cms1/cms_redirect/yes/met/1783982054,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783981698/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/knlmkGcs.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a55ff88_551adf57b06a4a2822e4c37147a93b4074e59e6e/sites/wPTWN2YS/media/knlmkGcs/versions/63ChEDAn/manifest.ism/manifest-audio_0_uKfNNzHM_He236eCe=112073-video_0_uKfNNzHM_2vOB5Qve=283496.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a56111c_0d42d2be00051679ec28095ff6e9da0e3397694c/sites/wPTWN2YS/media/knlmkGcs/versions/63ChEDAn/manifest.ism/manifest-audio_0_uKfNNzHM_He236eCe=112073-video_0_uKfNNzHM_2vOB5Qve=283496.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2650721-yemen-leader-says-will-not-allow-iran-to-drag-country-into-tehran-s-wa/image.jpg",
@@ -356,10 +356,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998479/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7F3D643DD3ABFDD3725D8D15A4C389C5A013C934.1B50755A9F71D7C600D2C03092DA587BC0122BD2/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998479/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3FE132A4A1178426ED7F0C04460E94AC3C123656.66E0C923DB380C90F50D914F82714CB477E92B36/key/cms1/cms_redirect/yes/met/1783976884,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783976469/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003669/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5A91E8F7B72B4F27BEEEF5EF8AB1D31BB3114B9B.1E6BB708E4017D8A2A73CA611735E0DCFDAD335C/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003669/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/799B45870650A5F6E929EC6D63AE1FF5956AF003.4EDCD16CFEE84099C46BB42D388246DF0D7805AA/key/cms1/cms_redirect/yes/met/1783982075,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783981498/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/vy8TPFZB.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a55fe6d_a879564cd645e8c03652f36297b4436c92180b44/sites/wPTWN2YS/media/vy8TPFZB/versions/fFo6Bsjo/manifest.ism/manifest-audio_0_dLBYjGSf_qrdr6vIP=112004-video_0_dLBYjGSf_FNCFHDiC=437600.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a561385_8feda42bdbcca40f3b0e1db54c8834cb0394fc75/sites/wPTWN2YS/media/vy8TPFZB/versions/fFo6Bsjo/manifest.ism/manifest-audio_0_dLBYjGSf_qrdr6vIP=112004-video_0_dLBYjGSf_FNCFHDiC=437600.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2650734-a-vessel-at-the-strait-of-hormuz-as-seen-from-musandam-oman-july-13-20/image.jpg",
@@ -385,10 +385,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998498/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/73C199E2A788DBB448E7712B70E3B01668F4F236.40FB1A6B35AAB3DDC1C8A9335A1A5A2620A39A1A/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998498/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/80BB75951035C5585D6BB935A4A4C7EC04ACE27D.4457629043AB480109309321AA8F07DA400BC8C6/key/cms1/cms_redirect/yes/met/1783976905,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783976469/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003689/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9D1DBA6004A4C794272311692B171AA76D6A15B7.9251520CAC8A87B7C59762B1BA2CC4DF8463AA99/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003689/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6E3708760513CBF7A19CA97D1FF17F839DDE196B.44489AE82C779E4D93B4F418EB78D6F0C287E6F9/key/cms1/cms_redirect/yes/met/1783982096,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783981698/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/k40OpbHm.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a55fd13_fab07e860e2691bcfce64bef07bd947373c82233/sites/wPTWN2YS/media/k40OpbHm/versions/zvFK2w00/manifest.ism/manifest-audio_0_a9EfpUdu_fcIh47fg=112039-video_0_a9EfpUdu_ZdQmGp3h=250125.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a56122b_33d7a03ee94e6a41c749cd0f8295f8f616b946a6/sites/wPTWN2YS/media/k40OpbHm/versions/zvFK2w00/manifest.ism/manifest-audio_0_a9EfpUdu_fcIh47fg=112039-video_0_a9EfpUdu_ZdQmGp3h=250125.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2650687-iran-says-will-stop-complying-with-deal-if-us-does-not-honor-commitmen/image.jpg",
@@ -414,8 +414,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998520/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/74A89F55D5E1CCB895DCE4F94ED8C1AB8F082C63.72128E9D08528D44EDEAF6D93776E4AC635BCD14/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1783998520/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/08B86A624D9771C59EB72DD876A272D18493137B.63CF977A7EE8EAF3D1A0D7EAEAAAE09A3BD3B022/key/cms1/cms_redirect/yes/met/1783976924,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783976469/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003711/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6CD4746430AE29B25B0FB9231830DB61A259DAF2.7B8581CB9E380567484DBCC94C2136B8792D78E9/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784003711/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4EC78399DC747784976A062074CA82635426F22E.45C7D53067DDCA8CC0BA21D3AD59506BD75391CE/key/cms1/cms_redirect/yes/met/1783982116,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1783981713/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2650744-what-to-know-about-the-lebanon-israel-talks-set-to-start-in-rome/image.jpg",

@@ -16,11 +16,11 @@ BRUSSELS: The European Commission and more than a dozen countries launched an in
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/d2c6c4a4-0332-4b99-a2ee-40932d16d3bd
+- blob:https://www.arabnews.com/97961dba-b774-4bdc-bf8e-1acb32ae6852
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://8a1c0ca995abe0bb8ce7f5137a54e046.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://67a3e66b6df32ad15e48930a5504ffe8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650716%2Fmiddle-east

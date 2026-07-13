@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650734/middle-east
 Captured source: https://www.arabnews.com/node/2650734/middle-east
 Published: 2026-07-13T16:17:40+03:00
-Modified: 2026-07-13T22:28:31+03:00
+Modified: 2026-07-13T22:59:33+03:00
 Author: AFP
 
 ## Summary
@@ -16,12 +16,12 @@ WASHINGTON: President Donald Trump declared the return of a US naval blockade on
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/0f1a3136-4bdd-4f33-bb98-62ee75b67b63
+- blob:https://www.arabnews.com/0d3cba32-b26e-41df-bbdf-c35a085f9a0d
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://aaf0ebf576bb08cd54afeff3744f4fb1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b5d273437841529e59a88f9a6e97c807.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650734%2Fmiddle-east
 

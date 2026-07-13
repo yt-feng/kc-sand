@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650687/middle-east
 Captured source: https://www.arabnews.com/node/2650687/middle-east
 Published: 2026-07-13T13:36:36+03:00
-Modified: 2026-07-13T13:55:11+03:00
+Modified: 2026-07-13T22:59:03+03:00
 Author: AFP
 
 ## Summary
@@ -16,9 +16,9 @@ MANAMA/TEHRAN: Iran on Monday said it would no longer abide by the memorandum of
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/8875097c-c687-4612-bdeb-be2569f26ee2
+- blob:https://www.arabnews.com/24e13e9b-0fb4-4715-a1b3-fee21e9574d9
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://4eb1248756fad7498d310b17f0358770.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f5bff05ce0500cf8b02de4d780149b13.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe

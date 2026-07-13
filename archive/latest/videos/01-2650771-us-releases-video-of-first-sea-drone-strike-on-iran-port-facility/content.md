@@ -16,18 +16,18 @@ LONDON: US forces used sea drones to strike a submarine and ship maintenance fac
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/ab3175cd-8b1e-4b8a-9fd9-8368ab854ed4
+- blob:https://www.arabnews.com/35d1ee11-3bd5-4596-9c70-aa35c73e8a83
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://f8054025865d06c1ec0c59c18a1809e8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://4af1e1073d9a2347471bf9708e222fa9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650771%2Fmiddle-east
 
 ## Downloaded Video
 
-- [01_us-releases-video-of-first-sea-drone-strike-on-iran-port-facility.mp4](../../../rendered-clips/2026-07-13/01_us-releases-video-of-first-sea-drone-strike-on-iran-port-facility.mp4)
+- [01_us-releases-video-of-first-sea-drone-strike-on-iran-port-facility.mp4](../../../rendered-clips/2026-07-14/01_us-releases-video-of-first-sea-drone-strike-on-iran-port-facility.mp4)
 
 ## Text
 

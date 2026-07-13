@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-13T19:38:22.032Z
-Target date: 2026-07-13 (Asia/Riyadh)
+Fetched at: 2026-07-13T21:03:52.942Z
+Target date: 2026-07-14 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [US releases video of first sea drone strike on Iran port facility](https://www.arabnews.com/node/2650771/middle-east) - archive: archive/latest/videos/01-2650771-us-releases-video-of-first-sea-drone-strike-on-iran-port-facility/content.md
-2. [EU, partners launch $1 billion scheme to help Gaza recover from war](https://www.arabnews.com/node/2650716/middle-east) - archive: archive/latest/videos/02-2650716-eu-partners-launch-1-billion-scheme-to-help-gaza-recover-from-war/content.md
-3. [Trump declares Iran blockade back, says US will charge Hormuz fees](https://www.arabnews.com/node/2650734/middle-east) - archive: archive/latest/videos/03-2650734-trump-declares-iran-blockade-back-says-us-will-charge-hormuz-fees/content.md
+1. [US releases video of first sea drone strike on Iran port facility](https://www.arabnews.com/node/2650771/middle-east) - section: US releases video of first sea drone strike on Iran port facility 13 July 2026 - archive: archive/latest/videos/01-2650771-us-releases-video-of-first-sea-drone-strike-on-iran-port-facility/content.md
+2. [UK unveils plan to ban Iran Revolutionary Guards: ministry](https://www.arabnews.com/node/2650756/middle-east) - archive: archive/latest/videos/02-2650756-uk-unveils-plan-to-ban-iran-revolutionary-guards-ministry/content.md
+3. [EU, partners launch $1 billion scheme to help Gaza recover from war](https://www.arabnews.com/node/2650716/middle-east) - archive: archive/latest/videos/03-2650716-eu-partners-launch-1-billion-scheme-to-help-gaza-recover-from-war/content.md
 
 ## Homepage Top Headlines
 

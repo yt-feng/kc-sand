@@ -2,8 +2,8 @@
 
 Source: https://www.arabnews.com/node/2650675/world
 Captured source: https://www.arabnews.com/node/2650675/world
-Published: 2026-07-13T02:05:58+03:00
-Modified: 2026-07-13T03:23:10+03:00
+Published: 2026-07-13T10:15:58+03:00
+Modified: 2026-07-13T10:18:20+03:00
 Author: AP
 
 ## Summary
@@ -16,13 +16,14 @@ BANGKOK: A huge fire engulfed a pub in Bangkok early on Monday morning, killing 
 
 ## Video Or Embed URLs
 
-- https://www.youtube.com/embed/pus4O0tow2g?si=hZo2xPnZzWWAgTaO
-- https://2886c7c979c6e8ef5cb5be7667e4157d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
-- about:blank
-- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
+- blob:https://www.arabnews.com/e5d9bf35-3ad5-429b-96ca-064b7517ae4e
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://www.youtube.com/embed/pus4O0tow2g?si=hZo2xPnZzWWAgTaO
+- https://c8018e2c348abf4367825e6c99442bcc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650675%2Fworld
 

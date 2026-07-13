@@ -16,9 +16,9 @@ NEW DELHI: Every Sunday morning, a one-of-a-kind colorful maze takes shape near 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/8ef4fd1b-d491-4e2d-b61f-ea3fe279aebf
+- blob:https://www.arabnews.com/dece3d6a-dea9-4d04-bcc4-558ce866ef77
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://54109c4b0d12bf98aaa4c82d68f6eaa6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://d7342fc140fa7bf8910bcc7b1e555675.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ NEW DELHI: Every Sunday morning, a one-of-a-kind colorful maze takes shape near 
 
 ## Downloaded Video
 
-- [01_people-search-through-volumes-of-secondhand-books-at-sunday-s-market-i.mp4](../../../rendered-clips/2026-07-13/01_people-search-through-volumes-of-secondhand-books-at-sunday-s-market-i.mp4)
+- [02_how-decades-old-sunday-book-market-shapes-delhi-s-reading-habits.mp4](../../../rendered-clips/2026-07-13/02_how-decades-old-sunday-book-market-shapes-delhi-s-reading-habits.mp4)
 
 ## Text
 

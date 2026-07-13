@@ -16,9 +16,9 @@ TEHRAN: Fresh attacks rocked Iran on Sunday evening as Tehran and Washington squ
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/f1e51255-d1bd-4333-9816-20a0a594c9bb
+- blob:https://www.arabnews.com/0c99d13c-b1a4-4a43-b0fc-b45366a7bc7e
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://d622a12eef5a0e07e86755500e47c500.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://120e01815311818a1d14c3324005d748.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot
@@ -27,7 +27,7 @@ TEHRAN: Fresh attacks rocked Iran on Sunday evening as Tehran and Washington squ
 
 ## Downloaded Video
 
-- [02_fresh-attacks-hit-iran-as-tehran-and-us-square-off-over-hormuz.mp4](../../../rendered-clips/2026-07-13/02_fresh-attacks-hit-iran-as-tehran-and-us-square-off-over-hormuz.mp4)
+- [03_fresh-attacks-hit-iran-as-tehran-and-us-square-off-over-hormuz.mp4](../../../rendered-clips/2026-07-13/03_fresh-attacks-hit-iran-as-tehran-and-us-square-off-over-hormuz.mp4)
 
 ## Text
 

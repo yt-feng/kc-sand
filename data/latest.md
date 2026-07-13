@@ -1,19 +1,19 @@
 # Arab News Latest
 
-Fetched at: 2026-07-13T01:09:47.048Z
+Fetched at: 2026-07-13T05:04:43.714Z
 Target date: 2026-07-13 (Asia/Riyadh)
 
 ## Latest Videos
 
 1. [Fire breaks out at a pub in Bangkok, killing at least 27 people](https://www.arabnews.com/node/2650675/world) - section: Fire breaks out at a pub in Bangkok, killing at least 27 people 13 July 2026 - archive: archive/latest/videos/01-2650675-fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people/content.md
-2. [How decades-old Sunday book market shapes Delhi’s reading habits](https://www.arabnews.com/node/2650637/world) - archive: archive/latest/videos/02-2650637-how-decades-old-sunday-book-market-shapes-delhi-s-reading-habits/content.md
-3. [Fresh attacks hit Iran as Tehran and US square off over Hormuz](https://www.arabnews.com/node/2650633/middle-east) - archive: archive/latest/videos/03-2650633-fresh-attacks-hit-iran-as-tehran-and-us-square-off-over-hormuz/content.md
+2. [US says completed strikes on dozens of Iranian targets](https://www.arabnews.com/node/2650673/middle-east) - archive: archive/latest/videos/02-2650673-us-says-completed-strikes-on-dozens-of-iranian-targets/content.md
+3. [How decades-old Sunday book market shapes Delhi’s reading habits](https://www.arabnews.com/node/2650637/world) - archive: archive/latest/videos/03-2650637-how-decades-old-sunday-book-market-shapes-delhi-s-reading-habits/content.md
 
 ## Homepage Top Headlines
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [More than 10 projectiles struck Iran’s Qeshm Island in the strategic Strait of Hormuz on Sunday. (File/AFP)](https://www.arabnews.com/node/2650633/middle-east) - archive: archive/latest/headlines/01-2650633-more-than-10-projectiles-struck-iran-s-qeshm-island-in-the-strategic-s/content.md
+1. [US says completed strikes on dozens of Iranian targets](https://www.arabnews.com/node/2650673/middle-east) - archive: archive/latest/headlines/01-2650673-us-says-completed-strikes-on-dozens-of-iranian-targets/content.md
 2. [Video grab taken from UGC images posted on social media on July 12, 2026, shows heavy smoke billowing in Abdali.](https://www.arabnews.com/node/2650645/middle-east) - archive: archive/latest/headlines/02-2650645-video-grab-taken-from-ugc-images-posted-on-social-media-on-july-12-202/content.md
 3. [Oman says 23 rescued, one missing after vessel attacked off coast](https://www.arabnews.com/node/2650630/middle-east) - archive: archive/latest/headlines/03-2650630-oman-says-23-rescued-one-missing-after-vessel-attacked-off-coast/content.md
 4. [Iraqi prime minister to visit Washington on Monday; oil and gas deals expected](https://www.arabnews.com/node/2650611/middle-east) - archive: archive/latest/headlines/04-2650611-iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-e/content.md

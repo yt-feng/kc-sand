@@ -16,7 +16,7 @@ KUWAIT CITY: Kuwait’s defense ministry said on Sunday that three border posts 
 
 ## Video Or Embed URLs
 
-- https://880565ce66cd1237c0f2153afeb4e780.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://252293dd92ec84cbefde7082c45406fe.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

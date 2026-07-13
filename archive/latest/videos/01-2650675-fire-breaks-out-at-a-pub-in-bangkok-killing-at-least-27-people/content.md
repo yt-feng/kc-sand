@@ -17,9 +17,10 @@ BANGKOK: A huge fire engulfed a pub in Bangkok early on Monday morning, killing 
 ## Video Or Embed URLs
 
 - https://www.youtube.com/embed/pus4O0tow2g?si=hZo2xPnZzWWAgTaO
-- https://90eaa419baff98ee69e929338619b761.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2886c7c979c6e8ef5cb5be7667e4157d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe

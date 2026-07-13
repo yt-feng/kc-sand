@@ -16,7 +16,7 @@ MUSCAT: Oman said Sunday it had rescued 23 crew members from a commercial ship w
 
 ## Video Or Embed URLs
 
-- https://50822e5990a5eaeb6e98e36fb344c7f8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://fd5e0a3f87e1e32e708bbb810298973f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

@@ -16,9 +16,9 @@ MANAMA/TEHRAN: Iran on Monday said it would no longer abide by the memorandum of
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/0310121d-f2a6-4cc6-a6a0-1b32a91c227f
+- blob:https://www.arabnews.com/d2198e87-f6c5-4b70-9fe9-48193c23f52f
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://9dc2166ab640b44ccebfce4ab418f639.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://3e734cd8ad3514803580efa4e20fa4e8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe

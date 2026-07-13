@@ -16,18 +16,19 @@ LONDON: The UK government announced plans on Monday to ban Iran’s Islamic Revo
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/cf7e6d0b-d4ef-4dd3-99cd-e529bc1dc6e5
+- blob:https://www.arabnews.com/fc657ad5-cb8c-4326-a601-eecdd45c536c
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://e6c51fce5f9dc9736ce285ccc63c1976.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://4a16709e454b25a317cfaf346ca9fed0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650756%2Fmiddle-east
 
 ## Downloaded Video
 
-- [02_uk-unveils-plan-to-ban-iran-revolutionary-guards-ministry.mp4](../../../rendered-clips/2026-07-14/02_uk-unveils-plan-to-ban-iran-revolutionary-guards-ministry.mp4)
+- [03_uk-unveils-plan-to-ban-iran-revolutionary-guards-ministry.mp4](../../../rendered-clips/2026-07-14/03_uk-unveils-plan-to-ban-iran-revolutionary-guards-ministry.mp4)
 
 ## Text
 

@@ -16,11 +16,11 @@ SINGAPORE/TEHRAN: Iran on Monday fired “warning shots” at two ships attempti
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/0fd075fb-ce6b-4d89-9133-b1f828965f05
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
-- https://81d19b3d416c1e0ab5dbc54a0d4b98e3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- blob:https://www.arabnews.com/7c2c91d3-afdd-496b-8c15-5e2d32c3e1a7
+- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
+- https://1fc5a84bc15a49ed473229e32aad1836.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650698%2Fmiddle-east
 

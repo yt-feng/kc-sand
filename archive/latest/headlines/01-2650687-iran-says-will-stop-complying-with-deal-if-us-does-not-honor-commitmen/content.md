@@ -16,17 +16,13 @@ MANAMA/TEHRAN: Iran on Monday said it would no longer abide by the memorandum of
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/0310121d-f2a6-4cc6-a6a0-1b32a91c227f
+- blob:https://www.arabnews.com/18239b69-ec4d-4cc3-a5d7-6f7df3a56dec
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://9dc2166ab640b44ccebfce4ab418f639.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://bf0eb3db82ffa626ec357d6f2686b086.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650687%2Fmiddle-east
-
-## Downloaded Video
-
-- [03_iran-says-will-stop-complying-with-deal-if-us-does-not-honor-commitmen.mp4](../../../rendered-clips/2026-07-13/03_iran-says-will-stop-complying-with-deal-if-us-does-not-honor-commitmen.mp4)
 
 ## Text
 

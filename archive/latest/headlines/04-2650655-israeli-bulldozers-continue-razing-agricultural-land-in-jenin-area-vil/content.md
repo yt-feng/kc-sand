@@ -16,10 +16,10 @@ JENIN: Israeli bulldozers continued on Sunday to raze agricultural land in the v
 
 ## Video Or Embed URLs
 
-- https://6fe9d248f3292749d02f676617d1cf3b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://df410c4d3c0fb321ef67e8453faf6de8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html
+- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650655%2Fmiddle-east
 

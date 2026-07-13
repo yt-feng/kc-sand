@@ -16,7 +16,7 @@ JERUSALEM: Israel ‌is set to hold a national election on October 27, according
 
 ## Video Or Embed URLs
 
-- https://8fabda66acf040d50ed569168b39837e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2a1eb5c17ddce6287ccd2d15e59f4e60.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.774.0_en.html

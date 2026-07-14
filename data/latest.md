@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-14T09:09:38.452Z
+Fetched at: 2026-07-14T11:09:42.925Z
 Target date: 2026-07-14 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [US launches attacks on Iran as Tehran retaliates against UAE tankers in Strait of Hormuz and Bahrain](https://www.arabnews.com/node/2650789/middle-east) - archive: archive/latest/videos/01-2650789-us-launches-attacks-on-iran-as-tehran-retaliates-against-uae-tankers-i/content.md
-2. [Messi takes on England for a place in the World Cup final](https://www.arabnews.com/node/2650800/sport) - archive: archive/latest/videos/02-2650800-messi-takes-on-england-for-a-place-in-the-world-cup-final/content.md
-3. [Brazil’s Lula calls US plan for Hormuz fee ‘piracy’](https://www.arabnews.com/node/2650804/world) - archive: archive/latest/videos/03-2650804-brazil-s-lula-calls-us-plan-for-hormuz-fee-piracy/content.md
+1. [EU scrambles to seal new Russia sanctions as deadline looms](https://www.arabnews.com/node/2650829/world) - archive: archive/latest/videos/01-2650829-eu-scrambles-to-seal-new-russia-sanctions-as-deadline-looms/content.md
+2. [Lebanon and Israel hold talks in Rome amid renewed Mideast fighting](https://www.arabnews.com/node/2650820/middle-east) - archive: archive/latest/videos/02-2650820-lebanon-and-israel-hold-talks-in-rome-amid-renewed-mideast-fighting/content.md
+3. [US launches attacks on Iranian coastal cities as Iran retaliates across region](https://www.arabnews.com/node/2650789/middle-east) - archive: archive/latest/videos/03-2650789-us-launches-attacks-on-iranian-coastal-cities-as-iran-retaliates-acros/content.md
 
 ## Homepage Top Headlines
 

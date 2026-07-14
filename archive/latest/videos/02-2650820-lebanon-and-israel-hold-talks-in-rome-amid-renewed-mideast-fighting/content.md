@@ -16,15 +16,18 @@ BEIRUT: Lebanon and Israel are holding new negotiations under US auspices in Rom
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/21155187-5eb0-48e3-bb1b-cbc80e78e6f4
+- blob:https://www.arabnews.com/ee02e44e-bb9f-4e7d-84f0-fdbc12303e9e
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://a7930db0e64cf5e96ad7e3e35591e374.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://2a531f43fabf717ad59f90c8bd5a8d27.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://sync.teads.tv/wigo-no-slot
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650820%2Fmiddle-east
+
+## Downloaded Video
+
+- [02_lebanon-and-israel-hold-talks-in-rome-amid-renewed-mideast-fighting.mp4](../../../rendered-clips/2026-07-14/02_lebanon-and-israel-hold-talks-in-rome-amid-renewed-mideast-fighting.mp4)
 
 ## Text
 

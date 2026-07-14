@@ -1,14 +1,14 @@
-# US launches attacks on Iran as Tehran retaliates against UAE tankers in Strait of Hormuz and Bahrain
+# US launches attacks on Iranian coastal cities as Iran retaliates across region
 
 Source: https://www.arabnews.com/node/2650789/middle-east
 Captured source: https://www.arabnews.com/node/2650789/middle-east
 Published: 2026-07-14T11:37:01+03:00
-Modified: 2026-07-14T11:41:03+03:00
-Author: AP
+Modified: 2026-07-14T13:24:07+03:00
+Author: Arab News
 
 ## Summary
 
-DUBAI, United Arab Emirates: The US launched strikes on Iran early Tuesday morning, hours after President Donald Trump said Washington is “reinstating” a blockade on Iran in the Strait of Hormuz. Trump separately suggested the United States will charge other ships for safe passage, upending hundreds of years of American policy supporting freedom of navigation across the globe.
+DUBAI, United Arab Emirates: Iranian state media reported explosions in Iran’s coastal gulf cities of Bushehr, Choghadak and Bandar Abbas on Tuesday as the US seemingly continued its assualt on the country. IRNA reported that four areas of Iran’s Bushehr city had been hit by US projectiles, and that residents had reported hearing explosions in Iran’s Bushehr and Choghadaк. 5
 
 ## Image
 
@@ -16,9 +16,9 @@ DUBAI, United Arab Emirates: The US launched strikes on Iran early Tuesday morni
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/62f09830-fad5-4aea-aa44-173b6b11f592
+- blob:https://www.arabnews.com/3ed343ba-1a4c-46f2-a29f-e2be7ee4f3fb
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://420039526ee94de6beb42607a3fd3680.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://6ce5ffff30d69adb88e52066e1ca4e70.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,13 +26,23 @@ DUBAI, United Arab Emirates: The US launched strikes on Iran early Tuesday morni
 
 ## Downloaded Video
 
-- [01_us-launches-attacks-on-iran-as-tehran-retaliates-against-uae-tankers-i.mp4](../../../rendered-clips/2026-07-14/01_us-launches-attacks-on-iran-as-tehran-retaliates-against-uae-tankers-i.mp4)
+- [03_us-launches-attacks-on-iranian-coastal-cities-as-iran-retaliates-acros.mp4](../../../rendered-clips/2026-07-14/03_us-launches-attacks-on-iranian-coastal-cities-as-iran-retaliates-acros.mp4)
 
 ## Text
 
 https://arab.news/mywn9
 
-DUBAI, United Arab Emirates: The US launched strikes on Iran early Tuesday morning, hours after President Donald Trump said Washington is “reinstating” a blockade on Iran in the Strait of Hormuz.
+The US launched strikes on Iran early Tuesday morning, hours after President Donald Trump said Washington is “reinstating” a blockade on Iran in the Strait of Hormuz
+
+Iran responded with attacks targeting Bahrain and two tankers associated with the United Arab Emirates traveling through the strait, killing one mariner and wounding eight others
+
+DUBAI, United Arab Emirates: Iranian state media reported explosions in Iran’s coastal gulf cities of Bushehr, Choghadak and Bandar Abbas on Tuesday as the US seemingly continued its assualt on the country.
+
+IRNA reported that four areas of Iran’s Bushehr city had been hit by US projectiles, and that residents had reported hearing explosions in Iran’s Bushehr and Choghadaк.
+
+5 explosions were also reprotedly heard west of Iran’s Bandar Abbas.
+
+The US launched strikes on Iran early Tuesday morning, hours after President Donald Trump said Washington is “reinstating” a blockade on Iran in the Strait of Hormuz.
 
 Trump separately suggested the United States will charge other ships for safe passage, upending hundreds of years of American policy supporting freedom of navigation across the globe. Iran responded with attacks targeting Bahrain and two tankers associated with the United Arab Emirates traveling through the strait, killing one mariner and wounding eight others. The Emirates threatened to retaliate against Iran, potentially drawing the nation home to Abu Dhabi and Dubai back into fighting with Tehran.
 

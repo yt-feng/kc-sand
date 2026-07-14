@@ -16,12 +16,11 @@ DUBAI, United Arab Emirates: Iranian state media reported explosions in Iran’s
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/164d0261-b6f7-4a19-9811-c0b53a504390
+- blob:https://www.arabnews.com/dd887ebe-b266-4e21-b391-ae97f46b7c12
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://c9c9f3c7ccc7d44444804701e9ff2dbf.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://31d95b5090473c6a323e10d650b6cee4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
-- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650789%2Fmiddle-east
 

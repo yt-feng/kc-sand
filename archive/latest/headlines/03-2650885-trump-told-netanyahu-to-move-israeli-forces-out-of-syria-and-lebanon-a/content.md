@@ -16,12 +16,12 @@ WASHINGTON: US President ​Donald Trump told Israeli Prime Minister ‌Benjamin
 
 ## Video Or Embed URLs
 
-- https://ff8b4a325a4c7f377965a5dbe41ba7f9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://7d756803732cc096fe7a35edb25d6fdc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650885%2Fmiddle-east
 
 ## Text

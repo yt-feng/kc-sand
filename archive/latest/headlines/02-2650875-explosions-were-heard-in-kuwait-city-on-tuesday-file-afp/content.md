@@ -1,14 +1,14 @@
-# Blasts heard in Kuwait, air raid sirens sounded in Bahrain
+# Kuwait says Iranian attacks hit navy vessel, injuring four troops
 
 Source: https://www.arabnews.com/node/2650875/middle-east
 Captured source: https://www.arabnews.com/node/2650875/middle-east
 Published: 2026-07-14T19:16:41+03:00
-Modified: 2026-07-14T20:37:18+03:00
+Modified: 2026-07-14T22:32:49+03:00
 Author: AFP
 
 ## Summary
 
-KUWAIT CITY: Explosions were heard in Kuwait City on Tuesday, an AFP journalist reported, as the Gulf nation’s army announced for the second time in less than half an hour that it was intercepting “hostile” targets. “The General Staff of the Kuwait Armed Forces announces that any explosions are the result of the Air Defense systems intercepting hostile attacks,” the army said
+KUWAIT CITY: Kuwait’s military said on Tuesday ​that one of its navy vessels was targeted in what it described ‌as Iranian attacks, ‌injuring ​four ‌armed ⁠forces ​personnel, Kuwait’s army ⁠said in a statement. The injured personnel received medical ⁠treatment and were ‌in stable ‌condition, ​the ‌statement added. Kuwait’s ‌armed forces had detected and intercepted one
 
 ## Image
 
@@ -16,20 +16,23 @@ KUWAIT CITY: Explosions were heard in Kuwait City on Tuesday, an AFP journalist 
 
 ## Video Or Embed URLs
 
-- https://22368b3b4851f898df6011e8e993bf6f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://afc9639892226d39d5c59e95691c2a4f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650875%2Fmiddle-east
 
 ## Text
 
 https://arab.news/7nsan
 
-KUWAIT CITY: Explosions were heard in Kuwait City on Tuesday, an AFP journalist reported, as the Gulf nation’s army announced for the second time in less than half an hour that it was intercepting “hostile” targets. “The General Staff of the Kuwait Armed Forces announces that any explosions are the result of the Air Defense systems intercepting hostile attacks,” the army said in its statements, without providing further details.
+Air raid sirens were sounded in Bahrain on Tuesday, interior ministry said, after Manama announced it had intercepted several Iranian attacks earlier in the day
 
-There were no immediate details or reports of casualties or damage from Tuesday’s attack on Kuwait.
+KUWAIT CITY: Kuwait’s military said on Tuesday ​that one of its navy vessels was targeted in what it described ‌as Iranian attacks, ‌injuring ​four ‌armed ⁠forces ​personnel, Kuwait’s army ⁠said in a statement. The injured personnel received medical ⁠treatment and were ‌in stable ‌condition, ​the ‌statement added. Kuwait’s ‌armed forces had detected and intercepted one ballistic missile, ‌five cruise missiles and 33 ⁠drones ⁠on Tuesday’s attacks, which targeted several vital and civilian facilities, with falling debris causing material damage.
+
+Earlier, explosions were heard in Kuwait City on Tuesday, an AFP journalist reported, as the Gulf nation’s army announced for the second time in less than half an hour that it was intercepting “hostile” targets. “The General Staff of the Kuwait Armed Forces announces that any explosions are the result of the Air Defense systems intercepting hostile attacks,” the army said in its statements.
 
 Meanwhile, air raid sirens were sounded in Bahrain on Tuesday, the interior ministry said, after Manama announced it had intercepted several Iranian attacks earlier in the day. “The siren has been sounded ... Citizens and residents are urged to remain calm and head to the nearest safe place,” the interior ministry said in a statement posted on social media.
 

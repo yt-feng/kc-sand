@@ -16,9 +16,9 @@ BEIRUT/JESUSALEM: Israel’s foreign minister said Tuesday he expected ongoing t
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/88534874-5a04-49b5-87bc-801e288570c1
+- blob:https://www.arabnews.com/9408d17a-bef3-4feb-b4c2-195a32770772
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://41227a53218d2f40c17f0d9b72ec02ac.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://567f84f0b5014cc486b59b309ac49eca.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html

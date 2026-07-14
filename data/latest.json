@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T12:49:54.464Z",
+  "fetchedAt": "2026-07-14T14:59:44.597Z",
   "targetDate": {
     "iso": "2026-07-14",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 113,
+    "itemCount": 110,
     "window": {
       "hours": 24,
-      "start": "2026-07-13T12:49:54.464Z",
-      "end": "2026-07-14T12:49:54.464Z",
+      "start": "2026-07-13T14:59:44.597Z",
+      "end": "2026-07-14T14:59:44.597Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-14T12:54:50.172Z",
+    "capturedAt": "2026-07-14T15:04:57.202Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-14",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-14/01_saudi-arabia-indonesia-step-up-cooperation-in-aviation-urban-transport.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055152/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6F913DBE1106EF4B329884BE07C349760C59C09E.2A32C1EFA5A90E7D380F5FCAEEEDE2EDAD391DE7/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055152/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/256BB98F68992FB5FD04EA8594C7D0D12FE0D3DE.040B57479EE99686F61900209622AC6BAD9D4E10/key/cms1/cms_redirect/yes/met/1784033557,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784033256/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784062950/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AEB896BFEAFBF1CADA86AD5699245B34F91AF22F.A8147298AF2669D03B71D755E671B05712FAB18A/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784062950/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7F8D070BEF61E715F4A6151FB2F19FE00B2A1731.4E8F2F902FAA956BC34932E7ED771CF07964C4AE/key/cms1/cms_redirect/yes/met/1784041355,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784040882/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/gYuUbdJt.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a56dcbb_5475723df20c51d690a7a8735b0295e706b60bef/sites/wPTWN2YS/media/gYuUbdJt/versions/uJOiQYQL/manifest.ism/manifest-audio_0_rVD7oMWr_Z8M6pumo=112041-video_0_rVD7oMWr_DBJwpDnr=405358.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a56dcbb_5475723df20c51d690a7a8735b0295e706b60bef/sites/wPTWN2YS/media/gYuUbdJt/versions/uJOiQYQL/manifest.ism/manifest-audio_0_rVD7oMWr_Z8M6pumo=112041-video_0_rVD7oMWr_DBJwpDnr=441469.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a56f8db_e7e003d42a4394dc6c65745bd77be6ae3e37df89/sites/wPTWN2YS/media/gYuUbdJt/versions/uJOiQYQL/manifest.ism/manifest-audio_0_rVD7oMWr_Z8M6pumo=112041-video_0_rVD7oMWr_DBJwpDnr=405358.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a56f8db_e7e003d42a4394dc6c65745bd77be6ae3e37df89/sites/wPTWN2YS/media/gYuUbdJt/versions/uJOiQYQL/manifest.ism/manifest-audio_0_rVD7oMWr_Z8M6pumo=112041-video_0_rVD7oMWr_DBJwpDnr=441469.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2650841-saudi-arabia-indonesia-step-up-cooperation-in-aviation-urban-transport/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-14/01_saudi-arabia-indonesia-step-up-cooperation-in-aviation-urban-transport.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055152/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6F913DBE1106EF4B329884BE07C349760C59C09E.2A32C1EFA5A90E7D380F5FCAEEEDE2EDAD391DE7/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784062950/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AEB896BFEAFBF1CADA86AD5699245B34F91AF22F.A8147298AF2669D03B71D755E671B05712FAB18A/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-14/02_indian-seafarer-death-toll-from-us-iranian-attacks-in-hormuz-rises-to-.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055173/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0A2246729E9F78EFF8959655BE242C65C094EA69.93D3ED0BC706753672C711234A1D9B5657F5C47E/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055173/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/114A4EACB12A4BFDAE62D2CCA7E5F6B57AABB63F.09D2A1C6F4E1E0778F0C3D4376F1B7293659987E/key/cms1/cms_redirect/yes/met/1784033578,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784033256/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784062973/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3D231BA4CFAC315C8AF5580FF2E48F35AEC009F7.516425531364B7F8A92701AAE848FF57C715C2E6/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784062973/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7EEE1C332A196B0ADE0902D37294A2100ED150F3.1ED9EFAEE2878784B0D36FD9D2A892B1CAF1BB90/key/cms1/cms_redirect/yes/met/1784041378,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784040882/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/O2OiPkN6.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a56dbc0_552eab721b8dc3c38c265a56665f26eb7df32376/sites/wPTWN2YS/media/O2OiPkN6/versions/AZ86VgUz/manifest.ism/manifest-audio_0_QXG5laNk_WQNBmP6F=112000-video_0_QXG5laNk_WPrxae9p=728780.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a56fb64_3de150350201592a60519627dff52cfc3e7edcd1/sites/wPTWN2YS/media/O2OiPkN6/versions/AZ86VgUz/manifest.ism/manifest-audio_0_QXG5laNk_WQNBmP6F=112000-video_0_QXG5laNk_WPrxae9p=728780.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2650840-indian-seafarer-death-toll-from-us-iranian-attacks-in-hormuz-rises-to-/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-14/02_indian-seafarer-death-toll-from-us-iranian-attacks-in-hormuz-rises-to-.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055173/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0A2246729E9F78EFF8959655BE242C65C094EA69.93D3ED0BC706753672C711234A1D9B5657F5C47E/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784062973/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3D231BA4CFAC315C8AF5580FF2E48F35AEC009F7.516425531364B7F8A92701AAE848FF57C715C2E6/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-14/03_israel-says-ready-to-move-forward-on-2-lebanon-pilot-zones-in-rome-tal.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055195/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/434117F25621200755EADD9F3873B21E2ABE6689.8F0DFF316CAE4CBFDC935E19A2608F31C61B4AEC/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055195/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/626C1066E7F269B1B9B448E991E265FFC084E9CC.635F1920C6C717A4E70CA47A244334A35D6DC9FE/key/cms1/cms_redirect/yes/met/1784033601,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784033256/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784062995/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7508520DD1007E03E8C9B5F483FAB1F56FB1E38D.AF0FD27C0B21423F89289107E4B9F770E89C5994/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784062995/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/706402DFB27A2F89506B9A9A4618CB809D924BB4.6BBDAF1B898AD5F86B8BE101B25581514C88B4E5/key/cms1/cms_redirect/yes/met/1784041404,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784040882/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/OdpIFaXn.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a56dc21_6bbfb62a70554bf6c927f28cde7643d6b95adc18/sites/wPTWN2YS/media/OdpIFaXn/versions/uprFRBHY/manifest.ism/manifest-audio_0_ueZKNs7I_4fE39ZSP=112011-video_0_ueZKNs7I_oyerttRj=222859.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a56fbc5_87c422437ac253477cc49ad85905a57cfe49ff7e/sites/wPTWN2YS/media/OdpIFaXn/versions/uprFRBHY/manifest.ism/manifest-audio_0_ueZKNs7I_4fE39ZSP=112011-video_0_ueZKNs7I_oyerttRj=222859.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2650820-israel-says-ready-to-move-forward-on-2-lebanon-pilot-zones-in-rome-tal/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-14/03_israel-says-ready-to-move-forward-on-2-lebanon-pilot-zones-in-rome-tal.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055195/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/434117F25621200755EADD9F3873B21E2ABE6689.8F0DFF316CAE4CBFDC935E19A2608F31C61B4AEC/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784062995/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7508520DD1007E03E8C9B5F483FAB1F56FB1E38D.AF0FD27C0B21423F89289107E4B9F770E89C5994/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -327,8 +327,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055215/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6DEB6C70FB88250EC66687B1A058B0361D89C2C7.28B1B7784498D86C4D7776B05A877F1F06AF25DF/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055215/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/51E24B224F3C40EBCF4B46EA6F80F6F6F4D9B477.8172BCB3EA1DBD6571D7DF6FB3F7E4BBE1C4A166/key/cms1/cms_redirect/yes/met/1784033619,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784033538/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784063018/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A6F18B18FEFEBCE0948B751478E94133C54FC1D9.0EB4F2E24AE6DDE3978F41839B01A42628F83415/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784063018/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0CEFAE3DC9B8073408531F1FBF0E4B2B509FE714.177DFD0FF31E25F856CA1BD912566E075C49F49E/key/cms1/cms_redirect/yes/met/1784041421,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784041174/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2650788-let-this-go-and-you-tell-all-armed-groups-sovereignty-can-be-defied-sa/image.jpg",
@@ -354,8 +354,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055234/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/52B0DC8175AE236477BA5422F1FB6467EEB27DE7.729FD9EC1C9AEC3ADF9338C14883D26BE5CE0576/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055234/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/831B9BE467DAC71BAC438522145CBF5B74D576BB.6650D7279E203F3B5E3B865FF937F2219A8B39A0/key/cms1/cms_redirect/yes/met/1784033638,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784033256/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784063038/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/53D93B75966A0B084FDCFD056FFE79AA46745AC4.ABCE4DE1BBFCA1345D9690A63B883927F1584244/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784063038/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5AC6C97CE5D391C06D8F20727EBD751879208EE7.26184D6AB4E205C684AEB5E04DE2E4BD16D597E5/key/cms1/cms_redirect/yes/met/1784041442,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784041174/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2650787-security-council-members-rally-behind-saudi-arabia-denounce-iran-s-rol/image.jpg",
@@ -381,10 +381,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055256/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/31BD27CA991A283C84B41EA734FA9A6D8EC11A69.3D959FF9CE5B08C61009A22798E775C5601ED6DC/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055256/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6AE03CA920D44BB5FB206B8B09EF3B9B894E9FDA.142CC2958860036C6C1245548BB8C6E68993F915/key/cms1/cms_redirect/yes/met/1784033662,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784033256/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784063061/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9BA9B90DC44A9E833D070B746CFAAD78E049AB4B.9F7B560D9E1C9E6AE1A3B39F48C5DE22A3180191/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784063061/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/805E40F66A8D03D2E339FD2A7FB41C790026C121.1B3430A2880E976F11C60565B985DB1FB6FA2F79/key/cms1/cms_redirect/yes/met/1784041468,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784041174/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/OdpIFaXn.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a56dc21_6bbfb62a70554bf6c927f28cde7643d6b95adc18/sites/wPTWN2YS/media/OdpIFaXn/versions/uprFRBHY/manifest.ism/manifest-audio_0_ueZKNs7I_4fE39ZSP=112011-video_0_ueZKNs7I_oyerttRj=222859.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a56fbc5_87c422437ac253477cc49ad85905a57cfe49ff7e/sites/wPTWN2YS/media/OdpIFaXn/versions/uprFRBHY/manifest.ism/manifest-audio_0_ueZKNs7I_4fE39ZSP=112011-video_0_ueZKNs7I_oyerttRj=222859.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2650820-israel-says-ready-to-move-forward-on-2-lebanon-pilot-zones-in-rome-tal/image.jpg",
@@ -410,8 +410,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055274/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7E43BC06B18C3931E48F621D66D045068C93B7DE.6529CD37F559EAD71F7B4CF68F54F2E403EF5AE1/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784055274/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0B54583658D3F82250860348ACD13E09D0A0C36B.80FBBE36A5183E3C8A64BE03A7D2FF8AD06D4AB3/key/cms1/cms_redirect/yes/met/1784033678,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784033256/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784063081/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/150A81DE3723CF463744D675FCF12FC9DBA5DFBB.8F9B4C5A67A4ED291AD4B997796ABD69C68A77B6/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784063081/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/420EAE214D13008C9ED224F0696E753639E58727.511D501CE59D445E4642BE23981F2ABFAA5F35D9/key/cms1/cms_redirect/yes/met/1784041486,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784041174/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2650794-iraq-pm-to-meet-trump-in-washington-under-pressure-over-iran-ties/image.jpg",

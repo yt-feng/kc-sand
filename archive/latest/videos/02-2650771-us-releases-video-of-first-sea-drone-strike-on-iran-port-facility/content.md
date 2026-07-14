@@ -16,11 +16,11 @@ LONDON: US forces used sea drones to strike a submarine and ship maintenance fac
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/ca849e55-d85f-4ed3-b0fe-579cfa6d1102
+- blob:https://www.arabnews.com/03979433-e9be-4327-af72-c9314c0d73be
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://7753ca3317c47f4b910d0860203f8d6e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://0f34a8f5e7604b676d2b47ad8b77a22c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650771%2Fmiddle-east
 

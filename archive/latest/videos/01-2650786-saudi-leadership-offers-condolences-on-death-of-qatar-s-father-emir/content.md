@@ -16,9 +16,9 @@ RIYADH: A delegation from Saudi Arabia expressed condolences to the Emir of Qata
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/a62bdaf2-8672-4803-9955-a0de5a704320
+- blob:https://www.arabnews.com/2cd400f1-b01f-43e3-86f1-1d6f9748ca0f
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://130dddd0d02983270c3ee57576e92224.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://4bc6683f664ee5551d08bac51a0f2126.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1

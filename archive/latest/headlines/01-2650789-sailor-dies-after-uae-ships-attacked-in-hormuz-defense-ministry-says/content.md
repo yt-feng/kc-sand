@@ -16,11 +16,11 @@ RIYADH: A crew member has died after UAE ships in the Strait of Hormuz were atta
 
 ## Video Or Embed URLs
 
-- https://aa464ba839a4e1dcb3b76aa2eab5f6c6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://d08b1ca0fadf2380f24fe3c2c793ac5b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650789%2Fmiddle-east
 
 ## Text

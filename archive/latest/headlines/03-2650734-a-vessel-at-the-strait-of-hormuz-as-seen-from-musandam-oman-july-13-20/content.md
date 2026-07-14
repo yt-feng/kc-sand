@@ -16,11 +16,11 @@ WASHINGTON: President Donald Trump declared the return of a US naval blockade on
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/625a3c58-7945-405d-bc0e-d995af1582d2
+- blob:https://www.arabnews.com/82555882-f7e4-4964-a28c-45f7b28c22bf
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://636fc4ab93b1de36d79b43e7e09d0911.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://b7e64b40f23790614dc6dfe5c3fd6ae8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650734%2Fmiddle-east

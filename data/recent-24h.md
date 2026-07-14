@@ -1,8 +1,8 @@
 # Arab News Recent 24 Hours
 
-Fetched at: 2026-07-13T23:30:36.545Z
-Window: 2026-07-12T23:30:36.545Z to 2026-07-13T23:30:36.545Z (24h)
-Items: 105
+Fetched at: 2026-07-14T00:58:51.648Z
+Window: 2026-07-13T00:58:51.648Z to 2026-07-14T00:58:51.648Z (24h)
+Items: 102
 
 ## Items
 
@@ -108,19 +108,16 @@ Items: 105
 100. [Truck carrying wedding guests struck on Indonesia highway, killing 13 people](https://www.arabnews.com/node/2650686/world) - published: 2026-07-13T02:49:11.000Z - section: world - author: AP
 101. [Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington](https://www.arabnews.com/node/2650681/world) - published: 2026-07-13T01:33:58.000Z - section: world - author: AP
 102. [China’s ‘Green Great Wall’ tames desert growth, but scientists warn the fight is not over](https://www.arabnews.com/node/2650680/world) - published: 2026-07-13T01:16:10.000Z - section: world - author: AP
-103. [Dollar jumps on renewed Middle East attacks, Hormuz closure](https://www.arabnews.com/node/2650679/business-economy) - published: 2026-07-13T00:41:18.000Z - section: business economy - author: Reuters
-104. [Iran oil stuck at sea surges as China’s teapots turn to rival Middle East supplies, traders say](https://www.arabnews.com/node/2650678/business-economy) - published: 2026-07-13T00:38:51.000Z - section: business economy - author: Reuters
-105. [Oil jumps 4% as new military strikes threaten Hormuz shipments](https://www.arabnews.com/node/2650676/business-economy) - published: 2026-07-12T23:40:53.000Z - section: business economy - author: Reuters
 
 ## Diagnostics
 
 Unique candidates: 442
-Candidates verified: 106
+Candidates verified: 103
 Candidates after limit: 220
 Source errors: 0
 Article errors: 0
 
 Skipped:
 
-- source-date-older-than-window: 84
+- source-date-older-than-window: 87
 - article-older-than-window: 30

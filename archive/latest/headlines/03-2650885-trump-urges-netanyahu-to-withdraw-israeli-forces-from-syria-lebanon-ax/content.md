@@ -16,7 +16,7 @@ WASHINGTON: US President Donald Trump urged Israeli Prime Minister Benjamin Neta
 
 ## Video Or Embed URLs
 
-- https://6575e0465f5dd7053c70ac1012cfde3a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://4445beadd22ed2d3dc4e8644bb39e5e8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html

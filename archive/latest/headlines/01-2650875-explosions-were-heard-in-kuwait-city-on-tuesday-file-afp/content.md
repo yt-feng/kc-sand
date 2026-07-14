@@ -16,7 +16,7 @@ KUWAIT CITY: Kuwait’s military said on Tuesday ​that one of its navy vessels
 
 ## Video Or Embed URLs
 
-- https://0644a9b5840a1cae2c2d3bfcf713406c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://625cd00d8dc35d1acdd7f04c82d0fa8c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

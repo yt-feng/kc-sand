@@ -16,9 +16,9 @@ NEW DELHI: The death toll among Indian seafarers due to US and Iranian attacks o
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/5c29573d-f2ce-4971-a915-c54c703c6466
+- blob:https://www.arabnews.com/a493af5e-073f-4780-97d2-312820985fa1
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://048358508a58bb66485169312d9845ff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a8024c37ea016b98bb523e7e85d9ab16.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

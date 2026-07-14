@@ -16,11 +16,12 @@ JAKARTA: Indonesia and Saudi Arabia are stepping up cooperation in aviation and 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/fde507d9-cd71-4c12-beee-8d8a20d21b66
+- blob:https://www.arabnews.com/5dd68420-d27d-46fe-9d9c-895370a788fe
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://ba90e318b74aad5ee90bd9ff3f20caf1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://6ece15bb8d4a3aa497eb7af263e8380e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650841%2Fworld
 

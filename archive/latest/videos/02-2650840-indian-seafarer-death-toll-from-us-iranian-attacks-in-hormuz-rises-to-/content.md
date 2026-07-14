@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650840/world
 Captured source: https://www.arabnews.com/node/2650840/world
 Published: 2026-07-14T15:05:32+03:00
-Modified: 2026-07-14T15:05:32+03:00
+Modified: 2026-07-14T20:38:39+03:00
 Author: Sanjay Kumar
 
 ## Summary
@@ -16,9 +16,9 @@ NEW DELHI: The death toll among Indian seafarers due to US and Iranian attacks o
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/e77d90b1-1025-488b-bc1d-cc068668f125
+- blob:https://www.arabnews.com/a5d855cb-7927-41bd-ae8d-1a9bd3485260
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://4ce4ea0d2ce91d13a9a13817c1bfa901.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://366d2217ad9495f17e9923ceccb2b659.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

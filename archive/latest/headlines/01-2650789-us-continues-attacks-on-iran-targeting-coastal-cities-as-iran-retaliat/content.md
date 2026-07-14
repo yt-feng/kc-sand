@@ -1,0 +1,60 @@
+# US continues attacks on Iran targeting coastal cities as Iran retaliates across region
+
+Source: https://www.arabnews.com/node/2650789/middle-east
+Captured source: https://www.arabnews.com/node/2650789/middle-east
+Published: 2026-07-14T11:37:01+03:00
+Modified: 2026-07-14T14:20:22+03:00
+Author: Arab News
+
+## Summary
+
+DUBAI, United Arab Emirates: Iranian state media reported explosions in Iran’s coastal gulf cities of Bushehr, Choghadak and Bandar Abbas on Tuesday as the US seemingly continued its assualt on the country. IRNA reported that four areas of Iran’s Bushehr city had been hit by US projectiles, and that residents had reported hearing explosions in Iran’s Bushehr and Choghadaк. 5
+
+## Image
+
+![main image](./image.jpg)
+
+## Video Or Embed URLs
+
+- blob:https://www.arabnews.com/164d0261-b6f7-4a19-9811-c0b53a504390
+- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
+- https://c9c9f3c7ccc7d44444804701e9ff2dbf.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
+- https://www.google.com/recaptcha/api2/aframe
+- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650789%2Fmiddle-east
+
+## Text
+
+https://arab.news/mywn9
+
+The US launched strikes on Iran early Tuesday morning, hours after President Donald Trump said Washington is “reinstating” a blockade on Iran in the Strait of Hormuz
+
+Iran responded with attacks targeting Bahrain and two tankers associated with the United Arab Emirates traveling through the strait, killing one mariner and wounding eight others
+
+DUBAI, United Arab Emirates: Iranian state media reported explosions in Iran’s coastal gulf cities of Bushehr, Choghadak and Bandar Abbas on Tuesday as the US seemingly continued its assualt on the country.
+
+IRNA reported that four areas of Iran’s Bushehr city had been hit by US projectiles, and that residents had reported hearing explosions in Iran’s Bushehr and Choghadaк.
+
+5 explosions were also reprotedly heard west of Iran’s Bandar Abbas.
+
+US strikes also hit in an Iranian border area near Iraq and Kuwait on Tuesday, local authorities said. The city of Abadan, which hosts the oldest oil refinery in the Middle East, as well as the port city of Mahshahr were targeted, deputy governor of Khuzestan province Valiollah Hayati said, according to state news agency IRNA.
+
+The US launched strikes on Iran early Tuesday morning, hours after President Donald Trump said Washington is “reinstating” a blockade on Iran in the Strait of Hormuz.
+
+Trump separately suggested the United States will charge other ships for safe passage, upending hundreds of years of American policy supporting freedom of navigation across the globe. Iran responded with attacks targeting Bahrain and two tankers associated with the United Arab Emirates traveling through the strait, killing one mariner and wounding eight others. The Emirates threatened to retaliate against Iran, potentially drawing the nation home to Abu Dhabi and Dubai back into fighting with Tehran.
+
+Bahrain sounded its missile alert siren for the third time Tuesday morning as Iran retaliated over US strikes targeting it. The island kingdom urged the public to take shelter. There was no immediate information on any damage or casualties caused by the attacks. Iran claimed multiple rounds of attacks targeting Bahrain on Tuesday. Iran also targeted Jordan which confirmed it had intercepted missiles over it's territory on Tuesday morning. The attacks come as Iran and the US both vie for control of the strait through which a fifth of all crude oil and natural gas once passed in peacetime. The price of benchmark Brent crude oil rose 7.8 percent to $81.92 a barrel, still well below the nearly $120 reached at the height of the war but threatening to make costs everywhere higher. Trump insists strait will be open US Central Command announced on social media that the US military had begun another round of strikes against Iran. “These strikes will continue imposing a heavy cost on Iranian forces and degrade their ability to attack innocent civilians and commercial shipping in the Strait of Hormuz,” the US military said.
+
+Moments after the military announced the new strikes, Trump called it “another major attack.” “We’re hitting them very hard. And it’ll continue, and we’ll see what happens,” he told reporters in the Oval Office. “We’re knocking out all of their offensive capability and we’re controlling the straits. We’re putting the blockade back.” Trump also provided new details on his administration doing an about-face and suggesting it will charge tolls for ships going through the strait, after previously suggesting that it wouldn’t. “We’re protecting a very rich portion of the world,” he said. “We’re spending money. And so, what we’ve done is, we are going to be reimbursed for protection.”
+
+“I want to be reimbursed because we’re protecting a very rich portion of the world. We’re spending money, and so what we’ve done is we are going to be reimbursed for protection.” It’s a change in US policy that, until now, said the strait should remain open to all without tolls — as it was before the US and Israel attacked Iran on Feb. 28. Any attempt by the US or Iran to charge fees would violate global norms on freedom of navigation and raise tensions, likely causing further economic disruption far beyond the region.
+
+China urges US, Iran to restore safe passage through Hormuz
+
+China called on the United States and Iran on Tuesday to restore safe passage through the Strait of Hormuz, as fighting between the two sides reignited over how the strategic waterway should be managed.
+
+“Restoring normal and safe passage through the strait as soon as possible is a shared aspiration of the international community,” foreign ministry spokesperson Lin Jian told a news briefing, adding that Beijing would “make unremitting efforts to help de-escalate” the situation.
+
+Attacks resume across the Mideast The United Arab Emirates’ Defense Ministry said early Tuesday that Iran attacked two tankers in the Strait of Hormuz, killing one mariner and wounding eight others. The Emirati Defense Ministry said Iran launched two cruise missiles at the tankers Mombasa and Al Bahiyah. The attacks set both tankers ablaze, though the fires were extinguished. Iran’s paramilitary Revolutionary Guard claimed the attack on the tankers, saying the vessels “ignored repeated warnings.” “They chose to pass through a minefield and were subsequently targeted and disabled,” the Guard said. Bahrain also came under renewed attack early Tuesday morning as Iran retaliated over the latest round of US airstrikes. Bahrain sounded its missile alert siren, urging the public to seek shelter. There was no word on any damage or casualties from the attack. The Emirati Defense Ministry said the attack on the tankers killed one Indian national and wounded six Indians and two Ukrainians. “The UAE reserves its full right to respond to this escalation and to take all necessary measures to protect its territory, its citizens and residents,” the Defense Ministry added. The Emirates used similar language before launching attacks against Iran during the war. Fighter jets could be heard overheard Tuesday morning in Dubai. Trump says Iran failed a test Earlier Monday, Trump told conservative radio host Hugh Hewitt that the agreement reached last month was “built to test” Iran, adding that “when you’re dealing with sleazebags (agreements) don’t mean much.” “They didn’t honor the test,” the president said. Iran asserts it has the right to manage traffic through the strait and potentially charge fees in accordance with the interim peace deal. The US has disputed that. The American military and the United Nations’ International Maritime Organization have tried to establish a route through the strait along the coast of Oman that would be outside of Iranian control. Iran has attacked ships using that route, saying the US is violating the interim peace deal. The US has attacked Iran in response, drawing Iranian attacks on US-allied Arab states. Exchanges of fire in recent days had already cast further doubt on the interim peace deal. Washington had lifted a blockade it imposed in mid-April as part of that deal, which also called for the strait to be fully reopened. “We are reinstating the THE IRANIAN BLOCKADE,” Trump said on social media. “All other countries will have fair and open use of the Strait.” The president said the US would be “reimbursed” by 20 percent of the value of cargo to help cover “any and all costs necessary to do the job of providing safety and security.” The US military said it will resume its blockade of Iranian ports at midnight local Wednesday in Dubai.

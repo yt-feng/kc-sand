@@ -16,17 +16,17 @@ NEW DELHI: The death toll among Indian seafarers due to US and Iranian attacks o
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/c37ceac3-f5c1-4a4e-a63c-4c1e4961de30
+- blob:https://www.arabnews.com/5c29573d-f2ce-4971-a915-c54c703c6466
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://264cda3568b7dbb41a7cb2f67fe8a212.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://048358508a58bb66485169312d9845ff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650840%2Fworld
 
 ## Downloaded Video
 
-- [03_indian-seafarer-death-toll-from-us-iranian-attacks-in-hormuz-rises-to-.mp4](../../../rendered-clips/2026-07-14/03_indian-seafarer-death-toll-from-us-iranian-attacks-in-hormuz-rises-to-.mp4)
+- [03_indian-seafarer-death-toll-from-us-iranian-attacks-in-hormuz-rises-to-.mp4](../../../rendered-clips/2026-07-15/03_indian-seafarer-death-toll-from-us-iranian-attacks-in-hormuz-rises-to-.mp4)
 
 ## Text
 

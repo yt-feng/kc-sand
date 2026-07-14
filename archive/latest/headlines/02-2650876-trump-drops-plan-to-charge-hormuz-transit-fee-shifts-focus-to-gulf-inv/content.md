@@ -16,18 +16,13 @@ WASHINGTON: US President Donald Trump on Tuesday abandoned plans to impose a 20 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/0e5ebc05-2fe9-451f-bacc-1c269b34b6dd
+- blob:https://www.arabnews.com/704c4843-76c7-40de-8ba1-e02cd6a8517d
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://002e2fdc6d2ccc971b907c99ce2d9587.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://23c6d5c595061b50833d3c6817a81778.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650876%2Fmiddle-east
-
-## Downloaded Video
-
-- [01_trump-drops-plan-to-charge-hormuz-transit-fee-shifts-focus-to-gulf-inv.mp4](../../../rendered-clips/2026-07-15/01_trump-drops-plan-to-charge-hormuz-transit-fee-shifts-focus-to-gulf-inv.mp4)
 
 ## Text
 

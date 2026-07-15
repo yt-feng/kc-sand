@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T16:05:11.263Z",
+  "fetchedAt": "2026-07-15T17:49:30.007Z",
   "targetDate": {
     "iso": "2026-07-15",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,39 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 159,
+    "itemCount": 153,
     "window": {
       "hours": 24,
-      "start": "2026-07-14T16:05:11.263Z",
-      "end": "2026-07-15T16:05:11.263Z",
+      "start": "2026-07-14T17:49:30.007Z",
+      "end": "2026-07-15T17:49:30.007Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "This photograph shows the US embassy in Rome on July 14, 2026.",
+        "url": "https://www.arabnews.com/node/2651038/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/15/4731598-821538399.jpg?itok=auBvI5Up",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/metadata.json",
+            "content": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/content.md",
+            "text": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "Iranian minister visits Doha to offer condolences days after Iran attacked Qatar",
         "url": "https://www.arabnews.com/node/2650997/middle-east",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta",
+          "directory": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/metadata.json",
-            "content": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/content.md",
-            "text": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/metadata.json",
+            "content": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/content.md",
+            "text": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/image.jpg",
+            "image": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/image.jpg",
             "video": null
           }
         }
@@ -119,60 +141,38 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
-        "archive": {
-          "directory": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/metadata.json",
-            "content": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/content.md",
-            "text": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Lebanon parliament to discuss sweeping amnesty bill",
-        "url": "https://www.arabnews.com/node/2650994/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/15/4731471-621040321.jpg?itok=qApZ92Jz",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill",
+          "directory": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/metadata.json",
-            "content": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/content.md",
-            "text": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/metadata.json",
+            "content": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/content.md",
+            "text": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/image.jpg",
+            "image": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/image.jpg",
             "video": null
           }
         }
       },
       {
-        "title": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz",
-        "url": "https://www.arabnews.com/node/2650937/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/15/4731324-43274144.jpeg?itok=cuiPbw5f",
+        "title": "Safadi and Rubio condemn Iranian attacks as Jordan intercepts more missiles",
+        "url": "https://www.arabnews.com/node/2651036/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/15/4731592-1811136225.jpg?itok=Fgi8rab-",
         "section": "",
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t",
+          "directory": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/metadata.json",
-            "content": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/content.md",
-            "text": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/metadata.json",
+            "content": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/content.md",
+            "text": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/image.jpg",
+            "image": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-15T16:10:28.320Z",
+    "capturedAt": "2026-07-15T17:54:38.297Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-15",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-15/01_saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153286/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/526BFB30BAA57EC809F2B7804D3D3D9340FA1D75.0BC9ABB22A048294D14E519D5F8B4C46CF7CD370/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153286/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1FD685D8020902F0B8EB29435676C362B470D0FC.1E0BEDF93A9E52BE3B5E568982166508581EC0E9/key/cms1/cms_redirect/yes/met/1784131691,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784130977/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159538/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/444C8256C38F87628D9299B6119D2F45821FC9E1.4B7B53D368801D3780D33F4732DDBAC33CA4BCBE/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159538/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/43704C4E6809754A99A42CE412DBDC98A2216EA9.50683CE3CFAB1FE3DEB3F3499C7E541734DBC42E/key/cms1/cms_redirect/yes/met/1784137943,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784137694/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/86x7q9hr.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5859da_c7a8f474d2559344eba45260aff642aa72919ddd/sites/wPTWN2YS/media/86x7q9hr/versions/7VwnmTHS/manifest.ism/manifest-audio_0_h7Z038bq_DK6VDhBe=112000-video_0_h7Z038bq_bLM1Ja4D=559971.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5859da_c7a8f474d2559344eba45260aff642aa72919ddd/sites/wPTWN2YS/media/86x7q9hr/versions/7VwnmTHS/manifest.ism/manifest-audio_0_h7Z038bq_DK6VDhBe=112000-video_0_h7Z038bq_bLM1Ja4D=724169.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a587276_ace6e6e45801ef87d327ea5e69b5928c5e29b74b/sites/wPTWN2YS/media/86x7q9hr/versions/7VwnmTHS/manifest.ism/manifest-audio_0_h7Z038bq_DK6VDhBe=112000-video_0_h7Z038bq_bLM1Ja4D=559971.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a587276_ace6e6e45801ef87d327ea5e69b5928c5e29b74b/sites/wPTWN2YS/media/86x7q9hr/versions/7VwnmTHS/manifest.ism/manifest-audio_0_h7Z038bq_DK6VDhBe=112000-video_0_h7Z038bq_bLM1Ja4D=724169.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2651000-saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-15/01_saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153286/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/526BFB30BAA57EC809F2B7804D3D3D9340FA1D75.0BC9ABB22A048294D14E519D5F8B4C46CF7CD370/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159538/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/444C8256C38F87628D9299B6119D2F45821FC9E1.4B7B53D368801D3780D33F4732DDBAC33CA4BCBE/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-15/02_us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153309/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B6C6D55043AB2BC71E3D92D383B63FD1B734633B.993CA83BD64C214E6FBEAEC8F4E72D143047F525/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153309/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/462055174C9FC75144175DF57715A4002C5BC7B1.4306AD6F1BB5E717A0FE3055E0044AEB1DA88B64/key/cms1/cms_redirect/yes/met/1784131714,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784130977/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159560/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/88E171B9D28770F5AFD079375F7BA5FA2E0D1FEB.666067A1D3F3680B232E01E62BD4F217F19DDC56/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159560/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1C0DB00288EE9149DBBDC771E7F3A3D064609B7F.1785C07C5951E4A142FE2C8BD4106D0309771D52/key/cms1/cms_redirect/yes/met/1784137965,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784137694/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/gAPVDyMm.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a585a5b_4642a90cced1f3c2b6c4d674fd3cdc53a8f14c6d/sites/wPTWN2YS/media/gAPVDyMm/versions/m6cqrUDk/manifest.ism/manifest-audio_0_ecSBRtHC_jzgNVtGs=112216-video_0_ecSBRtHC_lzUB5bPw=425240.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5872f7_6877970c4475021d3605e21c8f265e3576be3a6c/sites/wPTWN2YS/media/gAPVDyMm/versions/m6cqrUDk/manifest.ism/manifest-audio_0_ecSBRtHC_jzgNVtGs=112216-video_0_ecSBRtHC_lzUB5bPw=425240.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2650985-us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-15/02_us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153309/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B6C6D55043AB2BC71E3D92D383B63FD1B734633B.993CA83BD64C214E6FBEAEC8F4E72D143047F525/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159560/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/88E171B9D28770F5AFD079375F7BA5FA2E0D1FEB.666067A1D3F3680B232E01E62BD4F217F19DDC56/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-15/03_russian-haaland-lookalike-says-viral-video-felt-like-a-dream.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153330/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/154F2A3D034757F0FCB46642A0FDF48FEFAE7129.47CCF934CD7291D9FF320F5D435B20CD891ADF2A/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153330/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/369B12F1F4EF417F757F114A19601597D34B0DE0.5F0CD6D37FB65DCC1F55FE0EE07937162A2A9D9B/key/cms1/cms_redirect/yes/met/1784131735,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784130977/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159582/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4F8972EA2A1E03EFC5FBCBF9355324DDC99DB3BB.3A4B40A3F93172D02A8F32E64BD43F2D80488D3D/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159582/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4469A24B3A6FA67B1DED915780460E64D1D83C81.5C3ADA31303DA1D27BCA8498F514D16291440C49/key/cms1/cms_redirect/yes/met/1784137987,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784137694/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/Qz4tz1xw.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a585a15_40d0b4eb4ed7e8293a4d1b643d3378e07387262d/sites/wPTWN2YS/media/Qz4tz1xw/versions/yOHWwzqX/manifest.ism/manifest-audio_0_1ZaGoLd8_R8QafvDS=112013-video_0_1ZaGoLd8_qc4g1yEv=448121.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5872b1_244896edd2c2de21226cb0161683b0f2dd39f095/sites/wPTWN2YS/media/Qz4tz1xw/versions/yOHWwzqX/manifest.ism/manifest-audio_0_1ZaGoLd8_R8QafvDS=112013-video_0_1ZaGoLd8_qc4g1yEv=448121.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2650978-russian-haaland-lookalike-says-viral-video-felt-like-a-dream/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-15/03_russian-haaland-lookalike-says-viral-video-felt-like-a-dream.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153330/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/154F2A3D034757F0FCB46642A0FDF48FEFAE7129.47CCF934CD7291D9FF320F5D435B20CD891ADF2A/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159582/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4F8972EA2A1E03EFC5FBCBF9355324DDC99DB3BB.3A4B40A3F93172D02A8F32E64BD43F2D80488D3D/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -314,24 +314,51 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Iranian minister visits Doha to offer condolences days after Iran attacked Qatar",
-        "url": "https://www.arabnews.com/node/2650997/middle-east",
-        "directory": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta",
+        "title": "This photograph shows the US embassy in Rome on July 14, 2026.",
+        "url": "https://www.arabnews.com/node/2651038/middle-east",
+        "directory": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/metadata.json",
-          "content": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/content.md",
-          "text": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/metadata.json",
+          "content": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/content.md",
+          "text": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/image.jpg",
+          "image": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153351/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4E7FE693F72200D0B60C2E02ADD9E364B8A7C19E.512AAC1CF87BAC94FB5C1ED2EA64EC8F9C9E9CA4/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153351/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3B779FED4E4503DF80E0CA2822624E518EE255DE.132016672586249CD186979967DDE2F4DB44F0D1/key/cms1/cms_redirect/yes/met/1784131754,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784130977/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159603/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/547778F77C976643685F1E53309F29A48501071F.3107BC197EFD48A8E2D50F174F8D93D573289054/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159603/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2F223B12915FAA80358C8DBE797FFE35E544A4CC.175BA51AA29470F8980C1E65BEE4F12422638F07/key/cms1/cms_redirect/yes/met/1784138007,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784137694/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/image.jpg",
+          "path": "archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/15/4731598-821538399.jpg?itok=Mx_e7Gcy",
+          "contentType": "image/jpeg",
+          "bytes": 60718
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "Iranian minister visits Doha to offer condolences days after Iran attacked Qatar",
+        "url": "https://www.arabnews.com/node/2650997/middle-east",
+        "directory": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/metadata.json",
+          "content": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/content.md",
+          "text": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159622/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AB7A9427FC804FA82830D702A4C409ED97E303DC.B02976591B57D47F0AF9EF740D3D31B3DF24F062/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159622/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/192C5D4586828AC69F5714ACBC628CD66A9B2FC4.2390E02B7A8AAC5A2A0FF38FB95172777DFAFBDA/key/cms1/cms_redirect/yes/met/1784138026,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784137694/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/15/4731479-1732901443.jpg?itok=Hbsi50U0",
           "contentType": "image/jpeg",
           "bytes": 22098
@@ -340,27 +367,27 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "Israel kills four people in Gaza, including a child, medics say",
         "url": "https://www.arabnews.com/node/2650968/middle-east",
-        "directory": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say",
+        "directory": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/metadata.json",
-          "content": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/content.md",
-          "text": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/metadata.json",
+          "content": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/content.md",
+          "text": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/image.jpg",
+          "image": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153370/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A5D8E97040A21E5FDA2F10E53345C3DE6B8D1D84.8681D45D110746552AA4023BCC18EFDF7C5EA904/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153370/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4E9ECC12721845D8AE9B9123391A78B1CA534B70.7C89E75091A37A8CD27574211B5B39AF875F14A6/key/cms1/cms_redirect/yes/met/1784131775,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784130977/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159643/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6238F1951243C54E8686EBDD843E359DB6179C9C.36DDB40F5A6457306B90EAE5AD9A211BBD873056/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159643/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/121D6F58358021D1461A698FFBB8A431E267D5AF.1E27767DE0183AB211B732703763FC70372873F1/key/cms1/cms_redirect/yes/met/1784138047,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784137694/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/WmivegHP.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a585c8e_362b20ca72a1a045d65496eb815bf1d6dc027c20/sites/wPTWN2YS/media/WmivegHP/versions/JhtLbgq3/manifest.ism/manifest-audio_0_KRjztFrf_xx2buSbm=112031-video_0_KRjztFrf_ad11ghvE=754552.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a58752a_aad05425272ae6da2d443ca90d0cd4178fca0056/sites/wPTWN2YS/media/WmivegHP/versions/JhtLbgq3/manifest.ism/manifest-audio_0_KRjztFrf_xx2buSbm=112031-video_0_KRjztFrf_ad11ghvE=754552.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/image.jpg",
+          "path": "archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/15/4731409-2136175398.jpg?itok=XlEmENwO",
           "contentType": "image/jpeg",
           "bytes": 39906
@@ -369,57 +396,28 @@
       },
       {
         "group": "headlines",
-        "index": 2,
-        "title": "Lebanon parliament to discuss sweeping amnesty bill",
-        "url": "https://www.arabnews.com/node/2650994/middle-east",
-        "directory": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/metadata.json",
-          "content": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/content.md",
-          "text": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153389/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/85BDE4097AB5C7B5FC87FFDFE56C5BF1CF3C343C.1A144C43D77DA2E3788271C8738771F7D26F0083/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153389/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/01B98E26A5EAA6EA3553B6789F3EE0D4A79E748E.701ED7D8DDEB8AD6730E97A105BC9D283F1E163C/key/cms1/cms_redirect/yes/met/1784131793,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784130977/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/15/4731471-621040321.jpg?itok=dDsaz2H4",
-          "contentType": "image/jpeg",
-          "bytes": 68313
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
         "index": 3,
-        "title": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz",
-        "url": "https://www.arabnews.com/node/2650937/middle-east",
-        "directory": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t",
+        "title": "Safadi and Rubio condemn Iranian attacks as Jordan intercepts more missiles",
+        "url": "https://www.arabnews.com/node/2651036/middle-east",
+        "directory": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/metadata.json",
-          "content": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/content.md",
-          "text": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/metadata.json",
+          "content": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/content.md",
+          "text": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/image.jpg",
+          "image": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153410/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/91AF4C6254F2C9B3EAB6263D71F395CE6ACA14E9.850ED2F34D6D377590B99150412C04B3B42E6592/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784153410/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4363D8FEA4BC341C5AFD2D4B495024E28F875972.6C7C450F3301D8CC3370A6542BC3EDAC645C1D33/key/cms1/cms_redirect/yes/met/1784131817,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784130977/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
-          "https://cdn.jwplayer.com/manifests/7KVmapzf.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a585c5f_57daaba8c94d7d7d9c781eb50e1800d5807c1ace/sites/wPTWN2YS/media/7KVmapzf/versions/5abfc7va/manifest.ism/manifest-audio_0_gn86Pt9B_C5UAzUAT=112036-video_0_gn86Pt9B_gpqby84N=269918.m3u8"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159662/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A521B9183D5F8EF9F93F44923476C72879C9BDC9.981357C5A4A38BD2877870A587AC782D88D65044/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784159662/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/35CECCFA98FC648BF6955205A0F8A186014BAE51.581B6F8C70077F9025634D5D3538CD76EC9959FB/key/cms1/cms_redirect/yes/met/1784138066,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784137942/mv/m/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/15/4731324-43274144.jpeg?itok=1rrPXdif",
+          "path": "archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/15/4731592-1811136225.jpg?itok=uNakhFLa",
           "contentType": "image/jpeg",
-          "bytes": 40860
+          "bytes": 59502
         },
         "video": null
       }

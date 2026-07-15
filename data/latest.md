@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-15T16:05:11.263Z
+Fetched at: 2026-07-15T17:49:30.007Z
 Target date: 2026-07-15 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-15 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iranian minister visits Doha to offer condolences days after Iran attacked Qatar](https://www.arabnews.com/node/2650997/middle-east) - archive: archive/latest/headlines/01-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/content.md
-2. [Israel kills four people in Gaza, including a child, medics say](https://www.arabnews.com/node/2650968/middle-east) - archive: archive/latest/headlines/02-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/content.md
-3. [Lebanon parliament to discuss sweeping amnesty bill](https://www.arabnews.com/node/2650994/middle-east) - archive: archive/latest/headlines/03-2650994-lebanon-parliament-to-discuss-sweeping-amnesty-bill/content.md
-4. [US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz](https://www.arabnews.com/node/2650937/middle-east) - archive: archive/latest/headlines/04-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/content.md
+1. [This photograph shows the US embassy in Rome on July 14, 2026.](https://www.arabnews.com/node/2651038/middle-east) - archive: archive/latest/headlines/01-2651038-this-photograph-shows-the-us-embassy-in-rome-on-july-14-2026/content.md
+2. [Iranian minister visits Doha to offer condolences days after Iran attacked Qatar](https://www.arabnews.com/node/2650997/middle-east) - archive: archive/latest/headlines/02-2650997-iranian-minister-visits-doha-to-offer-condolences-days-after-iran-atta/content.md
+3. [Israel kills four people in Gaza, including a child, medics say](https://www.arabnews.com/node/2650968/middle-east) - archive: archive/latest/headlines/03-2650968-israel-kills-four-people-in-gaza-including-a-child-medics-say/content.md
+4. [Safadi and Rubio condemn Iranian attacks as Jordan intercepts more missiles](https://www.arabnews.com/node/2651036/middle-east) - archive: archive/latest/headlines/04-2651036-safadi-and-rubio-condemn-iranian-attacks-as-jordan-intercepts-more-mis/content.md

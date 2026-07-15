@@ -16,9 +16,9 @@ MOSCOW: Friends and family have for a few years told Russian model Anastasia Kos
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/585e40f5-cbd8-4665-ac6f-a1c417f4edc4
+- blob:https://www.arabnews.com/fe8268a4-1c67-4f43-9f65-dfd9c6e1c55d
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://727297ce3a3c230c75b8052d81e0568d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://69b770a5cd03a50bb76d5085e47af1de.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot

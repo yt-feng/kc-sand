@@ -3,7 +3,7 @@
 Source: https://www.arabnews.com/node/2650985/middle-east
 Captured source: https://www.arabnews.com/node/2650985/middle-east
 Published: 2026-07-15T15:13:40+03:00
-Modified: 2026-07-15T17:17:47+03:00
+Modified: 2026-07-15T18:57:47+03:00
 Author: Reuters
 
 ## Summary
@@ -16,9 +16,9 @@ CAIRO/DUBAI: The ​US said it had completed a ‘morning round of strikes’ ag
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/da57fe05-2da9-4811-9279-8fe5e8dc5519
+- blob:https://www.arabnews.com/82a9d607-83af-4b39-bcd7-14415e15527b
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://2005c793aa0ccf3aa3b33828ae9aa7cc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f21772998dfbfe69fb9a108a140b13ac.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

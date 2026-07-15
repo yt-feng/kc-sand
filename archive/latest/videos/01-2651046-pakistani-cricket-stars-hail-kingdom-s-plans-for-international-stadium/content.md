@@ -16,9 +16,9 @@ ISLAMABAD/KARACHI: Pakistani cricket stars have welcomed Saudi Arabia’s plans 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/0d6652e4-5fc6-4c4c-902e-0cbcd42dd711
+- blob:https://www.arabnews.com/655e4e4f-2917-4671-b656-877f1f384a9f
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://9d758f71b8c00f9949ba671b31fef2ab.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://77f90ac276f4e3820ae4d9740879497e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1

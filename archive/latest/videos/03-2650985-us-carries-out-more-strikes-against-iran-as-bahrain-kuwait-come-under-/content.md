@@ -16,9 +16,8 @@ CAIRO/DUBAI: The ​US said it had completed a ‘morning round of strikes’ ag
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/14c7bebc-bde6-4b5c-9c84-2c6c4521c4a4
-- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://419d3a230bb59190d0607c64c52f9af6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- blob:https://www.arabnews.com/20e8e22a-a02c-41b7-aa81-d6f97155648f
+- https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +25,7 @@ CAIRO/DUBAI: The ​US said it had completed a ‘morning round of strikes’ ag
 
 ## Downloaded Video
 
-- [02_us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-.mp4](../../../rendered-clips/2026-07-15/02_us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-.mp4)
+- [03_us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-.mp4](../../../rendered-clips/2026-07-15/03_us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-.mp4)
 
 ## Text
 

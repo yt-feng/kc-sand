@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-15T17:49:30.007Z
+Fetched at: 2026-07-15T19:21:57.593Z
 Target date: 2026-07-15 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [Saudi port developer plans up to $1bn investment in Bangladesh logistics](https://www.arabnews.com/node/2651000/world) - archive: archive/latest/videos/01-2651000-saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic/content.md
-2. [US carries out more strikes against Iran as Bahrain, Kuwait come under attack](https://www.arabnews.com/node/2650985/middle-east) - archive: archive/latest/videos/02-2650985-us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-/content.md
-3. [Russian Haaland lookalike says viral video felt ‘like a dream’](https://www.arabnews.com/node/2650978/offbeat) - archive: archive/latest/videos/03-2650978-russian-haaland-lookalike-says-viral-video-felt-like-a-dream/content.md
+1. [Pakistani cricket stars hail Kingdom’s plans for international stadium in Jeddah](https://www.arabnews.com/node/2651046/sport) - archive: archive/latest/videos/01-2651046-pakistani-cricket-stars-hail-kingdom-s-plans-for-international-stadium/content.md
+2. [Saudi port developer plans up to $1bn investment in Bangladesh logistics](https://www.arabnews.com/node/2651000/world) - archive: archive/latest/videos/02-2651000-saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic/content.md
+3. [US carries out more strikes against Iran as Bahrain, Kuwait come under attack](https://www.arabnews.com/node/2650985/middle-east) - archive: archive/latest/videos/03-2650985-us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-/content.md
 
 ## Homepage Top Headlines
 

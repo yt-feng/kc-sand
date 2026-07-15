@@ -1,14 +1,14 @@
-# US launches new round of strikes against Iran as escalation threatens shipping
+# US carries out more strikes against Iran as Bahrain, Kuwait come under attack
 
 Source: https://www.arabnews.com/node/2650985/middle-east
 Captured source: https://www.arabnews.com/node/2650985/middle-east
-Published: 2026-07-15T14:24:40+03:00
-Modified: 2026-07-15T15:04:35+03:00
+Published: 2026-07-15T15:13:40+03:00
+Modified: 2026-07-15T17:17:47+03:00
 Author: Reuters
 
 ## Summary
 
-CAIRO/DUBAI: The ​US said it had begun a new wave of strikes against Iran on Wednesday after reimposing a naval blockade of Iranian ports, while Iran threatened to shut off more regional energy exports. The strikes mark the latest escalation of attacks and counterattacks launched by the two sides as they vie for control of the Strait of Hormuz, which carried about a fifth ‌of
+CAIRO/DUBAI: The ​US said it had completed a ‘morning round of strikes’ against Iran on Wednesday after reimposing a naval blockade of Iranian ports, while Iran threatened to shut off more regional energy exports. “CENTCOM launched precision munitions against coastal defense systems and cruise missile storage and launch sites on Greater Tunb Island during the 90-minute wave,”
 
 ## Image
 
@@ -16,18 +16,17 @@ CAIRO/DUBAI: The ​US said it had begun a new wave of strikes against Iran on W
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/eda68a04-d686-4795-ab78-6be6574e2aed
+- blob:https://www.arabnews.com/da57fe05-2da9-4811-9279-8fe5e8dc5519
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://3a2c5b29fe1e47b60a667acb77ce1e95.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2005c793aa0ccf3aa3b33828ae9aa7cc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650985%2Fmiddle-east
 
 ## Downloaded Video
 
-- [01_us-launches-new-round-of-strikes-against-iran-as-escalation-threatens-.mp4](../../../rendered-clips/2026-07-15/01_us-launches-new-round-of-strikes-against-iran-as-escalation-threatens-.mp4)
+- [02_us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-.mp4](../../../rendered-clips/2026-07-15/02_us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-.mp4)
 
 ## Text
 
@@ -35,7 +34,9 @@ https://arab.news/57zda
 
 Strikes mark the latest escalation of attacks and counterattacks launched by the two sides as they vie for control of the Strait of Hormuz
 
-CAIRO/DUBAI: The ​US said it had begun a new wave of strikes against Iran on Wednesday after reimposing a naval blockade of Iranian ports, while Iran threatened to shut off more regional energy exports.
+CAIRO/DUBAI: The ​US said it had completed a ‘morning round of strikes’ against Iran on Wednesday after reimposing a naval blockade of Iranian ports, while Iran threatened to shut off more regional energy exports.
+
+“CENTCOM launched precision munitions against coastal defense systems and cruise missile storage and launch sites on Greater Tunb Island during the 90-minute wave,” the US ⁠Central Command posted on social media.
 
 The strikes mark the latest escalation of attacks and counterattacks launched by the two sides as they vie for control of the Strait of Hormuz, which carried about a fifth ‌of global oil and ‌gas shipments before the war. “At ​6 ‌a.m. ⁠ET today, ​US ⁠Central Command forces began launching a wave of strikes against Iran,” the US military said.
 
@@ -54,3 +55,13 @@ The US has said Iran had ⁠attacked seven ⁠commercial ships over the last wee
 The war, which began with US and Israeli strikes against Iran on February 28, triggered Iranian attacks on Gulf states that host US bases and caused major disruption to global energy supplies, raising fears of a surge in inflation. Oil prices extended gains by about 1 percent on Wednesday, after settling on Tuesday on a new one-month high.
 
 An interim ceasefire deal in the conflict signed last ​month was meant to lead ​to further negotiations and a permanent truce, but a return to talks has faltered.
+
+Bahrain’s military said it had intercepted aerial attacks from Iran on Wednesday after warning sirens sounded in the early hours in the tiny Gulf nation.
+
+“The General Command of the Bahrain Defense Force announces that Iran continues its systematic hostile approach through its criminal attacks that target civilians,” it said in a statement adding the military “succeeded in intercepting and destroying a number of the treacherous Iranian aerial attacks this morning.”
+
+Kuwait’s military said earlier in the morning that it was intercepting attack drones, and blamed in an “Iranian aggression.”
+
+The continued Iranian aggression on the Gulf states and Jordan came as US forces struck Iran and reimposed a naval blockade on its ports.
+
+President Donald Trump told Fox News on Tuesday he would expand US strikes on Iran next week to target power plants and bridges if Tehran does not make a deal.

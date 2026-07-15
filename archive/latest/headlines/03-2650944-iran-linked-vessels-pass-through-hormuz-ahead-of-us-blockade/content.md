@@ -16,12 +16,12 @@ SINGAPORE: The number ‌of vessels transiting through the Strait of Hormuz tick
 
 ## Video Or Embed URLs
 
-- https://ec3eaea332f0430d3c0a7d1ed3b4034e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://265afbafc9580d2f8b00a394cb95d8f6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650944%2Fmiddle-east
 
 ## Text

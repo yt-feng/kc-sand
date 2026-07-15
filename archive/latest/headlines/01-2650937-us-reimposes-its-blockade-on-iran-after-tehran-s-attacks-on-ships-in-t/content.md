@@ -16,9 +16,9 @@ DUBAI: The US military early Wednesday reimposed a blockade on Iranian ports ove
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/fdc55d0f-27c7-4240-8af6-6ad8f82ab4af
+- blob:https://www.arabnews.com/fb02ba49-b7a0-46ca-b9ab-409327ff65d4
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://db53f999a42002a94d300d10ed6b075f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://55140263511d988919632fb8b85b4531.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe

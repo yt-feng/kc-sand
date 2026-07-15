@@ -16,9 +16,9 @@ MOSCOW: Friends and family have for a few years told Russian model Anastasia Kos
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/f0c198a7-1d2a-4b6f-90f2-9e425ecfedaa
+- blob:https://www.arabnews.com/585e40f5-cbd8-4665-ac6f-a1c417f4edc4
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://cb8581bc1b54fac0286a4b017f1358f7.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://727297ce3a3c230c75b8052d81e0568d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot
@@ -27,7 +27,7 @@ MOSCOW: Friends and family have for a few years told Russian model Anastasia Kos
 
 ## Downloaded Video
 
-- [02_russian-haaland-lookalike-says-viral-video-felt-like-a-dream.mp4](../../../rendered-clips/2026-07-15/02_russian-haaland-lookalike-says-viral-video-felt-like-a-dream.mp4)
+- [03_russian-haaland-lookalike-says-viral-video-felt-like-a-dream.mp4](../../../rendered-clips/2026-07-15/03_russian-haaland-lookalike-says-viral-video-felt-like-a-dream.mp4)
 
 ## Text
 

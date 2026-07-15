@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-15T12:02:27.483Z
+Fetched at: 2026-07-15T14:22:26.618Z
 Target date: 2026-07-15 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [US launches new round of strikes against Iran as escalation threatens shipping](https://www.arabnews.com/node/2650985/middle-east) - archive: archive/latest/videos/01-2650985-us-launches-new-round-of-strikes-against-iran-as-escalation-threatens-/content.md
-2. [Russian Haaland lookalike says viral video felt ‘like a dream’](https://www.arabnews.com/node/2650978/offbeat) - archive: archive/latest/videos/02-2650978-russian-haaland-lookalike-says-viral-video-felt-like-a-dream/content.md
-3. [England lacking Premier League physicality, says Mac Allister](https://www.arabnews.com/node/2650908/sport) - archive: archive/latest/videos/03-2650908-england-lacking-premier-league-physicality-says-mac-allister/content.md
+1. [Saudi port developer plans up to $1bn investment in Bangladesh logistics](https://www.arabnews.com/node/2651000/world) - archive: archive/latest/videos/01-2651000-saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic/content.md
+2. [US carries out more strikes against Iran as Bahrain, Kuwait come under attack](https://www.arabnews.com/node/2650985/middle-east) - archive: archive/latest/videos/02-2650985-us-carries-out-more-strikes-against-iran-as-bahrain-kuwait-come-under-/content.md
+3. [Russian Haaland lookalike says viral video felt ‘like a dream’](https://www.arabnews.com/node/2650978/offbeat) - archive: archive/latest/videos/03-2650978-russian-haaland-lookalike-says-viral-video-felt-like-a-dream/content.md
 
 ## Homepage Top Headlines
 

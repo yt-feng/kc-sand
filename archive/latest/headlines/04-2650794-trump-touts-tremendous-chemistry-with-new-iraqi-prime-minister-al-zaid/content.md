@@ -16,11 +16,12 @@ WASHINGTON: President Donald Trump gave Iraq’s new prime minister an effusive 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/aaded614-c140-4daf-85d7-b531636a025f
+- blob:https://www.arabnews.com/f606b24d-c943-4c37-a4d4-401ff7bf1813
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://45fcf066ca4f1cd5ba3a5755bd14dc62.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://eb423671db6fdef22525ca5a2f22e9b6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650794%2Fmiddle-east
 

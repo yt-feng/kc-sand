@@ -16,12 +16,12 @@ DUBAI: Iran’s foreign minister, Abbas Araghchi, traveled to Doha on Wednesday 
 
 ## Video Or Embed URLs
 
-- https://c1fdaea9bdec4bcb4824de95d462047a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://dc2328ebc810a0315c39a78433cccf1c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
+- https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650997%2Fmiddle-east
 
 ## Text

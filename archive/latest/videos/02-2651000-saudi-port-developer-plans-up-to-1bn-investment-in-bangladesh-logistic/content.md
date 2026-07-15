@@ -16,9 +16,9 @@ DHAKA: Saudi developer Red Sea Gateway Terminal has announced plans to invest up
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/c874f24d-9908-4891-9d82-a70f414a0e4a
+- blob:https://www.arabnews.com/62c4f72b-2add-4851-ba95-aa4ea50303b2
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://4542934448b5fea6f7eb8c57c913ccbf.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://9341f66718e6f51c9dc7158b487e697a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ DHAKA: Saudi developer Red Sea Gateway Terminal has announced plans to invest up
 
 ## Downloaded Video
 
-- [02_saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic.mp4](../../../rendered-clips/2026-07-15/02_saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic.mp4)
+- [02_saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic.mp4](../../../rendered-clips/2026-07-16/02_saudi-port-developer-plans-up-to-1bn-investment-in-bangladesh-logistic.mp4)
 
 ## Text
 

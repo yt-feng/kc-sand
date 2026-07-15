@@ -16,9 +16,9 @@ ISLAMABAD/KARACHI: Pakistani cricket stars have welcomed Saudi Arabia’s plans 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/655e4e4f-2917-4671-b656-877f1f384a9f
+- blob:https://www.arabnews.com/e4a345b7-cfa8-46aa-b34b-6ff920eab495
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://77f90ac276f4e3820ae4d9740879497e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2b67238bda41b514497a69ee6b3f16e2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
@@ -27,7 +27,7 @@ ISLAMABAD/KARACHI: Pakistani cricket stars have welcomed Saudi Arabia’s plans 
 
 ## Downloaded Video
 
-- [01_pakistani-cricket-stars-hail-kingdom-s-plans-for-international-stadium.mp4](../../../rendered-clips/2026-07-15/01_pakistani-cricket-stars-hail-kingdom-s-plans-for-international-stadium.mp4)
+- [01_pakistani-cricket-stars-hail-kingdom-s-plans-for-international-stadium.mp4](../../../rendered-clips/2026-07-16/01_pakistani-cricket-stars-hail-kingdom-s-plans-for-international-stadium.mp4)
 
 ## Text
 

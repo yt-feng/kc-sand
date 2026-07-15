@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-15T08:25:46.593Z
+Fetched at: 2026-07-15T10:22:55.404Z
 Target date: 2026-07-15 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [One dead, 2 missing after boat sinks near San Francisco’s Alcatraz](https://www.arabnews.com/node/2650947/world) - archive: archive/latest/videos/01-2650947-one-dead-2-missing-after-boat-sinks-near-san-francisco-s-alcatraz/content.md
-2. [Israel allocates $434m to build 34 new settlements in occupied West Bank](https://www.arabnews.com/node/2650916/middle-east) - archive: archive/latest/videos/02-2650916-israel-allocates-434m-to-build-34-new-settlements-in-occupied-west-ban/content.md
-3. [US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz](https://www.arabnews.com/node/2650937/middle-east) - archive: archive/latest/videos/03-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/content.md
+1. [England lacking Premier League physicality, says Mac Allister](https://www.arabnews.com/node/2650908/sport) - archive: archive/latest/videos/01-2650908-england-lacking-premier-league-physicality-says-mac-allister/content.md
+2. [President Aoun says Lebanon will not compromise on its rights, defends framework deal](https://www.arabnews.com/node/2650969/middle-east) - archive: archive/latest/videos/02-2650969-president-aoun-says-lebanon-will-not-compromise-on-its-rights-defends-/content.md
+3. [Argentina and England collide with World Cup final spot at stake](https://www.arabnews.com/node/2650952/sport) - archive: archive/latest/videos/03-2650952-argentina-and-england-collide-with-world-cup-final-spot-at-stake/content.md
 
 ## Homepage Top Headlines
 

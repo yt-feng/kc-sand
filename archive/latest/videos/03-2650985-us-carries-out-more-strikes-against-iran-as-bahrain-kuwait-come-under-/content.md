@@ -16,11 +16,11 @@ CAIRO/DUBAI: The ​US said it had completed a ‘morning round of strikes’ ag
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/32b179d2-ee52-4a8e-9819-ac9819a4442d
+- blob:https://www.arabnews.com/6deef276-d689-41a3-977e-2d986e03136b
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://88e690be0799bfb4b363b98586d96798.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://d8e9f45846cfc19cc6af77720e4a26b1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650985%2Fmiddle-east
 

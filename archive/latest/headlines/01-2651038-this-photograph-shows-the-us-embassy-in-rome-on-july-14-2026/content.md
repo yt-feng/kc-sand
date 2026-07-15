@@ -16,7 +16,7 @@ BEIRUT: After two days of US-mediated talks in Rome, Lebanon and Israel took ste
 
 ## Video Or Embed URLs
 
-- https://5d6ea58c85f48c4e0e7a471bdb7da8fa.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c55f4269a5e8facdff547a4597ac5804.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

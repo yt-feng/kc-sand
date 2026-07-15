@@ -16,11 +16,11 @@ WASHINGTON: President Donald Trump is headlining a defense summit at the US Army
 
 ## Video Or Embed URLs
 
-- https://ef04898bdbd00a0c0dfafbac90e0b8be.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f452383b79c075edbbc3d9631c309c72.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650943%2Fworld
 

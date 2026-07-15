@@ -16,11 +16,11 @@ NEW YORK CITY: Bahrain’s ambassador to the UN, Jamal Fares Alrowaiei, told the
 
 ## Video Or Embed URLs
 
-- https://9115d67f96b4bcd07ff14a261caceb89.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://c0ea042006525f594f981be2d7a3c06a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650919%2Fmiddle-east
 
 ## Text

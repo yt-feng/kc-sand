@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-15T05:55:26.379Z
+Fetched at: 2026-07-15T08:25:46.593Z
 Target date: 2026-07-15 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz](https://www.arabnews.com/node/2650937/middle-east) - archive: archive/latest/videos/01-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/content.md
-2. [Trump drops plan to charge Hormuz transit fee, shifts focus to Gulf investment](https://www.arabnews.com/node/2650876/middle-east) - archive: archive/latest/videos/02-2650876-trump-drops-plan-to-charge-hormuz-transit-fee-shifts-focus-to-gulf-inv/content.md
-3. [Saudi Arabia, Indonesia step up cooperation in aviation, urban transport](https://www.arabnews.com/node/2650841/world) - archive: archive/latest/videos/03-2650841-saudi-arabia-indonesia-step-up-cooperation-in-aviation-urban-transport/content.md
+1. [One dead, 2 missing after boat sinks near San Francisco’s Alcatraz](https://www.arabnews.com/node/2650947/world) - archive: archive/latest/videos/01-2650947-one-dead-2-missing-after-boat-sinks-near-san-francisco-s-alcatraz/content.md
+2. [Israel allocates $434m to build 34 new settlements in occupied West Bank](https://www.arabnews.com/node/2650916/middle-east) - archive: archive/latest/videos/02-2650916-israel-allocates-434m-to-build-34-new-settlements-in-occupied-west-ban/content.md
+3. [US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz](https://www.arabnews.com/node/2650937/middle-east) - archive: archive/latest/videos/03-2650937-us-reimposes-its-blockade-on-iran-after-tehran-s-attacks-on-ships-in-t/content.md
 
 ## Homepage Top Headlines
 

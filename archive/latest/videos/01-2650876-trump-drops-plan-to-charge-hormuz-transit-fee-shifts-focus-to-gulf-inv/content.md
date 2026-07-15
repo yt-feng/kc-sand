@@ -16,12 +16,11 @@ WASHINGTON: US President Donald Trump on Tuesday abandoned plans to impose a 20 
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/c933e98d-6bf4-4cc8-ae04-6e3b050cec19
+- blob:https://www.arabnews.com/28c23da7-3f37-454f-a7ec-289536910733
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://82841ce3ebe9768c4408b2c22318a4a2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- https://static.addtoany.com/menu/sm.25.html
+- https://cf5697cf47d7190327ebfa8c825d7aa3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
-- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
+- https://static.addtoany.com/menu/sm.25.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650876%2Fmiddle-east
 

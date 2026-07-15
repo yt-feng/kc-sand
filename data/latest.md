@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-14T23:58:12.498Z
+Fetched at: 2026-07-15T03:22:14.405Z
 Target date: 2026-07-15 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-15 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Explosions were heard in Kuwait City on Tuesday. (File/AFP)](https://www.arabnews.com/node/2650875/middle-east) - archive: archive/latest/headlines/01-2650875-explosions-were-heard-in-kuwait-city-on-tuesday-file-afp/content.md
-2. [Trump drops plan to charge Hormuz transit fee, shifts focus to Gulf investment](https://www.arabnews.com/node/2650876/middle-east) - archive: archive/latest/headlines/02-2650876-trump-drops-plan-to-charge-hormuz-transit-fee-shifts-focus-to-gulf-inv/content.md
-3. [Trump urges Netanyahu to withdraw Israeli forces from Syria, Lebanon: Axios](https://www.arabnews.com/node/2650885/middle-east) - archive: archive/latest/headlines/03-2650885-trump-urges-netanyahu-to-withdraw-israeli-forces-from-syria-lebanon-ax/content.md
-4. [Trump touts ‘tremendous chemistry’ with new Iraqi Prime Minister Al-Zaidi during White House visit](https://www.arabnews.com/node/2650794/middle-east) - archive: archive/latest/headlines/04-2650794-trump-touts-tremendous-chemistry-with-new-iraqi-prime-minister-al-zaid/content.md
+1. [Bahrain urges ‘firm’ UN Security Council response to Houthi and Iranian ‘blackmail’ attacks](https://www.arabnews.com/node/2650919/middle-east) - archive: archive/latest/headlines/01-2650919-bahrain-urges-firm-un-security-council-response-to-houthi-and-iranian-/content.md
+2. [US representatives held talks with Iran on Tuesday, Trump says](https://www.arabnews.com/node/2650929/world) - archive: archive/latest/headlines/02-2650929-us-representatives-held-talks-with-iran-on-tuesday-trump-says/content.md
+3. [Sudan risks deeper hunger crisis due to war, aid cuts and Hormuz disruption, says WFP](https://www.arabnews.com/node/2650923/world) - archive: archive/latest/headlines/03-2650923-sudan-risks-deeper-hunger-crisis-due-to-war-aid-cuts-and-hormuz-disrup/content.md
+4. [Explosions were heard in Kuwait City on Tuesday. (File/AFP)](https://www.arabnews.com/node/2650875/middle-east) - archive: archive/latest/headlines/04-2650875-explosions-were-heard-in-kuwait-city-on-tuesday-file-afp/content.md

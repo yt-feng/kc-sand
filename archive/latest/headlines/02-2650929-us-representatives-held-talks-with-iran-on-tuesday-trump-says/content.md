@@ -16,12 +16,12 @@ WASHINGHTON: President ​Donald Trump said ‌US representatives ‌held ​tal
 
 ## Video Or Embed URLs
 
-- https://80dd7c7ccf82d9e7c2e1f9abb64e8ef6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://230f9b936030b2ff5f08d9dc21351067.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650929%2Fworld
 
 ## Text

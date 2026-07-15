@@ -16,19 +16,18 @@ ATLANTA: England have not ‌played with the same intensity that their players d
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/681dd83f-4fd7-480d-b9c8-3badd879bd2c
+- blob:https://www.arabnews.com/8ea2bd6c-1768-400b-a0d2-54788dc51c71
 - https://imasdk.googleapis.com/js/core/bridge3.776.0_en.html
-- https://00a444a92a553c77b1037ed0ec7cde8f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://c001eca59dcbff0373841991f3d943f5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
-- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
+- about:blank
 - https://sync.teads.tv/wigo-no-slot
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650908%2Fsport
 
 ## Downloaded Video
 
-- [01_england-lacking-premier-league-physicality-says-mac-allister.mp4](../../../rendered-clips/2026-07-15/01_england-lacking-premier-league-physicality-says-mac-allister.mp4)
+- [03_england-lacking-premier-league-physicality-says-mac-allister.mp4](../../../rendered-clips/2026-07-15/03_england-lacking-premier-league-physicality-says-mac-allister.mp4)
 
 ## Text
 

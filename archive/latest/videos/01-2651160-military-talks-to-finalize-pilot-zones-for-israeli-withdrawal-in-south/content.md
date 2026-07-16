@@ -16,9 +16,9 @@ BEIRUT: Lebanese and Israeli military officials are set to meet virtually on Fri
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/0e4a51da-3df6-4944-b9fb-11e14cfe5221
+- blob:https://www.arabnews.com/0f0fbadf-9328-4bab-a099-5bff846dc0a4
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://661491b605cb7c0f8ca042435672b8c8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f69ecf2de484c2475e830cce9b7727f1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - about:blank
 - https://static.addtoany.com/menu/sm.25.html
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
@@ -28,7 +28,7 @@ BEIRUT: Lebanese and Israeli military officials are set to meet virtually on Fri
 
 ## Downloaded Video
 
-- [01_military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south.mp4](../../../rendered-clips/2026-07-16/01_military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south.mp4)
+- [01_military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south.mp4](../../../rendered-clips/2026-07-17/01_military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south.mp4)
 
 ## Text
 

@@ -16,9 +16,9 @@ ISLAMABAD: Pakistan on Thursday urged the United States and Iran to shun renewed
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/95b45896-6e24-47a1-82b6-1d21e81f8a3e
+- blob:https://www.arabnews.com/e852c1cc-9934-47f1-89ed-364b00981bc7
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://5aac871a15180f6173b50d5a59f6bb52.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://085f4b32b772af389b5f4303589cd6b2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ ISLAMABAD: Pakistan on Thursday urged the United States and Iran to shun renewed
 
 ## Downloaded Video
 
-- [03_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4](../../../rendered-clips/2026-07-16/03_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4)
+- [03_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4](../../../rendered-clips/2026-07-17/03_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4)
 
 ## Text
 

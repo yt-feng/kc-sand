@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T19:22:16.833Z",
+  "fetchedAt": "2026-07-16T20:28:34.407Z",
   "targetDate": {
     "iso": "2026-07-16",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 131,
+    "itemCount": 130,
     "window": {
       "hours": 24,
-      "start": "2026-07-15T19:22:16.833Z",
-      "end": "2026-07-16T19:22:16.833Z",
+      "start": "2026-07-15T20:28:34.407Z",
+      "end": "2026-07-16T20:28:34.407Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-16T19:27:21.235Z",
+    "capturedAt": "2026-07-16T20:33:38.297Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-16",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-16/01_military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251499/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7791546C0B540104C4B44F168ADA552A8E6087CE.83F0D5A28002E2153089BC79D8BE4435F659000F/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251499/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/76995CE7509BE8016976457F6CEF3EB1DE9CE576.435B44F9DDDCADCF906F3532CE427030E70E329B/key/cms1/cms_redirect/yes/met/1784229906,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229721/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255473/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/376077CA70374BAC02D88D4D4E72DCCEF212E6F0.72E58E965160BC5C6E53F652E1803FFB9C728515/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255473/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/71CDEF314207D2F32197DF167437692622F117F6.62C71561783359D66A39E108C8D23344BAC3ECBE/key/cms1/cms_redirect/yes/met/1784233880,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784233431/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/HfaV9xUD.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59d93e_2187a65a7457a9c517202adbb584df8fc2d02987/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=326311.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59d93e_2187a65a7457a9c517202adbb584df8fc2d02987/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=559831.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59ead2_9921f7624f8a4e7be609b11b20de0688bf0bb54a/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=326311.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59ead2_9921f7624f8a4e7be609b11b20de0688bf0bb54a/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=559831.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-16/01_military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251499/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7791546C0B540104C4B44F168ADA552A8E6087CE.83F0D5A28002E2153089BC79D8BE4435F659000F/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255473/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/376077CA70374BAC02D88D4D4E72DCCEF212E6F0.72E58E965160BC5C6E53F652E1803FFB9C728515/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-16/02_us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251523/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/636EC51108866E16D2D516E306B88B6F4B22C6C5.45038E9449764773EED449DD071E99A43D384771/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251523/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/314279441E94C02DCC104812A15572964C9A9018.8264FB780FC4D5795088640916EB199EDF9BC6E7/key/cms1/cms_redirect/yes/met/1784229931,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229345/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255497/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/50CD8252D9728B875FE3BCABB3ED75C6DF85536F.214B18091CE49F278C8FD20FE8CA614ED29AA747/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255497/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/557CE0C0C147B88460D480C5B51AF7D0D972C3DC.0FA68DA83F6D65DC7B709F22253CD6B5A20377B8/key/cms1/cms_redirect/yes/met/1784233903,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784233431/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/VclItGOV.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59db10_f4e813c9538da9f0ae3b944139dc1b281b36c779/sites/wPTWN2YS/media/VclItGOV/versions/46wWzbfv/manifest.ism/manifest-audio_0_IkbWi4th_1YBv7nG3=111999-video_0_IkbWi4th_HANDjwaY=458728.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59e920_b0d553e7a31c34ff0b465bb6d79839e5adefd661/sites/wPTWN2YS/media/VclItGOV/versions/46wWzbfv/manifest.ism/manifest-audio_0_IkbWi4th_1YBv7nG3=111999-video_0_IkbWi4th_HANDjwaY=458728.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2651085-us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-16/02_us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251523/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/636EC51108866E16D2D516E306B88B6F4B22C6C5.45038E9449764773EED449DD071E99A43D384771/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255497/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/50CD8252D9728B875FE3BCABB3ED75C6DF85536F.214B18091CE49F278C8FD20FE8CA614ED29AA747/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-16/03_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251546/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/111CFB299A03974856F45FF79E1EC02B0BEB5FFF.66554EC14F178F724CD352DEEBD6444E0F4C8D78/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251546/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/8282C0EA811D35115506424C7ADF6B9A6A94CFDE.725DF7403B4FE1571CDB5A464DCA4F22AE0E4009/key/cms1/cms_redirect/yes/met/1784229951,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229459/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255518/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/095836BA6222B53B3A6E4C0AF7BCD8DF41A56340.71165F93320FAC89378E3C6255E2092828885D71/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255518/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5ACD06553EE1F794EB580F6813E8DA06EE86B6A3.6A9A48E52595C3D6C00AE2EE659C6CF931294737/key/cms1/cms_redirect/yes/met/1784233923,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784233431/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/fgPKqZIt.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59dad9_12efced134415b3470be93c171c395aa6ada86d2/sites/wPTWN2YS/media/fgPKqZIt/versions/6a6XvWbq/manifest.ism/manifest-audio_0_v2tj7Agx_A9OEBKeI=111999-video_0_v2tj7Agx_syvgLReA=161048.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59e8e9_67c9d4e1e416bda83cf96753a0240e4b49638c86/sites/wPTWN2YS/media/fgPKqZIt/versions/6a6XvWbq/manifest.ism/manifest-audio_0_v2tj7Agx_A9OEBKeI=111999-video_0_v2tj7Agx_syvgLReA=161048.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2651127-peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-16/03_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251546/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/111CFB299A03974856F45FF79E1EC02B0BEB5FFF.66554EC14F178F724CD352DEEBD6444E0F4C8D78/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255518/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/095836BA6222B53B3A6E4C0AF7BCD8DF41A56340.71165F93320FAC89378E3C6255E2092828885D71/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -327,8 +327,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251566/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/115B93212826E9B2058621825B9A3BCF1D7BB7BB.9B2D0E46E7C93615D181704282B3073BD228C3C0/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251566/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4AA01663AD157E8157E326232F3A836146EF4D0E.40486F71C0884A1D82816DFA2A9B7AB4FE447C13/key/cms1/cms_redirect/yes/met/1784229970,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229832/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255542/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/895017EF439EF5DD6E9D046A67E7F94C280D1DD8.67409A55444C04786496E13B4DFE750D78320232/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255542/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4A6A8C0566085936BF7167FAE32B8935BFEBA61B.2202B58D6E81C5622AA85EDAA9770738F0948EE5/key/cms1/cms_redirect/yes/met/1784233946,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784233431/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/image.jpg",
@@ -354,8 +354,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251585/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3CDAB4AFA04F1B3A726D473BD449217689379405.A1316D30C01F5A87B4A6207E0732E846F75D1444/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251585/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/237A5BA3776FD02B65707132AF3764385833800E.26C43F6013AD1D5B626C8FCBA5F25C30F3E05520/key/cms1/cms_redirect/yes/met/1784229990,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229721/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255561/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2143743161EEFD0921898A282E57BC94E4D712FC.36E2A0718FB7C32FBE6AEF716AA4E9ACACAE08FC/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255561/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/43CA3FB47719A1FF83673B6673C9CCFEF0F73F6F.13BFA86CD95F8352F157D72A87FF79FA792F4011/key/cms1/cms_redirect/yes/met/1784233966,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784233749/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/image.png",
@@ -381,10 +381,10 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251605/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8850C5FDE9A83A474203147989B3DA8A55E3AE59.2575D7BDAC05D5BB7C4F3C3242EEFFE515B14DF5/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251605/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6B871FB2299D4327CE68D067CAC3E0EEE1B2BF91.42ED650A437E87D279F02681745E339CC667EBE9/key/cms1/cms_redirect/yes/met/1784230011,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229721/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255581/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/07066641CF433448213F262B8AB3C606E441673D.02D63ACECFDAA8F6011836BC0B09160CA18F8DA7/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255581/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/17390B182D286DAC9BB9D1C12B5F064E5B687A9D.4FEEC6390E3A23D64827807CF9B999F1DC43A18C/key/cms1/cms_redirect/yes/met/1784233987,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784233652/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/HfaV9xUD.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59d93e_2187a65a7457a9c517202adbb584df8fc2d02987/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=559831.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59ead2_9921f7624f8a4e7be609b11b20de0688bf0bb54a/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=559831.m3u8"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/image.jpg",
@@ -410,8 +410,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251626/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/02A98843D34D5A4FB49006433691A5936448EB06.91F9A4F49CE999FA759A3BE1EA6BEC3F2695BB31/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251626/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/20D9B6EC5AE95E003DBCABE9694EC633B6E29114.033E4FC20759A47E28A7E97F337B7E5F8911DD30/key/cms1/cms_redirect/yes/met/1784230029,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229721/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255603/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/069248E66F63435E145108C93BC719B8E0ED08BD.679BFE63703695ACAF059B0B584AE42289D0937C/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784255603/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7AC2199AB128877746DED3E58E13853AC918476D.19943510C87233EA12BFAD566B14CA22C1ABA3D4/key/cms1/cms_redirect/yes/met/1784234006,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784233749/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/image.jpg",

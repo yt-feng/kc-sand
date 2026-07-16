@@ -16,7 +16,7 @@ DUBAI: Dubai ⁠Media Office said ⁠on Thursday ‌there ‌had ​been ‌no �
 
 ## Video Or Embed URLs
 
-- https://a667b8e97972c717ccda5b5ea5b9d1d2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b064dbe869beaa20866c656781c01098.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T17:47:55.000Z",
+  "fetchedAt": "2026-07-16T19:22:16.833Z",
   "targetDate": {
     "iso": "2026-07-16",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,39 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 130,
+    "itemCount": 131,
     "window": {
       "hours": 24,
-      "start": "2026-07-15T17:47:55.000Z",
-      "end": "2026-07-16T17:47:55.000Z",
+      "start": "2026-07-15T19:22:16.833Z",
+      "end": "2026-07-16T19:22:16.833Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Iran tells Houthis to close Bab El-Mandeb strait if US hits power network: Reports",
+        "url": "https://www.arabnews.com/node/2651170/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/16/4731927-279625064.jpg?itok=s61JROFN",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/metadata.json",
+            "content": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/content.md",
+            "text": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/image.jpg",
+            "video": null
+          }
+        }
+      },
       {
         "title": "No sounds of ‘explosions’ in downtown Dubai, says media office",
         "url": "https://www.arabnews.com/node/2651188/middle-east",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office",
+          "directory": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/metadata.json",
-            "content": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/content.md",
-            "text": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/metadata.json",
+            "content": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/content.md",
+            "text": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/image.png",
+            "image": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/image.png",
             "video": null
           }
         }
@@ -119,16 +141,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south",
+          "directory": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/metadata.json",
-            "content": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/content.md",
-            "text": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/metadata.json",
+            "content": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/content.md",
+            "text": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/image.jpg",
+            "image": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/image.jpg",
             "video": null
           }
         }
@@ -141,38 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/metadata.json",
-            "content": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/content.md",
-            "text": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Escalating Israeli strikes kill five people in Gaza, medics say",
-        "url": "https://www.arabnews.com/node/2651141/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/16/4731844-245847908.jpg?itok=Ii8qCf-X",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say",
+          "directory": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say/metadata.json",
-            "content": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say/content.md",
-            "text": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/metadata.json",
+            "content": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/content.md",
+            "text": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say/image.jpg",
+            "image": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-16T17:52:57.205Z",
+    "capturedAt": "2026-07-16T19:27:21.235Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-16",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-16/01_military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245833/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9C689053DEEFABD4F42D5140D0D0338CA88A9162.81EE3D0A70149833E6437A5242518DA386007E98/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245833/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/780430F3FD80954BAE216C28C2CC29AFA175D71A.589C56D898EB86FAD629032CE6DF740EC6447ED0/key/cms1/cms_redirect/yes/met/1784224240,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784223996/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251499/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7791546C0B540104C4B44F168ADA552A8E6087CE.83F0D5A28002E2153089BC79D8BE4435F659000F/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251499/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/76995CE7509BE8016976457F6CEF3EB1DE9CE576.435B44F9DDDCADCF906F3532CE427030E70E329B/key/cms1/cms_redirect/yes/met/1784229906,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229721/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/HfaV9xUD.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59c426_68d7cb3bb51345b0ffb2cbd70c899f91020cfb36/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=326311.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59c426_68d7cb3bb51345b0ffb2cbd70c899f91020cfb36/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=559831.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59d93e_2187a65a7457a9c517202adbb584df8fc2d02987/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=326311.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59d93e_2187a65a7457a9c517202adbb584df8fc2d02987/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=559831.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-16/01_military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245833/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9C689053DEEFABD4F42D5140D0D0338CA88A9162.81EE3D0A70149833E6437A5242518DA386007E98/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251499/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7791546C0B540104C4B44F168ADA552A8E6087CE.83F0D5A28002E2153089BC79D8BE4435F659000F/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-16/02_us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245856/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/830A271BB83F104D639D71F0BA3235772F8E6BFE.B27D036F44948C135FDD77B82B7FB92E34E70309/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245856/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/58F9E0CEA31CF50C1D71664699EF885630915C8C.3B763858494DA1B92998C8A1DDFBE8D168AA998A/key/cms1/cms_redirect/yes/met/1784224263,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784223996/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251523/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/636EC51108866E16D2D516E306B88B6F4B22C6C5.45038E9449764773EED449DD071E99A43D384771/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251523/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/314279441E94C02DCC104812A15572964C9A9018.8264FB780FC4D5795088640916EB199EDF9BC6E7/key/cms1/cms_redirect/yes/met/1784229931,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229345/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/VclItGOV.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59c5f8_55ed4519b036880b88765ed4b4c36e135377111b/sites/wPTWN2YS/media/VclItGOV/versions/46wWzbfv/manifest.ism/manifest-audio_0_IkbWi4th_1YBv7nG3=111999-video_0_IkbWi4th_HANDjwaY=458728.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59db10_f4e813c9538da9f0ae3b944139dc1b281b36c779/sites/wPTWN2YS/media/VclItGOV/versions/46wWzbfv/manifest.ism/manifest-audio_0_IkbWi4th_1YBv7nG3=111999-video_0_IkbWi4th_HANDjwaY=458728.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2651085-us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-16/02_us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245856/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/830A271BB83F104D639D71F0BA3235772F8E6BFE.B27D036F44948C135FDD77B82B7FB92E34E70309/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251523/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/636EC51108866E16D2D516E306B88B6F4B22C6C5.45038E9449764773EED449DD071E99A43D384771/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-16/03_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245880/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2A12945BD6800FD2253DCA08B0B557B8DE91B277.06CA4018E7D1F927A8FB1F54DAF7478141E84647/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245880/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/52B0A397DD68FCD4F6672A92C0E0B8C7C0161418.4B817E363F4093F25EDE7E0F7AF6D52F4850459E/key/cms1/cms_redirect/yes/met/1784224285,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784224261/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251546/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/111CFB299A03974856F45FF79E1EC02B0BEB5FFF.66554EC14F178F724CD352DEEBD6444E0F4C8D78/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251546/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/8282C0EA811D35115506424C7ADF6B9A6A94CFDE.725DF7403B4FE1571CDB5A464DCA4F22AE0E4009/key/cms1/cms_redirect/yes/met/1784229951,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229459/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/fgPKqZIt.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59c23d_ce51759430ca4d555c5757de54aa0d83c0de6ccf/sites/wPTWN2YS/media/fgPKqZIt/versions/6a6XvWbq/manifest.ism/manifest-audio_0_v2tj7Agx_A9OEBKeI=111999-video_0_v2tj7Agx_syvgLReA=161048.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59dad9_12efced134415b3470be93c171c395aa6ada86d2/sites/wPTWN2YS/media/fgPKqZIt/versions/6a6XvWbq/manifest.ism/manifest-audio_0_v2tj7Agx_A9OEBKeI=111999-video_0_v2tj7Agx_syvgLReA=161048.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2651127-peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-16/03_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245880/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2A12945BD6800FD2253DCA08B0B557B8DE91B277.06CA4018E7D1F927A8FB1F54DAF7478141E84647/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251546/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/111CFB299A03974856F45FF79E1EC02B0BEB5FFF.66554EC14F178F724CD352DEEBD6444E0F4C8D78/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -314,24 +314,51 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "No sounds of ‘explosions’ in downtown Dubai, says media office",
-        "url": "https://www.arabnews.com/node/2651188/middle-east",
-        "directory": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office",
+        "title": "Iran tells Houthis to close Bab El-Mandeb strait if US hits power network: Reports",
+        "url": "https://www.arabnews.com/node/2651170/middle-east",
+        "directory": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/metadata.json",
-          "content": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/content.md",
-          "text": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/metadata.json",
+          "content": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/content.md",
+          "text": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/image.png",
+          "image": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245902/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/556DF861E1D7E8361F6C1B4E3A0CBFFFB3C02D5D.947BDAEC3FA779607C76F4856EDE95F19540F2B8/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245902/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/02D6E2B821004789B6901887832C069A3B9D3713.3FD5F88F353F60945161948FEFEB76C08E3F84D8/key/cms1/cms_redirect/yes/met/1784224306,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784223996/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251566/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/115B93212826E9B2058621825B9A3BCF1D7BB7BB.9B2D0E46E7C93615D181704282B3073BD228C3C0/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251566/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4AA01663AD157E8157E326232F3A836146EF4D0E.40486F71C0884A1D82816DFA2A9B7AB4FE447C13/key/cms1/cms_redirect/yes/met/1784229970,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229832/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/image.png",
+          "path": "archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/16/4731927-279625064.jpg?itok=sqYePona",
+          "contentType": "image/jpeg",
+          "bytes": 38369
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "No sounds of ‘explosions’ in downtown Dubai, says media office",
+        "url": "https://www.arabnews.com/node/2651188/middle-east",
+        "directory": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/metadata.json",
+          "content": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/content.md",
+          "text": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/image.png",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251585/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3CDAB4AFA04F1B3A726D473BD449217689379405.A1316D30C01F5A87B4A6207E0732E846F75D1444/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251585/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/237A5BA3776FD02B65707132AF3764385833800E.26C43F6013AD1D5B626C8FCBA5F25C30F3E05520/key/cms1/cms_redirect/yes/met/1784229990,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229721/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/image.png",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/16/4731971-157507386.png?itok=7FtuVCeJ",
           "contentType": "image/png",
           "bytes": 222966
@@ -340,27 +367,27 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "Military talks to finalize pilot zones for Israeli withdrawal in southern Lebanon",
         "url": "https://www.arabnews.com/node/2651160/middle-east",
-        "directory": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south",
+        "directory": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/metadata.json",
-          "content": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/content.md",
-          "text": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/metadata.json",
+          "content": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/content.md",
+          "text": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/image.jpg",
+          "image": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245924/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4C46DA656196F6FFA00CDF1FF7EE64AB4D9CE494.A981943EE6E2A22D748AAB46D6DBECFB6BBF6FED/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245924/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/46C1994C312A2DA1F55838F5BD71FE9A2A6DCA6F.4A935C8E39493B24764379348746DB27346474E2/key/cms1/cms_redirect/yes/met/1784224330,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784223996/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251605/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8850C5FDE9A83A474203147989B3DA8A55E3AE59.2575D7BDAC05D5BB7C4F3C3242EEFFE515B14DF5/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251605/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6B871FB2299D4327CE68D067CAC3E0EEE1B2BF91.42ED650A437E87D279F02681745E339CC667EBE9/key/cms1/cms_redirect/yes/met/1784230011,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229721/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/HfaV9xUD.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a59c426_68d7cb3bb51345b0ffb2cbd70c899f91020cfb36/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=559831.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59d93e_2187a65a7457a9c517202adbb584df8fc2d02987/sites/wPTWN2YS/media/HfaV9xUD/versions/3uKLijhj/manifest.ism/manifest-audio_0_fMLxWxDR_EyqbpoDm=111999-video_0_fMLxWxDR_CYXUS32X=559831.m3u8"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/image.jpg",
+          "path": "archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/16/4731905-1590522375.jpg?itok=DLcdRBnU",
           "contentType": "image/jpeg",
           "bytes": 55066
@@ -369,55 +396,28 @@
       },
       {
         "group": "headlines",
-        "index": 2,
+        "index": 3,
         "title": "Syria foils attempt to smuggle weapons to Hezbollah from Iraq, state news agency says",
         "url": "https://www.arabnews.com/node/2651120/middle-east",
-        "directory": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne",
+        "directory": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/metadata.json",
-          "content": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/content.md",
-          "text": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/metadata.json",
+          "content": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/content.md",
+          "text": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/image.jpg",
+          "image": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245943/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AC8499BDC1879F4096C959CA182EAE42AA53A89B.1F5407984003372EE2189CEA22F1AF162C5B1F82/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245943/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4983882D8DC46ED6605BAB72B4B93172D7B71945.7DE3F67DC161C3ACFECCD404AFA7CBAF5B542DEF/key/cms1/cms_redirect/yes/met/1784224347,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784223996/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251626/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/02A98843D34D5A4FB49006433691A5936448EB06.91F9A4F49CE999FA759A3BE1EA6BEC3F2695BB31/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784251626/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/20D9B6EC5AE95E003DBCABE9694EC633B6E29114.033E4FC20759A47E28A7E97F337B7E5F8911DD30/key/cms1/cms_redirect/yes/met/1784230029,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784229721/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/image.jpg",
+          "path": "archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/16/4731796-1542054178.jpg?itok=DB5bKR-x",
           "contentType": "image/jpeg",
           "bytes": 41355
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
-        "index": 3,
-        "title": "Escalating Israeli strikes kill five people in Gaza, medics say",
-        "url": "https://www.arabnews.com/node/2651141/middle-east",
-        "directory": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say/metadata.json",
-          "content": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say/content.md",
-          "text": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245961/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/39002FEDC2E0D46BE55403E2D46AEA667D30B9D5.12F8FCF696CA137C77E029B11540C3EE48DA4448/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784245961/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/03472D2948BF92851BC5202FB94FAE31D38918D0.164D833249779C8E5756BF83F63436C346263694/key/cms1/cms_redirect/yes/met/1784224365,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784223996/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/04-2651141-escalating-israeli-strikes-kill-five-people-in-gaza-medics-say/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/16/4731844-245847908.jpg?itok=5yyEHNZj",
-          "contentType": "image/jpeg",
-          "bytes": 52681
         },
         "video": null
       }

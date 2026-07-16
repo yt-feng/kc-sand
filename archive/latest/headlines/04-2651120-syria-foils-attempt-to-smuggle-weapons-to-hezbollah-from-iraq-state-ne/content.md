@@ -16,11 +16,11 @@ DUBAI: Syrian authorities said on Thursday they had foiled an attempt to smuggle
 
 ## Video Or Embed URLs
 
-- https://5942daf1b649400099205c2c6d66ef66.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://25f7f960dc96512212777a8ff1cf6632.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651120%2Fmiddle-east
 

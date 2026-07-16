@@ -16,9 +16,9 @@ ISLAMABAD: Pakistan on Thursday urged the United States and Iran to shun renewed
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/6f30bcb9-7239-422e-b094-87a016fbd7ac
+- blob:https://www.arabnews.com/f8668ae2-4d20-4c65-94ed-f9b8a946bc8c
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://a3570d938ad12e7b1caca27b1cbc3004.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://81e0c3d4bc508304661698d3bd9e2634.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

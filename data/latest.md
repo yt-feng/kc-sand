@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-16T21:38:52.629Z
+Fetched at: 2026-07-16T23:03:15.402Z
 Target date: 2026-07-17 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-17 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Iraq PM condemns ‘drone attack’ over Erbil: statement](https://www.arabnews.com/node/2651093/middle-east) - archive: archive/latest/headlines/01-2651093-iraq-pm-condemns-drone-attack-over-erbil-statement/content.md
-2. [Israel tells Pentagon chief will keep troops in Lebanon, Syria, Gaza ‘security zones’](https://www.arabnews.com/node/2651105/middle-east) - archive: archive/latest/headlines/02-2651105-israel-tells-pentagon-chief-will-keep-troops-in-lebanon-syria-gaza-sec/content.md
-3. [Israel says killed three Hezbollah members in south Lebanon](https://www.arabnews.com/node/2651074/middle-east) - archive: archive/latest/headlines/03-2651074-israel-says-killed-three-hezbollah-members-in-south-lebanon/content.md
-4. [UN diplomats trade cables for footballs as Argentina take on England in World Cup](https://www.arabnews.com/node/2651081/world) - archive: archive/latest/headlines/04-2651081-un-diplomats-trade-cables-for-footballs-as-argentina-take-on-england-i/content.md
+1. [Iran tells Houthis to close Bab El-Mandeb strait if US hits power network: Reports](https://www.arabnews.com/node/2651170/middle-east) - archive: archive/latest/headlines/01-2651170-iran-tells-houthis-to-close-bab-el-mandeb-strait-if-us-hits-power-netw/content.md
+2. [No sounds of ‘explosions’ in downtown Dubai, says media office](https://www.arabnews.com/node/2651188/middle-east) - archive: archive/latest/headlines/02-2651188-no-sounds-of-explosions-in-downtown-dubai-says-media-office/content.md
+3. [Military talks to finalize pilot zones for Israeli withdrawal in southern Lebanon](https://www.arabnews.com/node/2651160/middle-east) - archive: archive/latest/headlines/03-2651160-military-talks-to-finalize-pilot-zones-for-israeli-withdrawal-in-south/content.md
+4. [Syria foils attempt to smuggle weapons to Hezbollah from Iraq, state news agency says](https://www.arabnews.com/node/2651120/middle-east) - archive: archive/latest/headlines/04-2651120-syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-ne/content.md

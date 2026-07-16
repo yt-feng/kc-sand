@@ -16,9 +16,9 @@ ATLANTA: Argentina coach Lionel Scaloni saluted his team’s never-say-die menta
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/ab7fb7b3-75c8-4e16-9785-7637e441b644
+- blob:https://www.arabnews.com/3d6e0123-a72e-499f-a133-c239bcb907f1
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://409fa71e56d4ae7d1d8d02aef9601206.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://650c3a4e371ffc83c8c615d9266b7408.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot

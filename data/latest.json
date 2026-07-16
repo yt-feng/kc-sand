@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T12:24:44.741Z",
+  "fetchedAt": "2026-07-16T14:34:48.220Z",
   "targetDate": {
     "iso": "2026-07-16",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 143,
+    "itemCount": 137,
     "window": {
       "hours": 24,
-      "start": "2026-07-15T12:24:44.741Z",
-      "end": "2026-07-16T12:24:44.741Z",
+      "start": "2026-07-15T14:34:48.220Z",
+      "end": "2026-07-16T14:34:48.220Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-16T12:30:10.207Z",
+    "capturedAt": "2026-07-16T14:40:27.800Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-16",
     "itemCount": 7,
@@ -221,11 +221,11 @@
           "video": "rendered-clips/2026-07-16/01_us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226449/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3FA4F06CD0BFD5E05D3D5D9A237C5C27F2B62653.1DF4AFBC7C5D7E2EFB40044D2DA5ADC26DE60044/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226449/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/73CD97CEB38E5D90B25C2BAB3DC12B0B226AE873.389035DF74B93BED6E1E5ED8C29DE31408B15FB2/key/cms1/cms_redirect/yes/met/1784204857,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784204412/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234255/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3AE4F69B7B113DE500570734E4C9F1DF92B121AC.718A85E03956B3FE81DBCA4B23FBBD64D8B2D725/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234255/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/23EEF169B3D9B013F95702BF007EA269A6AA4A9B.08AC76E49469E05AED8AA8AE1D7ACDF949D81BE8/key/cms1/cms_redirect/yes/met/1784212662,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784212337/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/VclItGOV.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5978a0_d90ac7339cc6e6792df4e4ffc2ade8b8c09d978d/sites/wPTWN2YS/media/VclItGOV/versions/46wWzbfv/manifest.ism/manifest-audio_0_IkbWi4th_1YBv7nG3=111999-video_0_IkbWi4th_HANDjwaY=291804.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5978a0_d90ac7339cc6e6792df4e4ffc2ade8b8c09d978d/sites/wPTWN2YS/media/VclItGOV/versions/46wWzbfv/manifest.ism/manifest-audio_0_IkbWi4th_1YBv7nG3=111999-video_0_IkbWi4th_HANDjwaY=458728.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a599844_cad6faba82e96c2d1fd3333801096f32c65c75e1/sites/wPTWN2YS/media/VclItGOV/versions/46wWzbfv/manifest.ism/manifest-audio_0_IkbWi4th_1YBv7nG3=111999-video_0_IkbWi4th_HANDjwaY=291804.m3u8",
+          "https://videos-cloudfront-usp.jwpsrv.com/6a599844_cad6faba82e96c2d1fd3333801096f32c65c75e1/sites/wPTWN2YS/media/VclItGOV/versions/46wWzbfv/manifest.ism/manifest-audio_0_IkbWi4th_1YBv7nG3=111999-video_0_IkbWi4th_HANDjwaY=458728.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2651085-us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda/image.jpg",
@@ -235,7 +235,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-16/01_us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226449/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3FA4F06CD0BFD5E05D3D5D9A237C5C27F2B62653.1DF4AFBC7C5D7E2EFB40044D2DA5ADC26DE60044/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234255/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3AE4F69B7B113DE500570734E4C9F1DF92B121AC.718A85E03956B3FE81DBCA4B23FBBD64D8B2D725/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -257,10 +257,10 @@
           "video": "rendered-clips/2026-07-16/02_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226474/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2F4A38CB9191CB1CAAF370080DAE3033EE968A69.AFBB2F2258E401F57E15E98D29E2150EE08F020D/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226474/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0AAD944101BCB43385FCA8FB13D85796E7F27FE8.745D788FD49B14255875A6F26FF1F479C51FC60E/key/cms1/cms_redirect/yes/met/1784204879,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784204412/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234280/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/683064358D5F897FFC58EEC751947E210CB096EB.66A6725846EC2173531F0FF87373F416016FAA1D/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234280/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/50C29FE99FE42FE22251B6CDA482A06BB460DAD2.7A4FA8A8DCAB166D52B4EA90C083CD51BD53B20B/key/cms1/cms_redirect/yes/met/1784212686,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784212337/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/fgPKqZIt.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a597869_96950834b79a4f91924e6f61ca9923964cccb1b7/sites/wPTWN2YS/media/fgPKqZIt/versions/6a6XvWbq/manifest.ism/manifest-audio_0_v2tj7Agx_A9OEBKeI=111999-video_0_v2tj7Agx_syvgLReA=161048.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a59980d_9d38cb4b1ebe5b120556c6d0e15f8e95001bc185/sites/wPTWN2YS/media/fgPKqZIt/versions/6a6XvWbq/manifest.ism/manifest-audio_0_v2tj7Agx_A9OEBKeI=111999-video_0_v2tj7Agx_syvgLReA=161048.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2651127-peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume/image.jpg",
@@ -270,7 +270,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-16/02_peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226474/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2F4A38CB9191CB1CAAF370080DAE3033EE968A69.AFBB2F2258E401F57E15E98D29E2150EE08F020D/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234280/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/683064358D5F897FFC58EEC751947E210CB096EB.66A6725846EC2173531F0FF87373F416016FAA1D/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -292,10 +292,10 @@
           "video": "rendered-clips/2026-07-16/03_argentina-smelt-blood-in-water-in-england-win-scaloni.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226496/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/78C1704F94155392F7FD60A78247FA1D3A738C42.35A3D0F7EA7103EA89A6C2D087706E304FA22DD5/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226496/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/82D4073B1DCEE98A3CBBAB5B33DE2D1F26EDB1A8.3119B52E493FD882A4B517CCCCCE749F440B03/key/cms1/cms_redirect/yes/met/1784204901,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784204412/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234301/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/685FEEB35BABB7B7D0A43DB67BE190F92CF4FFFF.14A3FDE98A9AC20A061942D062E69F4F2458DFA1/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234301/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1B75E1EEB0DA1B41812AE69D7B5C0BDBF6F43C2A.134AC66AD159E0171752603257741F5EFB6AD8EF/key/cms1/cms_redirect/yes/met/1784212705,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784212337/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/B6y5U8i9.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a597a88_f998043232409cfb619cc6b47637b5aa8882fb7e/sites/wPTWN2YS/media/B6y5U8i9/versions/07TX0LKy/manifest.ism/manifest-audio_0_bb9nG60r_3j0NrxQI=111999-video_0_bb9nG60r_NCaoQ9SB=429764.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5996a8_4afb28f63500c352479d3190be4e043b9f9a4634/sites/wPTWN2YS/media/B6y5U8i9/versions/07TX0LKy/manifest.ism/manifest-audio_0_bb9nG60r_3j0NrxQI=111999-video_0_bb9nG60r_NCaoQ9SB=429764.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2651130-argentina-smelt-blood-in-water-in-england-win-scaloni/image.jpg",
@@ -305,7 +305,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-16/03_argentina-smelt-blood-in-water-in-england-win-scaloni.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226496/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/78C1704F94155392F7FD60A78247FA1D3A738C42.35A3D0F7EA7103EA89A6C2D087706E304FA22DD5/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234301/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/685FEEB35BABB7B7D0A43DB67BE190F92CF4FFFF.14A3FDE98A9AC20A061942D062E69F4F2458DFA1/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -327,8 +327,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226535/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3AC5E6D097C8DA06AC2F1860A18AAB788909FCE9.4B86675C21FEC118A101136802BE33E5D69A20B2/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226535/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4E0B50C7C7A3302433260EB877A025EA341B0DCC.1635A1E9501174F359024348507A2007B153C747/key/cms1/cms_redirect/yes/met/1784204939,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784204412/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234351/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/01EE055C6F5DA3F334E823A66123A1F0708477A5.93480238B570B5200585DE052E1D32C190803673/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234351/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/454BD105DB0D74416B991BBB5EC511FA6CAC1660.16CD7247C8BE42B5B6C5987FC48C81FC6E6C4BB9/key/cms1/cms_redirect/yes/met/1784212755,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784212337/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2651109-icc-warns-world-cannot-ignore-warnings-of-new-atrocities-in-sudan/image.png",
@@ -354,8 +354,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226554/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/81D0B99727C63F45388043AEC63723E95E72F0E4.85FF8E3B012A6C99F6AC5BD3E2710498B4D8D561/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226554/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/6D910BF4DF138BD4669A647597E25357840A3D7A.536E498F73E7D231F09B8023FFA8FA9CF79D9F80/key/cms1/cms_redirect/yes/met/1784204959,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784204412/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234371/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A728C83E8FD8068F43E3D66CD356EB33A7B396B2.6AB03580830C8AC7DDF12551F8D238DBA6345FD6/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234371/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/255BD8F2BCE313D52087F3FDAC76D46A2D2A51A5.058E019AE574EC7D825DA1D7C1E7F38AAC063B3A/key/cms1/cms_redirect/yes/met/1784212776,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784212337/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2651093-iraq-pm-condemns-drone-attack-over-erbil-statement/image.jpg",
@@ -381,8 +381,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226574/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A893BF1887F1EFD96EB1B6AA79A0D3F35677B212.7B64AE23FB7E3290B24055DCB493341965AF2081/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226574/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/66EA7005B67AC263AD6FFEEE9705682FF28766B0.1180EEFD894F62E1B5CCA90CE334A43272A27DB0/key/cms1/cms_redirect/yes/met/1784204978,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784204659/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234391/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7494BB9AEF5F55F7796BD5D30EB8916C882545C8.84EC703392D57CD5A5FEE8C289B8FB06EC126729/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234391/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/013C27416BADF6E233BB8BFA579888371E4FF60E.83999996CB3DB060C57546DF82FF874E6A6C9C0F/key/cms1/cms_redirect/yes/met/1784212796,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784212476/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2651105-israel-tells-pentagon-chief-will-keep-troops-in-lebanon-syria-gaza-sec/image.jpg",
@@ -408,8 +408,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226594/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7F27AEDFDAB4898A26FD65CA730DC4739E875F43.6A81907A9993CC2EB70F87919F2045375AAD147C/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784226594/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7E15992AF27AB9C1E063A1EE2BCE094D5395CB02.0229965F155A9A14465569B98BCB834F45F7475E/key/cms1/cms_redirect/yes/met/1784204998,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784204729/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234412/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9A00EE0E6BB0794A5A50298B05F12E6A2B0BBDA5.6AA8B850D0C886CD50EFC1A9B3E5F914B2A0A4F5/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784234412/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2BD821AB3F73573A3E099BB96DB4BCFD80FF7F25.46CFC1E004B2DC81C7428130A6017EAC55F436CF/key/cms1/cms_redirect/yes/met/1784212817,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784212476/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2651074-israel-says-killed-three-hezbollah-members-in-south-lebanon/image.jpg",

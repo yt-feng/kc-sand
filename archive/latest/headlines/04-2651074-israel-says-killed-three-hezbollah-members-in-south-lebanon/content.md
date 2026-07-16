@@ -16,7 +16,7 @@ JERUSALEM: The Israeli military said it killed three Hezbollah members in south 
 
 ## Video Or Embed URLs
 
-- https://b8f132b7e40b2ed573b42ce6746d119d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://cf063ef18a03f73870150b20d445ee84.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

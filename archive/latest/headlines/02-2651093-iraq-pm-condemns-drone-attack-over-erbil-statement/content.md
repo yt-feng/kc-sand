@@ -16,11 +16,11 @@ BAGHDAD: Iraqi Prime Minister Ali Al-Zaidi condemned a “drone attack” that v
 
 ## Video Or Embed URLs
 
-- https://bdbb21c094649f5955b598beba9a9021.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
+- https://14a4f1fec0af1c6a7a28f1f84773f203.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
-- https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651093%2Fmiddle-east
 

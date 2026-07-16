@@ -16,9 +16,9 @@ ATLANTA: Argentina coach Lionel Scaloni saluted his team’s never-say-die menta
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/69c6695a-1c09-4638-a9f3-3dc1b3ecc0fc
+- blob:https://www.arabnews.com/ab7fb7b3-75c8-4e16-9785-7637e441b644
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://82d6ec127aaeb6ab4d60c101056b64e7.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://409fa71e56d4ae7d1d8d02aef9601206.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot
@@ -27,7 +27,7 @@ ATLANTA: Argentina coach Lionel Scaloni saluted his team’s never-say-die menta
 
 ## Downloaded Video
 
-- [02_argentina-smelt-blood-in-water-in-england-win-scaloni.mp4](../../../rendered-clips/2026-07-16/02_argentina-smelt-blood-in-water-in-england-win-scaloni.mp4)
+- [03_argentina-smelt-blood-in-water-in-england-win-scaloni.mp4](../../../rendered-clips/2026-07-16/03_argentina-smelt-blood-in-water-in-england-win-scaloni.mp4)
 
 ## Text
 

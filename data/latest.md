@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-16T10:30:58.641Z
+Fetched at: 2026-07-16T12:24:44.741Z
 Target date: 2026-07-16 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [Mediator Pakistan says encouraging US, Iran to resume talks](https://www.arabnews.com/node/2651127/middle-east) - archive: archive/latest/videos/01-2651127-mediator-pakistan-says-encouraging-us-iran-to-resume-talks/content.md
-2. [Argentina smelt ‘blood in water’ in England win: Scaloni](https://www.arabnews.com/node/2651130/sport) - archive: archive/latest/videos/02-2651130-argentina-smelt-blood-in-water-in-england-win-scaloni/content.md
-3. [Harry Kane ‘gutted’ after England crash out of World Cup](https://www.arabnews.com/node/2651121/sport) - archive: archive/latest/videos/03-2651121-harry-kane-gutted-after-england-crash-out-of-world-cup/content.md
+1. [US expands attacks deeper into Iran as Tehran retaliates against Jordan, Bahrain and Kuwait](https://www.arabnews.com/node/2651085/middle-east) - archive: archive/latest/videos/01-2651085-us-expands-attacks-deeper-into-iran-as-tehran-retaliates-against-jorda/content.md
+2. [‘Peace never dies’: Pakistan urges US, Iran to shun hostilities and resume talks](https://www.arabnews.com/node/2651127/middle-east) - archive: archive/latest/videos/02-2651127-peace-never-dies-pakistan-urges-us-iran-to-shun-hostilities-and-resume/content.md
+3. [Argentina smelt ‘blood in water’ in England win: Scaloni](https://www.arabnews.com/node/2651130/sport) - archive: archive/latest/videos/03-2651130-argentina-smelt-blood-in-water-in-england-win-scaloni/content.md
 
 ## Homepage Top Headlines
 

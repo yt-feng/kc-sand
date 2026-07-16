@@ -16,11 +16,12 @@ CAIRO: An Israeli airstrike killed a man, his wife and their six-year-old daught
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/e740ab4a-7146-4246-a15b-993620a39035
+- blob:https://www.arabnews.com/4e2083ca-e8c8-4b4d-87d3-b0fa07742f53
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://89c0ff3dc36a01c24ca8c4c3caa806f0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2098235262fe58c484f17a96d40717f8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
+- https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2650968%2Fmiddle-east
 

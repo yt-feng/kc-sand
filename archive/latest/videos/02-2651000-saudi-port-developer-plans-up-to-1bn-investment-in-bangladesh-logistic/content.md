@@ -16,9 +16,9 @@ DHAKA: Saudi developer Red Sea Gateway Terminal has announced plans to invest up
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/b9b1eb2f-4b23-4922-8ab8-ff09923bc428
+- blob:https://www.arabnews.com/e6238979-f58b-4a6c-a07b-dca92307b100
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://8622ab509673b7c78a6c7352deed6082.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://20ad100a02894dfeb9b0ecbc69c28d00.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

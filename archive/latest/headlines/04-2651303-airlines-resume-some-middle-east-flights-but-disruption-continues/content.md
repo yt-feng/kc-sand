@@ -16,7 +16,7 @@ DUBAI: More airlines are restoring flights to parts ‌of the Middle East after 
 
 ## Video Or Embed URLs
 
-- https://6925ed1c84fbf9ce47ea620862454000.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://ff848c85ca2a333318c89d84e667a4b6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html

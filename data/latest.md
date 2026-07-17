@@ -1,11 +1,11 @@
 # Arab News Latest
 
-Fetched at: 2026-07-17T19:20:09.381Z
+Fetched at: 2026-07-17T20:29:06.677Z
 Target date: 2026-07-17 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [US military says it destroyed Iranian port surveillance tower](https://www.arabnews.com/node/2651299/middle-east) - section: US military says it destroyed Iranian port surveillance tower 17 July 2026 - archive: archive/latest/videos/01-2651299-us-military-says-it-destroyed-iranian-port-surveillance-tower/content.md
+1. [US forces launch new strikes against Iran: CENTCOM](https://www.arabnews.com/node/2651299/middle-east) - section: US forces launch new strikes against Iran: CENTCOM 17 July 2026 - archive: archive/latest/videos/01-2651299-us-forces-launch-new-strikes-against-iran-centcom/content.md
 2. [New Labour leader Burnham vows to renew hope as next UK PM](https://www.arabnews.com/node/2651273/world) - archive: archive/latest/videos/02-2651273-new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm/content.md
 3. [How Saudi Arabia is saluting security guard after social media bullying](https://www.arabnews.com/node/2651277/saudi-arabia) - archive: archive/latest/videos/03-2651277-how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin/content.md
 

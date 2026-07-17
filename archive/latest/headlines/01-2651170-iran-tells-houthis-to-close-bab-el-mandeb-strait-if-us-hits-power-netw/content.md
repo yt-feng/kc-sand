@@ -16,11 +16,11 @@ DUBAI: Iran has asked Yemen’s Houthi militia to stand ready to close the Bab E
 
 ## Video Or Embed URLs
 
-- https://653197b6d63299b89982ac4a1170ca81.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://192d5dc1ad3fa49329e4de5a3199a840.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651170%2Fmiddle-east
 
 ## Text

@@ -16,9 +16,9 @@ WASHINGTON: US President Donald Trump will attend Sunday’s World Cup final bet
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/90c8b85d-50ff-4169-bf33-f7bbc5c15bbb
+- blob:https://www.arabnews.com/12fecf4e-3133-46c0-856b-2cca70c39c37
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://7cd12f1e6781dd5542870789b0b08d66.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://4ea1e8ea19a2585f95380924e672cb04.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://sync.teads.tv/wigo-no-slot
@@ -27,7 +27,7 @@ WASHINGTON: US President Donald Trump will attend Sunday’s World Cup final bet
 
 ## Downloaded Video
 
-- [02_trump-to-attend-world-cup-final-on-sunday-white-house.mp4](../../../rendered-clips/2026-07-17/02_trump-to-attend-world-cup-final-on-sunday-white-house.mp4)
+- [03_trump-to-attend-world-cup-final-on-sunday-white-house.mp4](../../../rendered-clips/2026-07-17/03_trump-to-attend-world-cup-final-on-sunday-white-house.mp4)
 
 ## Text
 

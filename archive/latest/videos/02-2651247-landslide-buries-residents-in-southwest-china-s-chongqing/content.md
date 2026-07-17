@@ -16,19 +16,18 @@ BEIJING: An unknown ‌number of people were buried after a landslide struck a c
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/e898b7e1-8ac8-4626-bf90-920b28be3f6d
+- blob:https://www.arabnews.com/47376a6a-7640-4b2a-ac91-d02206766460
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://2a6f3036d7579772e8996d7bf55e4afb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://efcd8cb630c2e6a300b57e9e54bcab0a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1
-- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651247%2Fworld
 
 ## Downloaded Video
 
-- [01_landslide-buries-residents-in-southwest-china-s-chongqing.mp4](../../../rendered-clips/2026-07-17/01_landslide-buries-residents-in-southwest-china-s-chongqing.mp4)
+- [02_landslide-buries-residents-in-southwest-china-s-chongqing.mp4](../../../rendered-clips/2026-07-17/02_landslide-buries-residents-in-southwest-china-s-chongqing.mp4)
 
 ## Text
 

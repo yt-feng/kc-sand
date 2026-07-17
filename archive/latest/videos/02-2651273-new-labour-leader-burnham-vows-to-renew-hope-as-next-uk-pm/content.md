@@ -16,11 +16,11 @@ Andy Burnham vowed Friday to “give hope” back to the British people as he wa
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/f176bb71-c6bc-47ab-b8c6-a9e641243fe9
+- blob:https://www.arabnews.com/7fe68d48-8c4f-4862-b6d4-d1373b4c6571
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://4d97fe71cef3421e55ffeab5cb808cd1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
-- about:blank
+- https://eec940e485fae26fc1e6b8917cae9c83.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
+- about:blank
 - https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651273%2Fworld
 

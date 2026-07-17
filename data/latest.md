@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-17T11:08:33.382Z
+Fetched at: 2026-07-17T12:44:54.845Z
 Target date: 2026-07-17 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [China slams Trump claims of US election meddling as ‘pure fabrications’](https://www.arabnews.com/node/2651264/world) - archive: archive/latest/videos/01-2651264-china-slams-trump-claims-of-us-election-meddling-as-pure-fabrications/content.md
-2. [Landslide buries residents in southwest China’s Chongqing](https://www.arabnews.com/node/2651247/world) - archive: archive/latest/videos/02-2651247-landslide-buries-residents-in-southwest-china-s-chongqing/content.md
-3. [Trump to attend World Cup final on Sunday: White House](https://www.arabnews.com/node/2651201/sport) - archive: archive/latest/videos/03-2651201-trump-to-attend-world-cup-final-on-sunday-white-house/content.md
+1. [How Saudi Arabia is saluting security guard after social media bullying](https://www.arabnews.com/node/2651277/saudi-arabia) - archive: archive/latest/videos/01-2651277-how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin/content.md
+2. [India debuts first indigenous, hydrogen-powered train in clean energy push](https://www.arabnews.com/node/2651274/world) - archive: archive/latest/videos/02-2651274-india-debuts-first-indigenous-hydrogen-powered-train-in-clean-energy-p/content.md
+3. [Two killed as Russian strikes hit Odesa inflicting ‘significant damage’](https://www.arabnews.com/node/2651268/world) - archive: archive/latest/videos/03-2651268-two-killed-as-russian-strikes-hit-odesa-inflicting-significant-damage/content.md
 
 ## Homepage Top Headlines
 

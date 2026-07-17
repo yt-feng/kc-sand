@@ -16,7 +16,7 @@ RIYADH: While most people know Prince Sultan bin Salman Al-Saud as the first Ara
 
 ## Video Or Embed URLs
 
-- https://09427b39f1728cbe03b0c6e77e922490.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2340b2cd3658a84bfd2cdb732d457629.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html

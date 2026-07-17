@@ -16,7 +16,7 @@ WASHINGTON: ​If the US and Iran do not increase oil flowing through the Strait
 
 ## Video Or Embed URLs
 
-- https://72c050a50926d6df529c825bd07edc6d.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b665e9d57ee00c6f368bbd275fca03a7.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html

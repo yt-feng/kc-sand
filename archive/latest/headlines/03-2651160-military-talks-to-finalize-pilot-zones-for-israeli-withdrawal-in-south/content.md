@@ -16,9 +16,9 @@ BEIRUT: Lebanese and Israeli military officials are set to meet virtually on Fri
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/d9773dc7-e7b2-40f2-8f4c-11ac7ecba817
+- blob:https://www.arabnews.com/69b33a37-d101-4cf1-b1af-a3e3b7c98c85
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://58b12ad6a00a7ebbcb3fdd74a82f6477.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://da300b41209297c78b496ec43f9c991c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

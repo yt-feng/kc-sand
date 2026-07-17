@@ -16,9 +16,9 @@ BEIJING: An unknown ‌number of people were buried after a landslide struck a c
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/e436150e-9004-46b9-8756-781474728d41
+- blob:https://www.arabnews.com/e898b7e1-8ac8-4626-bf90-920b28be3f6d
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://758d4de51657c5c6e22e8fb326bb31d2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://2a6f3036d7579772e8996d7bf55e4afb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1

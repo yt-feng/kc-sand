@@ -16,9 +16,9 @@ RIYADH: A Saudi security guard who became the target of online mockery has spark
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/45ab44e4-0b5a-4927-b0f9-54962175b922
+- blob:https://www.arabnews.com/25e7c84c-9cda-4031-afcc-e851a90a7a01
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://62222211562a8ae9d76745808dbaa9d4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://455790caaadbe0f3ce1838811961179a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ RIYADH: A Saudi security guard who became the target of online mockery has spark
 
 ## Downloaded Video
 
-- [03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4](../../../rendered-clips/2026-07-17/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4)
+- [03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4](../../../rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4)
 
 ## Text
 

@@ -16,7 +16,7 @@ DUBAI: Iran’s ‌Revolutionary Guards said on Friday they had attacked a US sp
 
 ## Video Or Embed URLs
 
-- https://d3089b670e2f2519f55ebc9f54f2b8f7.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://098654c9bf6882c0f18f267cf1f9de5c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html

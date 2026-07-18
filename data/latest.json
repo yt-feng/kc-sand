@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T17:03:24.257Z",
+  "fetchedAt": "2026-07-18T18:29:52.283Z",
   "targetDate": {
     "iso": "2026-07-18",
     "timeZone": "Asia/Riyadh"
@@ -78,17 +78,39 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 95,
+    "itemCount": 88,
     "window": {
       "hours": 24,
-      "start": "2026-07-17T17:03:24.257Z",
-      "end": "2026-07-18T17:03:24.257Z",
+      "start": "2026-07-17T18:29:52.283Z",
+      "end": "2026-07-18T18:29:52.283Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
+      {
+        "title": "Kuwait reports injuries and damage to power and water plants after Iranian attack",
+        "url": "https://www.arabnews.com/node/2651398/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/18/4732544-1367584600.png?itok=oUavyQE7",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 0,
+        "archive": {
+          "directory": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/metadata.json",
+            "content": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/content.md",
+            "text": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/image.png",
+            "video": null
+          }
+        }
+      },
       {
         "title": "GCC chief condemns Iranian attacks on Bahrain, Kuwait, Jordan as ‘war crimes’",
         "url": "https://www.arabnews.com/node/2651409/middle-east",
@@ -97,16 +119,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 0,
+        "order": 2,
         "archive": {
-          "directory": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri",
+          "directory": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/metadata.json",
-            "content": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/content.md",
-            "text": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/page-text.txt",
+            "metadata": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/metadata.json",
+            "content": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/content.md",
+            "text": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/image.png",
+            "image": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/image.png",
             "video": null
           }
         }
@@ -119,16 +141,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 4,
         "archive": {
-          "directory": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump",
+          "directory": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/metadata.json",
-            "content": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md",
-            "text": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/page-text.txt",
+            "metadata": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/metadata.json",
+            "content": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md",
+            "text": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
+            "image": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
             "video": null
           }
         }
@@ -141,38 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/metadata.json",
-            "content": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/content.md",
-            "text": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/image.png",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Iraq, US sign 48 agreements during PM’s visit",
-        "url": "https://www.arabnews.com/node/2651394/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/18/4732531-1039853492.jpg?itok=jfhq-3jP",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit",
+          "directory": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/metadata.json",
-            "content": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/content.md",
-            "text": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/metadata.json",
+            "content": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/content.md",
+            "text": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/image.jpg",
+            "image": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/image.png",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-18T17:08:12.397Z",
+    "capturedAt": "2026-07-18T18:34:38.876Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-18",
     "itemCount": 7,
@@ -221,10 +221,10 @@
           "video": "rendered-clips/2026-07-18/01_us-forces-launch-new-strikes-against-iran-centcom.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784415951/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8FB805C9E0AA5251BBB8A4E5A504E171091A7984.64306793B034E2ACCC87E3EF9B19DF80596A6BF2/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784415951/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1BC1F3EBCDD2EB67A394E08955DCFEE5383E5CA0.6BF5577CD5DA485BBAC2CE898C73205A8BCFA43D/key/cms1/cms_redirect/yes/met/1784394358,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784393853/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421136/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6705F42A333BE268EAB6076ED708F4A45AE6E123.23EEA0FDB0BDEDB1F630BCDCAB5FB844A6096991/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421136/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5F36D57004B0DC91AA0256E1AEA872B2AAC2D2AD.650EC387241CE41673CFE43C27BB3FE6297EF7C0/key/cms1/cms_redirect/yes/met/1784399542,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/0b5pf000.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5c5b38_e39ba54fe30edb369d24f454642611887c94c781/sites/wPTWN2YS/media/0b5pf000/versions/8vWD1h9b/manifest.ism/manifest-audio_0_wZcIDWUo_Dcca2UkV=111999-video_0_wZcIDWUo_EUaViVYb=235882.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5c7050_c0ece23f4b9d951e3234e8429e96587aa6ba65d2/sites/wPTWN2YS/media/0b5pf000/versions/8vWD1h9b/manifest.ism/manifest-audio_0_wZcIDWUo_Dcca2UkV=111999-video_0_wZcIDWUo_EUaViVYb=235882.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2651299-us-forces-launch-new-strikes-against-iran-centcom/image.png",
@@ -234,7 +234,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/01_us-forces-launch-new-strikes-against-iran-centcom.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784415951/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8FB805C9E0AA5251BBB8A4E5A504E171091A7984.64306793B034E2ACCC87E3EF9B19DF80596A6BF2/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421136/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6705F42A333BE268EAB6076ED708F4A45AE6E123.23EEA0FDB0BDEDB1F630BCDCAB5FB844A6096991/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -256,10 +256,10 @@
           "video": "rendered-clips/2026-07-18/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784415976/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/44A3FDBF3271631C9DCC30D41F7023305376F5BD.7B46C8D29F6151B33046916D33CE7A0261FF3C94/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784415976/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/63F95CDBEF1205F7BBA399723D2018D797E30890.5D6E937FA881F482B6526163EE9D117C061C0F61/key/cms1/cms_redirect/yes/met/1784394381,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784393853/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421159/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/641B6BDE2829A6205F474BA9AAB2459ADC5704C7.6A285A429B7DECED4C6D7AA1254A219BDD5875D4/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421159/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/803C86C70B2C6540B9DABF3CD9BF236F58B0AF11.06CB4411214B5D1E69D8AE79FD8B8D3CB4F696D1/key/cms1/cms_redirect/yes/met/1784399564,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784398991/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/AKdzzb12.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5c5ba7_0627fda70561de07158ccfb1bd11ffff6a22b28b/sites/wPTWN2YS/media/AKdzzb12/versions/MflNKVy4/manifest.ism/manifest-audio_0_9BgnZTQ4_oUmMIVSQ=111999-video_0_9BgnZTQ4_pkRdDSqk=209294.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5c70bf_04b21c00d9bc02e5d423b9e60d106882d0c2db5d/sites/wPTWN2YS/media/AKdzzb12/versions/MflNKVy4/manifest.ism/manifest-audio_0_9BgnZTQ4_oUmMIVSQ=111999-video_0_9BgnZTQ4_pkRdDSqk=209294.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2651273-new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm/image.jpg",
@@ -269,7 +269,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784415976/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/44A3FDBF3271631C9DCC30D41F7023305376F5BD.7B46C8D29F6151B33046916D33CE7A0261FF3C94/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421159/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/641B6BDE2829A6205F474BA9AAB2459ADC5704C7.6A285A429B7DECED4C6D7AA1254A219BDD5875D4/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -291,10 +291,10 @@
           "video": "rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784415997/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/BB06B65F6867C25F60BAB338BCAB06B4FB56108E.85AF438B4BF795CCDDA8B26E5DEFDFC360A7611E/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784415997/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3165E9AECFE55DC02D56D84A19C8C689B2724C72.78E672B6E5C2ABA57285897ECC692887AB6A5632/key/cms1/cms_redirect/yes/met/1784394402,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784393853/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421181/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5DBF8C18113FD163651053D30BFC4F236C7B90E6.9BCEDCC6D198C33AD09342668E39AE1761065054/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421181/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0604997790DB59190AC719080980E41D8C12A856.75DB6C035E8B9BE5E2B66FDC524169E482153994/key/cms1/cms_redirect/yes/met/1784399586,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/NWgWeWYa.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5c5dcb_2318d692e85cde2dd779613242bbc00b0054e0eb/sites/wPTWN2YS/media/NWgWeWYa/versions/kPxMDaBS/manifest.ism/manifest-audio_0_C876IZqf_xXJqNbh3=111999-video_0_C876IZqf_2SfisW2S=514323.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5c72e3_c9220f247040a1980eb40730d519cec4d24873c9/sites/wPTWN2YS/media/NWgWeWYa/versions/kPxMDaBS/manifest.ism/manifest-audio_0_C876IZqf_xXJqNbh3=111999-video_0_C876IZqf_2SfisW2S=514323.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2651277-how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin/image.jpg",
@@ -304,7 +304,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784415997/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/BB06B65F6867C25F60BAB338BCAB06B4FB56108E.85AF438B4BF795CCDDA8B26E5DEFDFC360A7611E/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421181/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5DBF8C18113FD163651053D30BFC4F236C7B90E6.9BCEDCC6D198C33AD09342668E39AE1761065054/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -313,24 +313,51 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "GCC chief condemns Iranian attacks on Bahrain, Kuwait, Jordan as ‘war crimes’",
-        "url": "https://www.arabnews.com/node/2651409/middle-east",
-        "directory": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri",
+        "title": "Kuwait reports injuries and damage to power and water plants after Iranian attack",
+        "url": "https://www.arabnews.com/node/2651398/middle-east",
+        "directory": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/metadata.json",
-          "content": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/content.md",
-          "text": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/metadata.json",
+          "content": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/content.md",
+          "text": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/image.png",
+          "image": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/image.png",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784416016/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/158607B9F79AFBEA94CC135DCCFA94C04C9F546A.9C52501554545205F00B009C5CA59F71F73DDDDD/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784416016/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/655EC93E3D0F2A4F1E8F2903C009D87B4A5B3A8C.5FB2133E71D298783CAD4F71AF224DF5A6B68488/key/cms1/cms_redirect/yes/met/1784394420,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784393827/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421203/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A660740CC1213394FAAFC698A640F5DA1861ED69.26B933EFFD7243775691465F0B11C35FF70118D8/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421203/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/34764B6549BF6859E7F09E9FA98B0A5BB3B1D125.33DAEAFDE785FCF52ECDE615D7F859902FA22E16/key/cms1/cms_redirect/yes/met/1784399606,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784398966/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/image.png",
+          "path": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/image.png",
+          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732544-1367584600.png?itok=LnzoCxdC",
+          "contentType": "image/png",
+          "bytes": 310192
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 1,
+        "title": "GCC chief condemns Iranian attacks on Bahrain, Kuwait, Jordan as ‘war crimes’",
+        "url": "https://www.arabnews.com/node/2651409/middle-east",
+        "directory": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/metadata.json",
+          "content": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/content.md",
+          "text": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/image.png",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421222/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B296F603F2212885734455CDDDE2560AFC8D4E18.10486CC826CECFEF168D71F7452C3DA5AAA82E97/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421222/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/832ABBB5B03288AC11FE71D4AB146883A28DBAE9.4D7E89100B5BB8DB4D4114DCC38C84F7E4BC1706/key/cms1/cms_redirect/yes/met/1784399626,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/image.png",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732575-1950245906.png?itok=awxcBRTY",
           "contentType": "image/png",
           "bytes": 245907
@@ -339,25 +366,25 @@
       },
       {
         "group": "headlines",
-        "index": 1,
+        "index": 2,
         "title": "Lebanon’s president departs for Washington to meet Trump",
         "url": "https://www.arabnews.com/node/2651373/middle-east",
-        "directory": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump",
+        "directory": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/metadata.json",
-          "content": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md",
-          "text": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/page-text.txt",
+          "metadata": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/metadata.json",
+          "content": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md",
+          "text": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
+          "image": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784416037/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1F66D855D6EA32EA144698DECDD1794A42B57E9D.371546399A763D65237C439DEBDD284FA0CC5D16/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784416037/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/41937E7ACB34F42A917924D59F10C5B268F74C61.3CA84EBCFDD54E96F8DB170BB94AB3BB73F06C0A/key/cms1/cms_redirect/yes/met/1784394442,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784394181/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421243/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1365955880A21C41DBC45CDCFEEB4F678E28DFDB.2C0EE9E76B2AE40C0FE7C1BD1F9D8E619FDE0D7D/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421243/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7D76A2B007E58527D8CA3D982180000EF0DD5C6C.709459DB3B9B736B230C064A87DFA939C7D0918A/key/cms1/cms_redirect/yes/met/1784399647,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
+          "path": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732520-1773890608.jpg?itok=EVk93RNM",
           "contentType": "image/jpeg",
           "bytes": 65361
@@ -366,55 +393,28 @@
       },
       {
         "group": "headlines",
-        "index": 2,
+        "index": 3,
         "title": "Iraqi FM to Asharq: We are ready to mediate between Washington and Tehran, and ending the war is a priority",
         "url": "https://www.arabnews.com/node/2651413/middle-east",
-        "directory": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr",
+        "directory": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/metadata.json",
-          "content": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/content.md",
-          "text": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/metadata.json",
+          "content": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/content.md",
+          "text": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/image.png",
+          "image": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/image.png",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784416057/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/841350C4F5C3FABFA39FBCAA7ECA0EE4AB9BB49F.99EF5E61B818F25AE55D041A0ADE87EDB9C7891B/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784416057/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7413513D63DBC9AC6D69B0DD54F9FB4A4C5A4876.46A85F3AA7E73F01AE996EADB1A8A906C3327FD1/key/cms1/cms_redirect/yes/met/1784394461,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784394181/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421263/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/61C692131E49A1D06F2AB21ED7D88EF06E9164F5.7CB4F51FBD63C3F7D4410C2FEDC24AFA49E4E424/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421263/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7D3261D8918ABEEC9679F9909656EEEBC1A8A4BE.112B10C0133400348D040571D906A84BD1D8638B/key/cms1/cms_redirect/yes/met/1784399667,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/image.png",
+          "path": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/image.png",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732585-1606429625.png?itok=DIqWFXbs",
           "contentType": "image/png",
           "bytes": 288231
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
-        "index": 3,
-        "title": "Iraq, US sign 48 agreements during PM’s visit",
-        "url": "https://www.arabnews.com/node/2651394/middle-east",
-        "directory": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/metadata.json",
-          "content": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/content.md",
-          "text": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784416076/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1DF9E63D980492B34E2DCC45CE84196F1F551B49.8FCFA3E24894E3C6BB72A5FE1A9894E686C9948B/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784416076/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7A9CE5F35F32B8ADCD944879EBD476D09D76D394.29EBC47886D280D4406D14A41A0A1F6966C19028/key/cms1/cms_redirect/yes/met/1784394480,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784394181/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732531-1039853492.jpg?itok=P57I_FJ2",
-          "contentType": "image/jpeg",
-          "bytes": 39774
         },
         "video": null
       }

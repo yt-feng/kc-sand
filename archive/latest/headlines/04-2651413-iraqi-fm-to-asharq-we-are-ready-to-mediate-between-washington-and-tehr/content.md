@@ -16,11 +16,11 @@ WASHINGTON: Iraq has announced its readiness to play a mediating role between th
 
 ## Video Or Embed URLs
 
-- https://1049dc0c39aefec630145ab1e54b7926.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://8e8edec2b34d57706fa8bb6921adbcfc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651413%2Fmiddle-east
 
 ## Text

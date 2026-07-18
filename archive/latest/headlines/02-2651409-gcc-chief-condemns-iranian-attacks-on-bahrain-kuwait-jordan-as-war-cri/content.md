@@ -16,12 +16,11 @@ RIYADH: Gulf Cooperation Council Secretary-General Jasem Mohamed Albudaiwi on Sa
 
 ## Video Or Embed URLs
 
-- https://64f595f9c90cf3ab9f61f36f2c612e20.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://34a0cad838114f041f6e15756da3ce76.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
-- about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
-- https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651409%2Fmiddle-east
+- https://cm.g.doubleclick.net/partnerpixels?url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651409%2Fmiddle-east
 
 ## Text
 

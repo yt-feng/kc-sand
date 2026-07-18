@@ -16,7 +16,7 @@ KUWAIT CITY: Kuwait Petroleum Corporation on Saturday said one of its oil facili
 
 ## Video Or Embed URLs
 
-- https://393acdd44fdec854c57ce2bb2ef5e082.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://4be25f3ab928dad11e73b4e83ed11ba9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html

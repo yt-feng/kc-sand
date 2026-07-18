@@ -16,11 +16,11 @@ BEIRUT: Lebanese President Joseph Aoun on Saturday left Beirut for Washington, w
 
 ## Video Or Embed URLs
 
-- https://ffcc191082c94c3fd8fcf80e5fb52196.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://86ab4ccf14c5c39a3fa14d2caceac05a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651373%2Fmiddle-east
 

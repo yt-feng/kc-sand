@@ -16,7 +16,7 @@ RIYADH: Saudi authorities welcomed the announcement on Friday by Jordan of regul
 
 ## Video Or Embed URLs
 
-- https://a7cda6bd78d424ded0c11c4948642ec6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://458b956c5603a6b94254c12698fc3755.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html

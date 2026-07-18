@@ -1,6 +1,6 @@
 # Arab News Archive
 
-Captured at: 2026-07-18T11:20:30.641Z
+Captured at: 2026-07-18T12:34:29.120Z
 Items: 7
 OK: 7
 Challenges: 0
@@ -10,6 +10,6 @@ Errors: 0
 - [New Labour leader Burnham vows to renew hope as next UK PM](https://www.arabnews.com/node/2651273/world) - ok - `archive/latest/videos/02-2651273-new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm/content.md` - video: `rendered-clips/2026-07-18/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4`
 - [How Saudi Arabia is saluting security guard after social media bullying](https://www.arabnews.com/node/2651277/saudi-arabia) - ok - `archive/latest/videos/03-2651277-how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin/content.md` - video: `rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4`
 - [Iran’s Guards say two oil tankers explode after hitting mines in Hormuz](https://www.arabnews.com/node/2651361/middle-east) - ok - `archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/content.md`
-- [Lebanon’s Aoun departed for Washington to meet Trump: presidency](https://www.arabnews.com/node/2651373/middle-east) - ok - `archive/latest/headlines/02-2651373-lebanon-s-aoun-departed-for-washington-to-meet-trump-presidency/content.md`
+- [Lebanon’s president departs for Washington to meet Trump](https://www.arabnews.com/node/2651373/middle-east) - ok - `archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md`
 - [A Royal Jordanian Airlines Boeing 787\-8 Dreamliner aircraft landing at Dubai International Airport \(DXB\)\. \(AFP file photo\)](https://www.arabnews.com/node/2651355/saudi-arabia) - ok - `archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/content.md`
 - [Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim](https://www.arabnews.com/node/2651311/middle-east) - ok - `archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/content.md`

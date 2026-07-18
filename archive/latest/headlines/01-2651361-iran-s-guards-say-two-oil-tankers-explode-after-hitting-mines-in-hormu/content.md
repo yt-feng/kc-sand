@@ -16,11 +16,11 @@ TEHRAN: Iran’s Revolutionary Guards said Saturday that two oil tankers transit
 
 ## Video Or Embed URLs
 
-- https://e09c34dc427251b1f0066cb501cb2cef.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://da21b8ead039f896c8216216b0cd6270.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651361%2Fmiddle-east
 

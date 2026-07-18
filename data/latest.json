@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T18:29:52.283Z",
+  "fetchedAt": "2026-07-18T19:47:11.111Z",
   "targetDate": {
     "iso": "2026-07-18",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 88,
+    "itemCount": 91,
     "window": {
       "hours": 24,
-      "start": "2026-07-17T18:29:52.283Z",
-      "end": "2026-07-18T18:29:52.283Z",
+      "start": "2026-07-17T19:47:11.111Z",
+      "end": "2026-07-18T19:47:11.111Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-18T18:34:38.876Z",
+    "capturedAt": "2026-07-18T19:51:56.691Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-18",
     "itemCount": 7,
@@ -221,10 +221,10 @@
           "video": "rendered-clips/2026-07-18/01_us-forces-launch-new-strikes-against-iran-centcom.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421136/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6705F42A333BE268EAB6076ED708F4A45AE6E123.23EEA0FDB0BDEDB1F630BCDCAB5FB844A6096991/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421136/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5F36D57004B0DC91AA0256E1AEA872B2AAC2D2AD.650EC387241CE41673CFE43C27BB3FE6297EF7C0/key/cms1/cms_redirect/yes/met/1784399542,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425776/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8CACA4B57D673903FA242C1AFD884F89CF5ED8B7.95F938F694E7DEB975B5A5F6EB8CA090DB241FD8/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425776/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3FCA06310B6D946E30518AE45899D9722E4C2B06.77C6D1A9CDA962F7A12017C9947862535010825B/key/cms1/cms_redirect/yes/met/1784404182,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784403533/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/0b5pf000.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5c7050_c0ece23f4b9d951e3234e8429e96587aa6ba65d2/sites/wPTWN2YS/media/0b5pf000/versions/8vWD1h9b/manifest.ism/manifest-audio_0_wZcIDWUo_Dcca2UkV=111999-video_0_wZcIDWUo_EUaViVYb=235882.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5c81e4_b7342c69c26b7cd506243d3eae737d5a394aec4f/sites/wPTWN2YS/media/0b5pf000/versions/8vWD1h9b/manifest.ism/manifest-audio_0_wZcIDWUo_Dcca2UkV=111999-video_0_wZcIDWUo_EUaViVYb=235882.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2651299-us-forces-launch-new-strikes-against-iran-centcom/image.png",
@@ -234,7 +234,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/01_us-forces-launch-new-strikes-against-iran-centcom.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421136/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/6705F42A333BE268EAB6076ED708F4A45AE6E123.23EEA0FDB0BDEDB1F630BCDCAB5FB844A6096991/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425776/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8CACA4B57D673903FA242C1AFD884F89CF5ED8B7.95F938F694E7DEB975B5A5F6EB8CA090DB241FD8/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -256,10 +256,10 @@
           "video": "rendered-clips/2026-07-18/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421159/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/641B6BDE2829A6205F474BA9AAB2459ADC5704C7.6A285A429B7DECED4C6D7AA1254A219BDD5875D4/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421159/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/803C86C70B2C6540B9DABF3CD9BF236F58B0AF11.06CB4411214B5D1E69D8AE79FD8B8D3CB4F696D1/key/cms1/cms_redirect/yes/met/1784399564,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784398991/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425798/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A3D85F0A9F82EFF04DCF8134197ACA4B06BEB8DF.32426492385F79026C161D300DF1933DA1456F69/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425798/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1D0AAB67A17F872CD58EB5ED52A4628EB94A8489.02C952B9E99DA278A657D5F4B3393AA3DE55E092/key/cms1/cms_redirect/yes/met/1784404204,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784403959/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/AKdzzb12.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5c70bf_04b21c00d9bc02e5d423b9e60d106882d0c2db5d/sites/wPTWN2YS/media/AKdzzb12/versions/MflNKVy4/manifest.ism/manifest-audio_0_9BgnZTQ4_oUmMIVSQ=111999-video_0_9BgnZTQ4_pkRdDSqk=209294.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5c8253_175e71a0b346ddd90d83b046fc692134d9203e66/sites/wPTWN2YS/media/AKdzzb12/versions/MflNKVy4/manifest.ism/manifest-audio_0_9BgnZTQ4_oUmMIVSQ=111999-video_0_9BgnZTQ4_pkRdDSqk=209294.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2651273-new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm/image.jpg",
@@ -269,7 +269,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421159/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/641B6BDE2829A6205F474BA9AAB2459ADC5704C7.6A285A429B7DECED4C6D7AA1254A219BDD5875D4/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425798/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A3D85F0A9F82EFF04DCF8134197ACA4B06BEB8DF.32426492385F79026C161D300DF1933DA1456F69/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -291,10 +291,10 @@
           "video": "rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421181/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5DBF8C18113FD163651053D30BFC4F236C7B90E6.9BCEDCC6D198C33AD09342668E39AE1761065054/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421181/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0604997790DB59190AC719080980E41D8C12A856.75DB6C035E8B9BE5E2B66FDC524169E482153994/key/cms1/cms_redirect/yes/met/1784399586,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425821/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8B5044912BB3F28D2F5518ABA9551ED7A51ABB73.BA338031B10635BC8340E267C28025296B815E89/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425821/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/480B2F5A60FF3B592450D90789DD08FB5B6C3AB5.2F41F0247076600BDD49DD3846883C63FFB74129/key/cms1/cms_redirect/yes/met/1784404226,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784403959/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/NWgWeWYa.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5c72e3_c9220f247040a1980eb40730d519cec4d24873c9/sites/wPTWN2YS/media/NWgWeWYa/versions/kPxMDaBS/manifest.ism/manifest-audio_0_C876IZqf_xXJqNbh3=111999-video_0_C876IZqf_2SfisW2S=514323.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5c8477_35faeec598dc5b10149f4f43db97fc29bd4a3f9c/sites/wPTWN2YS/media/NWgWeWYa/versions/kPxMDaBS/manifest.ism/manifest-audio_0_C876IZqf_xXJqNbh3=111999-video_0_C876IZqf_2SfisW2S=514323.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2651277-how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin/image.jpg",
@@ -304,7 +304,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421181/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5DBF8C18113FD163651053D30BFC4F236C7B90E6.9BCEDCC6D198C33AD09342668E39AE1761065054/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425821/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8B5044912BB3F28D2F5518ABA9551ED7A51ABB73.BA338031B10635BC8340E267C28025296B815E89/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -326,8 +326,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421203/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A660740CC1213394FAAFC698A640F5DA1861ED69.26B933EFFD7243775691465F0B11C35FF70118D8/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421203/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/34764B6549BF6859E7F09E9FA98B0A5BB3B1D125.33DAEAFDE785FCF52ECDE615D7F859902FA22E16/key/cms1/cms_redirect/yes/met/1784399606,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784398966/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425842/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9881371E25E9A013E3D5CFCBB4ABAA6645E7CAD7.02E5BA1E6B2CA6A8FDB80E5FAC3DE3F480046F44/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425842/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4BE4A33F815E755670127B5D2C52629861858B5B.4F4F25F45D140C75B88FC5CDE1A32F2AA8E1FA40/key/cms1/cms_redirect/yes/met/1784404245,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784403959/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2651398-kuwait-reports-injuries-and-damage-to-power-and-water-plants-after-ira/image.png",
@@ -353,8 +353,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421222/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B296F603F2212885734455CDDDE2560AFC8D4E18.10486CC826CECFEF168D71F7452C3DA5AAA82E97/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421222/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/832ABBB5B03288AC11FE71D4AB146883A28DBAE9.4D7E89100B5BB8DB4D4114DCC38C84F7E4BC1706/key/cms1/cms_redirect/yes/met/1784399626,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425861/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A1D798A75F2C7578856B0817AB93039E807EE91D.10AB4A3D7997780D50675CF95E61D4F014C79091/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425861/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/1E8890DBAD9FB1F4DFFAE7C40C4C8E90D9B11583.5C9F44708856FB13C4DA2B9EAB962AB997387C67/key/cms1/cms_redirect/yes/met/1784404265,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784403533/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/image.png",
@@ -380,8 +380,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421243/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/1365955880A21C41DBC45CDCFEEB4F678E28DFDB.2C0EE9E76B2AE40C0FE7C1BD1F9D8E619FDE0D7D/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421243/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7D76A2B007E58527D8CA3D982180000EF0DD5C6C.709459DB3B9B736B230C064A87DFA939C7D0918A/key/cms1/cms_redirect/yes/met/1784399647,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425881/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B0CE9E11F05BB577C861384A5A84E93032BE12DF.AF169F947FF133EE0D47DFFAC4935B69806E0296/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425881/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/448CD4956CD89920C507C2EBCFE8276AFDBF4D6C.20607D6FF2E1232F85030EFCD228CB98F87C8ADB/key/cms1/cms_redirect/yes/met/1784404285,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784403959/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
@@ -407,8 +407,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421263/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/61C692131E49A1D06F2AB21ED7D88EF06E9164F5.7CB4F51FBD63C3F7D4410C2FEDC24AFA49E4E424/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784421263/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7D3261D8918ABEEC9679F9909656EEEBC1A8A4BE.112B10C0133400348D040571D906A84BD1D8638B/key/cms1/cms_redirect/yes/met/1784399667,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784399321/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425901/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/203D1C3EA3547FBBB2819D36E2E5A2E52464D520.1961391F8BCB3DDD6C8C5C68D32932A9080D37F9/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784425901/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/24543D35A867E08690BFF93B1006D0D311E4AB2F.6D50493829B28B2DC6B853358355370558292B46/key/cms1/cms_redirect/yes/met/1784404305,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784404271/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/image.png",

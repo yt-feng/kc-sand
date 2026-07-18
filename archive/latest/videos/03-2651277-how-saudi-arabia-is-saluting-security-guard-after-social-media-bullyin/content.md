@@ -16,9 +16,9 @@ RIYADH: A Saudi security guard who became the target of online mockery has spark
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/35bd14ed-f963-4055-99ed-803b0ba0bb3b
+- blob:https://www.arabnews.com/b7590ba2-c5fa-4a0f-a215-15dea98bfa78
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://bdfd697ece0bb8017973c3223fd1cd0e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://73fd346eae4ce7ff56d65d9d3fcb02d8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe

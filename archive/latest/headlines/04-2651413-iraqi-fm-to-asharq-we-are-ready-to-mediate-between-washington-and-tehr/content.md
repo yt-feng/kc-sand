@@ -16,7 +16,7 @@ WASHINGTON: Iraq has announced its readiness to play a mediating role between th
 
 ## Video Or Embed URLs
 
-- https://dd216aad678e6aaa2fc57ffcb9f956f3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://f7cc6bc466f07064f21f11725395de0b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html

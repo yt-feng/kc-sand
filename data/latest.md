@@ -1,6 +1,6 @@
 # Arab News Latest
 
-Fetched at: 2026-07-18T15:30:56.224Z
+Fetched at: 2026-07-18T17:03:24.257Z
 Target date: 2026-07-18 (Asia/Riyadh)
 
 ## Latest Videos
@@ -13,7 +13,7 @@ Target date: 2026-07-18 (Asia/Riyadh)
 
 No parseable item-level dates were found, so the output is the current Top Headlines block from the homepage at fetch time.
 
-1. [Lebanon’s president departs for Washington to meet Trump](https://www.arabnews.com/node/2651373/middle-east) - archive: archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md
-2. [Iraq, US sign 48 agreements during PM’s visit](https://www.arabnews.com/node/2651394/middle-east) - archive: archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/content.md
-3. [Iran’s Guards say two oil tankers explode after hitting mines in Hormuz](https://www.arabnews.com/node/2651361/middle-east) - archive: archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/content.md
-4. [A Royal Jordanian Airlines Boeing 787-8 Dreamliner aircraft landing at Dubai International Airport (DXB). (AFP file photo)](https://www.arabnews.com/node/2651355/saudi-arabia) - archive: archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/content.md
+1. [GCC chief condemns Iranian attacks on Bahrain, Kuwait, Jordan as ‘war crimes’](https://www.arabnews.com/node/2651409/middle-east) - archive: archive/latest/headlines/01-2651409-gcc-chief-condemns-iranian-attacks-on-bahrain-kuwait-jordan-as-war-cri/content.md
+2. [Lebanon’s president departs for Washington to meet Trump](https://www.arabnews.com/node/2651373/middle-east) - archive: archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md
+3. [Iraqi FM to Asharq: We are ready to mediate between Washington and Tehran, and ending the war is a priority](https://www.arabnews.com/node/2651413/middle-east) - archive: archive/latest/headlines/03-2651413-iraqi-fm-to-asharq-we-are-ready-to-mediate-between-washington-and-tehr/content.md
+4. [Iraq, US sign 48 agreements during PM’s visit](https://www.arabnews.com/node/2651394/middle-east) - archive: archive/latest/headlines/04-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/content.md

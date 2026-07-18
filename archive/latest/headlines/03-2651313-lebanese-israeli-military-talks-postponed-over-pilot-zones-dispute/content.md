@@ -16,11 +16,11 @@ BEIRUT: A planned virtual meeting between Lebanese, Israeli and US military repr
 
 ## Video Or Embed URLs
 
-- https://3b1ea73f4f28881b164d2aaf04bbc0ee.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://b1ea5cb88b7b02a7666911c0a9f2a151.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
 - https://www.google.com/recaptcha/api2/aframe
+- https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651313%2Fmiddle-east
 
 ## Text

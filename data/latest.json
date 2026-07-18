@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T04:10:35.148Z",
+  "fetchedAt": "2026-07-18T06:29:55.273Z",
   "targetDate": {
     "iso": "2026-07-18",
     "timeZone": "Asia/Riyadh"
@@ -78,11 +78,11 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 122,
+    "itemCount": 117,
     "window": {
       "hours": 24,
-      "start": "2026-07-17T04:10:35.148Z",
-      "end": "2026-07-18T04:10:35.148Z",
+      "start": "2026-07-17T06:29:55.273Z",
+      "end": "2026-07-18T06:29:55.273Z",
       "futureLeewayMinutes": 15
     }
   },
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-18T04:15:36.197Z",
+    "capturedAt": "2026-07-18T06:34:52.874Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-18",
     "itemCount": 7,
@@ -221,10 +221,10 @@
           "video": "rendered-clips/2026-07-18/01_us-forces-launch-new-strikes-against-iran-centcom.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369594/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0CFEAE81837CF4490C5787D0EC6F9B69D153308A.35B52EF3FCBD0F2D568270757F5E497C27032DDA/key/ck2/file/file.mp4",
-          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369594/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7C3DEC2AE7BFBF744E74F85E097BDE6F6D12F88C.2B8668B9D418A91184BA727D98EDCDEF61918F31/key/cms1/cms_redirect/yes/met/1784348002,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784347705/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784377953/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B137B48C1CA2489D12AC7E236D515D59E403A8E6.20EE6F66814F5E056796C403BD8472E26EE9F1C5/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784377953/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/09ABBEC7E14162F8AC1A09E75989E5BFA384F69E.078A2BB50F6A518F639A35A187383A23ADB64E64/key/cms1/cms_redirect/yes/met/1784356358,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784356026/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/0b5pf000.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5ba7ec_a64de68c6b7a44fcbd02691491720cd6f10e45d4/sites/wPTWN2YS/media/0b5pf000/versions/8vWD1h9b/manifest.ism/manifest-audio_0_wZcIDWUo_Dcca2UkV=111999-video_0_wZcIDWUo_EUaViVYb=235882.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5bc790_3a347b70769b35f3f55ff801bc11a3800f5207e3/sites/wPTWN2YS/media/0b5pf000/versions/8vWD1h9b/manifest.ism/manifest-audio_0_wZcIDWUo_Dcca2UkV=111999-video_0_wZcIDWUo_EUaViVYb=235882.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2651299-us-forces-launch-new-strikes-against-iran-centcom/image.png",
@@ -234,7 +234,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/01_us-forces-launch-new-strikes-against-iran-centcom.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369594/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/0CFEAE81837CF4490C5787D0EC6F9B69D153308A.35B52EF3FCBD0F2D568270757F5E497C27032DDA/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784377953/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B137B48C1CA2489D12AC7E236D515D59E403A8E6.20EE6F66814F5E056796C403BD8472E26EE9F1C5/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -256,10 +256,10 @@
           "video": "rendered-clips/2026-07-18/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369618/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A99830D89A140006B4DE791A039BA98775A713D4.3CD2740365D30BE8897083CDF740F5EFE9331B2C/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369618/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/36EFDDB7BAD9E46A49CD39D0B798BFB61B8DBD85.1A6C98223E0BE4EC2F7A761A9E4FAB38ED4AE56D/key/cms1/cms_redirect/yes/met/1784348025,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784347880/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784377976/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/89E9C1E2ECB97418090FA539874D7C9A719FF1BA.8F3699CFFCD78F8886A032417D4C681DC666300B/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784377976/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/62E1E8A5A899CF3FC23987EFCD6A06E19B69F92B.82ADF54D2E4A813B6C10A4D0CDD2F2FF1FCE36D1/key/cms1/cms_redirect/yes/met/1784356381,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784356093/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/AKdzzb12.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5ba85b_85aeab47ce39378b3f42050968a314830252138d/sites/wPTWN2YS/media/AKdzzb12/versions/MflNKVy4/manifest.ism/manifest-audio_0_9BgnZTQ4_oUmMIVSQ=111999-video_0_9BgnZTQ4_pkRdDSqk=209294.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5bc7ff_56f6b9df1d164a071208e84f76427d207146d3e8/sites/wPTWN2YS/media/AKdzzb12/versions/MflNKVy4/manifest.ism/manifest-audio_0_9BgnZTQ4_oUmMIVSQ=111999-video_0_9BgnZTQ4_pkRdDSqk=209294.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2651273-new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm/image.jpg",
@@ -269,7 +269,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369618/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/A99830D89A140006B4DE791A039BA98775A713D4.3CD2740365D30BE8897083CDF740F5EFE9331B2C/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784377976/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/89E9C1E2ECB97418090FA539874D7C9A719FF1BA.8F3699CFFCD78F8886A032417D4C681DC666300B/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -291,10 +291,10 @@
           "video": "rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369640/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/92521CF9FF12E2C486885E5A3C195CE8D9621A96.B4DE4B46FE8615BB6BEE67DFE2D27BBC4A73EE94/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369640/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/5D0A57D8D03A2584A12ECDC5BA98684A6B43E2FC.0ADBB9FDCEB99C5ABAA1B85A062DF276E1D00A6A/key/cms1/cms_redirect/yes/met/1784348048,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784347563/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784377997/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9A4B9DCF13260D17DA16E7EF602DBD3ED46A9F49.B802F997701FDC92E8537A069F305674672E7207/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784377997/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/53184BB312A9C5F3CFE7CB7A2C9F8CF0FE5A98C6.70792E7B24E4C14EA08A8906B993E12FA4A8DD43/key/cms1/cms_redirect/yes/met/1784356403,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784356093/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/NWgWeWYa.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5ba6fb_b79d8d7ac9944e3e446d0ad027b132e1743710f3/sites/wPTWN2YS/media/NWgWeWYa/versions/kPxMDaBS/manifest.ism/manifest-audio_0_C876IZqf_xXJqNbh3=111999-video_0_C876IZqf_2SfisW2S=514323.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5bca23_f22a2d85d817927c423ec633ac659bc212f661dd/sites/wPTWN2YS/media/NWgWeWYa/versions/kPxMDaBS/manifest.ism/manifest-audio_0_C876IZqf_xXJqNbh3=111999-video_0_C876IZqf_2SfisW2S=514323.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2651277-how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin/image.jpg",
@@ -304,7 +304,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369640/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/92521CF9FF12E2C486885E5A3C195CE8D9621A96.B4DE4B46FE8615BB6BEE67DFE2D27BBC4A73EE94/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784377997/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/9A4B9DCF13260D17DA16E7EF602DBD3ED46A9F49.B802F997701FDC92E8537A069F305674672E7207/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -326,8 +326,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369661/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/171267741D7A4FEE18E1A39CD394A239A09B9CD7.2127EDE58A9F50145A4509BA703E07632713CCD9/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369661/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/40E5F0267F1643162A6FDEDECF97E8C7C4AB5E23.15F1EBA4FD35E76BD9153C42CFD539EAE07CA76E/key/cms1/cms_redirect/yes/met/1784348065,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784347880/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784378018/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/57DB398C740559E91D0B2E4D0F5FCFE524F48987.8182DC73CF671412418CCF14260D7D7A592CB736/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784378018/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0CD7FF99671960F01A1EE345F01066E883AB9B7B.4C250D4A2685926BA860D84813AF4E0BDB7E64D0/key/cms1/cms_redirect/yes/met/1784356422,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784356093/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/image.jpg",
@@ -353,8 +353,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369680/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3931984D8F97E2D0F12BB5F8C9808B2D9ECA8339.516DD19AA33A8FF8C8E92742769CA7118F05E340/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369680/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4890EBF1EF73CE78DF2BD3E150FB41756A9BC6AA.78F8A46043D05323EFEF263F719BAF67406E87CD/key/cms1/cms_redirect/yes/met/1784348085,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784347880/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784378037/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/19EBEF59023FD02818FE62F205D24CB403A4CE17.A8D935D302A67B9A62CBAEC095BB17EB0FDF7159/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784378037/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/639D4909AC8BF1E165DCD21E69DE66C96E73F0CC.6515D3DC9C5F10138B96443228CA18E9B962A9D1/key/cms1/cms_redirect/yes/met/1784356442,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784356093/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/02-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/image.jpg",
@@ -380,8 +380,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369700/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3685659229008D3CB92F051C54FBA45E4088EEA7.5D164BD2C7FCAF74E683338A34A1A4544BF91AEA/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369700/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/784E9A216271645670FA33A3C6DEB4D9897C651A.6A83A5417D3CE17ED47F0B6030E7D50F6BC03C77/key/cms1/cms_redirect/yes/met/1784348105,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784347880/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784378057/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/404EF6974AF86310A43EC0F6DD501F416980CD1C.7935185D19BCE13744CC15CD9637EE1288A9FE26/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784378057/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2CCF7A39CD240D5FA9D6D8E68C14682DAA1D48EC.133D0F7BC8126D10B2686089A9EC21B035BFE45D/key/cms1/cms_redirect/yes/met/1784356462,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784356093/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/03-2651313-lebanese-israeli-military-talks-postponed-over-pilot-zones-dispute/image.png",
@@ -407,8 +407,8 @@
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369721/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/77BA1D4FE3E78A9219CE0C6E0775CF504FEEEC5F.4C09AE12BE2EC0C35DE6A8B381CBCBC2B812B738/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784369721/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3B1655965B103D5EC64B5A16EFA2A221FCCDA2D2.5A59FE4C0EB5E7CA9B653DF2F0DD52B40A18FBE7/key/cms1/cms_redirect/yes/met/1784348126,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784347563/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784378078/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/042E2C6A3A535A8B1B39B9F77ADFFD5C400308A3.70686C35F255FA17A615310694673057864200BA/key/ck2/file/file.mp4",
+          "https://r3---sn-vgqsknd7.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784378078/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/041922CB14DA2ABCCF9B56825104C0FA63C8C64C.601E4B21BC97C69CC93B565B9C7A6908A5C5C702/key/cms1/cms_redirect/yes/met/1784356481,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsknd7/ms/nvh/mt/1784356093/mv/m/mvi/3/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
           "path": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/image.png",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T14:02:29.855Z",
+  "fetchedAt": "2026-07-18T15:30:56.224Z",
   "targetDate": {
     "iso": "2026-07-18",
     "timeZone": "Asia/Riyadh"
@@ -78,39 +78,17 @@
   ],
   "recent24hSummary": {
     "sourceFile": "data/recent-24h.json",
-    "itemCount": 99,
+    "itemCount": 98,
     "window": {
       "hours": 24,
-      "start": "2026-07-17T14:02:29.855Z",
-      "end": "2026-07-18T14:02:29.855Z",
+      "start": "2026-07-17T15:30:56.224Z",
+      "end": "2026-07-18T15:30:56.224Z",
       "futureLeewayMinutes": 15
     }
   },
   "headlines": {
     "mode": "current-homepage-top-headlines",
     "items": [
-      {
-        "title": "Iran’s Guards say two oil tankers explode after hitting mines in Hormuz",
-        "url": "https://www.arabnews.com/node/2651361/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/18/4732433-1068945103.jpg?itok=2I6nBn8d",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
-        "order": 0,
-        "archive": {
-          "directory": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/metadata.json",
-            "content": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/content.md",
-            "text": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/image.jpg",
-            "video": null
-          }
-        }
-      },
       {
         "title": "Lebanon’s president departs for Washington to meet Trump",
         "url": "https://www.arabnews.com/node/2651373/middle-east",
@@ -119,16 +97,60 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 2,
+        "order": 0,
         "archive": {
-          "directory": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump",
+          "directory": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/metadata.json",
-            "content": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md",
-            "text": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/page-text.txt",
+            "metadata": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/metadata.json",
+            "content": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md",
+            "text": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
+            "image": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Iraq, US sign 48 agreements during PM’s visit",
+        "url": "https://www.arabnews.com/node/2651394/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/18/4732531-1039853492.jpg?itok=jfhq-3jP",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 2,
+        "archive": {
+          "directory": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/metadata.json",
+            "content": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/content.md",
+            "text": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/image.jpg",
+            "video": null
+          }
+        }
+      },
+      {
+        "title": "Iran’s Guards say two oil tankers explode after hitting mines in Hormuz",
+        "url": "https://www.arabnews.com/node/2651361/middle-east",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/18/4732433-1068945103.jpg?itok=2I6nBn8d",
+        "section": "",
+        "datePublished": null,
+        "dateText": "",
+        "source": "top-headlines-sibling",
+        "order": 4,
+        "archive": {
+          "directory": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu",
+          "status": "ok",
+          "files": {
+            "metadata": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/metadata.json",
+            "content": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/content.md",
+            "text": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/page-text.txt",
+            "html": null,
+            "image": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/image.jpg",
             "video": null
           }
         }
@@ -141,38 +163,16 @@
         "datePublished": null,
         "dateText": "",
         "source": "top-headlines-sibling",
-        "order": 4,
-        "archive": {
-          "directory": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at",
-          "status": "ok",
-          "files": {
-            "metadata": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/metadata.json",
-            "content": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/content.md",
-            "text": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/page-text.txt",
-            "html": null,
-            "image": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/image.jpg",
-            "video": null
-          }
-        }
-      },
-      {
-        "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim",
-        "url": "https://www.arabnews.com/node/2651311/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/main-image/2026/07/17/4732304-310851124.png?itok=SD6sCSBZ",
-        "section": "",
-        "datePublished": null,
-        "dateText": "",
-        "source": "top-headlines-sibling",
         "order": 6,
         "archive": {
-          "directory": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s",
+          "directory": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at",
           "status": "ok",
           "files": {
-            "metadata": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/metadata.json",
-            "content": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/content.md",
-            "text": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/page-text.txt",
+            "metadata": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/metadata.json",
+            "content": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/content.md",
+            "text": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/page-text.txt",
             "html": null,
-            "image": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/image.png",
+            "image": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/image.jpg",
             "video": null
           }
         }
@@ -197,7 +197,7 @@
     }
   },
   "archive": {
-    "capturedAt": "2026-07-18T14:07:18.372Z",
+    "capturedAt": "2026-07-18T15:35:41.624Z",
     "directory": "archive/latest",
     "renderedClipsDirectory": "rendered-clips/2026-07-18",
     "itemCount": 7,
@@ -221,8 +221,10 @@
           "video": "rendered-clips/2026-07-18/01_us-forces-launch-new-strikes-against-iran-centcom.mp4"
         },
         "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410402/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/851555F7EC91407C0026F3321510C964A02837EA.36441E29BB2674FADE90A7EC5BF988721D0219EE/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410402/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0C29788A5FD10CA8A5E6534295003410F6516750.4D60BC077117AA66E291A7BC3EA69038E16F9214/key/cms1/cms_redirect/yes/met/1784388808,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784388337/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/0b5pf000.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5c3108_b951531486901294ab951850958558ff79b81ea4/sites/wPTWN2YS/media/0b5pf000/versions/8vWD1h9b/manifest.ism/manifest-audio_0_wZcIDWUo_Dcca2UkV=111999-video_0_wZcIDWUo_EUaViVYb=235882.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5c4620_c4deeebcbf57567b519bae4b06ff6320ecc35d8a/sites/wPTWN2YS/media/0b5pf000/versions/8vWD1h9b/manifest.ism/manifest-audio_0_wZcIDWUo_Dcca2UkV=111999-video_0_wZcIDWUo_EUaViVYb=235882.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/01-2651299-us-forces-launch-new-strikes-against-iran-centcom/image.png",
@@ -232,9 +234,9 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/01_us-forces-launch-new-strikes-against-iran-centcom.mp4",
-          "url": "https://content.jwplatform.com/videos/0b5pf000-C8cpcmty.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410402/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/851555F7EC91407C0026F3321510C964A02837EA.36441E29BB2674FADE90A7EC5BF988721D0219EE/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
-          "bytes": 3303873,
+          "bytes": 1384740,
           "method": "direct"
         }
       },
@@ -254,10 +256,10 @@
           "video": "rendered-clips/2026-07-18/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405120/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B496E61CA09E2A6939FA49B20EF5DE5C6E1C26AF.0A29B5D5B81D1D517AF66623C170D2577B725680/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405120/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/44EBDA127EEB4F5C53F2DED36F2AC1C97BCCB7B4.51256512DB013C7F70C07ECB27F7257676194AEF/key/cms1/cms_redirect/yes/met/1784383525,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784383064/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410424/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5CD104E9C0AB1DA4127B7911CED0A066E5E15DC7.9D8784951E5E522E98A73F8A0C7372C6A072ED56/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410424/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/13A4B1F70944A200B29570D603C7A951CCE24971.82BDB6C9AFB149DCC3E33D3A7DED4995B47F0CF6/key/cms1/cms_redirect/yes/met/1784388829,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784388337/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/AKdzzb12.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5c3177_72d51a55d89535e5a230e66365b02523f3b29adb/sites/wPTWN2YS/media/AKdzzb12/versions/MflNKVy4/manifest.ism/manifest-audio_0_9BgnZTQ4_oUmMIVSQ=111999-video_0_9BgnZTQ4_pkRdDSqk=209294.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5c468f_7710903ac94bcf7217140a41870f519ee25cd755/sites/wPTWN2YS/media/AKdzzb12/versions/MflNKVy4/manifest.ism/manifest-audio_0_9BgnZTQ4_oUmMIVSQ=111999-video_0_9BgnZTQ4_pkRdDSqk=209294.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/02-2651273-new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm/image.jpg",
@@ -267,7 +269,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405120/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B496E61CA09E2A6939FA49B20EF5DE5C6E1C26AF.0A29B5D5B81D1D517AF66623C170D2577B725680/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410424/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/5CD104E9C0AB1DA4127B7911CED0A066E5E15DC7.9D8784951E5E522E98A73F8A0C7372C6A072ED56/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -289,10 +291,10 @@
           "video": "rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4"
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405141/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2A3F0C45CDC1EEFCFB5BFDA4E41CF11C9FBB6658.3B4011A9E2BBACC3FDEE310BEC9428B38C43AFE5/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405141/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/083ABD297EAB1AC69BD221688DEFB6A2D63FD7F3.610742B95F90D1DB5076DF85AB48342C344DEE2D/key/cms1/cms_redirect/yes/met/1784383546,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784383372/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410446/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4331C3C47FE8D591799F080D5705A96CB097C1EC.65F9A1B24AB6EEF8C97EC45F09721854E14ACF56/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410446/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/10E43D3A8185DAC01D794CD295284B028FB853D4.16C1CA0D101E7F92B88E9363293DAC624557FC9D/key/cms1/cms_redirect/yes/met/1784388852,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784388023/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4",
           "https://cdn.jwplayer.com/manifests/NWgWeWYa.m3u8",
-          "https://videos-cloudfront-usp.jwpsrv.com/6a5c339b_d46dc0d9094088c19ad361dcb34d2bf189bc66ee/sites/wPTWN2YS/media/NWgWeWYa/versions/kPxMDaBS/manifest.ism/manifest-audio_0_C876IZqf_xXJqNbh3=111999-video_0_C876IZqf_2SfisW2S=514323.m3u8"
+          "https://videos-cloudfront-usp.jwpsrv.com/6a5c48b3_dc0db787128a69816da45df2d1c45a711bb60a67/sites/wPTWN2YS/media/NWgWeWYa/versions/kPxMDaBS/manifest.ism/manifest-audio_0_C876IZqf_xXJqNbh3=111999-video_0_C876IZqf_2SfisW2S=514323.m3u8"
         ],
         "image": {
           "path": "archive/latest/videos/03-2651277-how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin/image.jpg",
@@ -302,7 +304,7 @@
         },
         "video": {
           "path": "rendered-clips/2026-07-18/03_how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin.mp4",
-          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405141/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/2A3F0C45CDC1EEFCFB5BFDA4E41CF11C9FBB6658.3B4011A9E2BBACC3FDEE310BEC9428B38C43AFE5/key/ck2/file/file.mp4",
+          "url": "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410446/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/4331C3C47FE8D591799F080D5705A96CB097C1EC.65F9A1B24AB6EEF8C97EC45F09721854E14ACF56/key/ck2/file/file.mp4",
           "contentType": "video/mp4",
           "bytes": 1384740,
           "method": "direct"
@@ -311,51 +313,24 @@
       {
         "group": "headlines",
         "index": 0,
-        "title": "Iran’s Guards say two oil tankers explode after hitting mines in Hormuz",
-        "url": "https://www.arabnews.com/node/2651361/middle-east",
-        "directory": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu",
-        "status": "ok",
-        "files": {
-          "metadata": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/metadata.json",
-          "content": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/content.md",
-          "text": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/page-text.txt",
-          "html": null,
-          "image": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/image.jpg",
-          "video": null
-        },
-        "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405163/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/3DEF3BBBD9B96D16EBB8A98517ED4C61A25664D3.9C249D1A32B68AFC3FC19ADFA8C8B8B30A01C97D/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405163/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/3EED22A839C4A5CD51F89C8AC17D37D2660B3491.7B44E0E6300F62A7AB6F6E543C4967050FC0FE87/key/cms1/cms_redirect/yes/met/1784383567,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784383064/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
-        ],
-        "image": {
-          "path": "archive/latest/headlines/01-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732433-1068945103.jpg?itok=bRcqC21h",
-          "contentType": "image/jpeg",
-          "bytes": 19924
-        },
-        "video": null
-      },
-      {
-        "group": "headlines",
-        "index": 1,
         "title": "Lebanon’s president departs for Washington to meet Trump",
         "url": "https://www.arabnews.com/node/2651373/middle-east",
-        "directory": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump",
+        "directory": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/metadata.json",
-          "content": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md",
-          "text": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/page-text.txt",
+          "metadata": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/metadata.json",
+          "content": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/content.md",
+          "text": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
+          "image": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405182/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/AABD5C86A8E73E430CFE16D1F7861E6004B27FB5.A32FDCDE0FC536FF5E8D4516A41DD2163C762794/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405182/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/4D70E10AE167FB53C9D4331718641ED8FC0DE45F.05D8CE8155351ED35FD493F2483BDD4685AD1942/key/cms1/cms_redirect/yes/met/1784383586,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784383064/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410467/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/8342164571EE00B64A9E02D038209C5CB8442AB0.43FC50078E67F5174BB14CC145408D0ABA55E174/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410467/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/2D44734154AC496BF2D4404E27C1AA485F5FC0D8.5222916C3BCE41764DEF959AFB585C1CA2466C17/key/cms1/cms_redirect/yes/met/1784388872,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784388636/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/02-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
+          "path": "archive/latest/headlines/01-2651373-lebanon-s-president-departs-for-washington-to-meet-trump/image.jpg",
           "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732520-1773890608.jpg?itok=EVk93RNM",
           "contentType": "image/jpeg",
           "bytes": 65361
@@ -364,55 +339,82 @@
       },
       {
         "group": "headlines",
-        "index": 2,
-        "title": "A Royal Jordanian Airlines Boeing 787-8 Dreamliner aircraft landing at Dubai International Airport (DXB). (AFP file photo)",
-        "url": "https://www.arabnews.com/node/2651355/saudi-arabia",
-        "directory": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at",
+        "index": 1,
+        "title": "Iraq, US sign 48 agreements during PM’s visit",
+        "url": "https://www.arabnews.com/node/2651394/middle-east",
+        "directory": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/metadata.json",
-          "content": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/content.md",
-          "text": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/page-text.txt",
+          "metadata": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/metadata.json",
+          "content": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/content.md",
+          "text": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/image.jpg",
+          "image": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405202/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/54EB8EA1A05B46A78E1D1D3BFA44AA44C6FBF689.0B8977A3EE57CA6557838E6FC13EA2D721264BC0/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405202/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/74C4D9391BEC6313BF5D64FDF46DD8026856D758.716A7D0103228CDCF56DDC23D9A165C2ED9A97EF/key/cms1/cms_redirect/yes/met/1784383607,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784383064/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410487/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/7120D3361F00F3C6AFAB6EA082C326DF7CF08024.18FA0887B9781DB66432020A4D66E54ECEE343D4/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410487/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/0EF9A4F538C9AFC245487A3FED5C2079A7F7F3C0.770860A646EC818765B4DDF557725A568E5771DF/key/cms1/cms_redirect/yes/met/1784388891,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784388636/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/03-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/image.jpg",
-          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732419-1402459001.jpg?itok=HqS6NVh0",
+          "path": "archive/latest/headlines/02-2651394-iraq-us-sign-48-agreements-during-pm-s-visit/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732531-1039853492.jpg?itok=P57I_FJ2",
           "contentType": "image/jpeg",
-          "bytes": 31292
+          "bytes": 39774
+        },
+        "video": null
+      },
+      {
+        "group": "headlines",
+        "index": 2,
+        "title": "Iran’s Guards say two oil tankers explode after hitting mines in Hormuz",
+        "url": "https://www.arabnews.com/node/2651361/middle-east",
+        "directory": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu",
+        "status": "ok",
+        "files": {
+          "metadata": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/metadata.json",
+          "content": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/content.md",
+          "text": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/page-text.txt",
+          "html": null,
+          "image": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/image.jpg",
+          "video": null
+        },
+        "videoUrls": [
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410508/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/B7B0BC4D7E4CEA088A53D1DBAD886D06729DE172.17D1E56C4526F96CA7CC751629E219CC697E4227/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410508/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/81F80720C2F789C8CE4E45F06DDF98A8C331CF2F.3DA8D062F6EC241837AB13E58A6F3C58F8C668C4/key/cms1/cms_redirect/yes/met/1784388912,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784388636/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+        ],
+        "image": {
+          "path": "archive/latest/headlines/03-2651361-iran-s-guards-say-two-oil-tankers-explode-after-hitting-mines-in-hormu/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732433-1068945103.jpg?itok=bRcqC21h",
+          "contentType": "image/jpeg",
+          "bytes": 19924
         },
         "video": null
       },
       {
         "group": "headlines",
         "index": 3,
-        "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim",
-        "url": "https://www.arabnews.com/node/2651311/middle-east",
-        "directory": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s",
+        "title": "A Royal Jordanian Airlines Boeing 787-8 Dreamliner aircraft landing at Dubai International Airport (DXB). (AFP file photo)",
+        "url": "https://www.arabnews.com/node/2651355/saudi-arabia",
+        "directory": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at",
         "status": "ok",
         "files": {
-          "metadata": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/metadata.json",
-          "content": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/content.md",
-          "text": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/page-text.txt",
+          "metadata": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/metadata.json",
+          "content": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/content.md",
+          "text": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/page-text.txt",
           "html": null,
-          "image": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/image.png",
+          "image": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/image.jpg",
           "video": null
         },
         "videoUrls": [
-          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405223/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/34DF3731D020FD48296786C9544BE5F605AC3B94.B67CB62F371F72D32840DF631A60EB163EC2BAA7/key/ck2/file/file.mp4",
-          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784405223/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/7054D841AFAD81D4A396B17888B85DEA9E42B82F.1469901C1176D1029CB6BC27C29C76E1AFB5DF64/key/cms1/cms_redirect/yes/met/1784383627,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784383372/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
+          "https://redirector.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410527/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,mime,ctier/signature/559410652CCFB7D56B9556D9A6C415F47EC88792.876BDA50E6F15BC3ACFCE4C6EFA38369EF11BE92/key/ck2/file/file.mp4",
+          "https://r5---sn-vgqsrndl.gvt1.com/videoplayback/id/bbf17ccdedca2ffe/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1784410527/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,rms,source,xpc/signature/B13E46BF922C6D0880C88F354E9B70CB641602.2549C7D14291BDDDC02A2684EDA4D57DED42BD0D/key/cms1/cms_redirect/yes/met/1784388932,/mh/Ls/mip/64.177.114.231/mm/28/mn/sn-vgqsrndl/ms/nvh/mt/1784388636/mv/u/mvi/5/pl/20/rms/nvh,nvh/file/file.mp4"
         ],
         "image": {
-          "path": "archive/latest/headlines/04-2651311-israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-s/image.png",
-          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/17/4732304-310851124.png?itok=1gKJfl0y",
-          "contentType": "image/png",
-          "bytes": 397094
+          "path": "archive/latest/headlines/04-2651355-a-royal-jordanian-airlines-boeing-787-8-dreamliner-aircraft-landing-at/image.jpg",
+          "url": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/18/4732419-1402459001.jpg?itok=HqS6NVh0",
+          "contentType": "image/jpeg",
+          "bytes": 31292
         },
         "video": null
       }

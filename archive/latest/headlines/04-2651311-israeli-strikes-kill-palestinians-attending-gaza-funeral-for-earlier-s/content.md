@@ -16,7 +16,7 @@ GAZA: An Israeli airstrike killed at least eight Palestinians and wounded 20 att
 
 ## Video Or Embed URLs
 
-- https://cb961b4c8f99dda5af30ba23b1daf9b4.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://6b62a5e0295724888c778aded7b03bb6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html

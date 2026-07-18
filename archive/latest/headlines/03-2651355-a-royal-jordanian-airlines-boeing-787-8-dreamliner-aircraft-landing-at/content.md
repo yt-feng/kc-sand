@@ -16,11 +16,11 @@ RIYADH: Saudi authorities welcomed the announcement on Friday by Jordan of regul
 
 ## Video Or Embed URLs
 
-- https://2931d06cb0556a62ae347e37fbcff6c0.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://a7cda6bd78d424ded0c11c4948642ec6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
-- https://www.google.com/recaptcha/api2/aframe
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
+- https://www.google.com/recaptcha/api2/aframe
 - https://sync.teads.tv/wigo-no-slot
 - https://cm.g.doubleclick.net/partnerpixels?gdpr=0&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F2651355%2Fsaudi-arabia
 

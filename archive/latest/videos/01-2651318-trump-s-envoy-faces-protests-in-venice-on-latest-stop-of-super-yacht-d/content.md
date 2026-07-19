@@ -17,7 +17,7 @@ VENICE: The billionaire US ambassador to Italy faced protests when he arrived in
 ## Video Or Embed URLs
 
 - https://www.youtube.com/embed/um-sJuxJLmA?si=CvLTKTsBUItn7aEf
-- https://aa3893127278dba25f132656d50e339c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://5c45d75d3ad4ad612d3125e66f5f90fa.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.arabnews.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1

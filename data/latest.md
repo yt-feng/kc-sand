@@ -1,13 +1,13 @@
 # Arab News Latest
 
-Fetched at: 2026-07-18T23:01:41.749Z
+Fetched at: 2026-07-19T01:03:53.314Z
 Target date: 2026-07-19 (Asia/Riyadh)
 
 ## Latest Videos
 
-1. [US forces launch new strikes against Iran: CENTCOM](https://www.arabnews.com/node/2651299/middle-east) - section: US forces launch new strikes against Iran: CENTCOM 17 July 2026 - archive: archive/latest/videos/01-2651299-us-forces-launch-new-strikes-against-iran-centcom/content.md
-2. [New Labour leader Burnham vows to renew hope as next UK PM](https://www.arabnews.com/node/2651273/world) - archive: archive/latest/videos/02-2651273-new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm/content.md
-3. [How Saudi Arabia is saluting security guard after social media bullying](https://www.arabnews.com/node/2651277/saudi-arabia) - archive: archive/latest/videos/03-2651277-how-saudi-arabia-is-saluting-security-guard-after-social-media-bullyin/content.md
+1. [Trump’s envoy faces protests in Venice on latest stop of super yacht diplomacy tour](https://www.arabnews.com/node/2651318/world) - archive: archive/latest/videos/01-2651318-trump-s-envoy-faces-protests-in-venice-on-latest-stop-of-super-yacht-d/content.md
+2. [US forces launch new strikes against Iran: CENTCOM](https://www.arabnews.com/node/2651299/middle-east) - archive: archive/latest/videos/02-2651299-us-forces-launch-new-strikes-against-iran-centcom/content.md
+3. [New Labour leader Burnham vows to renew hope as next UK PM](https://www.arabnews.com/node/2651273/world) - archive: archive/latest/videos/03-2651273-new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm/content.md
 
 ## Homepage Top Headlines
 

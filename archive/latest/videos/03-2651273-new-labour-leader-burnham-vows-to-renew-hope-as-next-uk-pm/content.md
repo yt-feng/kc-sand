@@ -16,9 +16,9 @@ Andy Burnham vowed Friday to “give hope” back to the British people as he wa
 
 ## Video Or Embed URLs
 
-- blob:https://www.arabnews.com/d528b1e4-f9aa-456d-983c-363504be5d6c
+- blob:https://www.arabnews.com/20fe9906-3902-4cab-8eba-1f6121d2de2b
 - https://imasdk.googleapis.com/js/core/bridge3.777.0_en.html
-- https://29a14ecf274c91e4e0c7238ee8c6400a.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
+- https://3e2af8d42febaa43316fbea0cad450a9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html
 - https://static.addtoany.com/menu/sm.25.html
 - about:blank
 - https://www.google.com/recaptcha/api2/aframe
@@ -26,7 +26,7 @@ Andy Burnham vowed Friday to “give hope” back to the British people as he wa
 
 ## Downloaded Video
 
-- [02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4](../../../rendered-clips/2026-07-19/02_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4)
+- [03_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4](../../../rendered-clips/2026-07-19/03_new-labour-leader-burnham-vows-to-renew-hope-as-next-uk-pm.mp4)
 
 ## Text
 
